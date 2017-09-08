@@ -1,0 +1,3 @@
+files:
+  - source: /Bluepaper.md
+    translation: /%locale%/%original_file_name%

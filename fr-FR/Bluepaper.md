@@ -24,13 +24,13 @@ Le taux de génération de jetons était fixé à 9,5 % par an à partir de déc
 
 De la quantité de nouveaux jetons créés par la blockchain Steem chaque année, 75 % de ces jetons composent le Pool de « récompenses » qui sont distribués aux créateurs de contenu et contenus conservateurs. 15 % sont distribués aux détenteurs de jeton, et 10 % sont distribués aux témoins, les producteurs de bloc coopérant à l’intérieur du protocole de consensus DPoS de Steem .
 
-#### Rewards for Content Creators and Curators
+#### Récompenses pour les créateurs de contenu et des conservateurs
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Les utilisateurs qui produisent du contenu ajoutent de la valeur au réseau en créant le matériel qui va conduire les nouveaux utilisateurs à la plate-forme, ainsi que garder les utilisateurs existants engagés et de se divertir. Cela aide à distribuer la monnaie à un ensemble plus large d’utilisateurs et augmente l’effet de réseau. Les utilisateurs qui prennent le temps d’évaluer et de voter sur le contenu jouent un rôle important dans la distribution de la monnaie pour les utilisateurs qui ajoutent le plus de valeur. La blockchain récompense chacunes de ces activités par rapport à leur valeur fondée sur la sagesse collective de la foule, recueillie par le biais du système de vote pondéré pieu.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Vote avec Stacked-token pour déterminer l’attribution des récompenses
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+STEEM opère sur la base de un-STEEM, un-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
@@ -122,7 +122,7 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 ## Conclusion
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
 
 [^1]:    
     Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}

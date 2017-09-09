@@ -125,25 +125,25 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
 [^1]:    
-    Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}
+    Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}
 
 [^2]:    
     Pour le différencier de l’expression de sa blockchain, est l’orthographe correcte du jeton digital native de Steem STEEM. M&#160;[&#8617;](#fnref:2){.footnote-backref}
 
 [^3]:    
-    Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening&#160;[&#8617;](#fnref:3){.footnote-backref}
+    Les Volumes de transactions : Rapport des transactions par seconde. Témoin de Steem et utilisateur « @roadscape ». https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening&#160;[&#8617;](#fnref:3){.footnote-backref}
 
 [^4]:    
-    Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system&#160;[&#8617;](#fnref:4){.footnote-backref}
+    Preuve-de-travail. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-Work \_system&#160;[&#8617;](#fnref:4){.footnote-backref}
 
 [^5]:    
-    Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1&#160;[&#8617;](#fnref:5){.footnote-backref}
+    Initiation de récupération de compte volé pour les utilisateurs de Steemit.com : 13/07/2017 https://steemit.com/recover \_account\_step\_1 &#160;[&#8617;](#fnref:5){.footnote-backref}
 
 [^6]:    
-    Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem&#160;[&#8617;](#fnref:6){.footnote-backref}
+    Problème d’évolutivité Bitcoin https://en.wikipedia.org/wiki/Bitcoin \_scalability\_problem&#160;[&#8617;](#fnref:6){.footnote-backref}
 
 [^7]:    
-    DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper&#160;[&#8617;](#fnref:7){.footnote-backref}
+    Whitepaper DPoS https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper&#160;[&#8617;](#fnref:7){.footnote-backref}
 
 [^8]:    
     https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity&#160;[&#8617;](#fnref:8){.footnote-backref}

@@ -128,7 +128,7 @@ The unique rewards and incentive program offered by the Steem blockchain and tok
     Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}
 
 [^2]:    
-    To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;[&#8617;](#fnref:2){.footnote-backref}
+    Pour le différencier de l’expression de sa blockchain, est l’orthographe correcte du jeton digital native de Steem STEEM. M&#160;[&#8617;](#fnref:2){.footnote-backref}
 
 [^3]:    
     Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening&#160;[&#8617;](#fnref:3){.footnote-backref}
@@ -149,25 +149,25 @@ The unique rewards and incentive program offered by the Steem blockchain and tok
     https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity&#160;[&#8617;](#fnref:8){.footnote-backref}
 
 [^9]:    
-    ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release&#160;[&#8617;](#fnref:9){.footnote-backref}
+    Communiqué de ChainBase https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release&#160;[&#8617;](#fnref:9){.footnote-backref}
 
 [^10]:    
-    Graphene Documentation http://docs.bitshares.org/&#160;[&#8617;](#fnref:10){.footnote-backref}
+    Documumentation Graphène http://docs.bitshares.org/&#160;[&#8617;](#fnref:10){.footnote-backref}
 
 [^11]:    
-    The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.&#160;[&#8617;](#fnref:11){.footnote-backref}
+    La composante du cadre Steem blockchain responsable du traitement des transactions et la distribution des récompenses. &#160;[&#8617;](#fnref:11){.footnote-backref}
 
 [^12]:    
-    Steem Whitepaper https://steem.io/SteemWhitePaper.pdf&#160;[&#8617;](#fnref:12){.footnote-backref}
+    Whitepaper Steem https://steem.io/SteemWhitePaper.pdf&#160;[&#8617;](#fnref:12){.footnote-backref}
 
 [^13]:    
-    Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:13){.footnote-backref}
+    Échange décentralisé Bitshares http://docs.bitshares.org/ \_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:13){.footnote-backref}
 
 [^14]:    
-    Steemit.com Currency Market https://steemit.com/market&#160;[&#8617;](#fnref:14){.footnote-backref}
+    Steemit.com marché de la monnaie https://steemit.com/market &#160;[&#8617;](#fnref:14){.footnote-backref}
 
 [^15]:    
-    “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.&#160;[&#8617;](#fnref:15){.footnote-backref}
+    « Resteem » est le terme utilisé dans la blockchain Steem pour quand un utilisateur partage du contenu avec leurs disciples.&#160;[&#8617;](#fnref:15){.footnote-backref}
 
 [^16]:    
-    Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:16){.footnote-backref}
+    Bitshares Gestion des identités Flexible http://docs.bitshares.org/ \_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:16){.footnote-backref}

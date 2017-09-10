@@ -42,9 +42,9 @@ La Blockchain Steem est conçue pourune des olus rapide et efficace existante, c
 
 Souvent encombré par le Proof-of-Work (PoW / preuve de travail) <sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup> beaucoup deblockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Grâce à DPoS, la blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+En définissant les règles pour lorsque se produit un Hardfork, les témoins, élus dans le cadre de la PoW peuvent rapidement et efficacement décider ou non d’aller de l’avant avec un projet hardfork, permettant au protocole de la blockchain Steem d’évoluer plus rapidement que la plupart d’autres. Le blockchain Steem a Forké déjà avec succès 18 fois <sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, et chaque fois qu’un Hardfork s’est produite, une seule chaîne a persisté après la fourche.
 
 ### ChainBase
 

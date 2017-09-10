@@ -36,9 +36,9 @@ Furthermore, Steem only allows members to vote with STEEM when it is committed t
 
 ## Speed and Scale on the Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+La Blockchain Steem est conçue pourune des olus rapide et efficace existante, ce qui est nécessaire afin de pouvoir prendre en charge le volume du trafic prévu sur une plateforme de médias sociaux suppérieure à la taille de Reddit. Steem à déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour supporter 10.000 ou plus transactions par seconde.
 
-### Delegated Proof of Stake (DPoS)
+### Délégation Proof of Stake (DPoS)
 
 Often bottlenecked by Proof-of-Work (PoW)<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>, many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> was leveraged to lay the foundation for a blockchain suited for billions of users.
 

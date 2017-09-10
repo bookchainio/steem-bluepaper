@@ -30,7 +30,7 @@ Les utilisateurs qui produisent du contenu ajoutent de la valeur au réseau en c
 
 #### Vote avec Stacked-token pour déterminer l’attribution des récompenses
 
-STEEM opère sur la base de un-STEEM, un-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+STEEM opère sur la base de un-STEEM, un-vote. Selon ce modéle, les personnes contribuant le plus sur la plateforme, telle que mesurée par le solde de leur compte, ont plus d'influence sur comment les contributions sont notées. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

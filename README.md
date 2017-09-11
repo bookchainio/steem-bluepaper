@@ -5,9 +5,13 @@ This repository used for translation of Steem Bluepaper and connected to GitBook
 
 Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 
+# Translators
+
+* [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)
+
 # Translation Guide
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-docs/localized.svg)](https://crowdin.com/project/steem-bluepaper)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-bluepaper/localized.svg)](https://crowdin.com/project/steem-bluepaper)
 
 If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
 https://crowdin.com/project/steem-bluepaper

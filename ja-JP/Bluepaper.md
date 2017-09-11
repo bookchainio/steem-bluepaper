@@ -1,46 +1,46 @@
 ![](\headerimage.png)
 
-## Introduction
+## はじめに
 
-Steem provides a scalable blockchain protocol<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>
+Steemはパブリックアクセス可能で不変なコンテンツのためのスケーラブルなブロックチェーンプロトコル<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> を提供します。それは高速で手数料不要のデジタルトークン（STEEM）<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> によって、人々が自身の頭脳を用いて通貨を得ることを可能にします（"プルーフ・オブ・ブレイン"と呼ぶことができます）。 プロトコルの2つの構成要素ブロックチェーンとトークンは、セキュリティ、不変性、寿命について相互に依存し、従って相互の存在に不可欠です。 Steemは1年以上正常に動作しており、今やビットコインとイーサリアム両方の処理済みトランザクション数を越えています。<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>
 
-Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
+他のブロックチェーンと比較して、Steemはインセンティブを与える仕組みを持ち、プレーンテキスト形式のコンテンツを改変できない状態で格納する初のパブリックアクセス可能なデータベースとして頭角を現しています。 このことからSteemは、あらゆるインターネットアプリケーションが最も価値のあるコンテンツを提供した者にリウォードを与えつつデータを引き出し共有することができるパブリック出版プラットフォームとなっています。
 
-In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether. This stems from two new token features. The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”). The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it. These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>, meant to emphasize the human work required to distribute tokens to community participants. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
+暗号通貨の分野では、STEEMのユニークな特性によりビットコインやイーサなど他のものと比べて「スマート」と「ソーシャル」の両方を実現しています。 これは新しい2つのトークンの機能に由来しています。 1つ目はコンテンツ作成とキュレーションへのインセンティブ付与に特化したトークンプールです（"リウォードプール"と呼びます）。 2つ目はコンテンツの価値を評価してトークンを分配するために人々の知恵を活用する投票システムです。 結合したこれらの2つの特性は、プルーフ・オブ・ワークにならってプルーフ・オブ・ブレインと呼ばれ、コミュニティの参加者にトークンを分配するために必要なヒューマンワークに重点を置いていることを表しています。 プルーフ・オブ・ブレインはSTEEMを、組み込まれたリウォード機構によってコミュニティに価値を付加することを奨励することで、絶え間なく成長し続けるコミュニティを形作るためのツールとして位置付けています。
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>, escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+ブロックチェーンとトークン技術の向上に加えて、Steemは盗難アカウント回復<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>、エスクローサービス、ユーザープロモートコンテンツ、評価システム、貯蓄アカウントなどのユーザーエクスペリエンスを強化する高度な機能を提供するシステムです。 これらはすべてのトランザクションにおいて3秒の承認時間と手数料ゼロでユーザーに提供されています。 これらによりインターネット上の出版者やコミュニティビルダーにスマートでソーシャルな通貨をもたらすという使命を支えています。
 
-## Proof of Brain: Smart and Social Tokens
+## プルーフ・オブ・ブレイン：スマートでソーシャルなトークン
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+トークンベースのコミュニティに貢献するユーザーにリウォードを出すシステムには、コンテンツの社会的価値を確立し評価する仕組みが必要です。これを"プルーフ・オブ・ブレイン"と呼びます。
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### リウォードプール（“トークンはどこから来るのか？”）
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Steemブロックチェーンの最も革新的な（そして誤解されやすい）側面の一つは、価値あるコンテンツの制作者にトークンを配布する"リウォードプール"です。 リウォードプールが何かを理解するためにはまず、トークンがDPoSブロックチェーンとは異なるPoWブロックチェーンにあることを理解する必要があります。 従来のPoWブロックチェーンでは、トークンは定期的に生産されますが、ワークを実行しているマシンを持つ人々（"マイナー"）にランダムに分配されます。
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+PoW専用の暗号通貨とは異なり、Steemのトークンは3秒毎に1ブロックの固定レートで生成されます。 これらのトークンは定義されたブロックチェーンのルールに基いて、様々なアクターに分配されます。 コンテンツ制作者、証人、キュレーターなどのアクターはトークンのために特別な方法で競い合います。 マイナーが純粋なコンピューターパワーで競い合う従来のPoWの分配方法とは異なり、Steemネットワークのアクターはネットワークに価値を加える方法で競い合うようにインセンティブを与えられます。
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+新規トークンの生成比率は、2016年12月から年間9.5%に設定され、250,000ブロック毎に0.01%または毎年0.5%ずつ減少します。 インフレ率は約20.5年後に0.95%に到達するまで減少し続けます。 
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+毎年Steemブロックチェーンにより生成される新規トークン供給の内、75%がコンテンツ制作者やキュレーターに分配される"リウォードプール"を構成します。 15%は帰属するトークン保有者に分配され、10%はSteemのDPoSコンセンサスプロトコルでブロック生成に協力している証人に分配されます。
 
-#### Rewards for Content Creators and Curators
+#### コンテンツ制作者とキュレーターへのリウォード
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+コンテンツを制作するユーザーは、新規ユーザーをプラットフォームに誘導する材料を作り出すだけでなく、既存のユーザーを魅了し楽しませ続けます。 これにより、幅広いユーザーに通貨を流通させ、ネットワーク効果を高めることができます。 コンテンツの評価と投票に時間をかけるユーザーは、最も多くの価値を付加しているユーザーに通貨を分配する上で重要な役割を果たしています。 ブロックチェーンはこれら両方の活動に対し、ステークに重みを付けた投票システムによる集合知に基づいた価値に相関してリウォードを与えます。
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### リウォードの配分を決定するためのステーク化したトークンによる投票
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steemは1 STEEM、1投票に基いて動作しています。 このモデルでは、アカウントの残高によって測られるプラットフォームへの貢献度が最も高い人が、貢献度の評価方法に関して最も影響力を持ちます。 ステークは購入することも獲得することもできます。 ステークを共有する2つのアカウントと、同じステーク量を持つ1つのアカウントは同じ影響力を持つため、ユーザーは複数のアカウントを持つことによって付加的な影響力を持つことはできません。 プラットフォームでの影響力を向上させる唯一の方法はステークを増やすことです。
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+さらに、SteemはSteemパワーと呼ばれる13週間の帰属スケジュールに委ねられたSTEEMによってのみ投票することが許されています。 このモデルでは、メンバーにはSTEEMの長期的な価値を最大にするような方法で投票するための経済的なインセンティブがあります。
 
-## Speed and Scale on the Steem Blockchain
+## Steemブロックチェーンの速度とスケール
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steemブロックチェーンは既存のブロックチェーンで最も速く最も効率的なものの一つとなるために設計されています。それはRedditよりも大きいソーシャルメディアプラットフォームで予想されるトラフィック量をサポートするために必要です。 Steemはビットコインのトランザクション数を凌ぎ、毎秒1万件以上のトランザクションをサポートするように拡大可能です。
 
-### Delegated Proof of Stake (DPoS)
+### 委任プルーフ・オブ・ステーク（DPoS）
 
-Often bottlenecked by Proof-of-Work (PoW)<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>, many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> was leveraged to lay the foundation for a blockchain suited for billions of users.
+多くのブロックチェーンはプルーフ・オブ・ワーク（PoW）<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>がボトルネックとなり、世界の金融トラフィックの一部であるトランザクションを毎秒3件を超えるように拡張することができません。 Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

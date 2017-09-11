@@ -40,71 +40,71 @@ Steemブロックチェーンは既存のブロックチェーンで最も速く
 
 ### 委任プルーフ・オブ・ステーク（DPoS）
 
-多くのブロックチェーンはプルーフ・オブ・ワーク（PoW）<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>がボトルネックとなり、世界の金融トラフィックの一部であるトランザクションを毎秒3件を超えるように拡張することができません。 Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> was leveraged to lay the foundation for a blockchain suited for billions of users.
+多くのブロックチェーンはプルーフ・オブ・ワーク（PoW）<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>がボトルネックとなり、世界の金融トラフィックの一部であるトランザクションを毎秒3件を超えるように拡張することができません。 SteemはPoWによるものよりも遥かに大きいスケールと速度が必要であり、何十億ものユーザーに適したブロックチェーン基盤を構築するために、委任プルーフ・オブ・ステーク（DPoS）<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup>というあまり知られていないアルゴリズムを活用しました。
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+DPoSにより、Steemブロックチェーンは最小の計算負荷で新ブロックを3秒毎に生成することが可能になりました。 このため、ブロックチェーンはより多くのトランザクションを処理し、コンテンツを含むより多くの情報を保持することができます。
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+ハードフォークが発生したときのルールを定めることにより、DPoSフレームワークで選出された証人は提案されたハードフォークを採用するかどうか迅速かつ効率的に判断できるため、Steemブロックチェーンプロトコルは他のものよりも素早く進化することができます。 Steemブロックチェーンは既に18回のハードフォーク<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>に成功しており、それぞれのハードフォークが起こったタイミングで1つのチェーンしか維持されていません。
 
 ### ChainBase
 
-ChainBase<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is the database portion of the blockchain stack and replaced Graphene<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> はブロックチェーンスタックのデータベース部分であり、2016年にGraphene<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>に置き換えられました。 ChainBaseはロード時間と終了時間が速く、データベースへの並行アクセスをサポートし、以前のものよりもクラッシュに対して堅牢です。 また、データベースの破損頻度も少なく、データベース全体の状態を瞬時に"スナップショット"することができ、同じメモリからのRPCリクエストを処理することができます。
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> far more efficient and easier to maintain and scale.
+AppBaseはマルチチェーンFABRICを作成する最初のステップです。 AppBaseは、専用のプラグインとして付加的な非コンセンサスブロックチェーンを作成することにより、Steemブロックチェーンの多くのコンポーネントをモジュール化することを可能にしています。 これらのプラグインはブロックチェーン全体を再生する必要が無いため、より迅速に更新することができます。 これにより、steemd<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> はより効率的で維持拡大が容易になります。
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+事実上、AppBaseは様々なコアや異なるコンピュータ間であっても、Steemブロックチェーンの様々な部分を整備することができます。 これはそれぞれのコアを必要とするよりも遥かに効率的で、ネットワークのそれぞれのコンピュータでブロックチェーン全体を維持します。 ブロックチェーンのモジュール化により、コンピュータのモジュール性を最大限に活かすことができます。 これは完全に並列化され、完全に最適化されたブロックチェーンを作るための長いプロセスで不可欠なステップです。
 
-## Steem’s Platform Features
+## Steemのプラットフォーム機能
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steemブロックチェーンはデジタルトークン処理システムであるとともに、メインストリームのソーシャルメディアプラットフォームであるという2つの目的を果たします。 ブロックチェーンによって提供される機能は、両方の目的をサポートするために必要なもので、ユーザーにプラットフォームの両方の側面を使用することで世界クラスのエクスペリエンスを提供します。
 
-### Primitives Designed for Content Applications
+### コンテンツアプリケーションのために設計されたプリミティブ
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steemは様々なコンテンツを公開し、プレーンテキストとしてブロックチェーンの不変な台帳に直接的かつ永久に格納するユニークな機能をユーザーに提供します。 ブロックチェーンに格納されると、開発者がビルドするためのデータが公開されます。 開発者は利用可能なAPIによってブロックチェーンのコンテンツと直接対話することができます。 ブロックチェーンプリミティブの一部はアカウント名、投稿、コメント、投票、アカウント残高から作成することができます。
 
-### Native Name System
+### ネイティブネームシステム
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+ビットコインやイーサリアムなどの多くのブロックチェーン技術が使用しているウォレットアドレスは歴史的に長いランダムな文字列や数字列で構成されています。しかし、これらのウォレットアドレスはユーザーが記憶から長い文字列のアドレスを思い出すことができないため、典型的なオンラインソーシャルメディアのコンテキストにおいて他のユーザーと取引することを難しくしています。 Steemブロックチェーンは参加者のユーザー名をウォレットアドレスとして使用します。ユーザーはトークンを送ろうとするときにこれらのアドレスを記憶から検証することができるため、参加者のユーザーエクスペリエンスを強化することができます。
 
-### Steem Blockchain Dollars (SBD)
+### Steemブロックチェーンドル（SBD）
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+暗号通貨を知った多くのユーザーは、プラットフォームから与えられた"魔法のインターネットトークン"がどのようにして実際の価値を持つのかを理解するのに苦労します。 メインストリームのユーザーが慣れ親しんだ従来の法定通貨のシステムと、プラットフォームから与えられた暗号通貨トークンのギャップを埋めるために、Steemブロックチェーンドル（SBD）という新しい通貨が作られました。
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>
+SBDトークンはちょうど1USDにペッグされるように設計されているため、受け取ったユーザーはその価値を"実質1ドル"としてどのくらいの価値があるのかを知ることができます。 また、SBDトークンは、USDに対する相対的なアカウント価値を維持しようとするユーザーに比較的安定した通貨を提供します。 より詳細な技術的説明はSteemテクニカルホワイトペーパーにあります。<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>
 
-### Decentralized Exchange
+### 分散取引所
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>
+SteemブロックチェーンはBitShares取引所<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup>のような分散トークン取引所を提供します。 取引所でユーザーはパブリックな分散ピア・ツー・ピアマーケットでSTEEMとSBDをトレードすることができます。 ユーザーは買い注文と売り注文を出すことができ、注文のマッチングはブロックチェーンにより自動的に実行されます。 また、ユーザーがマーケットを分析できるようにパブリックアクセス可能なオーダーブックとオーダー履歴があります。 ユーザーはブロックチェーンAPIを用いて取引所と直接対話することも、Steemit.comのようなGUIを用いることもできます。<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup> 
 
-### Payments Through Escrow
+### エスクローによる支払い
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+ブロックチェーントランザクションの不可逆性は重要なセキュリティ機能です。しかし、他のユーザーにトークンを送る場合に、他のユーザーが契約を完了しない場合に取り戻す方法がないため、快適ではないケースが多くあります。 Steemブロックチェーンは、ユーザーがエスクローサービスとして指定された第三者によって互いにコインを送る方法を提供します。 エスクローサービスとして働くユーザーは、契約の条件が満たされているかどうかを判断し、受領者に資金を送るか、送金者に返金するかを決定することができます。
 
-### Hierarchical Private Key Structure
+### 階層的プライベートキー構造
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steemは低セキュリティと高セキュリティのトランザクションを容易にする今までにない段階的プライベートキーシステムを採用しています。 低セキュリティトランザクションは投稿やコメントなどソーシャルのものが多いです。 高セキュリティトランザクションは転送やキーの変更が多いです。 これにより、ユーザーはキーに対して、それぞれが許可するアクセスに応じて異なるセキュリティレベルを実現することができます。
 
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem<sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>, and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+プライベートキーは、ポスティング、アクティブ、オーナーです。 ポスティングキーは投稿、コメント、編集、投票、resteem<sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>、そして他のアカウントをフォロー/ミュートすることができます。 アクティブキーは資金転送、パワーアップ/ダウントランザクション、Steemドル変換、証人投票、マーケットへの発注、ポスティングキーのリセットなど、より注意を要するタスクのためにあります。 オーナーキーは必要な時だけ使用するためのものです。 これは、オーナーキーを含むアカウントのすべてのキーを変更することができ、アカウント回復において所有権を証明できるため、最も強力なキーです。 理想的には、オフラインに保管し、アカウントのキーを変更する必要がある場合や、ハッキングされたアカウントを回復する必要があるときだけ使用します。
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+また、Steemは3つのキーを暗号化するマスターパスワードを使いやすくしています。 ウェブサービスは必要なプライベートキーで復号化や署名を行うことでマスターパスワードを使用することができます。 マスターパスワードにより、ユーザーは不適切なキーが他のサーバーに転送されないようにすることができ、特定のサービスを信頼することができます。それにより、クライアント側の安全な署名環境を維持しながらユーザーエクスペリエンスを向上させることができます。
 
-### Multi Sig Authorities
+### マルチシグ権限
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steemブロックチェーンは権限を複数のエンティティに分割することを可能とし、複数のユーザーが同じ権限を共有したり、トランザクションを有効にするために複数のエンティティを要求したりすることができます。 これはBitShares<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup>と同じ方法で行われ、各パブリック/プライベートキーのペアは重み付けられ、権限には閾値が定められます。 トランザクションを有効にするためには、重みの合計が閾値以上になるために十分なエンティティが署名する必要があります。
 
-### Multiple Reward Beneficiaries
+### 複数のリウォード受取人
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+任意の投稿について、リウォードに金銭的関心を持つ人が多数いる場合もあります。 これは、著者、共著者、参照元、ホストプロバイダー、ブロックチェーンのコンテンツを埋め込んだブログ、ツール制作者などを含みます。 投稿やコメントを作成する際に使用されるウェブサイトやツールには、コンテンツからのリウォードが様々な関係者の間でどのように分割されるのかを設定する機能を持つものがあります。 これにより、様々な形式のコラボレーションが可能になります。また、Steemブロックチェーン上に構築されたプラットフォームがユーザーからリウォードの一部を集めることも可能です。
 
-### Smart Media Tokens (SMT)
+### スマートメディアトークン（SMT）
 
-This protocol layer is under development. Its whitepaper will be posted here.
+このプロトコル層は開発中です。ホワイトペーパーが投稿される予定です。
 
-### Stolen Account Recovery
+### 盗難アカウント回復
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+ユーザーのアカウントがハッキングされた場合、プライベートオーナーキーでキーを変更されてしまう可能性があります。 攻撃者がプライベートオーナーキーを盗み出し、アカウントのパスワードを変更してしまった場合、Steemの業界初の盗難アカウント回復プロセスに30日以内に有効であったプライベートキーを提出し、アカウントのコントロールを取り戻すことができます。 This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

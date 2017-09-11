@@ -104,25 +104,25 @@ Steemブロックチェーンは権限を複数のエンティティに分割す
 
 ### 盗難アカウント回復
 
-ユーザーのアカウントがハッキングされた場合、プライベートオーナーキーでキーを変更されてしまう可能性があります。 攻撃者がプライベートオーナーキーを盗み出し、アカウントのパスワードを変更してしまった場合、Steemの業界初の盗難アカウント回復プロセスに30日以内に有効であったプライベートキーを提出し、アカウントのコントロールを取り戻すことができます。 This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+ユーザーのアカウントがハッキングされた場合、プライベートオーナーキーでキーを変更されてしまう可能性があります。 攻撃者がプライベートオーナーキーを盗み出し、アカウントのパスワードを変更してしまった場合、Steemの業界初の盗難アカウント回復プロセスに30日以内に有効であったプライベートキーを提出し、アカウントのコントロールを取り戻すことができます。 これはSteemへのアカウント登録サービスを提供している個人または企業によって提供されます。 登録者がユーザーにこのサービスを提供することは必須ではありませんが、これにより登録者のユーザーエクスペリエンスの価値を高めることができます。
 
-### Security Through Time-Locks
+### タイムロックによるセキュリティ
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+ユーザーのアクティブまたはオーナーキーが盗まれた場合、攻撃者はアカウントのすべての資金にアクセスすることができます。 ブロックチェーンのトランザクションは不可逆であるため、盗まれた資金を取り戻す方法はありません。
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+SteemブロックチェーンはユーザーがSTEEMやSBDを貯蓄アカウントに入れることができるようにしているため、3日間を待たなければ資金を引き出せない可能性があります。 また、13週間の帰属スケジュールで保持されているSTEEMは、最初の7日を待ってから毎週1/13の比率でしか引き出すことができません。 これらのタイムロックは、攻撃者がユーザーの資金のすべてにすぐにアクセスすることができないようにすることによって、アカウントの所有者にすべての資金が引き出される前にアカウントのコントロールを取り戻す時間を与えます。
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### 無料操作の帯域幅制限
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+証人にはすべて新しく生成されたトークンで支払われるため、ブロックチェーンを稼働させるための料金をユーザーに請求する必要はありません。 料金を請求する唯一の理由は、ブロックチェーンのパフォーマンスに潜在的に影響する程の不当なトランザクション量をユーザーが完了させないための抑止です。
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+システム使用に合理的な制限を設けるため、各ユーザーは制限された帯域幅を与えられます。 ユーザーがトークンの転送、コンテンツの投稿、投票などのブロックチェーン操作を行うと、帯域幅の一部が消費されます。 ユーザーに割り当てられた帯域幅を超えた時、更なる行動を行うには帯域幅が再チャージされるまで待つ必要があります。
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+帯域幅制限はネットワークの使用状況によって調整されるため、ネットワーク使用率が低い場合は帯域幅の割り当ては大きくなります。 アカウントに割り当てられる帯域幅は、アカウントが持つSteemパワー量に正比例します。そのため、ユーザーはSteemパワーを追加で手に入れることによって、いつでも帯域幅の割り当てを増やすことができます。
 
-## Conclusion
+## 結論
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Steemブロックチェーンとトークンによって提供されるユニークなリウォードとインセンティブプログラムは、Steemをメインストリームユーザーの暗号通貨への究極の入り口とするように設計されました。 ブロックチェーンのパフォーマンスは、通貨とプラットフォームを広く普及させることを念頭に置いて設計されています。 超高速な処理時間と無料のトランザクションの組み合わせにより、Steemは世界中の人が使用する主要なブロックチェーン技術の一つになることができます。
 
 [^1]:    
     Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}

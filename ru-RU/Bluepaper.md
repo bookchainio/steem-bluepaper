@@ -44,7 +44,7 @@ Steem действует по принципу "один STEEM - один гол
 
 Благодаря DPoS блокчейн Steem способен генерировать новый блок каждые 3 секунды с минимальной вычислительной нагрузкой. Это означает, что блокчейн может обрабатывать больше транзакций и вмещать больше информации, в том числе контента.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Согласно правилам, когда случается Хардфорк, избранные в рамках DPoS заверители могут быстро и эффективно решить, следует ли проводить хардфорк или нет, позволяя блокчейн протоколу Steem развиваться быстрее большинства других. The Steem blockchain has already successfully forked 18 times<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

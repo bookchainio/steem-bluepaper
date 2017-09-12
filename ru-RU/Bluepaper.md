@@ -48,7 +48,7 @@ Steem действует по принципу "один STEEM - один гол
 
 ### ChainBase
 
-ChainBase — это часть базы данных стека блокчейна, которая заменила Graphene <sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup> в 2016 году. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase — это часть базы данных стека блокчейна, которая заменила Graphene <sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup> в 2016 году. ChainBase обладает быстрой загрузкой и выводом данных, поддерживает параллельный доступ к базе данных и более устойчив к сбоям, чем его предшественник. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

@@ -58,9 +58,9 @@ AppBase это первый шаг в создании мульти-чейна F
 
 ## Возможности Платформы Steem
 
-Блокчейн Steem служит двойной цели существования в качестве системы обработки цифровых токенов и в качестве мейнстримовой социальной медиа-платформы. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Блокчейн Steem служит двойной цели существования в качестве системы обработки цифровых токенов и в качестве мейнстримовой социальной медиа-платформы. Предоставляемые блокчейном возможности используются для поддержки обеих задач, также они предоставляют пользователей с мировым опытом при использовании обоих аспектов платформы.
 
-### Primitives Designed for Content Applications
+### Базисные элементы, предназначенные для Контентных Приложений
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

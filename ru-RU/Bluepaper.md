@@ -36,7 +36,7 @@ Steem действует по принципу "один STEEM - один гол
 
 ## Скорость и Масштаб в блокчейне Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Блокчейн Steem задуман как один из самых быстрых и эффективных блокчейнов из всех ныне существующих, которому необходимо уметь поддерживать объём траффика, равный траффику социальной медиа-платформы вроде Reddit и даже превышающий его. Steem уже обогнал Bitcoin по количеству транзакций и может масштабироваться для поддержки 10,000 и более транзакций в секунду.
 
 ### Delegated Proof of Stake (DPoS)
 

@@ -58,7 +58,7 @@ AppBase это первый шаг в создании мульти-чейна F
 
 ## Возможности Платформы Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Блокчейн Steem служит двойной цели существования в качестве системы обработки цифровых токенов и в качестве мейнстримовой социальной медиа-платформы. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

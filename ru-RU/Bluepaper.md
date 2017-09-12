@@ -38,9 +38,9 @@ Steem действует по принципу "один STEEM - один гол
 
 Блокчейн Steem задуман как один из самых быстрых и эффективных блокчейнов из всех ныне существующих, которому необходимо уметь поддерживать объём траффика, равный траффику социальной медиа-платформы вроде Reddit и даже превышающий его. Steem уже обогнал Bitcoin по количеству транзакций и может масштабироваться для поддержки 10,000 и более транзакций в секунду.
 
-### Делегированное доказательство доли
+### Делегированное Доказательство Ставки
 
-Часто испытываю затруднения из-за Proof-of-Work (PoW), многие блокчейны не могут масштабироваться более чем на три транзакции в секунду и это становится частью мирового финансового траффика. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> was leveraged to lay the foundation for a blockchain suited for billions of users.
+Нередко испытывая затруднения в связи с использованием протокола Доказательство Работы (Proof-of-Work, PoW), многие блокчейны не способны выйти за пределы масштабирования более трёх транзакций в секунду и это становится частью мирового финансового траффика. Steem нуждается в гораздо большем масштабе и скорости, чем способен предложить PoW, поэтому в основу блокчейна лёг менее известный алгоритм под названием Делегированное Доказательство Ставки (Delegated Proof of Stake, DPoS) 
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

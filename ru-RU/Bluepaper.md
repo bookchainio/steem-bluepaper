@@ -62,11 +62,11 @@ AppBase это первый шаг в создании мульти-чейна F
 
 ### Базисные элементы, предназначенные для Контентных Приложений
 
-Steem предлагает пользователям уникальную возможность непосредственно и безвозвратно публиковать и хранить различные виды контента в неизменяемом реестре блокчейна в виде обычного текста. Попав в блокчейн, данные становятся публично доступными разработчикам для работы с ними. Разработчики могут напрямую взаимодействовать с контентом в блокчейне при помощи доступных API. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem предлагает пользователям уникальную возможность непосредственно и безвозвратно публиковать и хранить различные виды контента в неизменяемом реестре блокчейна в виде обычного текста. Попав в блокчейн, данные становятся публично доступными разработчикам для работы с ними. Разработчики могут напрямую взаимодействовать с контентом в блокчейне при помощи доступных API. Некоторые разработчики базисных элементов могут использовать для дальнейшей работы Имена Аккаунтов, Публикации, Комментарии, Голоса и Баланс Аккаунтов.
 
-### Native Name System
+### Система Собственного Имени
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Адреса кошельков, используемые многими блокчейн технологиями, такими как Bitcoin и Etherium, исторически содержали длинные строки случайных букв и цифр, что затрудняло сделки с другими пользователями в привычном онлайн социально-медийном контексте, поскольку пользователи просто не способны запомнить такие длинные адресные строки. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 
 ### Steem Blockchain Dollars (SBD)
 

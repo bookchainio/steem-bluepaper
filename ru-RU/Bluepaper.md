@@ -38,11 +38,11 @@ Steem действует по принципу "один STEEM - один гол
 
 Блокчейн Steem задуман как один из самых быстрых и эффективных блокчейнов из всех ныне существующих, которому необходимо уметь поддерживать объём траффика, равный траффику социальной медиа-платформы вроде Reddit и даже превышающий его. Steem уже обогнал Bitcoin по количеству транзакций и может масштабироваться для поддержки 10,000 и более транзакций в секунду.
 
-### Делегированное Доказательство Ставки
+### Делегированное Доказательство Доли
 
-Нередко испытывая затруднения в связи с использованием протокола Доказательство Работы (Proof-of-Work, PoW), многие блокчейны не способны выйти за пределы масштабирования более трёх транзакций в секунду и это становится частью мирового финансового траффика. Steem нуждается в гораздо большем масштабе и скорости, чем способен предложить PoW, поэтому в основу блокчейна лёг менее известный алгоритм под названием Делегированное Доказательство Ставки (Delegated Proof of Stake, DPoS) 
+Нередко испытывая затруднения в связи с использованием алгоритма Доказательство Работы (Proof-of-Work, PoW), многие блокчейны не способны выйти за пределы масштабирования более трёх транзакций в секунду и это становится частью мирового финансового траффика. Steem нуждается в куда большем масштабе и скорости, чем способен предложить PoW, поэтому за основу блокчейна взят не такой известный алгоритм под названием Делегированное Доказательство Доли (Delegated Proof of Stake, DPoS), который, тем не менее, пригоден для эксплуатации миллиардами пользователей.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Благодаря DPoS блокчейн Steem способен генерировать новый блок каждые 3 секунды с минимальной вычислительной нагрузкой. This means that the blockchain can process more transactions and hold more information, including content.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

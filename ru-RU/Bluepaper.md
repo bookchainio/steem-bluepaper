@@ -56,7 +56,7 @@ AppBase это первый шаг в создании мульти-чейна F
 
 С практической точки зрения AppBase задействует разные ядра или даже разные компьютеры для поддержания разных частей блокчейна Steem. Это значительнее эффективней, чем запрашивать каждое ядро и каждый компьютер в сети поддерживать целиком весь блокчейн. Модульная организация блокчейна позволяет ему в полной мере пользоваться модульной природой компьютеров. Это одна важная ступень в длительном процессе создания полностью параллельного и целиком оптимизированного блокчейна.
 
-## Steem’s Platform Features
+## Возможности Платформы Steem
 
 The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 

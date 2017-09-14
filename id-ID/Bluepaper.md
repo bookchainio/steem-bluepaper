@@ -1,8 +1,8 @@
 ![](\headerimage.png)
 
-## Introduction
+## Pendahuluan
 
-Steem provides a scalable blockchain protocol<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>
+Steem menyediakan protokol blockchain terukur untuk konten yang dapat diakses publik dan tidak dapat diubah. Bersamaan dengan hadirnya token digital( Steem) yang cepat dan bebas memungkinkan orang untuk memperoleh uang dengan menggunakan pemikiran mereka yang bisa disebut dengan Proof-of-brain. Baik blockchain maupun token, sangat bergantung satu sama lain untuk menyediakan keamanan. The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

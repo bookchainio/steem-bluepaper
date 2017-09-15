@@ -2,13 +2,13 @@
 
 ## はじめに
 
-Steemはパブリックアクセス可能で不変なコンテンツのためのスケーラブルなブロックチェーンプロトコル<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> を提供します。それは高速で手数料不要のデジタルトークン（STEEM）<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> によって、人々が自身の頭脳を用いて通貨を得ることを可能にします（"プルーフ・オブ・ブレイン"と呼ぶことができます）。 プロトコルの2つの構成要素ブロックチェーンとトークンは、セキュリティ、不変性、寿命について相互に依存し、従って相互の存在に不可欠です。 Steemは1年以上正常に動作しており、今やビットコインとイーサリアム両方の処理済みトランザクション数を越えています。<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>
+Steemはパブリックアクセス可能で不変なコンテンツのためのスケーラブルなブロックチェーンプロトコル[^1] を提供します。それは高速で手数料不要のデジタルトークン（STEEM）[^2] によって、人々が自身の頭脳を用いて通貨を得ることを可能にします（"プルーフ・オブ・ブレイン"と呼ぶことができます）。 プロトコルの2つの構成要素ブロックチェーンとトークンは、セキュリティ、不変性、寿命について相互に依存し、従って相互の存在に不可欠です。 Steemは1年以上正常に動作しており、今やビットコインとイーサリアム両方の処理済みトランザクション数を越えています。[^3]
 
 他のブロックチェーンと比較して、Steemはインセンティブを与える仕組みを持ち、プレーンテキスト形式のコンテンツを改変できない状態で格納する初のパブリックアクセス可能なデータベースとして頭角を現しています。 このことからSteemは、あらゆるインターネットアプリケーションが最も価値のあるコンテンツを提供した者にリウォードを与えつつデータを引き出し共有することができるパブリック出版プラットフォームとなっています。
 
-暗号通貨の分野では、STEEMのユニークな特性によりビットコインやイーサなど他のものと比べて「スマート」と「ソーシャル」の両方を実現しています。 これは新しい2つのトークンの機能に由来しています。 1つ目はコンテンツ作成とキュレーションへのインセンティブ付与に特化したトークンプールです（"リウォードプール"と呼びます）。 2つ目はコンテンツの価値を評価してトークンを分配するために人々の知恵を活用する投票システムです。 結合したこれらの2つの特性は、プルーフ・オブ・ワーク<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>にならってプルーフ・オブ・ブレインと呼ばれ、コミュニティの参加者にトークンを分配するために必要なヒューマンワークに重点を置いていることを表しています。 プルーフ・オブ・ブレインはSTEEMを、組み込まれたリウォード機構によってコミュニティに価値を付加することを奨励することで、絶え間なく成長し続けるコミュニティを形作るためのツールとして位置付けています。
+暗号通貨の分野では、STEEMのユニークな特性によりビットコインやイーサなど他のものと比べて「スマート」と「ソーシャル」の両方を実現しています。 これは新しい2つのトークンの機能に由来しています。 1つ目はコンテンツ作成とキュレーションへのインセンティブ付与に特化したトークンプールです（"リウォードプール"と呼びます）。 2つ目はコンテンツの価値を評価してトークンを分配するために人々の知恵を活用する投票システムです。 結合したこれらの2つの特性は、プルーフ・オブ・ワーク[^4]にならってプルーフ・オブ・ブレインと呼ばれ、コミュニティの参加者にトークンを分配するために必要なヒューマンワークに重点を置いていることを表しています。 プルーフ・オブ・ブレインはSTEEMを、組み込まれたリウォード機構によってコミュニティに価値を付加することを奨励することで、絶え間なく成長し続けるコミュニティを形作るためのツールとして位置付けています。
 
-ブロックチェーンとトークン技術の向上に加えて、Steemは盗難アカウント回復<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>、エスクローサービス、ユーザープロモートコンテンツ、評価システム、貯蓄アカウントなどのユーザーエクスペリエンスを強化する高度な機能を提供するシステムです。 これらはすべてのトランザクションにおいて3秒の承認時間と手数料ゼロでユーザーに提供されています。 これらによりインターネット上の出版者やコミュニティビルダーにスマートでソーシャルな通貨をもたらすという使命を支えています。
+ブロックチェーンとトークン技術の向上に加えて、Steemは盗難アカウント回復[^5]、エスクローサービス、ユーザープロモートコンテンツ、評価システム、貯蓄アカウントなどのユーザーエクスペリエンスを強化する高度な機能を提供するシステムです。 これらはすべてのトランザクションにおいて3秒の承認時間と手数料ゼロでユーザーに提供されています。 これらによりインターネット上の出版者やコミュニティビルダーにスマートでソーシャルな通貨をもたらすという使命を支えています。
 
 ## プルーフ・オブ・ブレイン：スマートでソーシャルなトークン
 
@@ -40,19 +40,19 @@ Steemブロックチェーンは既存のブロックチェーンで最も速く
 
 ### 委任プルーフ・オブ・ステーク（DPoS）
 
-多くのブロックチェーンはプルーフ・オブ・ワーク（PoW）<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>がボトルネックとなり、世界の金融トラフィックの一部であるトランザクションを毎秒3件を超えるように拡張することができません。 SteemはPoWによるものよりも遥かに大きいスケールと速度が必要であり、何十億ものユーザーに適したブロックチェーン基盤を構築するために、委任プルーフ・オブ・ステーク（DPoS）<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup>というあまり知られていないアルゴリズムを活用しました。
+多くのブロックチェーンはプルーフ・オブ・ワーク（PoW）[^6]がボトルネックとなり、世界の金融トラフィックの一部であるトランザクションを毎秒3件を超えるように拡張することができません。 SteemはPoWによるものよりも遥かに大きいスケールと速度が必要であり、何十億ものユーザーに適したブロックチェーン基盤を構築するために、委任プルーフ・オブ・ステーク（DPoS）[^7]というあまり知られていないアルゴリズムを活用しました。
 
 DPoSにより、Steemブロックチェーンは最小の計算負荷で新ブロックを3秒毎に生成することが可能になりました。 このため、ブロックチェーンはより多くのトランザクションを処理し、コンテンツを含むより多くの情報を保持することができます。
 
-ハードフォークが発生したときのルールを定めることにより、DPoSフレームワークで選出された証人は提案されたハードフォークを採用するかどうか迅速かつ効率的に判断できるため、Steemブロックチェーンプロトコルは他のものよりも素早く進化することができます。 Steemブロックチェーンは既に18回のハードフォーク<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>に成功しており、それぞれのハードフォークが起こったタイミングで1つのチェーンしか維持されていません。
+ハードフォークが発生したときのルールを定めることにより、DPoSフレームワークで選出された証人は提案されたハードフォークを採用するかどうか迅速かつ効率的に判断できるため、Steemブロックチェーンプロトコルは他のものよりも素早く進化することができます。 Steemブロックチェーンは既に18回のハードフォーク[^8]に成功しており、それぞれのハードフォークが起こったタイミングで1つのチェーンしか維持されていません。
 
 ### ChainBase
 
-ChainBase<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> はブロックチェーンスタックのデータベース部分であり、2016年にGraphene<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>に置き換えられました。 ChainBaseはロード時間と終了時間が速く、データベースへの並行アクセスをサポートし、以前のものよりもクラッシュに対して堅牢です。 また、データベースの破損頻度も少なく、データベース全体の状態を瞬時に"スナップショット"することができ、同じメモリからのRPCリクエストを処理することができます。
+ChainBase[^9] はブロックチェーンスタックのデータベース部分であり、2016年にGraphene[^10]に置き換えられました。 ChainBaseはロード時間と終了時間が速く、データベースへの並行アクセスをサポートし、以前のものよりもクラッシュに対して堅牢です。 また、データベースの破損頻度も少なく、データベース全体の状態を瞬時に"スナップショット"することができ、同じメモリからのRPCリクエストを処理することができます。
 
 ### AppBase
 
-AppBaseはマルチチェーンFABRICを作成する最初のステップです。 AppBaseは、専用のプラグインとして付加的な非コンセンサスブロックチェーンを作成することにより、Steemブロックチェーンの多くのコンポーネントをモジュール化することを可能にしています。 これらのプラグインはブロックチェーン全体を再生する必要が無いため、より迅速に更新することができます。 これにより、steemd<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> はより効率的で維持拡大が容易になります。
+AppBaseはマルチチェーンFABRICを作成する最初のステップです。 AppBaseは、専用のプラグインとして付加的な非コンセンサスブロックチェーンを作成することにより、Steemブロックチェーンの多くのコンポーネントをモジュール化することを可能にしています。 これらのプラグインはブロックチェーン全体を再生する必要が無いため、より迅速に更新することができます。 これにより、steemd[^11] はより効率的で維持拡大が容易になります。
 
 事実上、AppBaseは様々なコアや異なるコンピュータ間であっても、Steemブロックチェーンの様々な部分を整備することができます。 これはそれぞれのコアを必要とするよりも遥かに効率的で、ネットワークのそれぞれのコンピュータでブロックチェーン全体を維持します。 ブロックチェーンのモジュール化により、コンピュータのモジュール性を最大限に活かすことができます。 これは完全に並列化され、完全に最適化されたブロックチェーンを作るための長いプロセスで不可欠なステップです。
 
@@ -72,11 +72,11 @@ Steemは様々なコンテンツを公開し、プレーンテキストとして
 
 暗号通貨を知った多くのユーザーは、プラットフォームから与えられた"魔法のインターネットトークン"がどのようにして実際の価値を持つのかを理解するのに苦労します。 メインストリームのユーザーが慣れ親しんだ従来の法定通貨のシステムと、プラットフォームから与えられた暗号通貨トークンのギャップを埋めるために、Steemブロックチェーンドル（SBD）という新しい通貨が作られました。
 
-SBDトークンはちょうど1USDにペッグされるように設計されているため、受け取ったユーザーはその価値を"実質1ドル"としてどのくらいの価値があるのかを知ることができます。 また、SBDトークンは、USDに対する相対的なアカウント価値を維持しようとするユーザーに比較的安定した通貨を提供します。 より詳細な技術的説明はSteemテクニカルホワイトペーパーにあります。<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>
+SBDトークンはちょうど1USDにペッグされるように設計されているため、受け取ったユーザーはその価値を"実質1ドル"としてどのくらいの価値があるのかを知ることができます。 また、SBDトークンは、USDに対する相対的なアカウント価値を維持しようとするユーザーに比較的安定した通貨を提供します。 より詳細な技術的説明はSteemテクニカルホワイトペーパーにあります。[^12]
 
 ### 分散取引所
 
-SteemブロックチェーンはBitShares取引所<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup>のような分散トークン取引所を提供します。 取引所でユーザーはパブリックな分散ピア・ツー・ピアマーケットでSTEEMとSBDをトレードすることができます。 ユーザーは買い注文と売り注文を出すことができ、注文のマッチングはブロックチェーンにより自動的に実行されます。 また、ユーザーがマーケットを分析できるようにパブリックアクセス可能なオーダーブックとオーダー履歴があります。 ユーザーはブロックチェーンAPIを用いて取引所と直接対話することも、Steemit.comのようなGUIを用いることもできます。<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>
+SteemブロックチェーンはBitShares取引所[^13]のような分散トークン取引所を提供します。 取引所でユーザーはパブリックな分散ピア・ツー・ピアマーケットでSTEEMとSBDをトレードすることができます。 ユーザーは買い注文と売り注文を出すことができ、注文のマッチングはブロックチェーンにより自動的に実行されます。 また、ユーザーがマーケットを分析できるようにパブリックアクセス可能なオーダーブックとオーダー履歴があります。 ユーザーはブロックチェーンAPIを用いて取引所と直接対話することも、Steemit.comのようなGUIを用いることもできます。[^14]
 
 ### エスクローによる支払い
 
@@ -86,13 +86,13 @@ SteemブロックチェーンはBitShares取引所<sup id="fnref:13"><a href="#f
 
 Steemは低セキュリティと高セキュリティのトランザクションを容易にする今までにない段階的プライベートキーシステムを採用しています。 低セキュリティトランザクションは投稿やコメントなどソーシャルのものが多いです。 高セキュリティトランザクションは転送やキーの変更が多いです。 これにより、ユーザーはキーに対して、それぞれが許可するアクセスに応じて異なるセキュリティレベルを実現することができます。
 
-プライベートキーは、ポスティング、アクティブ、オーナーです。 ポスティングキーは投稿、コメント、編集、投票、resteem<sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>、そして他のアカウントをフォロー/ミュートすることができます。 アクティブキーは資金転送、パワーアップ/ダウントランザクション、Steemドル変換、証人投票、マーケットへの発注、ポスティングキーのリセットなど、より注意を要するタスクのためにあります。 オーナーキーは必要な時だけ使用するためのものです。 これは、オーナーキーを含むアカウントのすべてのキーを変更することができ、アカウント回復において所有権を証明できるため、最も強力なキーです。 理想的には、オフラインに保管し、アカウントのキーを変更する必要がある場合や、ハッキングされたアカウントを回復する必要があるときだけ使用します。
+プライベートキーは、ポスティング、アクティブ、オーナーです。 ポスティングキーは投稿、コメント、編集、投票、resteem[^15]、そして他のアカウントをフォロー/ミュートすることができます。 アクティブキーは資金転送、パワーアップ/ダウントランザクション、Steemドル変換、証人投票、マーケットへの発注、ポスティングキーのリセットなど、より注意を要するタスクのためにあります。 オーナーキーは必要な時だけ使用するためのものです。 これは、オーナーキーを含むアカウントのすべてのキーを変更することができ、アカウント回復において所有権を証明できるため、最も強力なキーです。 理想的には、オフラインに保管し、アカウントのキーを変更する必要がある場合や、ハッキングされたアカウントを回復する必要があるときだけ使用します。
 
 また、Steemは3つのキーを暗号化するマスターパスワードを使いやすくしています。 ウェブサービスは必要なプライベートキーで復号化や署名を行うことでマスターパスワードを使用することができます。 マスターパスワードにより、ユーザーは不適切なキーが他のサーバーに転送されないようにすることができ、特定のサービスを信頼することができます。それにより、クライアント側の安全な署名環境を維持しながらユーザーエクスペリエンスを向上させることができます。
 
 ### マルチシグ権限
 
-Steemブロックチェーンは権限を複数のエンティティに分割することを可能とし、複数のユーザーが同じ権限を共有したり、トランザクションを有効にするために複数のエンティティを要求したりすることができます。 これはBitShares<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup>と同じ方法で行われ、各パブリック/プライベートキーのペアは重み付けられ、権限には閾値が定められます。 トランザクションを有効にするためには、重みの合計が閾値以上になるために十分なエンティティが署名する必要があります。
+Steemブロックチェーンは権限を複数のエンティティに分割することを可能とし、複数のユーザーが同じ権限を共有したり、トランザクションを有効にするために複数のエンティティを要求したりすることができます。 これはBitShares[^16]と同じ方法で行われ、各パブリック/プライベートキーのペアは重み付けられ、権限には閾値が定められます。 トランザクションを有効にするためには、重みの合計が閾値以上になるために十分なエンティティが署名する必要があります。
 
 ### 複数のリウォード受取人
 
@@ -124,50 +124,34 @@ SteemブロックチェーンはユーザーがSTEEMやSBDを貯蓄アカウン�
 
 Steemブロックチェーンとトークンによって提供されるユニークなリウォードとインセンティブプログラムは、Steemをメインストリームユーザーの暗号通貨への究極の入り口とするように設計されました。 ブロックチェーンのパフォーマンスは、通貨とプラットフォームを広く普及させることを念頭に置いて設計されています。 超高速な処理時間と無料のトランザクションの組み合わせにより、Steemは世界中の人が使用する主要なブロックチェーン技術の一つになることができます。
 
-[^1]:    
-    Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]:    
-    To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;[&#8617;](#fnref:2){.footnote-backref}
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
 
-[^3]:    
-    Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening&#160;[&#8617;](#fnref:3){.footnote-backref}
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]:    
-    Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system&#160;[&#8617;](#fnref:4){.footnote-backref}
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]:    
-    Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1&#160;[&#8617;](#fnref:5){.footnote-backref}
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]:    
-    Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem&#160;[&#8617;](#fnref:6){.footnote-backref}
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]:    
-    DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper&#160;[&#8617;](#fnref:7){.footnote-backref}
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
-[^8]:    
-    https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity&#160;[&#8617;](#fnref:8){.footnote-backref}
+[^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]:    
-    ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release&#160;[&#8617;](#fnref:9){.footnote-backref}
+[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]:    
-    Graphene Documentation http://docs.bitshares.org/&#160;[&#8617;](#fnref:10){.footnote-backref}
+[^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]:    
-    The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.&#160;[&#8617;](#fnref:11){.footnote-backref}
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
 
-[^12]:    
-    Steem Whitepaper https://steem.io/SteemWhitePaper.pdf&#160;[&#8617;](#fnref:12){.footnote-backref}
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]:    
-    Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:13){.footnote-backref}
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]:    
-    Steemit.com Currency Market https://steemit.com/market&#160;[&#8617;](#fnref:14){.footnote-backref}
+[^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]:    
-    “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.&#160;[&#8617;](#fnref:15){.footnote-backref}
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]:    
-    Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:16){.footnote-backref}
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf

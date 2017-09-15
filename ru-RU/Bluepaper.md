@@ -48,11 +48,11 @@ Steem действует по принципу "один STEEM - один гол
 
 ### ChainBase
 
-ChainBase — это часть базы данных стека блокчейна, которая заменила Graphene <sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup> в 2016 году. ChainBase обладает быстрой загрузкой и выводом данных, поддерживает параллельный доступ к базе данных и более устойчив к сбоям, чем его предшественник. Также он менее подвержен постоянным нарушениям базы данных, позволяет делать мгновенные "снимки" её состояния, а также способен обрабатывать больше запросов удалённого вызова процедур от той же памяти.
+ChainBase — это часть базы данных стека блокчейна, которая заменила Graphene [^10] в 2016 году. ChainBase обладает быстрой загрузкой и выводом данных, поддерживает параллельный доступ к базе данных и более устойчив к сбоям, чем его предшественник. Также он менее подвержен постоянным нарушениям базы данных, позволяет делать мгновенные "снимки" её состояния, а также способен обрабатывать больше запросов удалённого вызова процедур от той же памяти.
 
 ### AppBase
 
-AppBase это первый шаг в создании мульти-чейна FABRIC. AppBase позволяет множеству компонентов блокчейна Steem стать модулярами путём создания дополнительных неконсесусных блокчейнов в качестве выделенных плагинов. Эти плагины могут быть обновлены быстрее обычного, поскольку не требуют воспроизведения всего блокчейна. Это позволяет steemd <sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> быть гораздо более эффективным и легче поддерживать масштаб.
+AppBase это первый шаг в создании мульти-чейна FABRIC. AppBase позволяет множеству компонентов блокчейна Steem стать модулярами путём создания дополнительных неконсесусных блокчейнов в качестве выделенных плагинов. Эти плагины могут быть обновлены быстрее обычного, поскольку не требуют воспроизведения всего блокчейна. Это позволяет steemd [^11] быть гораздо более эффективным и легче поддерживать масштаб.
 
 С практической точки зрения AppBase задействует разные ядра или даже разные компьютеры для поддержания разных частей блокчейна Steem. Это значительнее эффективней, чем запрашивать каждое ядро и каждый компьютер в сети поддерживать целиком весь блокчейн. Модульная организация блокчейна позволяет ему в полной мере пользоваться модульной природой компьютеров. Это одна важная ступень в длительном процессе создания полностью параллельного и целиком оптимизированного блокчейна.
 
@@ -72,11 +72,11 @@ Steem предлагает пользователям уникальную во�
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>
+SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>
+The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 
@@ -86,13 +86,13 @@ The irreversible nature of blockchain transactions is an important security feat
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem<sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>, and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 
 Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
 ### Multi Sig Authorities
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 
@@ -124,50 +124,34 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
-[^1]:    
-    Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;[&#8617;](#fnref:1){.footnote-backref}
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]:    
-    To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;[&#8617;](#fnref:2){.footnote-backref}
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
 
-[^3]:    
-    Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening&#160;[&#8617;](#fnref:3){.footnote-backref}
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]:    
-    Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system&#160;[&#8617;](#fnref:4){.footnote-backref}
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]:    
-    Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1&#160;[&#8617;](#fnref:5){.footnote-backref}
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]:    
-    Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem&#160;[&#8617;](#fnref:6){.footnote-backref}
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]:    
-    DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper&#160;[&#8617;](#fnref:7){.footnote-backref}
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
-[^8]:    
-    https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity&#160;[&#8617;](#fnref:8){.footnote-backref}
+[^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]:    
-    ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release&#160;[&#8617;](#fnref:9){.footnote-backref}
+[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]:    
-    Graphene Documentation http://docs.bitshares.org/&#160;[&#8617;](#fnref:10){.footnote-backref}
+[^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]:    
-    The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.&#160;[&#8617;](#fnref:11){.footnote-backref}
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
 
-[^12]:    
-    Steem Whitepaper https://steem.io/SteemWhitePaper.pdf&#160;[&#8617;](#fnref:12){.footnote-backref}
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]:    
-    Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:13){.footnote-backref}
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]:    
-    Steemit.com Currency Market https://steemit.com/market&#160;[&#8617;](#fnref:14){.footnote-backref}
+[^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]:    
-    “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.&#160;[&#8617;](#fnref:15){.footnote-backref}
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]:    
-    Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf&#160;[&#8617;](#fnref:16){.footnote-backref}
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf

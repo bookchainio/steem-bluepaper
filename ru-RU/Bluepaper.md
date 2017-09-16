@@ -76,7 +76,7 @@ Steem предлагает пользователям уникальную во�
 
 ### Децентрализованная биржа
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Блокчейн Syeem предлагает услуги децентрализованной биржи для токенов, напоминающую биржу Bitshares. Она позволяет пользователям торговать из токенами STEEM и SBD при помощи публичного децентрализованного однорангового рынка. Пользователи могут размещать ордеры на покупку и продажу, а сверка приказов автоматически выполнятся блокчейном. Также существует публично доступный портфель заказов и история заказов, которые пользователи могут использовать для анализа рынка. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

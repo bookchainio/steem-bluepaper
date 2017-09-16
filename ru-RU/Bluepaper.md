@@ -92,7 +92,7 @@ Steem также упрощает использование Мастер-Пар
 
 ### Мульти-подписные авторитеты
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Блокчейн Steem предоставляет возможность разделить авторитет на несколько субъектов, так несколько таких пользователей могут совместно использовать один авторитет, или несколько субъектов требуется для авторизации транзакции, чтобы та была полноценной. Это осуществляется сходным с Bitshares [^16] способом, когда за каждой парой публичного и приватного ключей закрепляется вес, и порог определяется для авторитета. Для того, чтобы транзакции были валидны, должное количество субъектов должно подписаться таким образом, чтобы их вес в сумме совпал с порогом или превысил его.
 
 ### Multiple Reward Beneficiaries
 

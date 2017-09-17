@@ -94,7 +94,7 @@ Steem также упрощает использование Мастер-Пар
 
 Блокчейн Steem предоставляет возможность разделить авторитет на несколько субъектов, так несколько таких пользователей могут совместно использовать один авторитет, или несколько субъектов требуется для авторизации транзакции, чтобы та была полноценной. Это осуществляется сходным с Bitshares [^16] способом, когда за каждой парой публичного и приватного ключей закрепляется вес, и порог определяется для авторитета. Для того, чтобы транзакции были валидны, должное количество субъектов должно подписаться таким образом, чтобы их вес в сумме совпал с порогом или превысил его.
 
-### Multiple Reward Beneficiaries
+### Множественные получатели вознаграждения
 
 For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 

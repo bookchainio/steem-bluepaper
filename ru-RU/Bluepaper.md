@@ -96,13 +96,13 @@ Steem также упрощает использование Мастер-Пар
 
 ### Множественные получатели вознаграждения
 
-Любой пост может обратить на себя финансовый интерес в виде вознаграждения со стороны многих разных людей. Ими могут быть автор, соавтор, хостинг провайдеры, блоги, поддерживающие функции комментирования, и разработчики. Любой веб-сайт или инструмент, используемый для создания поста или комментария получает возможность установить, каким образом будет распределяться вознаграждение между различными сторонами. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Любой пост может обратить на себя финансовый интерес в виде вознаграждения со стороны многих разных людей. Ими могут быть автор, соавтор, хостинг провайдеры, блоги, поддерживающие функции комментирования, и разработчики. Любой веб-сайт или инструмент, используемый для создания поста или комментария получает возможность установить, каким образом будет распределяться вознаграждение между различными сторонами. Что создает условия для всевозможных видов коллабораций и даёт платформам, основанных на блокчейне Steem, осуществлять сбор части вознаграждений своих пользователей.
 
-### Smart Media Tokens (SMT)
+### Умные медиа токены (Smart Media Tokens, SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+Этот уровень протокола находится в стадии разработки. Его документация будет опубликована здесь.
 
-### Stolen Account Recovery
+### Восстановление украденного аккаунта
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

@@ -110,7 +110,7 @@ Steem также упрощает использование Мастер-Пар
 
 Если ключ-актив или ключ-владелец пользователя взломаны, то злоумышленник получает полный доступ ко всем финансовым средствам аккаунта. Поскольку транзакции в блокчейне не подлежат отмене, пользователи не имеют возможности получить свои деньги назад после того, как они бюли украдены.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Блокчейн Steem позволяет пользователям хранить их STEEM и SBD на сберегательном счету, чтобы средства не смогли быть сняты ранее трёхдневного периода ожидания. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

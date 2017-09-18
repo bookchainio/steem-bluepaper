@@ -122,7 +122,7 @@ Steem также упрощает использование Мастер-Пар
 
 ## Заключение
 
-Уникальные вознаграждения и программы мотивации, предлагаемые блокчейном Steem и возможностями токена призваны сделать Steem точкой окончательного перехода мейнстримовых пользователей к криповалютам. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Уникальные вознаграждения и программы мотивации, предлагаемые блокчейном Steem и возможностями токена призваны сделать Steem точкой окончательного перехода мейнстримовых пользователей к криповалютам. Производительность блокчейна разработана для широкого принятия валюты и платформы массами. В сочетании с молниеносными процессами и микроскопическими комиссиями транзакций, Steem определён стать одной из лидирующих блокчейн технологий, используемой людьми по всему миру. 
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

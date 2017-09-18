@@ -112,9 +112,9 @@ Steem также упрощает использование Мастер-Пар
 
 Блокчейн Steem позволяет пользователям хранить их STEEM и SBD на сберегательном счету, чтобы средства не смогли быть сняты ранее трёхдневного периода ожидания. Кроме того, STEEM, которые содержались в графике резервирования 13 недель могут быть сняты только в размере 1/13 в неделю и после первоначального периода ожидания из семи дней. Этот временной сейф предотвращают возможность злоумышленника получить мгновенный доступ к полному объёму средств пользователя, так что законный владелец имеет время чтобы вернуть свой аккаунт до того, как с него будут выведены все средства.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ограничение пропускной способности для операций с микро-комиссией
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Поскольку заверители получают плату за генерирование новых токенов, нет необходимости взимать плату с пользователей для обеспечения блокчейна. Единственной причиной для установления платы может быть необходимость сдерживать пользователей от проведения необоснованного количества транзакций, способных повлиять на производительность блокчейна.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

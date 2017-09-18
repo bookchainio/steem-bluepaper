@@ -104,7 +104,7 @@ Steem также упрощает использование Мастер-Пар
 
 ### Восстановление украденного аккаунта
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+При обнаружении взлома аккаунта, пользователи могут изменить свои ключи при помощи приватного ключа владельца. В том случае, если злоумышленник имеет возможность взломать приватный ключ владельца и сменить пароль аккаунта, у пользователя есть 30 дней чтобы предоставить ранее действующий приватный ключ для восстановления прав на обладание собственного аккаунта при помощи новой технологии Steem - процесса восстановления украденного аккаунта. Эта возможность предоставляется частным лицам и компаниям, которые предоставляют регистрационные услуги для Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

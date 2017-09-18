@@ -2,7 +2,7 @@
 
 ## Introducere
 
-Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imutabil, împreună cu token rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valuta folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imutabil, împreună cu token rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valuta folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum de tranzacții procesate.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

@@ -34,7 +34,7 @@ Steem operates on the basis of one-STEEM, one-vote. Under this model, individual
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Viteza și scalarea pe Blockchainul Steem
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

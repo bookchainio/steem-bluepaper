@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Introduction
+## Introducción
 
 Steem proporciona un protocolo de blockchain escalable [^1] para contenido accesible de forma pública e inmutable, junto con un token (cripto-moneda) digital, veloz y libre de comisiones (llamado STEEM) [^2] que permite a la gente generar dicha moneda mediante el uso de su cerebro (lo que puede llamarse "Prueba-de-cerebro"). Los dos componentes básicos de este protocolo, tanto el blockchain como el token, dependen uno de otro por seguridad, inmutabilidad y longevidad, por lo tanto, son parte integral de su existencia mutua. Steem ha estado operando con éxito durante más de un año y ya ha superado el numero de transacciones procesadas de Bitcoin y Ethereum. [^3]
 

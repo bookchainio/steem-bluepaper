@@ -96,7 +96,7 @@ Steem также упрощает использование Мастер-Пар
 
 ### Множественные получатели вознаграждения
 
-Любой пост может обратить на себя финансовый интерес в виде вознаграждения со стороны многих разных людей. Ими могут быть автор, соавтор, хостинг провайдеры, блоги, поддерживающие комментарии блокчейна, и разработчики. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Любой пост может обратить на себя финансовый интерес в виде вознаграждения со стороны многих разных людей. Ими могут быть автор, соавтор, хостинг провайдеры, блоги, поддерживающие функции комментирования, и разработчики. Любой веб-сайт или инструмент, используемый для создания поста или комментария получает возможность установить, каким образом будет распределяться вознаграждение между различными сторонами. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Steem proporciona un protocolo de blockchain escalable [^1] para contenido accesible de forma pública e inmutable, junto con un token digital rápido y sin cargos (llamado STEEM) [^2] que permite a la gente generar dicha moneda mediante el uso de su cerebro (lo que puede llamarse "Prueba-de-cerebro"). Los dos pilares de este protocolo, ambos token de blockchain, dependen el uno en el otro para su seguridad, su inmutabilidad y su longevidad, y son, por lo tanto, partes integrales de su existencia mutua. Steem ha estado operando con éxito durante más de un año y ya ha superado a Bitcoin y a Etereum en número de transacciones procesadas. [^3]
+Steem proporciona un protocolo de blockchain escalable [^1] para contenido accesible de forma pública e inmutable, junto con un token digital veloz y libre de comisiones (llamado STEEM) [^2] que permite a la gente generar dicha moneda mediante el uso de su cerebro (lo que puede llamarse "Prueba-de-cerebro"). Los dos componentes básicos de este protocolo, tanto el blockchain como el token, dependen uno de otro por seguridad, inmutabilidad y longevidad, por lo tanto, son parte integral de su existencia mutua. Steem ha estado operando con éxito durante más de un año y ya ha superado el numero de transacciones procesadas de Bitcoin y Ethereum. [^3]
 
 Comparado con otros blockchains, Steem se destaca como la primera base de datos públicamente accesible de contenido inmutablemente almacenado en forma de texto, junto con un mecanismo de incentivos incorporado. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

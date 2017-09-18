@@ -104,11 +104,11 @@ Steem также упрощает использование Мастер-Пар
 
 ### Восстановление украденного аккаунта
 
-При обнаружении взлома аккаунта, пользователи могут изменить свои ключи при помощи приватного ключа владельца. В том случае, если злоумышленник имеет возможность взломать приватный ключ владельца и сменить пароль аккаунта, у пользователя есть 30 дней чтобы предоставить ранее действующий приватный ключ для восстановления прав на обладание собственного аккаунта при помощи новой технологии Steem - процесса восстановления украденного аккаунта. Эта возможность предоставляется частным лицам и компаниям, которые предоставляют регистрационные услуги для Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+При обнаружении взлома аккаунта, пользователи могут изменить свои ключи при помощи приватного ключа владельца. В том случае, если злоумышленник имеет возможность взломать приватный ключ владельца и сменить пароль аккаунта, у пользователя есть 30 дней чтобы предоставить ранее действующий приватный ключ для восстановления прав на обладание собственного аккаунта при помощи новой технологии Steem - процесса восстановления украденного аккаунта. Эта возможность предоставляется частным лицам и компаниям, которые предоставляют регистрационные услуги для Steem. Для регистратора является не обязательным предоставлять эту услугу для своих пользователей, но она доступна для увелечения значимости опыта, получаемого регистратором пользователей.
 
-### Security Through Time-Locks
+### Безопасность в часовом механизме
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Если ключ-актив или ключ-владелец пользователя взломаны, то злоумышленник получает полный доступ ко всем финансовым средствам аккаунта. Поскольку транзакции в блокчейне не подлежат отмене, пользователи не имеют возможности получить свои деньги назад после того, как они бюли украдены.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

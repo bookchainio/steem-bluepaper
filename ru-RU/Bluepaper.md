@@ -116,11 +116,11 @@ Steem также упрощает использование Мастер-Пар
 
 Поскольку заверители получают плату за генерирование новых токенов, нет необходимости взимать плату с пользователей для обеспечения блокчейна. Единственной причиной для установления платы может быть необходимость сдерживать пользователей от проведения необоснованного количества транзакций, способных повлиять на производительность блокчейна.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Для того, чтобы разместить разумные ограничения на импользование системы, каждый пользователь получает ограниченные пропускные способности. Всякий раз, когда пользователи выполняют на блокчейне такие операции, как первод токенов, размещение контента и голосование, они используют часть своей пропускной способности. Если пользователь израсходовал свою пропускную способность, то ему придётся ждать она восстанавливается.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Лимиты пропускной способности зависят от загруженности сети: так пропускная способность вырастает при низком использовании сети. Объём пропускной способности разрешённой аккаунту прямо пропорционален тому количеству Steem Power, которой обладает пользователь, поэтому пользователи всегда могут увеличивать свою пропускную способность увеличивая свой Steem Power.
 
-## Conclusion
+## Заключение
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

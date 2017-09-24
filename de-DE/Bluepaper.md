@@ -36,7 +36,7 @@ Darüberhinaus erlaubt es Steem nur mit STEEM zu voten wenn es sich in einer 13 
 
 ## Geschwindigkeit und Skalierung auf der Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Die Steem Blockchain ist darauf ausgerichtet eine der schnellsten und effizientesten Blockchains zu sein, dies ist notwendig um die Möglichkeit zu haben eine Größenordnung an Traffic auf sozialen Medien zu unterstützen die größer ist als Reddit. Steem hat in der Anzahl an Transaktionen bereits Bitcoin überholt und es ist möglich Steem so zu skalieren, dass mehr als 10,000 Transaktionen pro Sekunde unterstützt werden.
 
 ### Delegated Proof of Stake (DPoS)
 

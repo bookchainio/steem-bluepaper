@@ -22,7 +22,7 @@ Im Gegensatz zu reinen PoW Kryptowährungen werden in Steem Tokens mit einer fix
 
 Die Rate mit der neue Tokens generiert werden wurde auf 9,5% pro Jahr festgelegt, mit Startdatum Dezember 2016, diese Rate verringert sich um 0,01% alle 250,000 Blocks, oder um etwa 0,5% pro Jahr. Die Inflation wird mit dieser Rate fortgesetzt bis 0,95% erreicht werden, nach einer Periode von ungefähr 20,5 Jahren.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Von den jährlich generierten neuen Tokens der Steemit Blockchain werden 75% in den Belohnungspool transferiert, aus dem die Autoren und Kuratoren ihre Tokens erhalten. 15% werden an Besitzer von investierten Tokens verteilt und 10% gehen an die Witnesses, die die Blocks, durch Teilnahme am Steem internen DPoS Konsens Protokoll, erschaffen.
 
 #### Rewards for Content Creators and Curators
 

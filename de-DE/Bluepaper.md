@@ -10,7 +10,7 @@ Auf dem Gebiet der Kryptowährungen machen diese einzigartigen Eigenschaften STE
 
 Zusätzlich zu diesen Erweiterungen der Blockchain- und Token-Technologie, bietet Steem als System zusätzliche fortgeschrittene Features, die die Benutzerfreundlichkeit erhöhen, wie zum Beispiel die Wiederherstellung von gestohlenen Konten[^5], Escrow Dienste, Content der von Benutzern beworben werden kann, ein Reputations-System und ein Konto für Ersparnisse. Dies alles wird erledigt während wir den Benutzern einen Bestätigungszeitraum von 3 Sekunden und gebührenfreie Transaktionen zur Verfügung stellen. All dies unterstützt die Mission eine smarte und soziale Währung, für Verleger und Erschaffer von Communities quer durch das Internet, herauszubringen.
 
-## Proof of Brain: Smart and Social Tokens
+## Proof of Brain: Smarte und soziale Tokens
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

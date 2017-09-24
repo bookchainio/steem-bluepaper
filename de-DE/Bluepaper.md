@@ -24,11 +24,11 @@ Die Rate mit der neue Tokens generiert werden wurde auf 9,5% pro Jahr festgelegt
 
 Von den jährlich generierten neuen Tokens der Steemit Blockchain werden 75% in den Belohnungspool transferiert, aus dem die Autoren und Kuratoren ihre Tokens erhalten. 15% werden an Besitzer von investierten Tokens verteilt und 10% gehen an die Witnesses, die die Blocks, durch Teilnahme am Steem internen DPoS Konsens Protokoll, erschaffen.
 
-#### Rewards for Content Creators and Curators
+#### Belohnungen für die Erschaffer von Content und Kuratoren
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Die Content erschaffenden Benutzer fügen Wert zum Netzwerk hinzu indem sie Beiträge erzeugen die neue Benutzer auf die Plattform führen oder schon vorhandene unterhält oder beschäftigt. Dies hilft die Währung an eine größere Anzahl Benutzer zu verteilen und verstärkt den Effekt des Netwerks. Die Benutzer, die ihre Zeit dafür aufwenden Content zu bewerten, spielen innerhalb der Verteilung der Währung an die User, die den meisten Mehrwert bieten, eine entscheidende Rolle. Die Blockchain belohnt beide dieser Aktivitäten in Relation zur Ihrem Wert basierend auf der gemeinsamen Weisheit der Community, die durch das Anteilsbasierte voting System geschaffen wird.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Voting mit anteilsbasierten Tokens um die Verteilung der Belohnung festzulegen
 
 Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 

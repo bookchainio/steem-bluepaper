@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Einführung
+## Einleitung
 
 Steem bietet ein skalierbares Blockchain Protokoll[^1] für öffentlich zugänglichen und unveränderlichen Inhalt sowie einen schnellen und gebührenfreien digitalen Token (genannt STEEM)[^2] an, der es Personen ermöglicht die Währung zu verdienen indem sie ihr Gehirn nutzen. (was man als "Proof-of-Brain" oder "Nachweis eines Gehirns" bezeichnen kann). Die zwei Bausteine dieses Protokolls, Blockchain und Token, sind für die Sicherheit, Unveränderlichkeit und Langlebigkeit voneinander abhängig und sind deswegen integraler Bestandteil der jeweils anderen Existenz. Steem ist bereits seit über einem Jahr erfolgreich in Betrieb und hat nun die Anzahl der verarbeiteten Transaktionen von sowohl Bitcoin als auch Ethereum übertroffen.[^3]
 

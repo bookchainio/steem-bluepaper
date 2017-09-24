@@ -16,7 +16,7 @@ Token Systeme, die Benutzer dafür belohnen einen Beitrag für eine Token-basier
 
 ### Der Belohnungspool ("Wo kommen die Tokens eigentlich her?")
 
-Einer der innovativsten (und am meisten mißverstandene) Aspekt der Steemit Blockchain ist der "Belohnungspool" aus dem die Tokens an die Ersteller von wertvollen Beiträgen verteilt werden. Um zu verstehen was der Belohnungspool eigentlich ist, muss erst verstanden werden, dass Tokens in DPoS Blockchains im Vergleich zu PoW Blockchains unterschiedlich erstellt werden. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Einer der innovativsten (und am meisten mißverstandene) Aspekt der Steemit Blockchain ist der "Belohnungspool" aus dem die Tokens an die Ersteller von wertvollen Beiträgen verteilt werden. Um zu verstehen was der Belohnungspool eigentlich ist, muss erst verstanden werden, dass Tokens in DPoS Blockchains im Vergleich zu PoW Blockchains unterschiedlich erstellt werden. In traditionellen PoW Blockchains werden die Tokens regelmäßig erstellt und an alle "Miner", deren Maschinen Arbeit ausführen, zufällig verteilt.
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

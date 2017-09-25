@@ -58,7 +58,7 @@ Praktisch gesprochen ermöglicht es AppBase verschiedenen Kernen oder gar versch
 
 ## Die Features der Steem Plattform
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Die Steeming Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie ein System um digitale Tokens zu verarbeiten, auf der anderen eine mainstream Social-Media Plattform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

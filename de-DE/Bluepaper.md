@@ -64,7 +64,7 @@ Die Steeming Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie
 
 Steem bietet den Benutzern die einzigartige Möglichkeit verschiedenartigen Content zu veröffentlichen und direkt innerhalb der unveränderbaren Blockchain in Textform abzuspreichern. Einmal in der Blockchain gespeichert sind die Daten öffentlich für Entwickler verfügbar um darauf aufzubauen. Entwickler haben die Möglichkeit mit dem Content direkt in der Blockchain zu agieren in dem sie die bereitgestellten APIs nutzen. Einige der Primitive der Blockchain, die die Entwickler benutzen können, beinhalten Kontonamen, Posts, Kommentare, Votes und den Kontostand.
 
-### Native Name System
+### Das System der nativen Namen
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

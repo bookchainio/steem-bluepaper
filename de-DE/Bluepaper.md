@@ -40,9 +40,9 @@ Die Steem Blockchain ist darauf ausgerichtet eine der schnellsten und effiziente
 
 ### Delegated Proof of Stake (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Oft stellt der Proof-of-Work (PoW)[^6] Algorithmus einen Flaschenhals dar, viele Blockchains können nicht über 3 Transaktionen pro Sekunde, ein kleiner Bruchteil der Finanztransaktionen weltweit, hinaus skalieren. Steem brauchte viel mehr Skalierungsmöglichkeiten und Geschwindigkeit als von PoW zur Verfügung gestellt werden kann, also wurde ein weniger bekannter Algorithmus, genannt Delegated Proof of Stake (DPoS)[^7], benutzt um die Basis für eine Blockchain zu legen die Millionen von Nutzer bedienen kann.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Aufgrund dieses DPoS ist es der Steem Blockchain möglich alle 3 Sekunden einen neuen Block zu generieren, mit minimalem Berechnungsaufwand. Das bedeutet das die Blockchain mehr Transaktionen verarbeiten kann und insgesamt mehr Informationen enthält, inklusive der Beiträge.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

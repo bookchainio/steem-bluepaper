@@ -48,13 +48,13 @@ Durch Festlegung der Regeln im Falle eines Hardforks können die Witnesses, die 
 
 ### ChainBase
 
-ChainBase[^9] ist der Datenbankteil des Blockchain-Stacks und ersetzte Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] ist der Datenbankteil des Blockchain-Stacks und ersetzte Graphene[^10] in 2016. ChainBase kann schneller laden und beenden, unterstützt parallelen Zugriff auf die Datenbank und ist robuster in Bezug auf Abstürze als sein Vorgänger. Ebenso kommen korrupte Informationen in der Datenbank seltener vor, es erlaubt direkte "Snapshots" eines gesamten Datenbankzustandes und es kann mehr RPC requests bei gleichem Speicherverbrauch bedienen.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase ist der erste Schritt in der Erschaffung einer multi-chain FABRIC. AppBase ermöglich es vielen Komponenten der Steemit Blockchain modular zu werden indem zusätzliche non-consensus Blockchains als dedizierte Plugins erschaffen werden. Diese Plugins können viel schneller ein Update erhalten weil dafür nicht die gesamte Blockchain durchlaufen werden muss. Das macht steemd[^11] deutlich effizienter, einfacher zu warten und zu skalieren.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Praktisch gesprochen ermöglicht es AppBase verschiedenen Kernen oder gar verschiedenen Computer unterschiedliche Teile der Blockchain vorzuhalten. Das ist deutlich effizienter als jeden Kern und jeden Computer im Netzwerk dazu zu zwingen die gesamte Blockchain zu speichern. Die Modularisierung der Blockchain ermöglicht es den gesamten Vorteil zu nutzen der der modularen Natur der Computer innewohnt. Die ist ein notwendiger Schritt im langen Prozess eine komplett parallele und voll optimierte Blockchain zu erschaffen.
 
 ## Steem’s Platform Features
 

@@ -60,9 +60,9 @@ Praktisch gesprochen ermöglicht es AppBase verschiedenen Kernen oder gar versch
 
 Die Steeming Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie ein System um digitale Tokens zu verarbeiten, auf der anderen eine mainstream Social-Media Plattform. Die Features die von der Blockchain angeboten werden müssen beiden gerecht werden und den Benutzer eine Erfahrung der Spitzenklasse bieten wenn er beide Aspekte der Blockchain benutzt.
 
-### Grundregeln für Content Applikationen
+### Primitive designet für Content Applikationen
 
-Steem bietet den Benutzern die einzigartige Möglichkeit verschiedenartigen Content zu veröffentlichen und direkt innerhalb der unveränderbaren Blockchain in Textform abzuspreichern. Einmal in der Blockchain gespeichert sind die Daten öffentlich für Entwickler verfügbar um darauf aufzubauen. Entwickler haben die Möglichkeit mit dem Content direkt in der Blockchain zu agieren in dem sie die bereitgestellten APIs nutzen. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem bietet den Benutzern die einzigartige Möglichkeit verschiedenartigen Content zu veröffentlichen und direkt innerhalb der unveränderbaren Blockchain in Textform abzuspreichern. Einmal in der Blockchain gespeichert sind die Daten öffentlich für Entwickler verfügbar um darauf aufzubauen. Entwickler haben die Möglichkeit mit dem Content direkt in der Blockchain zu agieren in dem sie die bereitgestellten APIs nutzen. Einige der Primitive der Blockchain, die die Entwickler benutzen können, beinhalten Kontonamen, Posts, Kommentare, Votes und den Kontostand.
 
 ### Native Name System
 

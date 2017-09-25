@@ -62,7 +62,7 @@ Die Steeming Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie
 
 ### Grundregeln für Content Applikationen
 
-Steem bietet den Benutzern die einzigartige Möglichkeit verschiedenartigen Content zu veröffentlichen und direkt innerhalb der unveränderbaren Blockchain in Textform abzuspreichern. Einmal in der Blockchain gespeichert sind die Daten öffentlich für Entwickler verfügbar um darauf aufzubauen. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem bietet den Benutzern die einzigartige Möglichkeit verschiedenartigen Content zu veröffentlichen und direkt innerhalb der unveränderbaren Blockchain in Textform abzuspreichern. Einmal in der Blockchain gespeichert sind die Daten öffentlich für Entwickler verfügbar um darauf aufzubauen. Entwickler haben die Möglichkeit mit dem Content direkt in der Blockchain zu agieren in dem sie die bereitgestellten APIs nutzen. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -96,15 +96,15 @@ Die Steem Blockchain erlaubt es einer Autorität über verschiedene Entitäten v
 
 ### Multiple Begünstige bei Belohnungen
 
-Für jeden Post kann es mehrere verschiedene Personen geben die ein finanzielles Interesse an der Belohnung haben. Diese beinhalten den Autor, mögliche Co-Autoren, Zitierende, Provider für das Hosting von Inhalten, Blogs die eingebettete Blockchain Kommentare beinhalten und Entwickler von Tools. Was immer auch für eine Website oder Tool verwendet wird um einen Artikel zu schreiben oder zu kommentieren, diese hat auch die Möglichkeit die Verteilung der Belohnungen unter den einzelnen Parteien festzulegen. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Für jeden Post kann es mehrere verschiedene Personen geben die ein finanzielles Interesse an der Belohnung haben. Diese beinhalten den Autor, mögliche Co-Autoren, Zitierende, Provider für das Hosting von Inhalten, Blogs die eingebettete Blockchain Kommentare beinhalten und Entwickler von Tools. Was immer auch für eine Website oder Tool verwendet wird um einen Artikel zu schreiben oder zu kommentieren, diese hat auch die Möglichkeit die Verteilung der Belohnungen unter den einzelnen Parteien festzulegen. Das erlaubt vielfältige Formen der Zusammenarbeit, genauso wie es für Plattformen die auf der Steemit Blockchain aufbauen einen Weg bietet einen Teil der Belohnungen ihrer Benutzer einzusammeln.
 
 ### Smart Media Tokens (SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+Diese Protokollschicht befindet sich in Entwicklung. Das Konzept wird hier veröffentlicht werden.
 
-### Stolen Account Recovery
+### Wiederherstellung gestohlener Konten
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die Keys durch Nutzung des privaten Owner Keys zu verändern. Sollte es dem Angreifer gelingen den privaten Owner Key eines Kontos zu stehlen und die Passwörter des Accounts verändern hat der betroffene Benutzer 30 Tage Zeit den vorherigen funktionierenden private Owner Key an Steems einmaligen Wiederherstellungsprozess für gestohlene Konten zu schicken und dadurch die Kontrolle über das Konto zurückerhalten. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

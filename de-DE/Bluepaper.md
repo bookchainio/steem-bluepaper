@@ -108,9 +108,9 @@ Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die K
 
 ### Sicherheit durch Zeit-Schlösser
 
-Wenn der Active oder Owner Key eines Benutzers kompromittiert wurde hätte der Angreifer vollen Zugang zu allen Mitteln innerhalb des Kontos. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Wenn der Active oder Owner Key eines Benutzers kompromittiert wurde hätte der Angreifer vollen Zugang zu allen Mitteln innerhalb des Kontos. Da die Transaktionen einer Blockchain irreversibel sind hätte der Benutzer keinen Weg seine Mittel nach einem erfolgten Diebstahl zurück zu bekommen.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Die Steemit Blockchain erlaubt es ihren Benutzern die STEEM und SBD Tokens in einem Spar Konto zu hinterlegen, diese Mittel können erst nach einer 3 tägigen Warteperiode abgerufen werden. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

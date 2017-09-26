@@ -104,11 +104,11 @@ Diese Protokollschicht befindet sich in Entwicklung. Das Konzept wird hier verö
 
 ### Wiederherstellung gestohlener Konten
 
-Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die Keys durch Nutzung des privaten Owner Keys zu verändern. Sollte es dem Angreifer gelingen den privaten Owner Key eines Kontos zu stehlen und die Passwörter des Accounts verändern hat der betroffene Benutzer 30 Tage Zeit den vorherigen funktionierenden private Owner Key an Steems einmaligen Wiederherstellungsprozess für gestohlene Konten zu schicken und dadurch die Kontrolle über das Konto zurückerhalten. Dies kann durch eine Person oder Firma angeboten werden die auch Neuanmeldungen betreuen. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die Keys durch Nutzung des privaten Owner Keys zu verändern. Sollte es dem Angreifer gelingen den privaten Owner Key eines Kontos zu stehlen und die Passwörter des Accounts verändern hat der betroffene Benutzer 30 Tage Zeit den vorherigen funktionierenden private Owner Key an Steems einmaligen Wiederherstellungsprozess für gestohlene Konten zu schicken und dadurch die Kontrolle über das Konto zurückerhalten. Dies kann durch eine Person oder Firma angeboten werden die auch Neuanmeldungen betreuen. Es ist nicht zwingend notwendig das eine solche Person oder Firma diesen Service für ihre Benutzer bietet, aber er steht zur Verfügung und kann genutzt werden um den Wert dieser Person oder Firma für den Nutzer zu erhöhen.
 
-### Security Through Time-Locks
+### Sicherheit durch Zeit-Schlösser
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Wenn der Active oder Owner Key eines Benutzers kompromittiert wurde hätte der Angreifer vollen Zugang zu allen Mitteln innerhalb des Kontos. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

@@ -76,9 +76,9 @@ SBD Tokens sind so entworfen das sie immer an den Wert von einem Dollar gebunden
 
 ### Dezentralisierte Börse
 
-Die Steem Blockchain bietet eine dezentralisierte Token Börse, ähnlich wie die Bitshares Börse.[^13] Die Börse ermöglicht es Benutzern ihre STEEM und SBD Tokens in einem öffentlichen, dezentralisierten peer-to-peer Markt zu handeln. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Die Steem Blockchain bietet eine dezentralisierte Token Börse, ähnlich wie die Bitshares Börse.[^13] Die Börse ermöglicht es Benutzern ihre STEEM und SBD Tokens in einem öffentlichen, dezentralisierten peer-to-peer Markt zu handeln. Benutzer haben die Möglichkeit Buy und Sell Order zu platzieren, passende Order werden von der Blockchain automatisch verarbeitet. Es gibt auch ein öffentliche zugängliches Orderbuch und eine Historie der getätigten Geschäfte, dies ermöglicht eine Analyse des Markts. Die Benutzer können mit der Börse direkt über die Blockchain Api interagieren oder über eine GUI wie die von Steemit.com..[^14]
 
-### Payments Through Escrow
+### Zahlungen durch Escrow
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

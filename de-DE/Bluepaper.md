@@ -90,9 +90,9 @@ Diese privaten Keys sind der Posting-, Active- und Owner- Key. Der Posting Key e
 
 Steem benutzt ebenso ein Master Passwort um die drei Keys zu verschlüsseln. Webservices können ein Master Passwort verwenden das mit dem notwendigen privaten Key entschlüsselt und signiert. Master Passwörter können Benutzern erlauben verschiedenen Services zu vertrauen um zu vermeiden das unpassende Keys über Server verbreitet werden, dadurch verbessert sich die User Experience während auf der Client-Seite eine sichere Umgebung bereitgestellt wird.
 
-### Multi Sig Authorities
+### Multi Sig Authorisierung
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Die Steem Blockchain erlaubt es einer Autorität über verschiedene Entitäten verteilt zu sein, so dass viele Benutzer möglicherweise die gleiche Autorität teilen oder viele Entitäten benötigt werden um eine Transaktion zu autorisieren und dafür zu sorgen das diese gültig ist. Die wird auf dem selben Weg getan wie das auch Bitshares[^16] tut, jedem öffentlich/privaten Keypaar wird ein Gewicht zugeschrieben und insgesamt ein unterer Grenzwert für die Autorisierung festgelegt. Damit eine Transaktion gültig ist müssen genug Entitäten unterschreiben, so dass die Summe der Gewichte höher ist als der untere Grenzwert.
 
 ### Multiple Reward Beneficiaries
 

@@ -104,7 +104,7 @@ Diese Protokollschicht befindet sich in Entwicklung. Das Konzept wird hier verö
 
 ### Wiederherstellung gestohlener Konten
 
-Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die Keys durch Nutzung des privaten Owner Keys zu verändern. Sollte es dem Angreifer gelingen den privaten Owner Key eines Kontos zu stehlen und die Passwörter des Accounts verändern hat der betroffene Benutzer 30 Tage Zeit den vorherigen funktionierenden private Owner Key an Steems einmaligen Wiederherstellungsprozess für gestohlene Konten zu schicken und dadurch die Kontrolle über das Konto zurückerhalten. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Wenn das Konto eines Benutzers kompromittiert wurde ist es diesem möglich die Keys durch Nutzung des privaten Owner Keys zu verändern. Sollte es dem Angreifer gelingen den privaten Owner Key eines Kontos zu stehlen und die Passwörter des Accounts verändern hat der betroffene Benutzer 30 Tage Zeit den vorherigen funktionierenden private Owner Key an Steems einmaligen Wiederherstellungsprozess für gestohlene Konten zu schicken und dadurch die Kontrolle über das Konto zurückerhalten. Dies kann durch eine Person oder Firma angeboten werden die auch Neuanmeldungen betreuen. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

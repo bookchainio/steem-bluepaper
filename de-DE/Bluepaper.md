@@ -94,9 +94,9 @@ Steem benutzt ebenso ein Master Passwort um die drei Keys zu verschlüsseln. Web
 
 Die Steem Blockchain erlaubt es einer Autorität über verschiedene Entitäten verteilt zu sein, so dass viele Benutzer möglicherweise die gleiche Autorität teilen oder viele Entitäten benötigt werden um eine Transaktion zu autorisieren und dafür zu sorgen das diese gültig ist. Die wird auf dem selben Weg getan wie das auch Bitshares[^16] tut, jedem öffentlich/privaten Keypaar wird ein Gewicht zugeschrieben und insgesamt ein unterer Grenzwert für die Autorisierung festgelegt. Damit eine Transaktion gültig ist müssen genug Entitäten unterschreiben, so dass die Summe der Gewichte höher ist als der untere Grenzwert.
 
-### Multiple Reward Beneficiaries
+### Multiple Begünstige bei Belohnungen
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Für jeden Post kann es mehrere verschiedene Personen geben die ein finanzielles Interesse an der Belohnung haben. Diese beinhalten den Autor, mögliche Co-Autoren, Zitierende, Provider für das Hosting von Inhalten, Blogs die eingebettete Blockchain Kommentare beinhalten und Entwickler von Tools. Was immer auch für eine Website oder Tool verwendet wird um einen Artikel zu schreiben oder zu kommentieren, diese hat auch die Möglichkeit die Verteilung der Belohnungen unter den einzelnen Parteien festzulegen. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

@@ -88,7 +88,7 @@ Steem setzt als erste Blockchain eine hierarchisches Private Key System ein um T
 
 Diese privaten Keys sind der Posting-, Active- und Owner- Key. Der Posting Key erlaubt es Konten zu veröffentlichen, kommentieren, voten, resteemen[^15] und anderen Benutzern zu folgen oder sie auf Stumm zu setzen. Der Active key ist für sensitivere Tasks wie z. B. Mittel transferieren, power up/down Transaktionen, das umwandeln von Steem Dollars, für Witnesses voten, Markt oders platzieren und den Posting Key zu resetten. Der Owner Key wird nur benutzt wenn es absolut notwendig ist. Das ist der mächtigste Key da man mit ihm jeden anderen Key eines Kontos ändern kann, inklusive des Owner Keys, und er wird auch zum Beweis des Besitzes während der Kontowiederherstellung benutzt. Idealerweise würde man diesen offline speichern und ihn nur dann benutzen wenn die Konto Keys geändert werden müssen oder ein kompromittiertes Konto wiederhergestellt werden soll.
 
-Steem benutzt ebenso ein Master Passwort um die drei Keys zu verschlüsseln. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem benutzt ebenso ein Master Passwort um die drei Keys zu verschlüsseln. Webservices können ein Master Passwort verwenden das mit dem notwendigen privaten Key entschlüsselt und signiert. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
 ### Multi Sig Authorities
 

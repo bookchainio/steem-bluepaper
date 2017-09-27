@@ -118,9 +118,9 @@ Da die Witnesses komplett durch das Erstellen neuer Tokens bezahlt werden gibt e
 
 Um die Nutzung des Systems in vernünftigen Grenzen zu halten erhält jeder Benutzer eine begrenzte Bandbreite. Wenn ein Benutzer eine Aktion auf der Blockchain ausführt, wie zum Beispiel das transferieren von Tokens, content posten, voten oder ähnliches, wird ein Teil der Bandbreite dafür aufgebraucht. Wenn ein Benutzer die Bandbreite überschritten hat können keine Aktionen mehr ausgeführt werden und er muss warten bis die Bandbreite sich wieder auflädt.
 
-Die Bandbreitenlimits passen sich der derzeitigen Netzwerklast an, die Benutzer haben also ein höheres Limit wenn die Netzwerklast gering ist. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Die Bandbreitenlimits passen sich der derzeitigen Netzwerklast an, die Benutzer haben also ein höheres Limit wenn die Netzwerklast gering ist. Die Menge der Bandbreite die ein Konto nutzen darf ist direkt proportional zur Menge an SteemPower die dieser Benutzer hat, die Bandbreite kann also durch ein erhöhen der SteemPower ebenfalls erhöht werden.
 
-## Conclusion
+## Fazit
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

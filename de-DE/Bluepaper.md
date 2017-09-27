@@ -112,7 +112,7 @@ Wenn der Active oder Owner Key eines Benutzers kompromittiert wurde hätte der A
 
 Die Steemit Blockchain erlaubt es ihren Benutzern die STEEM und SBD Tokens in einem Spar Konto zu hinterlegen, diese Mittel können erst nach einer 3 tägigen Warteperiode abgerufen werden. Zusätzlich kann Steem das in einem 13 Wöchigen Anlagezyklus ist nur mit einer Rate von 1/13 pro Woche abgehoben werden, nach einer initialen Wartezeit von 7 Tagen. Diese Zeitschlösser verhindern das der Angreifer direkt volle Kontrolle über die gesamten Mittel des Benutzers erlangt, so dass der rechtmäßige Besitzer Zeit genug hat die Kontrolle über sein Konto wieder zu erlangen bevor alle Mittel abgezogen werden konnten.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limitierung der Bandbreite für gebührenlose Transaktionen
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

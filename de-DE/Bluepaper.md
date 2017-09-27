@@ -114,11 +114,11 @@ Die Steemit Blockchain erlaubt es ihren Benutzern die STEEM und SBD Tokens in ei
 
 ### Limitierung der Bandbreite für gebührenlose Transaktionen
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Da die Witnesses komplett durch das Erstellen neuer Tokens bezahlt werden gibt es keinen Grund eine Gebühr von den Benutzern zu verlangen um die Blockchain am Leben zu erhalten. Der einzige Grund eine Gebühr zu verlangen wäre als abschreckende Maßnahme um zu verhindern, dass Benutzer eine Vielzahl an unsinnigen Transaktionen tätigen, die möglicherweise einen Einfluss auf die Performance der Blockchain haben könnten.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Um die Nutzung des Systems in vernünftigen Grenzen zu halten erhält jeder Benutzer eine begrenzte Bandbreite. Wenn ein Benutzer eine Aktion auf der Blockchain ausführt, wie zum Beispiel das transferieren von Tokens, content posten, voten oder ähnliches, wird ein Teil der Bandbreite dafür aufgebraucht. Wenn ein Benutzer die Bandbreite überschritten hat können keine Aktionen mehr ausgeführt werden und er muss warten bis die Bandbreite sich wieder auflädt.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Die Bandbreitenlimits passen sich der derzeitigen Netzwerklast an, die Benutzer haben also ein höheres Limit wenn die Netzwerklast gering ist. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
 ## Conclusion
 

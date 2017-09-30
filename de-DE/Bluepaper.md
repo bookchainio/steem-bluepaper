@@ -1,8 +1,8 @@
 ![](\headerimage.png)
 
-## Einleitung
+## Einführung
 
-Steem bietet ein skalierbares Blockchain Protokoll[^1] für öffentlich zugänglichen und unveränderlichen Inhalt sowie einen schnellen und gebührenfreien digitalen Token (genannt STEEM)[^2] an, der es Personen ermöglicht die Währung zu verdienen indem sie ihr Gehirn nutzen. (was man als "Proof-of-Brain" oder "Nachweis eines Gehirns" bezeichnen kann). Die zwei Bausteine dieses Protokolls, Blockchain und Token, sind für die Sicherheit, Unveränderbarkeit und Langlebigkeit voneinander abhängig und sind deswegen integraler Bestandteil der jeweils anderen Existenz. Steem ist bereits seit über einem Jahr erfolgreich in Betrieb und hat nun die Anzahl der verarbeiteten Transaktionen von sowohl Bitcoin als auch Ethereum übertroffen.[^3]
+Steem bietet ein skalierbares Blockchain Protokoll[^1] für öffentlich zugänglichen und unveränderlichen Inhalt sowie einen schnellen und gebührenfreien digitalen Token (genannt STEEM)[^2] an, der es Personen ermöglicht die Währung zu verdienen indem sie ihr Gehirn nutzen. (was man als "Proof-of-Brain" oder "Nachweis eines Gehirns" bezeichnen kann). Die zwei Bausteine dieses Protokolls, Blockchain und Token, sind für die Sicherheit, Unveränderbarkeit und Langlebigkeit voneinander abhängig und sind deswegen integraler Bestandteil der jeweils anderen Existenz. Steem ist bereits seit über einem Jahr erfolgreich in Betrieb und hat die Anzahl der verarbeiteten Transaktionen von sowohl Bitcoin als auch Ethereum übertroffen.[^3]
 
 Im Vergleich zu anderen Blockchains zeichnet Steem besonders aus, dass es die erste öffentlich zugängliche Datenbank für unveränderbaren Content in Form von Klartext bietet und darüber hinaus einen eingebauten Incentivierungs-Mechanismus besitzt. Dadurch ist Steem eine Veröffentlichungsplattform von der jede Internetapplikation Daten ziehen und veröffentlichen kann während diejenigen die den wertvollsten Content liefern dafür belohnt werden.
 
@@ -76,7 +76,7 @@ SBD Tokens sind so entworfen das sie immer an den Wert von einem Dollar gebunden
 
 ### Dezentralisierte Börse
 
-Die Steem Blockchain bietet eine dezentralisierte Token Börse, ähnlich wie die Bitshares Börse.[^13] Die Börse ermöglicht es Benutzern ihre STEEM und SBD Tokens in einem öffentlichen, dezentralisierten peer-to-peer Markt zu handeln. Benutzer haben die Möglichkeit Buy und Sell Order zu platzieren, passende Order werden von der Blockchain automatisch verarbeitet. Es gibt auch ein öffentliche zugängliches Orderbuch und eine Historie der getätigten Geschäfte, dies ermöglicht eine Analyse des Markts. Die Benutzer können mit der Börse direkt über die Blockchain Api interagieren oder über eine GUI wie die von Steemit.com..[^14]
+The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] Die Börse ermöglicht es Benutzern ihre STEEM und SBD Tokens in einem öffentlichen, dezentralisierten peer-to-peer Markt zu handeln. Benutzer haben die Möglichkeit Buy und Sell Order zu platzieren, passende Order werden von der Blockchain automatisch verarbeitet. Es gibt auch ein öffentliche zugängliches Orderbuch und eine Historie der getätigten Geschäfte, dies ermöglicht eine Analyse des Markts. Die Benutzer können mit der Börse direkt über die Blockchain Api interagieren oder über eine GUI wie die von Steemit.com..[^14]
 
 ### Zahlungen durch Escrow (Treuhand)
 

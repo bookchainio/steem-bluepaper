@@ -58,7 +58,7 @@ Praktisch gesprochen ermöglicht es AppBase verschiedenen Kernen, oder gar versc
 
 ## Die Features der Steem Plattform
 
-Die Steeming Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie ein System um digitale Tokens zu verarbeiten, auf der anderen eine mainstream Social-Media Plattform. Die Features, die von der Blockchain angeboten werden, müssen beiden gerecht werden und dem Benutzer eine Weltklasse–Erfahrung bieten, wenn er beide Aspekte der Blockchain benutzt.
+Die Steem Blockchain dient einem doppelten Zweck, auf der einen Seite ist sie ein System um digitale Tokens zu verarbeiten, auf der anderen eine mainstream Social-Media Plattform. Die Features, die von der Blockchain angeboten werden, müssen beiden gerecht werden und dem Benutzer eine Weltklasse–Erfahrung bieten, wenn er beide Aspekte der Blockchain benutzt.
 
 ### Einfachheiten, entworfen für Content Anwendungen
 

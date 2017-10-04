@@ -22,29 +22,29 @@ Im Gegensatz zu reinen PoW Kryptowährungen werden Steem Tokens mit einer fixen 
 
 Die Rate mit der neue Tokens generiert werden wurde auf 9,5% pro Jahr festgelegt, mit Startdatum Dezember 2016, diese Rate verringert sich um 0,01% alle 250,000 Blocks, oder um etwa 0,5% pro Jahr. Die Inflation wird mit dieser Rate fortgesetzt bis 0,95% erreicht werden, nach einer Periode von ungefähr 20,5 Jahren.
 
-Von den jährlich generierten neuen Tokens der Steemit Blockchain werden 75% in den Belohnungspool transferiert, aus dem die Autoren und Kuratoren ihre Tokens erhalten. 15% werden an Besitzer von investierten Tokens verteilt und 10% gehen an die Witnesses, die die Blocks, durch Teilnahme am Steem internen DPoS Konsens Protokoll, erschaffen.
+Von den jährlich generierten neuen Tokens der Steemit Blockchain werden 75% in den Belohnungspool transferiert, aus dem die Autoren und Kuratoren ihre Tokens erhalten. 15% werden an Besitzer von investierten Tokens verteilt und 10% gehen an die Witnesses, die Blöcke durch ihre Kooperation im Steem–internen DPoS Konsens Protokoll produzieren.
 
-#### Belohnungen für die Erschaffer von Content und Kuratoren
+#### Belohnungen für die Ersteller von Content und Kuratoren
 
-Die Content erschaffenden Benutzer fügen Wert zum Netzwerk hinzu indem sie Beiträge erzeugen die neue Benutzer auf die Plattform führen oder schon vorhandene unterhält oder beschäftigt. Dies hilft die Währung an eine größere Anzahl Benutzer zu verteilen und verstärkt den Effekt des Netwerks. Die Benutzer, die ihre Zeit dafür aufwenden Content zu bewerten, spielen innerhalb der Verteilung der Währung an die User, die den meisten Mehrwert bieten, eine entscheidende Rolle. Die Blockchain belohnt beide dieser Aktivitäten in Relation zur Ihrem Wert basierend auf der gemeinsamen Weisheit der Community, die durch das Anteilsbasierte voting System geschaffen wird.
+Die Content erschaffenden Benutzer fügen dem Netzwerk Wert hinzu indem sie Beiträge erzeugen, die neue Benutzer auf die Plattform führen, sowie bereits vorhandene bindet und unterhält. Dies hilft die Währung an eine größere Anzahl Benutzer zu verteilen und verstärkt den Effekt des Netwerks. Die Benutzer, die ihre Zeit dafür aufwenden Content zu bewerten, spielen innerhalb der Verteilung der Währung an die User, die den meisten Mehrwert bieten, eine entscheidende Rolle. Die Blockchain belohnt beide dieser Aktivitäten in Relation zur Ihrem Wert basierend auf der gemeinsamen Weisheit der Community, die durch das anteilsbasierte Voting System geschaffen wird.
 
 #### Voting mit anteilsbasierten Tokens um die Verteilung der Belohnung festzulegen
 
-Steem arbeitet auf der Basis ein Steem, ein Vote. Mit diesem Modell haben Personen die am meisten zur Plattform beigetragen haben, gemessen an ihrem Kontostand, den meisten Einfluss wie Beiträge bewerten werden. Anteile können gekauft oder verdient werden. Benutzer können keinen zusätzlichen Einfluss durch mehrere Konten gewinnen, da ein einzelnes Konto mit einer Anzahl Anteile genau den selben Einfluss hat als 2 verschiedene Konten, auf die diese Anteile aufgeteilt sind. Der einzige Weg für Benutzer ihren Einfluss zu erhöhen ist ihre Anteile zu erhöhen.
+Steem arbeitet auf der Basis ein Steem, ein Vote. Mit diesem Modell haben Personen die am meisten zur Plattform beigetragen haben, gemessen an ihrem Kontostand, den meisten Einfluss darauf, wie hoch Beiträge bewertet werden. Anteile können gekauft oder verdient werden. Benutzer können keinen zusätzlichen Einfluss durch mehrere Konten gewinnen, da ein einzelnes Konto mit einer Anzahl Anteile genau den selben Einfluss hat als 2 verschiedene Konten, auf die diese Anteile aufgeteilt sind. Der einzige Weg für Benutzer ihren Einfluss zu erhöhen ist ihre Anteile zu erhöhen.
 
-Darüberhinaus erlaubt es Steem nur mit STEEM zu voten wenn es sich in einer 13 wöchigen Anlagephase, die Steem Power genannt wird, befindet. Mit diesem Modell haben Benutzer einen finanziellen Anreiz ihre Votes zur Maximierung des Langzeitwertes ihres STEEM einzusetzen.
+Darüberhinaus erlaubt es Steem nur mit STEEM zu voten wenn es sich in einer 13 wöchigen Anlagephase, die Steem Power genannt wird, befindet. Mit diesem Modell haben Benutzer einen finanziellen Anreiz ihre Votes in einer Weise einzusetzen, die zur Maximierung des Langzeitwertes ihres STEEM beiträgt.
 
 ## Geschwindigkeit und Skalierung auf der Blockchain
 
-Die Steem Blockchain ist darauf ausgerichtet eine der schnellsten und effizientesten Blockchains zu sein, dies ist notwendig um die Möglichkeit zu haben eine Größenordnung an Traffic auf sozialen Medien zu unterstützen die größer ist als Reddit. Steem hat in der Anzahl an Transaktionen bereits Bitcoin überholt und es ist möglich Steem so zu skalieren, dass mehr als 10,000 Transaktionen pro Sekunde unterstützt werden.
+Die Steem Blockchain ist darauf ausgerichtet eine der schnellsten und effizientesten Blockchains zu sein, dies ist notwendig um die Möglichkeit zu haben eine Größenordnung an Traffic auf sozialen Medien zu unterstützen die größer ist als der von Reddit. Steem hat in der Anzahl an Transaktionen bereits Bitcoin überholt und es ist möglich Steem so zu skalieren, dass mehr als 10,000 Transaktionen pro Sekunde unterstützt werden können.
 
 ### Delegated Proof of Stake (DPoS)
 
-Oft stellt der Proof-of-Work (PoW)[^6] Algorithmus einen Flaschenhals dar, viele Blockchains können nicht über 3 Transaktionen pro Sekunde, ein kleiner Bruchteil der Finanztransaktionen weltweit, hinaus skalieren. Steem brauchte viel mehr Skalierungsmöglichkeiten und Geschwindigkeit als von PoW zur Verfügung gestellt werden kann, also wurde ein weniger bekannter Algorithmus, genannt Delegated Proof of Stake (DPoS)[^7], benutzt um die Basis für eine Blockchain zu legen die Millionen von Nutzer bedienen kann.
+Oft stellt der Proof-of-Work (PoW)[^6] Algorithmus einen Flaschenhals dar. Viele Blockchains können daher nicht über 3 Transaktionen pro Sekunde hinaus skalieren, was nur ein kleiner Bruchteil der Finanztransaktionen weltweit ist. Steem brauchte viel mehr Skalierungsmöglichkeiten und Geschwindigkeit als von PoW zur Verfügung gestellt werden kann. Also wurde ein weniger bekannter Algorithmus benutzt, genannt Delegated Proof of Stake (DPoS)[^7], um die Basis für eine Blockchain zu legen, die Millionen Nutzer bedienen kann.
 
-Aufgrund dieses DPoS ist es der Steem Blockchain möglich alle 3 Sekunden einen neuen Block zu generieren, mit minimalem Berechnungsaufwand. Das bedeutet das die Blockchain mehr Transaktionen verarbeiten kann und insgesamt mehr Informationen enthält, inklusive der Beiträge.
+Aufgrund dieses DPoS ist es der Steem Blockchain möglich alle 3 Sekunden einen neuen Block zu generieren, mit minimalem Berechnungsaufwand. Das bedeutet, dass die Blockchain mehr Transaktionen verarbeiten kann und insgesamt mehr Informationen enthält, inklusive der Beiträge.
 
-Durch Festlegung der Regeln im Falle eines Hardforks können die Witnesses, die innerhalb des DPoS Modells gewählt werden, schnell und effizient agieren und entscheiden wie man mit einem vorgeschlagenen Hardfork umgehen soll, dadurch kann das Steem Blockchain Protokoll sich schneller entwickeln als andere. Die Steemit Blockchain hat schon 18 mal erfolgreich geforked[^8] und jedesmal wenn ein Hardfork aufgetreten ist blieb nur eine Chain nach dem Fork übrig.
+Durch Festlegung von Regeln, im Falle eines Hardforks, können die Witnesses die innerhalb des DPoS Modells gewählt werden, schnell und effizient agieren und entscheiden, wie man mit dem vorgeschlagenen Hardfork umgehen soll. Dadurch kann sich das Steem Blockchainprotokoll schneller entwickeln, als die meisten anderen. Die Steemit Blockchain hat schon 18 mal erfolgreich geforked[^8] und jedesmal wenn ein Hardfork aufgetreten ist blieb nur eine Chain nach dem Fork übrig.
 
 ### ChainBase
 
@@ -52,7 +52,7 @@ ChainBase[^9] ist der Datenbankteil des Blockchain-Stacks und ersetzte Graphene[
 
 ### AppBase
 
-AppBase ist der erste Schritt in der Erschaffung einer multi-chain FABRIC. AppBase ermöglich es vielen Komponenten der Steemit Blockchain modular zu werden indem zusätzliche non-consensus Blockchains als dedizierte Plugins erschaffen werden. Diese Plugins können viel schneller ein Update erhalten weil dafür nicht die gesamte Blockchain durchlaufen werden muss. Das macht steemd[^11] deutlich effizienter, einfacher zu warten und zu skalieren.
+AppBase ist der erste Schritt zur Erschaffung einer multi-chain FABRIC. AppBase ermöglich es vielen Komponenten der Steemit Blockchain modular zu werden indem zusätzliche non-consensus Blockchains als dedizierte Plugins erschaffen werden. Diese Plugins können viel schneller ein Update erhalten weil dafür nicht die gesamte Blockchain durchlaufen werden muss. Das macht steemd[^11] deutlich effizienter, einfacher zu warten und zu skalieren.
 
 Praktisch gesprochen ermöglicht es AppBase verschiedenen Kernen oder gar verschiedenen Computer unterschiedliche Teile der Blockchain vorzuhalten. Das ist deutlich effizienter als jeden Kern und jeden Computer im Netzwerk dazu zu zwingen die gesamte Blockchain zu speichern. Die Modularisierung der Blockchain ermöglicht es den gesamten Vorteil zu nutzen der der modularen Natur der Computer innewohnt. Die ist ein notwendiger Schritt im langen Prozess eine komplett parallele und voll optimierte Blockchain zu erschaffen.
 

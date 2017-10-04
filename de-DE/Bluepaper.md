@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Der Steem ist ein skalierbares Blockchain Protokolll[^1] für öffentlich zugänglichen, unveränderlichen Inhalt, sowie für schnelle und gebührenfreie, digitale Token (genannt STEEM)[^2], Das Protokoll ermöglicht es natürlichen Personen eine Währung zu verdienen, indem sie ihr Gehirn benutzen. Was man als „Proof-of-Brain“ oder „Nachweis eines Gehirns“ bezeichnen kann. Die zwei Bausteine dieses Protokolls, Blockchain und Token, sind bezüglich Sicherheit, Unveränderbarkeit und Langlebigkeit voneinander abhängig und deswegen integraler Bestandteil der jeweils anderen Existenz. Steem ist bereits seit über einem Jahr erfolgreich in Betrieb und hat die Anzahl der verarbeiteten Transaktionen von sowohl Bitcoin als auch Ethereum übertroffen.[^3]
+Der Steem ist ein skalierbares Blockchain Protokoll[^1] für öffentlich zugänglichen, unveränderlichen Inhalt, sowie für schnelle und gebührenfreie, digitale Token (genannt STEEM)[^2], Das Protokoll ermöglicht es natürlichen Personen eine Währung zu verdienen, indem sie ihr Gehirn benutzen. Was man als „Proof-of-Brain“ oder „Nachweis eines Gehirns“ bezeichnen kann. Die zwei Bausteine dieses Protokolls, Blockchain und Token, sind bezüglich Sicherheit, Unveränderbarkeit und Langlebigkeit voneinander abhängig und deswegen integraler Bestandteil der jeweils anderen Existenz. Steem ist bereits seit über einem Jahr erfolgreich in Betrieb und hat die Anzahl der verarbeiteten Transaktionen von sowohl Bitcoin als auch Ethereum übertroffen.[^3]
 
 Im Vergleich zu anderen Blockchains zeichnet Steem besonders aus, dass es die erste öffentlich zugängliche Datenbank für unveränderbaren Content in Form von Klartext bietet und darüber hinaus einen eingebauten Belohnungs–Mechanismus besitzt. Dadurch ist Steem eine Veröffentlichungsplattform, von der jede Internetapplikation Daten ziehen und veröffentlichen kann, während diejenigen die besonders wertvollen Content liefern, dafür belohnt werden.
 
@@ -118,11 +118,11 @@ Da die Witnesses komplett durch das Erstellen neuer Tokens bezahlt werden gibt e
 
 Um die Nutzung des Systems in vernünftigen Grenzen zu halten erhält jeder Benutzer eine begrenzte Bandbreite. Wenn ein Benutzer eine Aktion auf der Blockchain ausführt, wie zum Beispiel das Transferieren von Tokens, Content posten, Voten oder Ähnliches, wird ein Teil der Bandbreite dafür aufgebraucht. Wenn ein Benutzer die Bandbreite überschritten hat, können keine Aktionen mehr ausgeführt werden und er muss warten bis die Bandbreite sich wieder auflädt.
 
-Die Bandbreitenlimits passen sich der derzeitigen Netzwerklast an, die Benutzer haben also ein höheres Limit wenn die Netzwerklast gering ist. Die Menge der Bandbreite die ein Konto nutzen darf ist direkt proportional zur Menge an SteemPower die dieser Benutzer hat, die Bandbreite kann also durch ein erhöhen der SteemPower ebenfalls erhöht werden.
+Die Bandbreitenlimits passen sich der derzeitigen Netzwerklast an. Benutzer haben demnach ein höheres Limit, wenn die Netzwerklast geringer ist. Die Menge der Bandbreite die ein Konto nutzen darf ist direkt proportional zur Menge an SteemPower die dieser Benutzer hat, die Bandbreite kann also durch ein erhöhen der SteemPower ebenfalls erhöht werden.
 
 ## Fazit
 
-Das einzigartige Belohnungs- und Anreizprogramm der Steemit Blockchain ist darauf ausgelegt Steem zur ultimativen Einstiegsplattform für normale Benutzer in Kryptowährungen zu machen. Die Performance der Blockchain ist darauf ausgelegt eine großangelegte Akzeptanz der Währung und der Plattform zu ermöglichen. In Verbindung mit den blitzschnellen Verarbeitungszeiten und gebührenfreien Transaktionen positioniert sich Steem als eine der weltweit führenden Blockchain Technologien, die von Menschen aus aller Welt benutzt wird.
+Das einzigartige Belohnungs- und Anreizprogramm der Steemit Blockchain ist darauf ausgelegt, Steem zur ultimativen Einstiegsplattform in Kryptowährungen für normale Benutzer zu machen. Die Performance der Blockchain ist darauf ausgelegt eine hohe Akzeptanz der Währung und ihrer Plattform zu ermöglichen. In Verbindung mit den blitzschnellen Verarbeitungszeiten und gebührenfreien Transaktionen, positioniert sich Steem als eine der weltweit führenden Blockchain Technologien, die von Menschen aus aller Welt benutzt wird.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

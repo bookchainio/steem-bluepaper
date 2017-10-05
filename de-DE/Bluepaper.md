@@ -1,4 +1,4 @@
-﻿![](\headerimage.png)
+![](\headerimage.png)
 
 ## Einführung
 

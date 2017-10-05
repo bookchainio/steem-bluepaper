@@ -8,6 +8,7 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 # Translators
 
 * [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)
+* [German](de-DE/Bluepaper.md) [@jedigeiss](https://steemit.com/@jedigeiss), [@alexvan](https://steemit.com/@alexvan) and @reisbeck
 
 # Translation Guide
 

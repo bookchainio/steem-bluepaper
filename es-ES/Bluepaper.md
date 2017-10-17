@@ -14,7 +14,7 @@ Además de estos avances en la tecnología blockchain y de tokens, Steem como un
 
 Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comunidad basada en Tokens, requiere de mecanismos para establecer y evaluar el valor social del contenido: a esto lo llamamos "Prueba de cerebro"
 
-### El Pool de Recompensas ("¿De dónde provienen los tokens?)
+### El Fondo de Recompensas ("¿De dónde provienen los tokens?)
 
 Uno de los aspectos más innovadores (y más incomprendidos) del blockchain de Steem es el "Rewards Pool" o Fondo de recompensas, desde donde se distribuyen los tokens a los creadores de contenido valioso. Para entender lo que es el Fondo de Recompensas, primero hay que entender que los tokens se producen de forma diferente en blockchains DPoS que en blockchains PoW. En blockchains PoW, los tokens se producen con regularidad pero se distribuyen aleatoriamente a las personas cuyas máquinas realizan trabajos ("mineros").
 
@@ -22,17 +22,17 @@ A diferencia de las criptodivisas que sólo usan PoW, los tokens en Steem se gen
 
 La tasa de generación de nuevos tokens se fijó en un 9.5% anual a partir de diciembre de 2016, y disminuye a una tasa del 0.01% cada 250.000 bloques, es decir, alrededor de un 0.5% anual. La inflación continuará disminuyendo a este ritmo hasta alcanzar el 0.95%, después de un período aproximado de 20.5 años.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Del suministro de nuevos tokens creados por la cadena Steem cada año, el 75% de estos tokens componen el "fondo de recompensas" que se distribuyen a los creadores y curadores de contenidos. El 15% se distribuye a los poseedores de tokens, y el 10% se distribuye a Witnesses, los productores de bloques que cooperan dentro del protocolo de consenso DPoS de Steem.
 
-#### Rewards for Content Creators and Curators
+#### Recompensas para creadores y evaluadores de contenido
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. Esto ayuda a distribuir la moneda a un conjunto más amplio de usuarios y aumenta el efecto de red. Los usuarios que toman tiempo para evaluar y votar sobre el contenido están desempeñando un papel importante en la distribución de la moneda a los usuarios que están añadiendo más valor. El blockchain recompensa ambas actividades en relación con su valor, basandose en la sabiduría colectiva de la multitud tomadas a través de un sistema de voto ponderado por participación.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Votación con tokens-de-participación para determinar la asignación de recompensas
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos que más han contribuido a la plataforma, medidos por el saldo de su cuenta, tienen la mayor influencia sobre la forma en que se califican las contribuciones. La participación e influencia dentro de la red puede ser comprada o ganada. Los usuarios no pueden ganar influencia adicional al poseer múltiples cuentas, ya que una sola cuenta con una sola cantidad de participación tendrá la misma influencia que dos cuentas diferentes que comparten la misma cantidad de participación. La única forma de que los usuarios aumenten su influencia en la plataforma es aumentar su participación.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Además, Steem sólo permite a los miembros votar con STEEM cuando se compromete a un programa de adquisición de derechos de 13 semanas llamado Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

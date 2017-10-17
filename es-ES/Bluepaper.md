@@ -32,19 +32,19 @@ The users who produce content are adding value to the network by creating materi
 
 Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos que más han contribuido a la plataforma, medidos por el saldo de su cuenta, tienen la mayor influencia sobre la forma en que se califican las contribuciones. La participación e influencia dentro de la red puede ser comprada o ganada. Los usuarios no pueden ganar influencia adicional al poseer múltiples cuentas, ya que una sola cuenta con una sola cantidad de participación tendrá la misma influencia que dos cuentas diferentes que comparten la misma cantidad de participación. La única forma de que los usuarios aumenten su influencia en la plataforma es aumentar su participación.
 
-Además, Steem sólo permite a los miembros votar con STEEM cuando se compromete a un programa de adquisición de derechos de 13 semanas llamado Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Además, Steem sólo permite a los miembros votar con STEEM cuando se compromete a un programa de adquisición de derechos de 13 semanas llamado Steem Power. Bajo este modelo, los miembros tienen un incentivo financiero para votar de una manera que maximiza el valor a largo plazo de su STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Velocidad y Escalabilidad en el blockchain de Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+El blockchain de Steem está diseñado para ser una de las cadenas de bloques más rápidas y eficientes, lo que es necesario para poder soportar la cantidad de tráfico que se espera en una plataforma de medios sociales más grande que el tamaño de Reddit. Steem ya ha superado a Bitcoin en número de transacciones, y es capaz de escalar para soportar 10.000 o más transacciones por segundo.
 
-### Delegated Proof of Stake (DPoS)
+### Prueba de Participación (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+A menudo muchos blockchains que funcionan con Proof-of-Work(Prueba de Trabajo - PoW) sufren cuellos de botella, y muchos también no pueden soportar más de tres transacciones por segundo, lo cuál es una fracción del trafico financiero en el mundo. Steem necesitaba mucha más escalabilidad y velocidad que la que ofrecía PoW, por lo que se aprovechó un algoritmo menos conocido llamado Prueba de Participación (DPoS)[^7] para sentar las bases de un blockchain adecuado para miles de millones de usuarios.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Gracias al DPoS, el blockchain de Steem es capaz de generar un nuevo bloque cada 3 segundos con una carga computacional mínima. Esto significa que la cadena de bloques puede procesar más transacciones y mantener más información, incluyendo el contenido.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Al definir las reglas para cuándo se produce un Hardfork, los witnesses elegidos en el marco del DPoS pueden decidir rápida y eficientemente si avanzar o no con un Hardfork propuesto, permitiendo que el protocolo Steem Blockchain evolucione más rápidamente que la mayoría de los demás. El blockchain de Steem ya se ha bifurcado con éxito 19 veces[^8], y cada vez que se ha producido un Hardfork, sólo una sola cadena ha persistido después de las bifurciones.
 
 ### ChainBase
 

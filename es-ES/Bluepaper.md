@@ -58,13 +58,13 @@ En términos prácticos, AppBase permite que diferentes núcleos, o incluso dife
 
 ## Catacterísticas de la Plataforma Steem
 
-El blockchain de Steem tiene un doble propósito: ser un sistema de procesamiento de token digital, así como una plataforma de medios sociales. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+El blockchain de Steem tiene un doble propósito: ser un sistema de procesamiento de token digital, así como una plataforma de medios sociales. Las características que ofrece este blockchain deben ser compatibles con ambos propósitos y proporcionar a los usuarios una experiencia de clase mundial al utilizar ambos aspectos de la plataforma.
 
-### Primitives Designed for Content Applications
+### Primitivas diseñadas para aplicaciones de contenido
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem ofrece a los usuarios la capacidad única de publicar y almacenar diferentes tipos de contenido de forma directa y permanente en el libro mayor e inmutable(blockchain) como texto plano. Una vez almacenados en el blockchain, los datos están disponibles públicamente para que los desarrolladores puedan crear a partir de ellos. Los desarrolladores pueden interactuar con el contenido directamente en el blockchain utilizando las API disponibles. Varios de los desarrolladores primitivos del blockchain pueden construir en base a nombres de cuentas, mensajes, comentarios, votos y saldos de cuentas.
 
-### Native Name System
+### Sistema de nombres nativos
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

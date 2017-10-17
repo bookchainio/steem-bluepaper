@@ -14,13 +14,13 @@ Además de estos avances en la tecnología blockchain y de tokens, Steem como un
 
 Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comunidad basada en Tokens, requiere de mecanismos para establecer y evaluar el valor social del contenido: a esto lo llamamos "Prueba de cerebro"
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### El Pool de Recompensas ("¿De dónde provienen los tokens?)
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Uno de los aspectos más innovadores (y más incomprendidos) del blockchain de Steem es el "Rewards Pool" o Fondo de recompensas, desde donde se distribuyen los tokens a los creadores de contenido valioso. Para entender lo que es el Fondo de Recompensas, primero hay que entender que los tokens se producen de forma diferente en blockchains DPoS que en blockchains PoW. En blockchains PoW, los tokens se producen con regularidad pero se distribuyen aleatoriamente a las personas cuyas máquinas realizan trabajos ("mineros").
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+A diferencia de las criptodivisas que sólo usan PoW, los tokens en Steem se generan a una velocidad fija de un bloque cada tres segundos. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. Estos actores, como creadores de contenidos, testigos y curadores, compiten de forma especializada por los tokens. A diferencia de los medios tradicionales de distribución del PoW, donde los mineros compiten con poder de computo, los actores de la red Steem son incentivados a competir de maneras que agregan valor a la red.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+La tasa de generación de nuevos tokens se fijó en un 9.5% anual a partir de diciembre de 2016, y disminuye a una tasa del 0.01% cada 250.000 bloques, es decir, alrededor de un 0.5% anual. La inflación continuará disminuyendo a este ritmo hasta alcanzar el 0.95%, después de un período aproximado de 20.5 años.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

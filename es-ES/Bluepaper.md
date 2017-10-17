@@ -8,11 +8,11 @@ Comparado con otros blockchains, Steem se destaca como la primera base de datos 
 
 En el campo de las cripto-monedas, las propiedades únicas de STEEM hacen que este sea "inteligente" y "social" en comparación con otras, como bitcoin y éter. Esto se debe a dos nuevas características del token. La primera es un fondo de tokens dedicados a incentivar la creación y evaluación de contenido (llamado el "fondo de recompensas"). La segunda es un sistema de votación que aprovecha el juicio de las personas para evaluar el valor del contenido y distribuir los tokens a los mismos. Estas dos propiedades únicas, cuando se combinan, se denominan Prueba-de-Cerebro, la cual es una concepción basada en la Prueba-de-Trabajo[^4], cuyo propósito es enfatizar el trabajo humano requerido para distribuir los tokens a los participantes de la comunidad. La Prueba-de-Cerebro coloca a STEEM como una herramienta para construir comunidades en constante crecimiento que anima a sus miembros a agregar valor a la comunidad a través de una estructura de recompensas.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Además de estos avances en la tecnología blockchain y de tokens, Steem como un servicio, proporciona características avanzadas para mejorar la experiencia del usuario, como recuperación de cuentas robadas[^5], servicios de custodia, contenido promocionado por el usuario, un sistema de reputación y cuentas de ahorros. Todo esto se hace mientras se proporciona a los usuarios tres segundos de tiempo en confirmaciones y cero cargos en todas las transacciones. Todo esto permite apoyar la misión de llevar dinero inteligente y social a editores y desarrolladores de comunidades a través de Internet.
 
-## Proof of Brain: Smart and Social Tokens
+## Prueba de Cerebro: Tokens Sociales e Inteligentes
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comunidad basada en Tokens, requiere de mecanismos para establecer y evaluar el valor social del contenido: a esto lo llamamos "Prueba de cerebro"
 
 ### The Rewards Pool (“Where do the tokens come from?”)
 

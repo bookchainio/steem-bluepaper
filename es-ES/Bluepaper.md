@@ -90,21 +90,21 @@ Estas llaves privadas son la de Publicación (Posting), la activa (Active) y la 
 
 Steem también facilita el uso de una contraseña maestra que encripta las tres llaves. Los Servicios web pueden usar una Contraseña maestra que descifra y firma con la llave privada necesaria. Las contraseñas maestras pueden permitir a los usuarios confiar en ciertos servicios para evitar que las llaves incorrectas se transfieran a través de cualquier servidor, aumentando así la experiencia del usuario y manteniendo un entorno de firma seguro en el lado del cliente.
 
-### Multi Sig Authorities
+### Autoridades de firmas multiples
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+El blockchain de Steem permite que una autoridad se divida entre múltiples entidades, de modo que varios usuarios puedan compartir la misma autoridad, o que se requiera que varias entidades autoricen una transacción para que sea válida. Esto se hace de la misma manera que en Bitshares[^16] donde a cada par de llaves públicas/privadas se le asigna un peso, y se define un umbral para la autoridad. Para que una transacción sea válida, deben firmar suficientes entidades para que la suma de sus pesos cumpla o supere el umbral.
 
-### Multiple Reward Beneficiaries
+### Múltiples beneficiarios de recompensas
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para cualquier publicación hecha, puede haber un número de personas diferentes que tengan un interés financiero en la recompensa. Esto incluye a el autor, posibles coautores, referencias, proveedores de hosting, blogs que embeben comentarios del blockchain y desarrolladores de herramientas. Cualquiera que sea el sitio web o herramienta que se utilice para construir una publicación o comentario tendrá la capacidad de establecer cómo las recompensas de ese comentario se dividen entre varios participantes. Esto permite diversas formas de colaboración, así como una forma de que las plataformas que se construyen sobre el blockchain de Steem, recojan una parte de las recompensas de sus usuarios.
 
 ### Smart Media Tokens (SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+Esta capa de protocolo está en desarrollo. Su artículo será publicado aquí.
 
-### Stolen Account Recovery
+### Recuperación de cuenta robada
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Si la cuenta de un usuario está comprometida, puede cambiar sus llaves utilizando la llave de propietario privada. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

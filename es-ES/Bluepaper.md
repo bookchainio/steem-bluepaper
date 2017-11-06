@@ -40,7 +40,7 @@ El blockchain de Steem está diseñado para ser una de las cadenas de bloques m�
 
 ### Prueba de Participación (DPoS)
 
-A menudo muchos blockchains que funcionan con Proof-of-Work(Prueba de Trabajo - PoW) sufren cuellos de botella, y muchos también no pueden soportar más de tres transacciones por segundo, lo cuál es una fracción del trafico financiero en el mundo. Steem necesitaba mucha más escalabilidad y velocidad que la que ofrecía PoW, por lo que se aprovechó un algoritmo menos conocido llamado Prueba de Participación (DPoS)[^7] para sentar las bases de un blockchain adecuado para miles de millones de usuarios.
+A menudo muchos blockchains que funcionan con Proof-of-Work(Prueba de Trabajo - PoW)[^6] sufren cuellos de botella, y muchos también no pueden soportar más de tres transacciones por segundo, lo cuál es una fracción del trafico financiero en el mundo. Steem necesitaba mucha más escalabilidad y velocidad que la que ofrecía PoW, por lo que se aprovechó un algoritmo menos conocido llamado Prueba de Participación (DPoS)[^7] para sentar las bases de un blockchain adecuado para miles de millones de usuarios.
 
 Gracias al DPoS, el blockchain de Steem es capaz de generar un nuevo bloque cada 3 segundos con una carga computacional mínima. Esto significa que la cadena de bloques puede procesar más transacciones y mantener más información, incluyendo el contenido.
 

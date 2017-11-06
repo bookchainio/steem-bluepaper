@@ -10,11 +10,11 @@ En el campo de las cripto-monedas, las propiedades únicas de STEEM hacen que es
 
 Además de estos avances en la tecnología blockchain y de tokens, Steem como un servicio, proporciona características avanzadas para mejorar la experiencia del usuario, como recuperación de cuentas robadas[^5], servicios de custodia, contenido promocionado por el usuario, un sistema de reputación y cuentas de ahorros. Todo esto se hace mientras se proporciona a los usuarios tres segundos de tiempo en confirmaciones y cero cargos en todas las transacciones. Todo esto permite apoyar la misión de llevar dinero inteligente y social a editores y desarrolladores de comunidades a través de Internet.
 
-## Prueba de Cerebro: Tokens Sociales e Inteligentes
+## Prueba de Cerebro: tokens sociales e inteligentes
 
 Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comunidad basada en Tokens, requiere de mecanismos para establecer y evaluar el valor social del contenido: a esto lo llamamos "Prueba de cerebro"
 
-### El Fondo de Recompensas ("¿De dónde provienen los tokens?)
+### El fondo de recompensas ("¿De dónde provienen los tokens?)
 
 Uno de los aspectos más innovadores (y más incomprendidos) del blockchain de Steem es el "Rewards Pool" o Fondo de recompensas, desde donde se distribuyen los tokens a los creadores de contenido valioso. Para entender lo que es el Fondo de Recompensas, primero hay que entender que los tokens se producen de forma diferente en blockchains DPoS que en blockchains PoW. En blockchains PoW, los tokens se producen con regularidad pero se distribuyen aleatoriamente a las personas cuyas máquinas realizan trabajos ("mineros").
 
@@ -34,7 +34,7 @@ Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos
 
 Además, Steem sólo permite a los miembros votar con STEEM cuando se compromete a un programa de adquisición de derechos de 13 semanas llamado Steem Power. Bajo este modelo, los miembros tienen un incentivo financiero para votar de una manera que maximiza el valor a largo plazo de su STEEM.
 
-## Velocidad y Escalabilidad en el blockchain de Steem
+## Velocidad y escalabilidad en el blockchain de Steem
 
 El blockchain de Steem está diseñado para ser una de las cadenas de bloques más rápidas y eficientes, lo que es necesario para poder soportar la cantidad de tráfico que se espera en una plataforma de medios sociales más grande que el tamaño de Reddit. Steem ya ha superado a Bitcoin en número de transacciones, y es capaz de escalar para soportar 10.000 o más transacciones por segundo.
 
@@ -56,7 +56,7 @@ AppBase es el primer paso para crear multi-cadenas FABRIC. AppBase permite que m
 
 En términos prácticos, AppBase permite que diferentes núcleos, o incluso diferentes ordenadores, mantengan diferentes partes de la cadena de bloques Steem. Esto es significativamente más eficiente que requerir a cada núcleo, y a cada computadora en la red que mantenga todo el blockchain. La modularización del blockchain permite aprovechar al máximo la naturaleza modular de los ordenadores. Este es un paso necesario en el largo proceso de crear un blockchain completamente paralelo y optimizado.
 
-## Catacterísticas de la Plataforma Steem
+## Catacterísticas de la plataforma Steem
 
 El blockchain de Steem tiene un doble propósito: ser un sistema de procesamiento de token digital, así como una plataforma de medios sociales. Las características que ofrece este blockchain deben ser compatibles con ambos propósitos y proporcionar a los usuarios una experiencia de clase mundial al utilizar ambos aspectos de la plataforma.
 
@@ -82,9 +82,9 @@ El blockchain de Steem ofrece un mercado de intercambio de tokens descentralizad
 
 La naturaleza irreversible de las transacciones dentro del blockchain, son una característica de seguridad importante, aunque hay muchos casos en los que los usuarios pueden no sentirse cómodos enviando sus tokens a otra persona sin una forma de recuperarlos si el otro usuario no cumple su parte del acuerdo. El blockchain de Steem brinda a los usuarios una forma de enviar tokens a otro con la ayuda de un tercero designado como el servicio de fideicomiso. El usuario que funge como fideicomisario tiene la posibilidad de dictar si los términos del acuerdo se cumplieron, y decidir si permitir que los fondos en juego sean liberados al receptor o devueltos al emisor.
 
-### Estructura Jerárquica de Llave Privada
+### Estructura jerárquica de llave privada
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem emplea el primer sistema de llave privada jerárquico para facilitar las transacciones de baja y alta seguridad. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 

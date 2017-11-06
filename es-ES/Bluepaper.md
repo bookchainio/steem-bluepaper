@@ -80,9 +80,9 @@ El blockchain de Steem ofrece un mercado de intercambio de tokens descentralizad
 
 ### Pagos a través del fideicomiso
 
-La naturaleza irreversible de las transacciones dentro del blockchain, son una característica de seguridad importante, aunque hay muchos casos en los que los usuarios pueden no sentirse cómodos enviando sus tokens a otra persona sin una forma de recuperarlos si el otro usuario no cumple su parte del acuerdo. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+La naturaleza irreversible de las transacciones dentro del blockchain, son una característica de seguridad importante, aunque hay muchos casos en los que los usuarios pueden no sentirse cómodos enviando sus tokens a otra persona sin una forma de recuperarlos si el otro usuario no cumple su parte del acuerdo. El blockchain de Steem brinda a los usuarios una forma de enviar tokens a otro con la ayuda de un tercero designado como el servicio de fideicomiso. El usuario que funge como fideicomisario tiene la posibilidad de dictar si los términos del acuerdo se cumplieron, y decidir si permitir que los fondos en juego sean liberados al receptor o devueltos al emisor.
 
-### Hierarchical Private Key Structure
+### Estructura Jerárquica de Llave Privada
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

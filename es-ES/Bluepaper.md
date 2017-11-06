@@ -78,9 +78,9 @@ Los tokens de SBD están diseñados para que los usuarios que los reciben sepan 
 
 El blockchain de Steem ofrece un mercado de intercambio de tokens descentralizado, similar al de Bitshares.[^13] Este mercado digital permite a los usuarios intercambiar STEEM y SBD a través de un mercado público descentralizado peer-to-peer. Los usuarios pueden colocar órdenes de compra y venta, y la concordancia de órdenes es realizada automáticamente por el blockchain. También hay un libro de ordenes así como un historial que es accesible al público, y los usuarios pueden utilizaro para analizar el mercado. Los usuarios pueden interactuar con esta aplicación de mercado digital directamente utilizando la API del blockchain, o usar una interfaz gráfica como la de Steemit.com.[^14]
 
-### Payments Through Escrow
+### Pagos a través del fideicomiso
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+La naturaleza irreversible de las transacciones dentro del blockchain, son una característica de seguridad importante, aunque hay muchos casos en los que los usuarios pueden no sentirse cómodos enviando sus tokens a otra persona sin una forma de recuperarlos si el otro usuario no cumple su parte del acuerdo. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

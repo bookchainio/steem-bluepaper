@@ -10,6 +10,7 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 * [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)
 * [German](de-DE/Bluepaper.md) [@jedigeiss](https://steemit.com/@jedigeiss), [@alexvan](https://steemit.com/@alexvan), [@theaustrianguy](https://steemit.com/@theaustrianguy) and [@afrog](https://steemit.com/@afrog)
 * [Russian](ru-RU/Bluepaper.md) [@rusteemitblog](https://steemit.com/@rusteemitblog)
+* [Spanish](es-ES/Bluepaper.md) [@jesusbatallar](https://steemit.com/@jesusbatallar)
 
 # Translation Guide
 

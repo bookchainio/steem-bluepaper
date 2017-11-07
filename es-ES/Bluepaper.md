@@ -122,19 +122,19 @@ Los límites de ancho de banda se ajustan en función del uso de la red, por lo 
 
 ## Conclusión
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+El exclusivo programa de recompensas e incentivos ofrecido por el blockchain y su token Steem, está diseñado para convertir a Steem en la más innovadora vía de acceso a las criptomonedas para los usuarios más cercanos a las tendencias actuales. El rendimiento del blockchain está diseñado teniendo en cuenta la adopción masiva y generalizada de la criptomoneda y la plataforma. Cuando se combina con los rápidos tiempos de procesamiento y las transacciones sin comisiones, Steem se posiciona para convertirse en una de las principales tecnologías de blockchain utilizadas por personas de todo el mundo.
 
-[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+[^1]: Documento acerca de la Prueba de Delegado (Proof-of-Stake Position Paper). Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Para diferenciarlo del término en el blockchain, la ortografía correcta del token digital nativo de Steem es STEEM
 
-[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Volúmenes de transacciones: informe de Transacciones por segundo. Steem Witness y el usuario “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+[^4]: Prueba-de-Trabajo (Proof-of-Work) Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Inicio de recuperación de cuenta robada para los usuarios de Steemit. com: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+[^6]: Problema de escalabilidad de Bitcoin https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
 [^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 

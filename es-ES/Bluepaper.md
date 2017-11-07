@@ -118,9 +118,9 @@ Debido a que los witnesses son pagados enteramente a través de la generación d
 
 Para poner límites razonables al uso del sistema, a cada usuario se le da un ancho de banda limitado. Cada vez que los usuarios realizan operaciones en el blockchain como transferencias de tokens, publicación de contenido y votaciones, utilizan una parte de su ancho de banda. Si un usuario excede el ancho de banda permitido, debe esperar a realizar acciones adicionales hasta que su ancho de banda se recargue.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Los límites de ancho de banda se ajustan en función del uso de la red, por lo que los usuarios tienen un mayor margen de ancho de banda cuando el uso de la red es bajo. La cantidad de ancho de banda que se permite una cuenta es directamente proporcional a la cantidad de Steem Power que tiene un usuario, por lo que los usuarios siempre pueden aumentar su permiso de ancho de banda obteniendo Steem Power adicional.
 
-## Conclusion
+## Conclusión
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

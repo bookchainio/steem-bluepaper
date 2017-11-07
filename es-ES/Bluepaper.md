@@ -110,9 +110,9 @@ Si la cuenta de un usuario está comprometida, puede cambiar sus llaves utilizan
 
 Si la llave de Propietario o la Activa de un usuario está comprometida, el atacante tendría acceso total a todos los fondos de su cuenta. Debido a que las transacciones en el blockchain son irreversibles, los usuarios no tienen forma de recuperar sus fondos una vez que han sido robados.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+El blockchain de Steem permite a los usuarios almacenar sus tokens de STEEM y de SBD en una cuenta de ahorros, de manera que los fondos no pueden ser retirados hasta después de un periodo de espera de tres días. Además, el STEEM que se mantiene en el programa de Vesting de 13 semanas sólo puede ser retirado a una tasa de 1/13 por semana, después de un período de espera inicial de siete días. Estos bloqueos de tiempo impiden que un atacante pueda acceder a toda la porción de los fondos del usuario inmediatamente, de modo que el propietario legítimo tenga tiempo para recuperar el control sobre su cuenta antes de que todos sus fondos puedan ser retirados.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Límite de velocidad de ancho de banda para operaciones sin comisión
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

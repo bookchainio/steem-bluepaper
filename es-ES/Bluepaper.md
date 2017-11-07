@@ -40,7 +40,7 @@ El blockchain de Steem está diseñado para ser una de las cadenas de bloques m�
 
 ### Prueba de Participación (DPoS)
 
-A menudo muchos blockchains que funcionan con Proof-of-Work(Prueba de Trabajo - PoW)[^6] sufren cuellos de botella, y muchos también no pueden soportar más de tres transacciones por segundo, lo cuál es una fracción del trafico financiero en el mundo. Steem necesitaba mucha más escalabilidad y velocidad que la que ofrecía PoW, por lo que se aprovechó un algoritmo menos conocido llamado Prueba de Participación (DPoS)[^7] para sentar las bases de un blockchain adecuado para miles de millones de usuarios.
+A menudo muchos blockchains que funcionan con Proof-of-Work (Prueba de Trabajo - PoW)[^6] sufren cuellos de botella, y muchos también no pueden soportar más de tres transacciones por segundo, lo cuál es una fracción del trafico financiero en el mundo. Steem necesitaba mucha más escalabilidad y velocidad que la que ofrecía PoW, por lo que se aprovechó un algoritmo menos conocido llamado Prueba de Participación (DPoS)[^7] para sentar las bases de un blockchain adecuado para miles de millones de usuarios.
 
 Gracias al DPoS, el blockchain de Steem es capaz de generar un nuevo bloque cada 3 segundos con una carga computacional mínima. Esto significa que la cadena de bloques puede procesar más transacciones y mantener más información, incluyendo el contenido.
 
@@ -74,7 +74,7 @@ Muchos usuarios que son introducidos a las criptomonedas luchan por comprender c
 
 Los tokens de SBD están diseñados para que los usuarios que los reciben sepan aproximadamente cuánto valen en términos de "dólares reales". Los tokens de SBD también ofrecen una moneda relativamente estable para que los usuarios la mantengan si están buscando preservar el valor de su cuenta en relación al USD. Encontrará una explicación técnica más detallada en el artículo técnico de Steem. [^12]
 
-### Intercambio descentralizado
+### Mercado de intercambio Descentralizado
 
 El blockchain de Steem ofrece un mercado de intercambio de tokens descentralizado, similar al de Bitshares.[^13] Este mercado digital permite a los usuarios intercambiar STEEM y SBD a través de un mercado público descentralizado peer-to-peer. Los usuarios pueden colocar órdenes de compra y venta, y la concordancia de órdenes es realizada automáticamente por el blockchain. También hay un libro de ordenes así como un historial que es accesible al público, y los usuarios pueden utilizaro para analizar el mercado. Los usuarios pueden interactuar con esta aplicación de mercado digital directamente utilizando la API del blockchain, o usar una interfaz gráfica como la de Steemit.com.[^14]
 
@@ -152,6 +152,6 @@ El exclusivo programa de recompensas e incentivos ofrecido por el blockchain y s
 
 [^14]: Mercado de divisas de Steemit.com https://steemit.com/market
 
-[^15]: "Resteem" es el término utilizado en el blockchain de Steem para cuando un usuario comparte el contenido con sus seguidores
+[^15]: "Resteem" es el término utilizado en el blockchain de Steem para cuando un usuario comparte el contenido con sus seguidores.
 
 [^16]: Gestión flexible de identidades en Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdf

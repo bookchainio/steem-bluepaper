@@ -114,9 +114,9 @@ El blockchain de Steem permite a los usuarios almacenar sus tokens de STEEM y de
 
 ### Límite de velocidad de ancho de banda para operaciones sin comisión
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Debido a que los witnesses son pagados enteramente a través de la generación de nuevos tokens, no hay necesidad de cobrar a los usuarios una tarifa por el uso del blockchain. La única razón para cobrar una cuota sería disuadir a los usuarios de realizar una cantidad excesiva de transacciones, lo que podría afectar potencialmente al rendimiento del blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Para poner límites razonables al uso del sistema, a cada usuario se le da un ancho de banda limitado. Cada vez que los usuarios realizan operaciones en el blockchain como transferencias de tokens, publicación de contenido y votaciones, utilizan una parte de su ancho de banda. Si un usuario excede el ancho de banda permitido, debe esperar a realizar acciones adicionales hasta que su ancho de banda se recargue.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

@@ -18,7 +18,7 @@ Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comuni
 
 Uno de los aspectos más innovadores (y más incomprendidos) del blockchain de Steem es el "Rewards Pool" o Fondo de recompensas, desde donde se distribuyen los tokens a los creadores de contenido valioso. Para entender lo que es el Fondo de Recompensas, primero hay que entender que los tokens se producen de forma diferente en blockchains DPoS que en blockchains PoW. En blockchains PoW, los tokens se producen con regularidad pero se distribuyen aleatoriamente a las personas cuyas máquinas realizan trabajos ("mineros").
 
-A diferencia de las criptodivisas que sólo usan PoW, los tokens en Steem se generan a una velocidad fija de un bloque cada tres segundos. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. Estos actores, como creadores de contenidos, testigos y curadores, compiten de forma especializada por los tokens. A diferencia de los medios tradicionales de distribución del PoW, donde los mineros compiten con poder de computo, los actores de la red Steem son incentivados a competir de maneras que agregan valor a la red.
+A diferencia de las criptodivisas que sólo usan PoW, los tokens en Steem se generan a una velocidad fija de un bloque cada tres segundos. Estos tokens se distribuyen a varios actores del sistema en función de las reglas definidas en el blockchain de Steem. Estos actores, como creadores de contenidos, testigos y curadores, compiten de forma especializada por los tokens. A diferencia de los medios tradicionales de distribución del PoW, donde los mineros compiten con poder de computo, los actores de la red Steem son incentivados a competir de maneras que agregan valor a la red.
 
 La tasa de generación de nuevos tokens se fijó en un 9.5% anual a partir de diciembre de 2016, y disminuye a una tasa del 0.01% cada 250.000 bloques, es decir, alrededor de un 0.5% anual. La inflación continuará disminuyendo a este ritmo hasta alcanzar el 0.95%, después de un período aproximado de 20.5 años.
 
@@ -26,7 +26,7 @@ Del suministro de nuevos tokens creados por la cadena Steem cada año, el 75% de
 
 #### Recompensas para creadores y evaluadores de contenido
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. Esto ayuda a distribuir la moneda a un conjunto más amplio de usuarios y aumenta el efecto de red. Los usuarios que toman tiempo para evaluar y votar sobre el contenido están desempeñando un papel importante en la distribución de la moneda a los usuarios que están añadiendo más valor. El blockchain recompensa ambas actividades en relación con su valor, basandose en la sabiduría colectiva de la multitud tomadas a través de un sistema de voto ponderado por participación.
+Los usuarios que producen contenido están agregando valor a la red al crear material que llevará a nuevos usuarios a la plataforma, además de mantener a los usuarios existentes ocupados y entretenidos. Esto ayuda a distribuir la moneda a un conjunto más amplio de usuarios y aumenta el efecto de red. Los usuarios que toman tiempo para evaluar y votar sobre el contenido están desempeñando un papel importante en la distribución de la moneda a los usuarios que están añadiendo más valor. El blockchain recompensa ambas actividades en relación con su valor, basandose en la sabiduría colectiva de la multitud tomadas a través de un sistema de voto ponderado por participación.
 
 #### Votación con tokens-de-participación para determinar la asignación de recompensas
 
@@ -72,7 +72,7 @@ Las direcciones de billetera utilizadas por muchas tecnologías blockchain, como
 
 Muchos usuarios que son introducidos a las criptomonedas luchan por comprender cómo los "tokens de Internet mágicos" otorgados por la plataforma pueden realmente tener un valor del mundo real. Con el fin de ayudar a cerrar la brecha entre los sistemas monetarios fiat más tradicionales a los que están acostumbrados los usuarios principales y los tokens de criptodivisa que se entregan a través de la plataforma, se creó una nueva moneda llamada Steem Blockchain Dollars (SBD).
 
-Los tokens de SBD están diseñados para que los usuarios que los reciben sepan aproximadamente cuánto valen en términos de "dólares reales". Los tokens de SBD también ofrecen una moneda relativamente estable para que los usuarios la mantengan si están buscando preservar el valor de su cuenta en relación al USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Los tokens de SBD están diseñados para que los usuarios que los reciben sepan aproximadamente cuánto valen en términos de "dólares reales". Los tokens de SBD también ofrecen una moneda relativamente estable para que los usuarios la mantengan si están buscando preservar el valor de su cuenta en relación al USD. Encontrará una explicación técnica más detallada en el artículo técnico de Steem. [^12]
 
 ### Intercambio descentralizado
 
@@ -136,22 +136,22 @@ El exclusivo programa de recompensas e incentivos ofrecido por el blockchain y s
 
 [^6]: Problema de escalabilidad de Bitcoin https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: Whitepaper acerca del DPoS https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+[^9]: Release de ChainBase https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Graphene Documentation http://docs.bitshares.org/
+[^10]: Documentación de Graphene http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: El componente del framework del Steem blockchain responsable del tratamiento de operaciones y la distribución de recompensas.
 
-[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+[^12]: Whitepaper de Steem https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: Exchange descentralizada de Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com Currency Market https://steemit.com/market
+[^14]: Mercado de divisas de Steemit.com https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem" es el término utilizado en el blockchain de Steem para cuando un usuario comparte el contenido con sus seguidores
 
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^16]: Gestión flexible de identidades en Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdf

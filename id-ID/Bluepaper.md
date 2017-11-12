@@ -36,11 +36,11 @@ Selain itu, Steem hanya memungkinkan anggota untuk memilih dengan STEEM ketika b
 
 ## Kecepatan dan skala pada Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain dirancang untuk menjadi salah satu blockchains yang tercepat dan paling efisien di keberadaan, yang diperlukan untuk dapat mendukung jumlah lalu lintas yang diharapkan pada platform media sosial yang lebih besar dari ukuran Reddit. Steem telah melampaui Bitcoin di jumlah transaksi, dan mampu skala untuk mendukung 10.000 atau lebih transaksi per detik.
 
-### Delegated Proof of Stake (DPoS)
+### Didelegasikan bukti saham (Lembaga)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Sering bottlenecked dengan bukti-of-karya (PoW) [^6], banyak blockchains tidak skala luar 3 kali transaksi per detik, yang merupakan sebagian kecil dari dunia keuangan lalu lintas. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 
@@ -74,13 +74,13 @@ Many users who are introduced to cryptocurrency struggle to comprehend how “ma
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
-### Decentralized Exchange
+### Desentralisasi Asing
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip dengan pertukaran Bitshares. [^13] Pertukaran memungkinkan pengguna untuk perdagangan mereka STEEM dan SBD Token melalui pasar peer-to-peer desentralisasi yang umum. Pengguna dapat menempatkan buy dan sell perintah, dan urutan pencocokan dilakukan secara otomatis oleh blockchain. Ada juga sebuah buku pesanan yang dapat diakses publik dan sejarah Orde yang pengguna dapat digunakan untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran langsung menggunakan blockchain API, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
 
-### Payments Through Escrow
+### Pembayaran melalui Escrow
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Sifat ireversibel transaksi blockchain fitur keamanan penting, meskipun ada banyak kasus di mana pengguna mungkin tidak nyaman mengirim tanda-tanda mereka ke individu lain tanpa cara untuk mendapatkannya kembali jika pengguna lain tidak memegang sampai akhir Perjanjian. Steem blockchain menyediakan cara bagi pengguna untuk mengirim uang ke satu sama lain dengan pihak ketiga yang ditunjuk sebagai layanan escrow. Pengguna yang bertindak sebagai layanan escrow ini dapat menentukan jika syarat-syarat Perjanjian telah dipenuhi, dan juga memungkinkan dana untuk akan dirilis ke penerima atau dikembalikan kepada pengirim.
 
 ### Hierarchical Private Key Structure
 
@@ -88,41 +88,41 @@ Steem employs a first of its kind hierarchical private key system to facilitate 
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem ini juga memfasilitasi penggunaan sandi utama yang mengenkripsi semua tiga tombol. Webservices dapat menggunakan sandi utama yang mendekripsi dan tanda-tanda dengan kunci privat diperlukan. Master password dapat memungkinkan pengguna untuk mempercayai layanan tertentu untuk mencegah tidak layak kunci yang ditransfer di setiap server, sehingga meningkatkan pengalaman pengguna tetap menjaga lingkungan penandatanganan sisi klien yang aman.
 
-### Multi Sig Authorities
+### Pihak berwenang multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain memungkinkan otoritas untuk membagi di beberapa entitas, sehingga beberapa pengguna dapat berbagi otoritas yang sama, atau beberapa entitas yang diperlukan untuk mengotorisasi transaksi agar itu menjadi sah. Hal ini dilakukan dengan cara yang sama sebagai Bitshares [^16] mana setiap pasangan kunci publik/swasta ditetapkan berat, dan ambang batas didefinisikan untuk otoritas. Dalam rangka untuk transaksi menjadi sah, cukup entitas harus menandatangani sehingga jumlah beban mereka memenuhi atau melebihi ambang batas.
 
-### Multiple Reward Beneficiaries
+### Beberapa penerima manfaat Reward
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Untuk setiap posting tertentu mungkin ada sejumlah orang yang berbeda yang memiliki kepentingan finansial dalam pahala. Ini termasuk penulis, co-penulis mungkin, referer, penyedia hosting, blog yang tertanam blockchain komentar, dan pengembang alat. Website atau alat yang digunakan untuk membangun sebuah posting atau komentar apapun akan memiliki kemampuan untuk mengatur bagaimana imbalan dari komentar itu dibagi di antara berbagai pihak. Hal ini memungkinkan untuk berbagai bentuk kolaborasi, serta cara untuk platform yang dibangun di atas blockchain Steem untuk mengumpulkan bagian dari hadiah dari pengguna mereka.
 
-### Smart Media Tokens (SMT)
+### Smart Media Token (SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+Lapisan protokol ini sedang dalam pengembangan. Whitepaper yang akan diposting di sini.
 
-### Stolen Account Recovery
+### Pemulihan akun dicuri
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Jika account pengguna terganggu, mereka dapat mengubah kunci mereka menggunakan kunci pribadi pemilik mereka. Dalam hal bahwa penyerang dapat kompromi kunci pribadi pemilik dan mengubah sandi pada akun, pengguna memiliki 30 hari untuk mengirimkan sebuah kunci pribadi yang sebelumnya fungsional melalui proses pemulihan Steem's account curian industri-pertama, dan mendapatkan kembali kontrol atas account mereka. Ini mungkin ditawarkan oleh orang atau perusahaan yang menyediakan layanan pendaftaran untuk Steem. Tidak wajib untuk pendaftar untuk menyediakan layanan ini kepada para penggunanya, tetapi tersedia untuk meningkatkan nilai registrar pengguna pengalaman.
 
-### Security Through Time-Locks
+### Keamanan melalui waktu-kunci
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Jika pengguna yang aktif atau pemilik kunci terganggu, penyerang akan memiliki akses penuh ke semua dana dalam rekening mereka. Karena transaksi blockchain ireversibel, pengguna tidak memiliki cara untuk mendapatkan dana mereka kembali setelah mereka telah dicuri.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain memungkinkan pengguna untuk menyimpan mereka STEEM dan SBD token dalam rekening tabungan, sehingga dana tidak dapat dicairkan sampai setelah masa tunggu tiga hari. Selain itu, STEEM yang diadakan pada Minggu 13 Nonton jadwal hanya dapat ditarik pada tingkat 1/13 per minggu, setelah periode menunggu awal tujuh hari. Ini waktu-kunci mencegah penyerang dari yang dapat mengakses bagian penuh pengguna dana segera, sehingga pemilik memiliki waktu untuk mendapatkan kembali kendali atas account mereka sebelum semua dana mereka dapat ditarik.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Tingkat bandwidth yang membatasi biaya-kurang operasi
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Karena saksi-saksi yang dibayar sepenuhnya melalui generasi baru token, ada tidak perlu biaya pengguna untuk menyalakan blockchain. Satu-satunya alasan untuk mengenakan biaya akan sebagai penghalang untuk mencegah pengguna dari menyelesaikan jumlah transaksi, yang dapat berpotensi mempengaruhi kinerja blockchain yang tidak masuk akal.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Untuk menempatkan batasan yang wajar penggunaan sistem, setiap pengguna diberikan bandwidth terbatas. Setiap kali pengguna melakukan operasi blockchain seperti token transfer, posting konten, dan pemungutan suara, menggunakan sebagian dari bandwidth mereka. Jika pengguna melebihi bandwidth uang saku mereka, mereka harus menunggu untuk melakukan tindakan tambahan sampai bandwidth mereka mengisi kembali.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Bandwidth batas menyesuaikan berbasis pada penggunaan jaringan, sehingga pengguna memiliki lebih tinggi bandwidth uang saku ketika penggunaan jaringan rendah. Jumlah bandwidth yang account diperbolehkan berbanding jumlah daya Steem pengguna memiliki, sehingga pengguna dapat selalu meningkatkan mereka bandwidth uang saku dengan mendapatkan tambahan kekuatan Steem.
 
-## Conclusion
+## Kesimpulan
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Hadiah unik dan program insentif yang ditawarkan oleh Steem blockchain dan token yang dirancang untuk membuat Steem utama di-jalan ke cryptocurrency untuk arus utama pengguna. Kinerja blockchain dirancang dengan luas adopsi massa mata uang dan platform dalam pikiran. Ketika dikombinasikan dengan petir proses kali cepat dan transaksi biaya-kurang, Steem diposisikan untuk menjadi salah satu terkemuka blockchain teknologi yang digunakan oleh orang di seluruh dunia.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

@@ -2,7 +2,7 @@
 
 ## 简介
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem为可公开访问和不可变的内容提供了可扩展的区块链 协议 [^1], 以及一个快速且免手续费的代币 (称为STEEM) [^2], 让人能够用他们的智慧来赚取货币 (可以称为 "Proof-of-Brain ")。 这一协议的两个组成部分, 区块链和代币, 都依赖于彼此的安全、不变性和持久性, 因此是相互依存的。 Steem已经成功地经营了一年多, 现在已经超过了比特币和以太币的交易数量。[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

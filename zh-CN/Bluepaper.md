@@ -4,7 +4,7 @@
 
 Steem为可公开访问和不可变的内容提供了可扩展的区块链 协议 [^1], 以及一个快速且免手续费的代币 (称为STEEM) [^2], 让人能够用他们的智慧来赚取货币 (可以称为 "Proof-of-Brain ")。 这一协议的两个组成部分, 区块链和代币, 都依赖于彼此的安全、不变性和持久性, 因此是相互依存的。 Steem已经成功地经营了一年多, 现在已经超过了比特币和以太币的交易数量。[^3]
 
-Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
+与其他区块链相比, Steem是第一个用于存储不可变文字内容，有内置的奖励机制的公开数据库。 这使得Steem成为一个公开发布平台。 任何互联网应用程序都可以从中抽取和共享数据, 同时为那些贡献最有价值的内容的人提供奖励。
 
 In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether. This stems from two new token features. The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”). The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it. These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^4], meant to emphasize the human work required to distribute tokens to community participants. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
 

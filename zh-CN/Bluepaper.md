@@ -22,7 +22,7 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 从2016年12月开始, 新代币的生产年率将设置为9.5%, 之后以每25万个区块0.01%的比率减少, 大概每年下降约0.5%。 这个通货膨胀率将持续下降直至到达0.95%，需时大约20.5 年。
 
-在Steem区块链 每年生产的新代币中的75% 将会成为 "奖励库", 分发给内容创作者和内容鉴定者。 15% 会分配给被既定的代币持有人, 10% 会被分配给见证者, Steem DPoS 共识协议里的区块生产者。
+在Steem区块链 每年生产的新代币中的75% 将会成为 "奖励库", 分发给内容创作者和内容鉴定者。 15% 会分配给既定代币的持有人, 10% 会被分配给见证者, Steem DPoS 共识协议里的区块生产者。
 
 #### 内容创作者和鉴定者的奖励
 
@@ -32,7 +32,7 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 Steem在一币一票的基础上运作。 在这个模型下, 那些账户余額最多， 从而对平台贡献最大的人, 对内容贡献的评分有最大份额的影响。 份额可以通过购买或赚取而获得。 用户不能通过拥有多个帐户而获得额外份额的影响, 因为拥有一笔份额的单个帐户将与两个共享相同份额的帐户具有的相同的影响。 用户在平台上增加影响力的唯一途径是增加他们的份额。
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+此外, Steem只允许成员用STEEM币以一个13周的分额权行计划转换成“Steem权力”来投票。 Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

@@ -34,7 +34,7 @@ Steem在一币一票的基础上运作。 在这个模型下, 那些账户余額
 
 此外, Steem只允许成员用STEEM币以一个13周的分额权行计划转换成“Steem权力”来投票。 在这种模式下, 成员们会被激励而用把STEEM币长期价值最大化的方式来投票 。
 
-## Speed and Scale on the Steem Blockchain
+## Steem区块链的速度和规模
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

@@ -98,11 +98,11 @@ The Steem blockchain allows an authority to be split across multiple entities, s
 
 For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
-### Smart Media Tokens (SMT)
+### 智能媒体代币(SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+这项协议层仍在开发中。它的白皮书将发布在这项标题下。
 
-### Stolen Account Recovery
+### 恢复被盗取的账户
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

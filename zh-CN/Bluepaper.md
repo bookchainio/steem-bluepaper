@@ -30,7 +30,7 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 #### 用份额代币来决定奖励的分配
 
-Steem在一币一票的基础上运作。 Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. 份额可以通过购买或赚取而获得。 Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem在一币一票的基础上运作。 在这个模型下, 那些账户余額最多， 从而对平台贡献最大的人, 对内容贡献的评分有最大份额的影响。 份额可以通过购买或赚取而获得。 用户不能通过拥有多个帐户而获得额外份额的影响, 因为拥有一笔份额的单个帐户将与两个共享相同份额的帐户具有的相同的影响。 用户在平台上增加影响力的唯一途径是增加他们的份额。
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

@@ -18,7 +18,7 @@ Token systems that reward users as they contribute to a token-based community sy
 
 Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"，一个用于给有价值内容的创作者分发代币的代币库。 要了解奖励库, 首先需要理解的是DPoS(委派式权益证明 Delegated Proof-of-Stake) 区块链和 PoW(工作量证明 Proof-of-Work) 区块链代币产生方式中的不同之处。 在传统的PoW 区块链中, 代币是定期产生的, 但随机分发给那些在用计算机执行工作的人 ("矿工")。
 
-不同于其他只用PoW的加密货币, Steem中的代币以每三秒一个区块的固定速率生成。 这些代币根据区块链的定义规则分发给系统中的各个参与者。 这些参与者, 如内容创作者、见证者和鉴定者, 会以不同的方式为代币而竞争。 Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+不同于其他只用PoW的加密货币, Steem中的代币以每三秒一个区块的固定速率生成。 这些代币根据区块链的定义规则分发给系统中的各个参与者。 这些参与者, 如内容创作者、见证者和鉴定者, 会以不同的方式为代币而竞争。 与传统的PoW分配中矿工们在用计算实力争夺代币的方式不同, Steem网络激励参与者以增加网络价值的方式竞争。
 
 The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 

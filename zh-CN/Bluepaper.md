@@ -22,7 +22,7 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 从2016年12月开始, 新代币的生产年率将设置为9.5%, 之后以每25万个区块0.01%的比率减少, 大概每年下降约0.5%。 这个通货膨胀率将持续下降直至到达0.95%，需时大约20.5 年。
 
-在Steem区块链 每年生产的新代币中的75% 将会成为 "奖励库", 分发给内容创作者和内容鉴定者。 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+在Steem区块链 每年生产的新代币中的75% 将会成为 "奖励库", 分发给内容创作者和内容鉴定者。 15% 会分配给被既定的代币持有人, 10% 会被分配给见证者, Steem DPoS 共识协议里的区块生产者。
 
 #### Rewards for Content Creators and Curators
 

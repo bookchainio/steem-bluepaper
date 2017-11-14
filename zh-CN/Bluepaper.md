@@ -104,7 +104,7 @@ For any given post there may be a number of different people who have a financia
 
 ### 恢复被盗取的账户
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+如果用户的账户被黑客攻击了，用户可以通过个人的主秘钥更改其它各种秘钥。 如果黑客获得了用户的私人主秘钥并且更改了账户密码，用户可以在三十天内提供账户之前使用的私钥通过steem被盗账户恢复程序重新掌控账户。 This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

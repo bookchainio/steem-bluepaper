@@ -26,7 +26,7 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 #### 内容创作者和鉴定者的奖励
 
-制作内容的用户通过创建可以吸引新用户的内容, 以及为现有用户带来吸引和有娱乐性的内容, 来增加网络的价值。 这有助于将代币分发给更广泛的用户, 并增加网络效果。 把时间用来评估和投票的用户（鉴定者）在代币分发给添加最大值的用户时。 The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+制作内容的用户通过创建可以吸引新用户的内容, 以及为现有用户带来吸引和有娱乐性的内容, 来增加网络的价值。 这有助于将代币分发给更广泛的用户, 并增加网络效果。 而把时间用来评估和投票的用户（鉴定者）则在分发代币给添加最大价值的用户时扮演着重要的角色。 The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

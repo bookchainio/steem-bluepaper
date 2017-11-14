@@ -10,7 +10,7 @@ Steem为可公开访问和不可变的内容提供了可扩展的区块链 协�
 
 除了在 区块链 和代币技术方面的这些进步, Steem系统还提供了额外的高级功能来增强用户体验, 如被盗帐户的恢复 [^5]、国际支付宝(escrow) 服务、用户内容推广、信誉系统和储蓄账户。 与此同时, 为用户提供三秒交易确认和零交易费用。 所有这些都使它能够支持将智能化和社交化货币带到互联网出版商和社区建设者的使命。
 
-## Proof of Brain: Smart and Social Tokens
+## 用脑量证明：智能和社交代币
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

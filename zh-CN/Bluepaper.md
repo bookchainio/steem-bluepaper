@@ -12,7 +12,7 @@ Steem为可公开访问和不可变的内容提供了可扩展的区块链 协�
 
 ## 用脑量证明：智能和社交代币
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+一个基于对社区贡献而奖励用户的代币系统需要一个决定和评估内容价值的机制: 我们称之为 "用脑量证明"。
 
 ### 奖励库(代币从哪里来？)
 

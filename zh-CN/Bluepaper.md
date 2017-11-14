@@ -74,9 +74,9 @@ Many users who are introduced to cryptocurrency struggle to comprehend how “ma
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
-### 去中心化交易
+### 去中心化交易所
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem区块链提供了去中心化的代币交易所，和Bitshares交易所类似。 交易所允许用户通过去中心化的公共对等交易市场买卖他们的Steem和SBD代币。 用户可以下单进行买卖，区块链自动执行订单匹配。 还有提供一个公众可以访问的预订单记录和历史订单记录，用户可以通过这些记录用来分析市场。 用户可以直接使用区块链的API与交易所进行交互操作，或者可以使用一个图形交互界面，例如Steemit.com上的GUI。[^14]
 
 ### Payments Through Escrow
 

@@ -16,7 +16,7 @@ Token systems that reward users as they contribute to a token-based community sy
 
 ### 奖励库(代币从哪里来？)
 
-Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"，一个用于给有价值内容的创作者分发代币的代币库。 要了解奖励库, 首先需要理解的是DPoS区块链和PoW 区块链代币产生方式中的不同之处。 在传统的PoW 区块链中, 代币是定期产生的, 但随机分发给那机器正在执行工作的人 ("矿工")。
+Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"，一个用于给有价值内容的创作者分发代币的代币库。 要了解奖励库, 首先需要理解的是DPoS(委派式权益证明 Delegated Proof-of-Stake) 区块链和 PoW(工作量证明 Proof-of-Work) 区块链代币产生方式中的不同之处。 在传统的PoW 区块链中, 代币是定期产生的, 但随机分发给那些在用计算机执行工作的人 ("矿工")。
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

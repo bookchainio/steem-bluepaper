@@ -104,7 +104,7 @@ For any given post there may be a number of different people who have a financia
 
 ### 恢复被盗取的账户
 
-如果用户的账户被黑客攻击了，用户可以通过个人的主秘钥更改其它各种秘钥。 如果黑客获得了用户的私人主秘钥并且更改了账户密码，用户可以在三十天内提供账户之前使用的私钥通过steem被盗账户恢复程序重新掌控账户。 This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+如果用户的账户被黑客攻击了，用户可以通过个人的主秘钥更改其它各种秘钥。 如果黑客获得了用户的私人主秘钥并且更改了账户密码，用户可以在三十天内提供账户之前使用的私钥通过steem被盗账户恢复程序重新掌控账户。 提供steem注册服务的个人或公司可能会提供账号恢复服务。 虽然这项服务这不是必须的，但这会增加通过注册员注册用户的使用体验。
 
 ### Security Through Time-Locks
 

@@ -20,9 +20,9 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 不同于其他只用PoW的加密货币, Steem中的代币以每三秒一个区块的固定速率生成。 这些代币根据区块链的定义规则分发给系统中的各个参与者。 这些参与者, 如内容创作者、见证者和鉴定者, 会以不同的方式为代币而竞争。 与传统的PoW分配中矿工们在用计算实力争夺代币的方式不同, Steem网络激励参与者以增加网络价值的方式竞争。
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+从2016年12月开始, 新代币的生产年率将设置为9.5%, 之后以每25万个区块0.01%的比率减少, 大概每年下降约0.5%。 这个通货膨胀率将持续下降直至到达0.95%，需时大约20.5 年。
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+在Steem区块链 每年生产的新代币中的75% 将会成为 "奖励库", 分发给内容创作者和内容鉴定者。 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

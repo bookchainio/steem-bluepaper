@@ -26,11 +26,11 @@ Steem区块链中最创新的 (也是最被误解的) 特点之一是"奖励库"
 
 #### 内容创作者和鉴定者的奖励
 
-制作内容的用户通过创建可以吸引新用户的内容, 以及为现有用户带来吸引和有娱乐性的内容, 来增加网络的价值。 这有助于将代币分发给更广泛的用户, 并增加网络效果。 而把时间用来评估和投票的用户（鉴定者）则在分发代币给添加最大价值的用户时扮演着重要的角色。 The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+制作内容的用户通过创建可以吸引新用户的内容, 以及为现有用户带来吸引和有娱乐性的内容, 来增加网络的价值。 这有助于将代币分发给更广泛的用户, 并增加网络效果。 而把时间用来评估和投票的用户（鉴定者）则在分发代币给添加最大价值的用户时扮演着重要的角色。 所以区块链会根据通过分额加权投票制收集用户的集体智慧来决定这些活动的价值， 从而进行相应的奖励。
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### 用份额代币来决定奖励的分配
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem在一币一票的基础上运作。 Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. 份额可以通过购买或赚取而获得。 Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

@@ -60,9 +60,9 @@ Practically speaking, AppBase enables different cores, or even different compute
 
 Steem区块链提供俩大主要目的，其一是作为数字代币的处理系统，同时作为一个主流社交媒体平台。 区块链赋予Steem平台的特征需要满足这两个目的，同时当用户在Steem平台上使用这两项服务的时候，提供超优秀的用户体验。
 
-### Primitives Designed for Content Applications
+### 为内容应用程序而生
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem为用户提供将不同类型的内容以纯文本的形式直接永久地发布和存储到区块链的不可变分类帐中的独特能力。 一旦存储在区块链中，数据就可以公开供开发者使用。 开发人员可以使用可用的API直接在区块链中与内容进行交互。 几个原始区块链开发者可以构建包括帐户名称，文章，评论，投票和帐户余额。
 
 ### Native Name System
 
@@ -72,7 +72,7 @@ Wallet addresses used by many blockchain technologies, such as Bitcoin and Ether
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD代币被设计成锚定接近一美金的价值，所以用户得到SBD就可以得知它们的大概真正价值。 SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### 去中心化交易所
 

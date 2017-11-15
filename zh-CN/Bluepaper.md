@@ -68,11 +68,11 @@ Steem为用户提供将不同类型的内容以纯文本的形式直接永久地
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 
-### Steem Blockchain Dollars (SBD)
+### Steem区块链Dollars（SBD）
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
-SBD代币被设计成锚定接近一美金的价值，所以用户得到SBD就可以得知它们的大概真正价值。 SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD代币被设计成锚定接近一美金的价值，所以用户得到SBD就可以得知它们的大概真正价值。 如果用户希望保持相对于美元的账户价值，SBD代币也就成为为用户提供的相对稳定货币。 更详细的技术说明可以在Steem技术白皮书中查阅。[^12]
 
 ### 去中心化交易所
 

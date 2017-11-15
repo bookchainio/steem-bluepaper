@@ -36,9 +36,9 @@ Steem在一币一票的基础上运作。 在这个模型下, 那些账户余額
 
 ## Steem区块链的速度和规模
 
-Steem区块链的设计是在现有众多区块链中最快和最高效的, 以便能够支持一个规模大于Reddit的社交媒体平台的预计流量所需。 Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem区块链的设计是在现有众多区块链中最快和最高效的, 以便能够支持一个规模大于Reddit的社交媒体平台的预计流量所需。 Steem的交易数量已经超于比特币, 并能够扩展到支持每秒1万个交易或以上。
 
-### Delegated Proof of Stake (DPoS)
+### 委派式权益证明（DPoS）
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

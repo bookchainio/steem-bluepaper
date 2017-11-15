@@ -40,9 +40,9 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 ### 委派式权益证明（DPoS）
 
-通常因为工作量证明 (PoW) 瓶颈[^6], 许多区块链不能超于到每秒钟三个交易的速度。 这速度是世界金融流量所需的一小部分。 Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+通常因为工作量证明 (PoW) 瓶颈[^6], 许多区块链不能超于到每秒钟三个交易的速度。 这速度是世界金融流量所需的一小部分。 Steem需要的规模和速度比PoW能够提供的更大, 因此, Steem利用一个鲜为人知的算法，称为委派式权益证明(DPoS) [^7]，去奠定一个适合数十亿用户的区块链的基础。
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+因为DPoS, Steem区块链用很少的计算负荷就能够每3秒钟产生一个新区块。 这意味着区块链可以处理更多的交易并保存更多的信息, 包括用户内容。
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

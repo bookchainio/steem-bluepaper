@@ -90,13 +90,13 @@ These private keys are the Posting, Active and Owner. The posting key allows acc
 
 Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
-### Multi Sig Authorities
+### 多种签名授权机制
 
 The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
-### Multiple Reward Beneficiaries
+### 多重受益人奖励机制
 
-对于任何一篇文章，会有多个人从奖励中得到经济利益。 This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+对于任何一篇文章，会有多个人从奖励中得到经济利益。 这包括了作者，共同作者，推荐人，评论者和工具开发者。 无论是通过网站还是应用工具发布的文章或者评论，都可以设置如何分配得到的奖励。 这促进了不同种类的合作机制，也是建立在Steem区块链顶层的平台从它的用户中分得一定比例收益的一种方式。
 
 ### 智能媒体代币(SMT)
 

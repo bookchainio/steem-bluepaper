@@ -86,13 +86,13 @@ The irreversible nature of blockchain transactions is an important security feat
 
 Steem采用了一种多层次私钥体系使其更加容易地分别执行低安全级别和高安全级别的任务。 低安全级别的任务倾向于设计，例如发表文章或者评论。 高安全级别的任务倾向于代币转账和更改私钥。 这样的设计允许用户使用不用的秘钥，进而根据不用安全性级别的秘钥执行不同的任务。
 
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+这些私钥分为三类，发布秘钥(Posting)，激活秘钥(active)，主秘钥(owner)。 发布秘钥允许账户进行发布文章，评论，编辑，投票，转发[^15], 关注和屏蔽其它账户。 The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 
 Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
 ### 多种签名授权机制
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem区块链允许把单一授权分为多个有授权的实体，这促使多个用户可以共享同样的授权，或者为了事务的有效性可以令多个实体授权一项交易。 这和Bitshares[^16] 采用的方式一样，每一个公钥和私钥都被赋予一个权重值，同时对授权设定阈值。 为了使一项事务有效，需要足够的实体签名授权使权重的总和达到或者超过规定的阈值。
 
 ### 多重受益人奖励机制
 

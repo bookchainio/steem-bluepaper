@@ -36,7 +36,7 @@ Steem在一币一票的基础上运作。 在这个模型下, 那些账户余額
 
 ## Steem区块链的速度和规模
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem区块链的设计是在现有众多区块链中最快和最高效的, 以便能够支持一个规模大于Reddit的社交媒体平台的预计流量所需。 Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 
 ### Delegated Proof of Stake (DPoS)
 

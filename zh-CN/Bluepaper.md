@@ -86,9 +86,9 @@ The irreversible nature of blockchain transactions is an important security feat
 
 Steem采用了一种多层次私钥体系使其更加容易地分别执行低安全级别和高安全级别的任务。 低安全级别的任务倾向于设计，例如发表文章或者评论。 高安全级别的任务倾向于代币转账和更改私钥。 这样的设计允许用户使用不用的秘钥，进而根据不用安全性级别的秘钥执行不同的任务。
 
-这些私钥分为三类，发布秘钥(Posting)，激活秘钥(active)，主秘钥(owner)。 发布秘钥允许账户进行发布文章，评论，编辑，投票，转发[^15], 关注和屏蔽其它账户。 The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+这些私钥分为三类，发布秘钥(Posting)，激活秘钥(active)，主秘钥(owner)。 发布秘钥允许账户进行发布文章，评论，编辑，投票，转发[^15], 关注和屏蔽其它账户。 激活秘钥是为更敏感的任务而设计的，例如账户之间的转账，提高、降低能量，转换Steem代币，见证人投票，在内部市场发布交易信息，也可以用来重设发布秘钥。 主秘钥只有在需要时才使用。 因为它是多层私钥结构中的顶级私钥，他可以用来更改账户的其他私钥，包括更改其本身，在账户恢复过程中它也用来表明对账户的拥有权。 强烈建议在线下保存主秘钥，直到各类私钥需要被改变时，或者需要恢复被盗账户时再进行使用。
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem也设计了便于加密所有三个密钥的主密码。 网页服务可以使用一个主密码来解密和签署必要的私钥。 主密码可以允许用户信任某些服务以防止在任何服务器上传输不恰当的密钥，从而增加用户体验，同时保持安全的客户端签名环境。
 
 ### 多种签名授权机制
 

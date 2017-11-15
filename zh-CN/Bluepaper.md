@@ -44,7 +44,7 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 因为DPoS, Steem区块链用很少的计算负荷就能够每3秒钟产生一个新区块。 这意味着区块链可以处理更多的交易并保存更多的信息, 包括用户内容。
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+通过定义硬分叉发生时间的规则, 在 DPoS 框架内选出的见证者可以快速而有效地决定是否继续进行建议的硬分叉, 从而使Steem区块链协议的发展速度比大多数其他加密货币要快. Steem区块链已经成功地分叉了18次 [^8]。而每次硬分叉后只有一个链会继续存在。
 
 ### ChainBase
 

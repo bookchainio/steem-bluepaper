@@ -12,7 +12,7 @@ Además de estos avances en la tecnología blockchain y de tokens, Steem como un
 
 ## Prueba de Cerebro: tokens sociales e inteligentes
 
-Los sistemas de Tokens que recompensan a los usuarios al contribuir a una comunidad basada en Tokens, requiere de mecanismos para establecer y evaluar el valor social del contenido: a esto lo llamamos "Prueba de cerebro"
+La Prueba de Cerebro se refiere al sistema de recompensas, dentro de una comunidad basada en tokens, producto de la contribución y evaluación de contenido social dentro de la misma
 
 ### El fondo de recompensas ("¿De dónde provienen los tokens?)
 

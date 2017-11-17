@@ -114,7 +114,7 @@ Steem区块链允许用户将他们的Steem和 SBD存储在一个储蓄账户中
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. 收取费用的唯一理由是阻止用户完成不合理的交易, 这可能会影响整个区块链的性能。
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

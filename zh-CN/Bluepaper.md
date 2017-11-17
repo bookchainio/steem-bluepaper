@@ -78,9 +78,9 @@ SBD代币被设计成锚定接近一美金的价值，所以用户得到SBD就�
 
 Steem区块链提供了去中心化的代币交易所，和Bitshares交易所类似。 交易所允许用户通过去中心化的公共对等交易市场买卖他们的Steem和SBD代币。 用户可以下单进行买卖，区块链自动执行订单匹配。 还有提供一个公众可以访问的预订单记录和历史订单记录，用户可以通过这些记录用来分析市场。 用户可以直接使用区块链的API与交易所进行交互操作，或者可以使用一个图形交互界面，例如Steemit.com上的GUI。[^14]
 
-### Payments Through Escrow
+### 通过第三方代管付款
 
-区块链甲乙的不可逆性是一个重要的安全特性，但在许多情况下，用户可能会感到不轻松去吧自己的代币转给另一个人却没有办法要回来。 The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+区块链甲乙的不可逆性是一个重要的安全特性，但在许多情况下，用户可能会感到不轻松去吧自己的代币转给另一个人却没有办法要回来。 Steem区块链为用户提供了一种方式，即用户之间互相发送代币是通过设计的代管服务，类似第三方，而进行的。 作为代管服务的用户能够确定协议的条款是否已得到满足, 允许将资金释放给接收方或退回给发件人。
 
 ### 多层次私钥结构设计
 
@@ -106,11 +106,11 @@ Steem区块链允许把单一授权分为多个有授权的实体，这促使多
 
 如果用户的账户被黑客攻击了，用户可以通过个人的主秘钥更改其它各种秘钥。 如果黑客获得了用户的私人主秘钥并且更改了账户密码，用户可以在三十天内提供账户之前使用的私钥通过steem被盗账户恢复程序重新掌控账户。 提供steem注册服务的个人或公司可能会提供账号恢复服务。 虽然这项服务这不是必须的，但这会增加通过注册员注册用户的使用体验。
 
-### Security Through Time-Locks
+### 通过时间锁的安全性
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+如果用户的活动或所有者密钥被破坏, 攻击者将能够完全访问其帐户中的所有资金。 由于 区块链的交易是不可逆转的, 用户在被盗后没有办法收回他们的资金。
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem区块链允许用户将他们的Steem和 SBD存储在一个储蓄账户中, 这样在三天的等待期之后, 资金才可能被撤回。 此外, 在为期七天的初步等候期后, 在13个星期后可以提取Steem，并且只可以每星期1/13 的速度撤回。 这些时间锁的机制是防止攻击者能够立即访问用户的全部资金, 以便合法的所有者有时间重新控制他们的帐户在损失所有的资金之前。
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

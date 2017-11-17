@@ -70,7 +70,7 @@ Wallet addresses used by many blockchain technologies, such as Bitcoin and Ether
 
 ### Steem区块链Dollars（SBD）
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+很多被加密货币带到这里来的用户都在努力理解这个平台奖励的内部货币是如何获得真实世界中的价值的。 In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
 SBD代币被设计成锚定接近一美金的价值，所以用户得到SBD就可以得知它们的大概真正价值。 如果用户希望保持相对于美元的账户价值，SBD代币也就成为为用户提供的相对稳定货币。 更详细的技术说明可以在Steem技术白皮书中查阅。[^12]
 

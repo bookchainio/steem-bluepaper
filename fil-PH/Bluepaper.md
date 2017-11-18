@@ -22,11 +22,11 @@ Magkaiba sa PoW na mga cryptocurrencies, ang mga token sa Steem ay nabubuo sa ti
 
 Ang rate sa pag-gawa ng mga bagong token ay nakaset sa 9.5% kada taon sinula noong Desyembre 2016 at unti unting bumababa sa rate na 0.01% bawat 250,000 na bloke, o 0.5% kada taon. Ang paglobo ay patuloy na bumababa sa rate na nakasaad hanggang umabot ito ng 0.95%, pagkatapos ng 20.5 na taon.
 
-Sa supply ng mga bagong token na nabubuo sa Steem blockchain bawat taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at nagbibigay halaga sa mga nilalaman. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Sa supply ng mga bagong token na nabubuo sa Steem blockchain bawat taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at nagbibigay halaga sa mga nilalaman. 15% ay binabahagi sa mga stakeholders at ang 10% ay binabahagi sa mga saksi o tinatawag na Witnesses, ang mga gumagawa ng mga bloke sa loob ng Steem DPoS consensus na protocol.
 
-#### Rewards for Content Creators and Curators
+#### Gantimpala sa Gumagawa ng Nilalaman at mga Curator
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Ang mga gumagamit na gumagawa ng mga nilalaman ay dumadagdag ng halaga sa network sa paraan na nakakahikayat sila ng mga bagong tao paa sa plataporma at sa kadahilanan din na ang mga gumagamit ay nakabubuo ng interaksyon sa iba at nalilibang. Pinapagaling nito ang pagbabahagi ng pera sa malawak na kumpol ng mga gumagamit at pinapalaki ang magandang epekto sa network. Ang mga gumagamit na nagbubuhos ng oras para sumuri at bumoto sa mga nilalaman ay may mahalagang papel na ginagampanan para sa pagbabahagi ng pera sa mga gumagamit na nagdaragdag ng halaga. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

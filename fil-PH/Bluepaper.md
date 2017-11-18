@@ -30,9 +30,9 @@ Ang mga gumagamit na gumagawa ng mga nilalaman ay dumadagdag ng halaga sa networ
 
 #### Pagboto gamit ang Staked-Tokens para Malaman ang Alokasyon ng Pera
 
-Nag-ooperate ang Steem base sa tinatawag na one-STEEM, one-vote. Sa model na ito, ang mga indibidwal na naka-ambag ng marami sa sistema, na sinusukat sa kanilang balanse ng kanilang account, ay mayroon pinaka mataas na impluwensya sa kung paano mabibigyan ng puntos ang bawat kontribusyon. Ang stake ay puwedeng bilhin o makuha. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Nag-ooperate ang Steem base sa tinatawag na one-STEEM, one-vote. Sa model na ito, ang mga indibidwal na naka-ambag ng marami sa sistema, na sinusukat sa kanilang balanse ng kanilang account, ay mayroon pinaka mataas na impluwensya sa kung paano mabibigyan ng puntos ang bawat kontribusyon. Ang stake ay puwedeng bilhin o makuha. Ang mga gumagamit ay hindi makakakuha ng dagdag na impluwensya sa pamamagitan ng pag-gawa ng maraming account dahil ang isang account na may dami ng stake ay pareho lang ng impluwensya sa magkaibang account na may parehong dami ng stake. Ang isang paraan lang para ang mga gumagamit ay mapalaki nila ang kanilang impluwensya sa sistema ay ang pagpapalaki ng kanila stake.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Dagdag pa nito, pinapayagan ng ng Steem ang mga myembro na bumoto sa STEEM kung ito ay committed sa 13 na linggo na skedyul sa vesting na tinatawag na Steem Power. Sa model na ito, may mga pinansyal na insentibo ang mgamyembro para bumoto sa paraan na mapalawak nila ang kanilang layuning pangmatagalan para sa halaga ng STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

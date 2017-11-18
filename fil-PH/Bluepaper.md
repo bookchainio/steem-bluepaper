@@ -20,9 +20,9 @@ Isa sa mga pinaka innovatibo (at pinaka hindi maintindihan) na aspeto ng Steem b
 
 Magkaiba sa PoW na mga cryptocurrencies, ang mga token sa Steem ay nabubuo sa tiyak na rate ng bawat isang bloke sa loob ng tatlong segundo. Ang mga token na ito ay ibinabahagi sa magkakaibang aktor sa sistema na base sa mga alituntunin na nakalagay sa blockchain. Ang mga aktor na ito ay ang mga gumagawa ng nilalaman, mga saksi, mga curator na nag kukumpitensya sa espesyal na paraan para sa mga token. Hindi tulad sa tradisyonal na PoW sa pagbabahagi, kung saan ang mga minero are nagkukumpitensya gamit ang computer power, ang mga aktor sa Steem network ay nabibigyan ng insentibo para sa paraan na makadagdag ng halaga sa network.
 
-Ang rate sa pag-gawa ng mga bagong token ay nakaset sa 9.5% kada taon sinula noong Desyembre 2016 at unti unting bumababa sa rate na 0.01% bawat 250,000 na bloke, o 0.5% kada taon. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Ang rate sa pag-gawa ng mga bagong token ay nakaset sa 9.5% kada taon sinula noong Desyembre 2016 at unti unting bumababa sa rate na 0.01% bawat 250,000 na bloke, o 0.5% kada taon. Ang paglobo ay patuloy na bumababa sa rate na nakasaad hanggang umabot ito ng 0.95%, pagkatapos ng 20.5 na taon.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Sa supply ng mga bagong token na nabubuo sa Steem blockchain bawat taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at nagbibigay halaga sa mga nilalaman. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

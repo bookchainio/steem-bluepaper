@@ -48,13 +48,13 @@ Bir Hardfork oluştuğunda kuralları tanımlayarak, DPoS çerçevesinde seçile
 
 ### ChainBase
 
-ChainBase, blockchain yığınının veritabanı kısmıdır ve 2016'da Graphene'in yerini almıştır. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase, blockchain yığınının veritabanı kısmıdır ve 2016'da Graphene'in yerini almıştır. ChainBase, daha hızlı yükleme ve çıkış sürelerine sahiptir, veritabanına paralel erişimi destekler ve çökmelere karşı öncekilerden daha dayanıklıdır. Ayrıca daha az sıklıkta veritabanı yolsuzluğuna sahiptir, tüm veritabanı durumunun anlık "anlık görüntüsünü" almasını sağlar ve aynı bellekten daha fazla RPC isteği görebilir.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase, çok zincirli bir katman yaratmanın ilk adımıdır. AppBase, Steem blok zincirinin birçok bileşenini, eklenti olarak ek konsensüs blok zincirleri oluşturarak modüler hale getirir. Bu eklentiler, tüm blok zincirinin tekrar değiştirilmesini gerektirmediğinden çok daha hızlı güncellenebilir. Bu, Steemd'i korumak ve ölçeklendirmek için daha verimli ve daha kolay hale getirir.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Pratikte AppBase, Steem blok zincirinin farklı bölümlerini korumak için farklı çekirdeklerin veya farklı bilgisayarların kullanılmasını sağlar Bu, her çekirdeğin ve ağdaki tüm bilgisayarların blok zincirini korumasını gerektirmekten çok daha etkilidir. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 
 ## Steem’s Platform Features
 

@@ -54,7 +54,7 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. 这些插件可以更快地更新, 因为它们不需要重播整个区块链。 这使得 steemd [^11] 更高效、更易于维护和扩展。
 
-实际上, AppBase 允许不同的核心, 甚至不同的计算机, 来维持Steem区块链的不同部分。 This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+实际上, AppBase 允许不同的核心, 甚至不同的计算机, 来保持Steem区块链的不同部分。 这比要求每个核心和网络中每台计算机都要保持整个区块链的效率要高得多。 区块链的模块化使它能够充分利用计算机的模块性。 这是在创建一个完全并行、完全优化的区块链的漫长过程中的一个必要步骤。
 
 ## Steem平台的特征
 

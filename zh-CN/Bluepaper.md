@@ -50,9 +50,9 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 链库技术 (ChainBase) [^9] 是 区块链栈的数据库部分, 在2016年取代了石墨烯区块技术[^10]。 链库具有更快的加载和退出速度, 支持对数据库的并行存取, 并且比之前的技术更能阻止系统瘫痪。 它也减少了数据库损坏的频率, 允许即时拍下整个数据库状态的快照（snapshot）, 并且可以从相同的内存中提供更多的远程过程调用请求。
 
-### AppBase
+### 应用库 （AppBase）
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. 这些插件可以更快地更新, 因为它们不需要重播整个区块链。 这使得 steemd [^11] 更高效、更易于维护和扩展。
+应用库(AppBase) 是创建多链FABRIC结构的第一步。 AppBase 使Steem区块链的许多组件可以通过创建额外的非共识区块链专用插件而模块化。 这些插件可以更快地更新, 因为它们不需要重播整个区块链。 这使得 steemd [^11] 更高效、更易于维护和扩展。
 
 实际上, AppBase 允许不同的核心, 甚至不同的计算机, 来保持Steem区块链的不同部分。 这比要求每个核心和网络中每台计算机都要保持整个区块链的效率要高得多。 区块链的模块化使它能够充分利用计算机的模块性。 这是在创建一个完全并行、完全优化的区块链的漫长过程中的一个必要步骤。
 

@@ -48,7 +48,7 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 ### 链库技术（ChainBase）
 
-链库技术 (ChainBase) [^9] 是 区块链栈的数据库部分, 在2016年取代了石墨烯区块技术[^10]。 链库具有更快的加载和退出速度, 支持对数据库的并行存取, 并且比之前的技术更能阻止系统瘫痪。 It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+链库技术 (ChainBase) [^9] 是 区块链栈的数据库部分, 在2016年取代了石墨烯区块技术[^10]。 链库具有更快的加载和退出速度, 支持对数据库的并行存取, 并且比之前的技术更能阻止系统瘫痪。 它也减少了数据库损坏的频率, 允许即时拍下整个数据库状态的快照（snapshot）, 并且可以从相同的内存中提供更多的远程过程调用请求。
 
 ### AppBase
 

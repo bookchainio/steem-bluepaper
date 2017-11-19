@@ -122,7 +122,7 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 ## 结语
 
-Steem区块链和代币所提供的独特奖赏和鼓励计划旨在使Steem成为主流用户所用的终极加密货币。 The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Steem区块链和代币所提供的独特奖赏和鼓励计划旨在使Steem成为主流用户所用的终极加密货币。 Steem区块链性能的设计是以货币和平台的广泛采用作为考虑。 When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

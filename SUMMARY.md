@@ -5,3 +5,6 @@
 * [日本語](ja-JP/Bluepaper.md)
 * [Русский](ru-RU/Bluepaper.md)
 * [Español](es-ES/Bluepaper.md)
+* [বাংলা](bn-BD/Bluepaper.md)
+* [汉语](zh-CN/Bluepaper.md)
+* [Bahasa Indonesia](id-ID/Bluepaper.md)

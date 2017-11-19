@@ -50,11 +50,11 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 链库技术 (ChainBase) [^9] 是 区块链栈的数据库部分, 在2016年取代了石墨烯区块技术[^10]。 链库具有更快的加载和退出速度, 支持对数据库的并行存取, 并且比之前的技术更能阻止系统瘫痪。 它也减少了数据库损坏的频率, 允许即时拍下整个数据库状态的快照（snapshot）, 并且可以从相同的内存中提供更多的远程过程调用请求。
 
-### 应用库 （AppBase）
+### 应用库技术（AppBase）
 
-应用库(AppBase) 是创建多链FABRIC结构的第一步。 AppBase 使Steem区块链的许多组件可以通过创建额外的非共识区块链专用插件而模块化。 这些插件可以更快地更新, 因为它们不需要重播整个区块链。 这使得 steemd [^11] 更高效、更易于维护和扩展。
+应用库技术(AppBase) 是创建多链FABRIC结构的第一步。 应用库使Steem区块链的许多组件可以通过创建额外的非共识区块链专用插件而模块化。 这些插件可以更快地更新, 因为它们不需要重播整个区块链。 这使得 steemd [^11] 更高效、更易于维护和扩展。
 
-实际上, AppBase 允许不同的核心, 甚至不同的计算机, 来保持Steem区块链的不同部分。 这比要求每个核心和网络中每台计算机都要保持整个区块链的效率要高得多。 区块链的模块化使它能够充分利用计算机的模块性。 这是在创建一个完全并行、完全优化的区块链的漫长过程中的一个必要步骤。
+实际上, 应用库允许不同的核心, 甚至不同的计算机, 来保持Steem区块链的不同部分。 这比要求每个核心和网络中每台计算机都要保持整个区块链的效率要高得多。 区块链的模块化使它能够充分利用计算机的模块性。 这是在创建一个完全并行、完全优化的区块链的漫长过程中的一个必要步骤。
 
 ## Steem平台的特征
 
@@ -112,11 +112,11 @@ Steem区块链允许把单一授权分为多个有授权的实体，这促使多
 
 Steem区块链允许用户将他们的Steem和 SBD存储在一个储蓄账户中, 这样在三天的等待期之后, 资金才可能被撤回。 此外, 在为期七天的初步等候期后, 在13个星期后可以提取Steem，并且只可以每星期1/13 的速度撤回。 这些时间锁的机制是防止攻击者能够立即访问用户的全部资金, 以便合法的所有者有时间重新控制他们的帐户在损失所有的资金之前。
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### 免费操作的带宽限制
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. 收取费用的唯一理由是阻止用户完成不合理的交易, 这可能会影响整个区块链的性能。
+由于见证者是完全通过新生产的代币来支付, 区块链没有必要向用户收取费用去维持。 收取费用的唯一理由是阻止用户完成不合理的交易。 这些交易可能会影响整个区块链的性能。
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+为了对系统的使用进行合理的限制, 每个用户会有有限的带宽。 Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

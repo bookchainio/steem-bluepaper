@@ -8,7 +8,7 @@ Steem为可公开访问和不可变的内容提供了可扩展的区块链 协�
 
 在加密货币中, Steem的独特性使其比起其他代币， 例如比特币和以太币， 更加 "智能化" 和 "社交化"。 这源于代币的两个新特征。 第一个是用于激励内容创建和鉴定 的代币库(称为 "奖励库")。 第二个是一个投票系统，它利用人群的智慧来评估内容价值，并向该内容分发代币。 这两个独特特征的组合可以称为 Proof-of-Brain, 它是基于 Proof-of-Work [^4] 的双关, 旨在强调以人工分发形式把代币分发给社区参与者。 Proof-of-Brain 把STEEM定位成一个用于建立不断增长的社区的工具, 通过奖励架构鼓励社区的成员去增加社区的价值。
 
-除了在 区块链 和代币技术方面的这些进步, Steem系统还提供了额外的高级功能来增强用户体验, 如被盗帐户的恢复 [^5]、国际支付宝(escrow) 服务、用户内容推广、信誉系统和储蓄账户。 与此同时, 为用户提供三秒交易确认和零交易费用。 所有这些都使它能够支持将智能化和社交化货币带到互联网出版商和社区建设者的使命。
+除了在 区块链 和代币技术方面的这些进步, Steem系统还提供了额外的高级功能来增强用户体验, 如被盗帐户的恢复 [^5]、托管服务、用户内容推广、信誉系统和储蓄账户。 与此同时, 为用户提供三秒交易确认和零交易费用。 所有这些都使它能够支持将智能化和社交化货币带到互联网出版商和社区建设者的使命。
 
 ## 用脑量证明：智能和社交代币
 
@@ -122,7 +122,7 @@ Steem区块链允许用户将他们的Steem和 SBD存储在一个储蓄账户中
 
 ## 结语
 
-Steem区块链和代币所提供的独特奖赏和鼓励计划旨在使Steem成为主流用户所用的终极加密货币。 Steem区块链性能的设计是以货币和平台的广泛采用作为考虑。 When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Steem区块链和代币所提供的独特奖赏和鼓励计划旨在使Steem成为主流用户所用的终极加密货币。 Steem区块链性能的设计是以货币和平台的广泛采用作为考虑。 与快如闪电的处理时间和免费交易结合后, Steem将处于能成为世界各地人们使用的领先区块链技术的有利位置。
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

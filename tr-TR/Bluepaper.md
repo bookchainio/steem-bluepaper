@@ -54,27 +54,27 @@ ChainBase, blockchain yığınının veritabanı kısmıdır ve 2016'da Graphene
 
 AppBase, çok zincirli bir katman yaratmanın ilk adımıdır. AppBase, Steem blok zincirinin birçok bileşenini, eklenti olarak ek konsensüs blok zincirleri oluşturarak modüler hale getirir. Bu eklentiler, tüm blok zincirinin tekrar değiştirilmesini gerektirmediğinden çok daha hızlı güncellenebilir. Bu, Steemd'i korumak ve ölçeklendirmek için daha verimli ve daha kolay hale getirir.
 
-Pratikte AppBase, Steem blok zincirinin farklı bölümlerini korumak için farklı çekirdeklerin veya farklı bilgisayarların kullanılmasını sağlar Bu, her çekirdeğin ve ağdaki tüm bilgisayarların blok zincirini korumasını gerektirmekten çok daha etkilidir. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Pratikte AppBase, Steem blok zincirinin farklı bölümlerini korumak için farklı çekirdeklerin veya farklı bilgisayarların kullanılmasını sağlar Bu, her çekirdeğin ve ağdaki tüm bilgisayarların blok zincirini korumasını gerektirmekten çok daha etkilidir. Blok zincirinin modülerleştirilmesi, bilgisayarların modüler yapısından tam olarak faydalanmasını sağlar. Bu tamamen paralel ve optimize edilmiş bir blok zincir oluşturmanın uzun süreci için gerekli bir adımdır.
 
-## Steem’s Platform Features
+## Steem'in Platform Özellikleri
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blok zinciri, ana toplayıcı bir sosyal medya platformunun yanı sıra, dijital bir belirteç işleme sistemi olma amacına da hizmet ediyor. Blok zincirinin sunduğu özellikler her iki amacı da desteklemeli ve platformun her iki yönünü de kullanırken kullanıcılara dünya standartlarında bir deneyim sunmalıdır.
 
-### Primitives Designed for Content Applications
+### İçerik Uygulamaları için İlkel Tasarım
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem, kullanıcılara farklı metin türlerini doğrudan ve kalıcı olarak, blok şablonunun değiştirilemez defterine düz metin olarak yayınlama ve depolama olanağı sunar. Bir kere blok zincirinde saklandığında, veriler geliştiriciler tarafından oluşturulması için halka açılmaktadır. Geliştiriciler mevcut API'ları kullanarak içerikle doğrudan blok zincirinde etkileşime geçebilir. Geliştiricilerin birçoğu, Hesap İsimleri, Yayınlar, Yorumlar, Oylar ve Hesap Bakiyesini içeren geliştirilebilir blok zincir ilkel geliştiricilerinden biridir.
 
-### Native Name System
+### Yerli İsim Sistemi
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Bitcoin ve Ethereum gibi birçok blok zincir teknolojisinin kullandığı cüzdan adresleri tarihsel olarak çok sayıda rastgele harf ve sayı dizgesinden oluşuyordu, ancak bu cüzdan adresleri, tipik bir çevrimiçi sosyal medya içeriğinde diğer kullanıcılarla işlem yapmakta zorluk çekebilir; çünkü, kullanıcılar uzun dizili adresleri bellekten geri yükleyemez. Steem blok zinciri, her bir katılımcının kullanıcı adını mülkiyet adreslerini kendi belleklerinden doğrulayabileceği, belirteç göndermeye çalışan katılımcılar için kullanıcı deneyimini güçlendiren cüzdan adresi olarak kullanıyor.
 
-### Steem Blockchain Dollars (SBD)
+### Steem Blockchain doları (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Cryptocurrency ile tanışan birçok kullanıcı, platform tarafından verilen "sihirli internet tokenlarını" gerçekte gerçek dünya değerine sahip olabileceğini kavramak için mücadele ediyor. Genel kullanıcılarının kullandığı daha geleneksel para sistemleri ile platform üzerinden ödüllendirilen şifreleme tokenları arasındaki boşluğu kapatmak için Steem Blockchain Dollars (SBD) adlı yeni para birimi oluşturuldu.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokenları, bir ABD Doları'na yakın bir şekilde tutturulacak şekilde tasarlanmıştır; böylece, onları alan kullanıcılar, "gerçek dolar" terimlerinde ne kadar değerli olduklarını bilebilirler. SBD tokenları ayrıca, hesap değerlerini ABD Doları'na göre korumak isteyen kullanıcılar için nispeten istikrarlı bir para birimi sunar. Daha detaylı teknik açıklama Steem Whitepaper raporda bulunabilir.
 
-### Decentralized Exchange
+### Merkezi Olmayan Değişim
 
 The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 

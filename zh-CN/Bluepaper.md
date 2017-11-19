@@ -46,9 +46,9 @@ Steem区块链的设计是在现有众多区块链中最快和最高效的, 以�
 
 通过定义硬分叉发生时间的规则, 在 DPoS 框架内选出的见证者可以快速而有效地决定是否继续进行建议的硬分叉, 从而使Steem区块链协议的发展速度比大多数其他加密货币要快. Steem区块链已经成功地分叉了18次 [^8]。而每次硬分叉后只有一个链会继续存在。
 
-### ChainBase
+### 链库技术（ChainBase）
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+链库技术 (ChainBase) [^9] 是 区块链栈的数据库部分, 在2016年取代了石墨烯区块技术[^10]。 链库具有更快的加载和退出速度, 支持对数据库的并行存取, 并且比之前的技术更能阻止系统瘫痪。 It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

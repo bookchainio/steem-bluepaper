@@ -106,7 +106,7 @@ SBD টোকেনগুলি এক ডলারের সাথে ঘনি
 
 যদি ব্যবহারকারী তার একাউন্ট হারিয়ে ফেলেন, তবে তিনি ব্যক্তিগত মালিকানা কি ব্যবহার করে অন্যান্য কি পরিবর্তন করতে পারবেন। যদি হ্যাকার কোন অ্যাকাউন্টের ব্যক্তিগত মালিকানা কি ও অন্যান্য কি পরিবর্তন করে ফেলে, তবে প্রকৃত ব্যবহারকারী ৩০ দিন সময় পাবেন Steem এর প্রথম চোরাই অ্যাকাউন্ট পুনরুদ্ধার প্রক্রিয়ার মাধ্যমে পূর্বের ব্যক্তিগত কি সমূহ জমাদান করতে এবং অ্যাকাউন্টের নিয়ন্ত্রণ অধিকার ফিরে পেতে এই সেবাটি কোন ব্যক্তি বা প্রতিষ্ঠানের মাধ্যমে পাওয়া যাবে যারা স্টিমে নিবন্ধন সেবা প্রদান করে। নিবন্ধক তার ব্যবহারকারীদের এই সেবা প্রদানের জন্য বাধ্য নয়, কিন্তু ব্যবহারকারীদের এই সেবা প্রদানের মাধ্যমে ব্যবহারকারীদের একটি সুন্দর অভিজ্ঞতা হয়।
 
-### সময়-তালা দিয়ে নিরাপত্তা
+### টাইম-লকস দ্বারা নিরাপত্তা
 
 যদি ব্যবহারকারীর সক্রিয় বা মালিকানা কি হ্যাকড হয়, তবে হ্যাকার ওই অ্যাকাউন্টের সকল তহবিল পূর্ণাধিকার পাবে কারণ ব্লকচেইন স্থানান্তর অপরিবর্তনীয়, ব্যবহারকারীর তহবিল আবার ফিরিয়ে আনার কোন পথ নেই।
 
@@ -136,22 +136,22 @@ SBD টোকেনগুলি এক ডলারের সাথে ঘনি
 
 [^6]: বিটকয়েন স্কেলেবিলিটি সমস্যা https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: ডিপিওএস শ্বেতপত্র https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+[^9]: চেইনবেইজ রিলিজ https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Graphene Documentation http://docs.bitshares.org/
+[^10]: গ্রাফিন ডকুমেন্টেশন http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: স্টিম ব্লকচেইন ফ্রেমওয়ার্কের অংশ যা লেনদেন প্রক্রিয়াকরণ এবং পুরষ্কার বিতরণ।
 
-[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+[^12]: স্টিম শ্বেতপত্র https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: বিটশেয়ারস বিকেন্দ্রীভূত বিনিময়ব্যবস্থা http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com Currency Market https://steemit.com/market
+[^14]: Steemit.com মুদ্রা বাজার https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "রিস্টিম" হল একটি স্টিম ব্লকচেইনে ব্যবহৃত শব্দ যখন ব্যবহারকারী তাদের অনুগামীদের সাথে বিষয়বস্তু শেয়ার করে।
 
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^16]: বিটশেয়ারস নমনীয় পরিচয় পরিচালনা http://docs.bitshares.org/\_downloads/bitshares-general.pdf

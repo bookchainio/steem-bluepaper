@@ -116,9 +116,9 @@ Steem区块链允许用户将他们的Steem和 SBD存储在一个储蓄账户中
 
 由于见证者是完全通过新生产的代币来支付, 区块链没有必要向用户收取费用去维持。 收取费用的唯一理由是阻止用户完成不合理的交易。 这些交易可能会影响整个区块链的性能。
 
-为了对系统的使用进行合理的限制, 每个用户会有有限的带宽。 Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+为了对系统的使用进行合理的限制, 每个用户会有有限的带宽。 每当用户执行区块链的操作 (如代币转帐、发布内容和投票) 时, 都将占用其带宽的一部分。 如果用户超过其带宽容限, 他们必须等到其带宽充值了才能再次执行操作。
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+带宽限制根据网络使用情况进行调整, 因此当网络使用率较低时, 用户有更高的带宽容限。 一个用户的带宽量与用户拥有的Steem权力成正比, 因此用户可以通过获得更多Steem权力来增加带宽。
 
 ## 结语
 

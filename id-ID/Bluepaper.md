@@ -124,15 +124,15 @@ Bandwidth batas menyesuaikan berbasis pada penggunaan jaringan, sehingga penggun
 
 Hadiah unik dan program insentif yang ditawarkan oleh Steem blockchain dan token yang dirancang untuk membuat Steem utama di-jalan ke cryptocurrency untuk arus utama pengguna. Kinerja blockchain dirancang dengan luas adopsi massa mata uang dan platform dalam pikiran. Ketika dikombinasikan dengan petir proses kali cepat dan transaksi biaya-kurang, Steem diposisikan untuk menjadi salah satu terkemuka blockchain teknologi yang digunakan oleh orang di seluruh dunia.
 
-[^1]: Didelegasikan bukti dari pancang posisi kertas. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem&#160;  & # 8617; </ 0></p> </fn>
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: Untuk membedakan saya t dari itu istilah untuk nya blockchain, yang benar ejaan dari steem's asli digital token adalah steem. & # 160; [ & # 8617; ](#fnref:2){.footnote-backref}
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
 
-[^3]: Transaksi volume: transaksi per kedua laporan. Steem saksi dan pengguna "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
 [^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Dicuri rekening pemulihan inisiasi untuk steemit.com pengguna: 07-13-2017 https://steemit.com/recover\_account\_step\_1&#160;  & # 8617; </ 0></p> </fn>
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
 [^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
@@ -154,4 +154,4 @@ Hadiah unik dan program insentif yang ditawarkan oleh Steem blockchain dan token
 
 [^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf</footnotes>
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf

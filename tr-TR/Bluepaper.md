@@ -76,7 +76,7 @@ SBD tokenları, bir ABD Doları'na yakın bir şekilde tutturulacak şekilde tas
 
 ### Merkezi Olmayan Değişim
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blok zinciri, Bitshares değişimine benzer şekilde merkezi olmayan bir token değişimini sunar. Kullanıcıların STEEM ve SBD tokenlarını halka açık bir eşsiz pazar aracılığıyla ticaret yapmalarını sağlar. Kullanıcılar, alım satım emirleri verebilir ve emir eşleştirmesi, blokçu tarafından otomatik olarak gerçekleştirilir. Kullanıcıların piyasayı analiz etmek için kullanabilecekleri, genel olarak erişilebilir bir sipariş defteri ve sipariş geçmişi de vardır. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

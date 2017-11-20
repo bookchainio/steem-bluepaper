@@ -104,7 +104,7 @@ Lapisan protokol ini sedang dalam pengembangan. Whitepaper yang akan diposting d
 
 ### Pemulihan akun dicuri
 
-Jika account pengguna terganggu, mereka dapat mengubah kunci mereka menggunakan kunci pribadi pemilik mereka. Dalam hal bahwa penyerang dapat kompromi kunci pribadi pemilik dan mengubah sandi pada akun, pengguna memiliki 30 hari untuk mengirimkan sebuah kunci pribadi yang sebelumnya fungsional melalui proses pemulihan Steem's account curian industri-pertama, dan mendapatkan kembali kontrol atas account mereka. Ini mungkin ditawarkan oleh orang atau perusahaan yang menyediakan layanan pendaftaran untuk Steem. Tidak wajib untuk pendaftar untuk menyediakan layanan ini kepada para penggunanya, tetapi tersedia untuk meningkatkan nilai registrar pengguna pengalaman.
+Jika akun pengguna terganggu, mereka dapat mengubah kunci mereka menggunakan kunci pribadi pemilik mereka. Dalam hal bahwa penyerang dapat kompromi kunci pribadi pemilik dan mengubah sandi pada akun, pengguna memiliki 30 hari untuk mengirimkan sebuah kunci pribadi yang sebelumnya fungsional melalui proses pemulihan Steem's account curian industri-pertama, dan mendapatkan kembali kontrol atas account mereka. Ini mungkin ditawarkan oleh orang atau perusahaan yang menyediakan layanan pendaftaran untuk Steem. Tidak wajib untuk pendaftar untuk menyediakan layanan ini kepada para penggunanya, tetapi tersedia untuk meningkatkan nilai registrar pengguna pengalaman.
 
 ### Keamanan melalui waktu-kunci
 

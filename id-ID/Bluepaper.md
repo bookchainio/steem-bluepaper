@@ -82,7 +82,7 @@ Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip denga
 
 Sifat ireversibel transaksi blockchain fitur keamanan penting, meskipun ada banyak kasus di mana pengguna mungkin tidak nyaman mengirim tanda-tanda mereka ke individu lain tanpa cara untuk mendapatkannya kembali jika pengguna lain tidak memegang sampai akhir Perjanjian. Steem blockchain menyediakan cara bagi pengguna untuk mengirim uang ke satu sama lain dengan pihak ketiga yang ditunjuk sebagai layanan escrow. Pengguna yang bertindak sebagai layanan escrow ini dapat menentukan jika syarat-syarat Perjanjian telah dipenuhi, dan juga memungkinkan dana untuk akan dirilis ke penerima atau dikembalikan kepada pengirim.
 
-### Struktur hirarkis pribadi kunci
+### Struktur hirarkis pribadi kunci l
 
 Steem mempekerjakan pertama jenis sistem kunci pribadi hirarkis untuk memfasilitasi transaksi rendah-keamanan dan keamanan tinggi. Rendah-keamanan transaksi cenderung sosial, seperti posting atau komentar. Transaksi keamanan tinggi cenderung transfer dan perubahan kunci. Hal ini memungkinkan pengguna untuk menerapkan berbagai tingkat keamanan untuk kunci mereka, tergantung pada akses yang memungkinkan tombol.
 

@@ -48,17 +48,17 @@ Dengan mendefinisikan peraturan saat terjadi Hardfork, saksi yang dipilih dalam 
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase memiliki beban lebih cepat dan keluar kali, mendukung paralel akses ke database dan lebih kuat terhadap crash dari pendahulunya. Itu juga memiliki kurang sering korupsi database, memungkinkan instan "snapshotting" negara seluruh database, dan dapat melayani permintaan RPC lebih dari memori sama.
+ChainBase [^9] adalah bagian database tumpukan blokir dan mengganti Graphene [^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses paralel ke database dan lebih kuat melawan crash daripada pendahulunya. Ini juga memiliki database korupsi yang kurang sering, memungkinkan "snapshotting" instan seluruh status database, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
 
 ### Aplikasi Base
 
-AppBase adalah langkah pertama dalam menciptakan jaringan multi kain. AppBase memungkinkan banyak komponen dari blockchain Steem menjadi modular dengan menciptakan blockchains bebas-konsensus tambahan sebagai plugin yang berdedikasi. Plugin ini dapat diupdate lebih cepat karena mereka tidak memerlukan memutar blockchain seluruh. Hal ini membuat steemd [^11] jauh lebih efisien dan lebih mudah untuk mempertahankan dan skala.
+AppBase adalah langkah pertama dalam menciptakan multi chain FABRIC. AppBase memungkinkan banyak komponen blokir Steem menjadi modular dengan menciptakan tambahan blokade non-konsensus sebagai plugin khusus. Plugin ini dapat diperbarui lebih cepat karena mereka tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd [^11] jauh lebih efisien dan mudah untuk mempertahankan dan skala.
 
-Praktis berbicara, AppBase memungkinkan Core berbeda, atau bahkan berbeda komputer, untuk mempertahankan bagian-bagian yang berbeda dari Steem blockchain. Ini secara signifikan lebih efisien daripada memerlukan setiap inti, dan setiap komputer dalam jaringan menjaga blockchain seluruh. Modularizing blockchain memungkinkan untuk mengambil keuntungan penuh dari sifat modular komputer. Ini adalah satu langkah penting dalam proses panjang menciptakan blockchain sepenuhnya paralel, sepenuhnya dioptimalkan.
+Secara praktis, AppBase memungkinkan core yang berbeda, atau bahkan komputer yang berbeda, untuk mempertahankan bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada membutuhkan setiap inti, dan setiap komputer di jaringan mempertahankan keseluruhan blockchain. Modularizing blockchain memungkinkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya paralel dan sepenuhnya optimal.
 
-## Steem's fitur Platform
+## Fitur Platform Steem
 
-Steem blockchain melayani tujuan ganda menjadi tanda digital pengolahan sistem, serta platform media sosial utama. Fitur yang ditawarkan oleh blockchain perlu untuk mendukung kedua tujuan, dan menyediakan pengguna dengan pengalaman kelas dunia dengan menggunakan kedua aspek dari platform.
+Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, serta platform media sosial arus utama. Fitur yang ditawarkan oleh blockchain perlu untuk mendukung kedua tujuan, dan menyediakan pengguna dengan pengalaman kelas dunia dengan menggunakan kedua aspek dari platform.
 
 ### Perintah yang dirancang untuk aplikasi yang konten
 

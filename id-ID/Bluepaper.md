@@ -66,7 +66,7 @@ Steem menawarkan pengguna kemampuan unik untuk mempublikasikan dan menyimpan ber
 
 ### Nama asli sistem
 
-Alamat dompet yang digunakan oleh banyak blockchain teknologi seperti Bitcoin dan Ethereum, secara historis terdiri dari panjang string acak huruf dan angka, namun, alamat dompet ini dapat membuat sulit untuk bertransaksi dengan pengguna lain di khas konteks media online sosial karena pengguna tidak dapat mengingat alamat string panjang dari memori. Steem blockchain menggunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang mendukung pengalaman pengguna bagi peserta yang mencoba untuk mengirim token karena mereka dapat memverifikasi alamat dari memori mereka sendiri.
+Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat dompet ini dapat menyulitkan bertransaksi dengan pengguna lain dalam konteks media sosial-media biasa. pengguna tidak dapat mengingat alamat string panjang dari memori. Steem blockchain menggunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang mendukung pengalaman pengguna bagi peserta yang mencoba untuk mengirim token karena mereka dapat memverifikasi alamat dari memori mereka sendiri.
 
 ### Steem Blockchain dolar (SBD)
 

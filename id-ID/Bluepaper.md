@@ -24,7 +24,7 @@ Tingkat baru Token yang dihasilkan ditetapkan untuk 9,5% per tahun dimulai pada 
 
 Pasokan dari tanda-tanda baru yang diciptakan oleh Steem blockchain setiap tahun, 75% dari token tersebut menyusun "hadiah renang" yang dibagikan kepada pencipta konten dan konten kurator. 15% didistribusikan ke dipegang pemegang token, dan 10% didistribusikan kepada saksi, produsen blok bekerja sama di dalam Steem's lembaga konsensus protokol.
 
-#### Imbalan pencipta isi dan kurator
+#### Imbalan untuk kadar pencipta dan kurator
 
 Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat bahan yang akan mengarahkan pengguna baru ke platform, serta menjaga pengguna yang ada terlibat dan menghibur. Ini membantu dalam mendistribusikan mata uang untuk satu set yang lebih luas dari pengguna dan meningkatkan efek jaringan. Pengguna yang mengambil waktu untuk mengevaluasi dan memberikan suara pada konten yang memainkan peran penting dalam mendistribusikan mata uang untuk pengguna yang menambahkan nilai tertinggi. Blockchain hadiah kedua kegiatan ini relatif terhadap nilai mereka berdasarkan kebijaksanaan kolektif dari kerumunan yang dikumpulkan melalui sistem pemungutan suara tertimbang saham.
 

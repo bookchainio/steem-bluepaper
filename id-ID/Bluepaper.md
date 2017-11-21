@@ -26,29 +26,29 @@ Pasokan dari tanda-tanda baru yang diciptakan oleh Steem blockchain setiap tahun
 
 #### Imbalan untuk kadar pencipta dan kurator
 
-Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat bahan yang akan mengarahkan pengguna baru ke platform, serta menjaga pengguna yang ada terlibat dan menghibur. Ini membantu dalam mendistribusikan mata uang untuk satu set yang lebih luas dari pengguna dan meningkatkan efek jaringan. Pengguna yang mengambil waktu untuk mengevaluasi dan memberikan suara pada konten yang memainkan peran penting dalam mendistribusikan mata uang untuk pengguna yang menambahkan nilai tertinggi. Blockchain hadiah kedua kegiatan ini relatif terhadap nilai mereka berdasarkan kebijaksanaan kolektif dari kerumunan yang dikumpulkan melalui sistem pemungutan suara tertimbang saham.
+Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat materi yang akan mendorong pengguna baru ke platform, serta menjaga agar pengguna tetap terlibat dan terhibur. Ini membantu dalam mendistribusikan mata uang ke kumpulan pengguna yang lebih luas dan meningkatkan efek jaringan. Pengguna yang membutuhkan waktu untuk mengevaluasi dan memberi suara pada konten memainkan peran penting dalam mendistribusikan mata uang ke pengguna yang menambahkan nilai terbanyak. Blockchain imbalan kedua dari ini kegiatan relatif untuk mereka nilai berdasarkan pada kolektif kebijaksanaan dari orang banyak dikumpulkan melalui itu pancang-tertimbang sistem pemungutan suara.
 
-#### Suara dengan mempertaruhkan-bukti untuk menentukan alokasi Rewards
+#### Pemungutan suara dengan mempertaruhkan-token untuk menentukan alokasi dari imbalan
 
-Steem beroperasi atas dasar satu-STEEM, satu-vote. Di bawah model ini, individu-individu yang telah memberikan kontribusi yang paling untuk platform, yang diukur dengan saldo account mereka, memiliki pengaruh paling atas bagaimana kontribusi yang mencetak gol. Saham dapat dibeli atau diperoleh. Pengguna tidak dapat memperoleh pengaruh tambahan dengan memiliki beberapa account, karena satu rekening dengan jumlah saham akan memiliki pengaruh yang sama sebagai dua akun yang berbeda berbagi sama dengan jumlah saham. Satu-satunya cara bagi pengguna untuk meningkatkan pengaruhnya dalam platform adalah untuk meningkatkan saham mereka.
+Steem beroperasi berdasarkan satu-STEEM, satu suara. Dengan model ini, individu yang telah berkontribusi paling banyak terhadap platform, yang diukur dengan saldo akun mereka, memiliki pengaruh paling besar mengenai bagaimana kontribusi diberikan. Pasak bisa dibeli atau diterima. Pengguna tidak dapat memperoleh pengaruh tambahan dengan memiliki banyak akun, karena satu akun dengan jumlah saham akan memiliki pengaruh yang sama dengan dua akun berbeda yang berbagi jumlah saham yang sama. Satu-satunya cara bagi pengguna untuk meningkatkan pengaruhnya di platform adalah meningkatkan kepemilikan saham mereka.
 
-Selain itu, Steem hanya memungkinkan anggota untuk memilih dengan STEEM ketika berkomitmen untuk Minggu 13 Nonton jadwal yang disebut Steem kekuasaan. Di bawah model ini, anggota memiliki insentif keuangan untuk memilih cara yang memaksimalkan nilai jangka panjang dari STEEM mereka.
+Selanjutnya, Steem hanya mengizinkan anggota untuk memilih dengan STEEM ketika berkomitmen untuk jadwal vesting 13 minggu yang disebut Steem Power. Dengan model ini, para anggota memiliki insentif finansial untuk memilih dengan cara yang memaksimalkan nilai jangka panjang STEEM mereka.
 
 ## Kecepatan dan skala pada Steem Blockchain
 
-Steem blockchain dirancang untuk menjadi salah satu blockchains yang tercepat dan paling efisien di keberadaan, yang diperlukan untuk dapat mendukung jumlah lalu lintas yang diharapkan pada platform media sosial yang lebih besar dari ukuran Reddit. Steem telah melampaui Bitcoin di jumlah transaksi, dan mampu skala untuk mendukung 10.000 atau lebih transaksi per detik.
+Steem blockchain adalah dirancang menjadi satu dari tercepat dan paling efisien blockchains di adanya, yang mana perlu untuk bisa mendukung itu jumlah dari lalu lintas diharapkan di sebuah sosial media peron lebih besar daripada itu ukuran dari reddit. Steem memiliki sudah melampaui bitcoin di nomor dari transaksi, dan mampu untuk skala mendukung 10,000 atau lebih transaksi per kedua.
 
-### Didelegasikan bukti saham (Lembaga)
+### Didelegasikan bukti dari pancang (dpos)
 
-Sering bottlenecked dengan bukti-of-karya (PoW) [^6], banyak blockchains tidak skala luar 3 kali transaksi per detik, yang merupakan sebagian kecil dari dunia keuangan lalu lintas. Steem diperlukan jauh lebih skala dan kecepatan daripada yang ditawarkan oleh PoW, dan jadi algoritma dikenal yang kecil yang disebut didelegasikan bukti dari saham (Lembaga) [^7] leverage untuk meletakkan dasar untuk blockchain cocok untuk miliaran pengguna.
+Sering bottlenecked oleh Proof-of-Work (PoW) [^6], banyak blockchains tidak dapat melakukan skala di luar tiga transaksi per detik, yang merupakan sebagian kecil dari lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
 
-Karena lembaga, Steem blockchain mampu menghasilkan blok baru setiap 3 detik dengan beban minimal komputasi. Ini berarti bahwa blockchain dapat memproses transaksi lebih dan terus informasi lebih lanjut, termasuk konten.
+Karena DPoS, block block Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
 
-Dengan mendefinisikan aturan untuk ketika Hardfork terjadi, saksi-saksi yang dipilih dalam kerangka lembaga dapat dengan cepat dan efisien memutuskan apakah atau tidak untuk bergerak maju dengan hardfork diusulkan, memungkinkan protokol blockchain Steem berkembang lebih cepat daripada kebanyakan lain-lain. Steem blockchain telah berhasil bercabang 18 kali [^8], dan setiap kali Hardfork telah terjadi, hanya rantai tunggal telah berlangsung setelah garpu.
+Dengan mendefinisikan peraturan saat terjadi Hardfork, saksi yang dipilih dalam kerangka DPoS dapat memutuskan secara cepat dan efisien apakah akan bergerak maju dengan hardfork yang diusulkan, sehingga protokol blockstrain Steem berkembang lebih cepat daripada kebanyakan yang lain. Blockchain Steem telah berhasil bercabang 18 kali [^8], dan setiap kali terjadi Hardfork, hanya satu rantai yang bertahan setelah garpu.
 
 ### ChainBase
 
-ChainBase [^9] bagian database blockchain tumpukan dan menggantikan Grafena [^10] pada tahun 2016. ChainBase memiliki beban lebih cepat dan keluar kali, mendukung paralel akses ke database dan lebih kuat terhadap crash dari pendahulunya. Itu juga memiliki kurang sering korupsi database, memungkinkan instan "snapshotting" negara seluruh database, dan dapat melayani permintaan RPC lebih dari memori sama.
+ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase memiliki beban lebih cepat dan keluar kali, mendukung paralel akses ke database dan lebih kuat terhadap crash dari pendahulunya. Itu juga memiliki kurang sering korupsi database, memungkinkan instan "snapshotting" negara seluruh database, dan dapat melayani permintaan RPC lebih dari memori sama.
 
 ### Aplikasi Base
 

@@ -100,7 +100,7 @@ SBD টোকেনগুলি এক ডলারের সাথে ঘনি
 
 ### স্মার্ট মিডিয়া টোকেন (SMT)
 
-এই প্রটোকলটি বর্তমানে নির্মাণাধীন।এর শ্বেতপত্র এখানে প্রকাশ করা হবে।
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### চোরাই অ্যাকাউন্ট পুনরুদ্ধার
 
@@ -155,3 +155,5 @@ SBD টোকেনগুলি এক ডলারের সাথে ঘনি
 [^15]: "রিস্টিম" হল একটি স্টিম ব্লকচেইনে ব্যবহৃত শব্দ যখন ব্যবহারকারী তাদের অনুগামীদের সাথে বিষয়বস্তু শেয়ার করে।
 
 [^16]: বিটশেয়ারস নমনীয় পরিচয় পরিচালনা http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

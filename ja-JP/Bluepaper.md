@@ -100,7 +100,7 @@ Steemブロックチェーンは権限を複数のエンティティに分割す
 
 ### スマートメディアトークン（SMT）
 
-このプロトコル層は開発中です。ホワイトペーパーが投稿される予定です。
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### 盗難アカウント回復
 
@@ -155,3 +155,5 @@ Steemブロックチェーンとトークンによって提供されるユニー
 [^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

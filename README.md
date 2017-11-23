@@ -15,6 +15,14 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 * [Chinese Simplified](zh-CN/Bluepaper.md) [@stabilowl](https://steemit.com/@stabilowl), [@victory622](https://steemit.com/@victory622)
 * [Indonesian](id-ID/Bluepaper.md) [@yandot](https://steemit.com/@yandot)
 
+# Compiling Steem Bluepaper Guide
+
+Original source of **Steem Bluepaper** located here: https://github.com/steemit/bluepaper
+In order to compile it from **LaTeX** use [**Pandoc 1.19.2.1**](https://pandoc.org) or latter and folowing command:
+```
+pandoc -s Bluepaper.md --to=markdown_mmd --atx-headers --wrap=none -o SteemBluepaper.md
+```
+
 # Translation Guide
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-bluepaper/localized.svg)](https://crowdin.com/project/steem-bluepaper)

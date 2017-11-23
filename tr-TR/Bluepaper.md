@@ -126,34 +126,34 @@ Steem'in blok zinciri ve tokenı tarafından sunulan benzersiz ödül ve teşvik
 
 [^1]: Söz konusu pozisyon kağıt temsilci seçilen kanıtı. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Dönem için onun blockchain ayırt etmek için doğru yazım Steem'ın yerli dijital belirtecinin STEEM. olduğunu
 
-[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: İşlem hacmi: İkinci rapor başına hareket. Steem witness ve kullanıcı "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+[^4]: İşin kanıtı. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-Work \_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Steemit.com kullanıcılar için hesap kurtarma başlatma çalıntı: 07-13-2017 https://steemit.com/recover \_account\_step\_1
 
-[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+[^6]: Bitcoin ölçeklenebilirlik sorun https://en.wikipedia.org/wiki/Bitcoin \_scalability\_problem
 
-[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: DPoS teknik inceleme https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
 [^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Graphene Documentation http://docs.bitshares.org/
+[^10]: Grafin belgelerine http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: İşlemleri işleme ve ödüllerin dağıtımından sorumlu olan Steem blokçerçevesi bileşeninin bileşeni.
 
-[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+[^12]: Steem teknik inceleme https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: Bitshares Merkezi Olmayan Değişim http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com Currency Market https://steemit.com/market
+[^14]: Steemit.com döviz piyasası https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem", bir kullanıcı içeriğini takipçileri ile paylaştığında Steem'in blok zincirinde kullanılan terimdir.
 
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^16]: Bitshares Esnek Kimlik Yönetimi http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+[^17]: Akıllı medya simgeleri teknik inceleme https://smt.steem.io/smt-whitepaper.pdf

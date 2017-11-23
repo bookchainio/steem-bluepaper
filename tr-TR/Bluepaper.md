@@ -100,7 +100,7 @@ Verilen herhangi bir yazı için, ödüle maddi olarak ilgi gösteren birkaç ki
 
 ### Akıllı medya simgeleri (SMT)
 
-Bu protokol katmanına geliştirilmekte olan. Onun teknik inceleme burada ilan edilecektir.
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Çalıntı hesap kurtarma
 
@@ -155,3 +155,5 @@ Steem'in blok zinciri ve tokenı tarafından sunulan benzersiz ödül ve teşvik
 [^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

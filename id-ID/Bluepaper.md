@@ -58,11 +58,11 @@ Secara praktis, AppBase memungkinkan core yang berbeda, atau bahkan komputer yan
 
 ## Fitur Platform Steem
 
-Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, serta platform media sosial arus utama. Fitur yang ditawarkan oleh blockchain perlu untuk mendukung kedua tujuan, dan menyediakan pengguna dengan pengalaman kelas dunia dengan menggunakan kedua aspek dari platform.
+Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, serta platform media sosial arus utama. Fitur yang ditawarkan oleh blockchain perlu mendukung kedua tujuan tersebut, dan memberi pengguna pengalaman kelas dunia saat menggunakan kedua aspek platform.
 
-### Perintah yang dirancang untuk aplikasi yang konten
+### Primitif Dirancang untuk Aplikasi Konten
 
-Steem menawarkan pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan secara permanen menjadi buku abadi besar blockchain sebagai teks biasa. Setelah disimpan dalam blockchain, data menjadi tersedia dipublikasikan bagi pengembang untuk membangun dari. Pengembang mampu berinteraksi dengan konten secara langsung dalam blockchain yang menggunakan api tersedia. Beberapa blockchain primitif pengembang dapat membangun dari termasuk nama Account, posting, komentar, suara dan saldo rekening.
+Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa blockchain primitif pengembang dapat membangun dari termasuk nama Account, posting, komentar, suara dan saldo rekening.
 
 ### Nama asli sistem
 

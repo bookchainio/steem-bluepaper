@@ -100,7 +100,7 @@ Steem区块链允许把单一授权分为多个有授权的实体，这促使多
 
 ### 智能媒体代币(SMT)
 
-这项协议层仍在开发中。它的白皮书将发布在这项标题下。
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### 恢复被盗取的账户
 
@@ -155,3 +155,5 @@ Steem区块链和代币所提供的独特奖赏和鼓励计划旨在使Steem成�
 [^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

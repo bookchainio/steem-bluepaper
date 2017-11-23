@@ -122,7 +122,7 @@ Batas bandwidth disesuaikan berdasarkan penggunaan jaringan, sehingga pengguna m
 
 ## Kesimpulan
 
-Hadiah unik dan program insentif yang ditawarkan oleh Steem blockchain dan token yang dirancang untuk membuat Steem utama di-jalan ke cryptocurrency untuk arus utama pengguna. Kinerja blockchain dirancang dengan luas adopsi massa mata uang dan platform dalam pikiran. Ketika dikombinasikan dengan petir proses kali cepat dan transaksi biaya-kurang, Steem diposisikan untuk menjadi salah satu terkemuka blockchain teknologi yang digunakan oleh orang di seluruh dunia.
+Penghargaan dan program insentif yang unik yang ditawarkan oleh Steem blockchain dan token dirancang untuk menjadikan Steem sebagai jalan utama menuju kriptocurrency bagi pengguna utama. Kinerja blockchain dirancang dengan adopsi massal mata uang dan platform yang luas. Bila digabungkan dengan waktu pemrosesan petir cepat dan transaksi tanpa biaya, Steem diposisikan untuk menjadi salah satu teknologi blockchain terkemuka yang digunakan oleh orang-orang di seluruh dunia.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

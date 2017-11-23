@@ -100,7 +100,7 @@ For any given post there may be a number of different people who have a financia
 
 ### Smart Media Tokens (SMT)
 
-This protocol layer is under development. Its whitepaper will be posted here.
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 
@@ -155,3 +155,5 @@ L'unique récompense et le programme incitatif offert par les jetons et la block
 [^15]: « Resteem » est le terme utilisé dans la blockchain Steem pour quand un utilisateur partage du contenu avec leurs disciples.
 
 [^16]: Bitshares Gestion des identités Flexible http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

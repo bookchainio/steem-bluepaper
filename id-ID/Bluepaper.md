@@ -100,7 +100,7 @@ Untuk jabatan tertentu mungkin ada sejumlah orang yang berbeda yang memiliki kep
 
 ### Smart Media Token (SMT)
 
-Lapisan protokol ini sedang dikembangkan. whitepaper akan diposting di sini.
+Smart Media Token adalah token asli yang bisa dibangun di Steem blockchain. STEEM adalah SMT pertama yang pernah ada, dan protokol Smart Media Token bertujuan untuk memonetisasi situs web dan aplikasi konten di seluruh web dengan mengizinkan orang membuat token yang memiliki properti yang serupa dengan STEEM, namun dapat disesuaikan dengan visi komunitas online manapun melalui pemberian insentif. perilaku, pada dasarnya mereplikasi kesuksesan STEEM ke situs web atau aplikasi apa pun. Detail teknis lebih banyak dapat ditemukan di lembar tulis Smart Media Token [^17].
 
 ### Pemulihan Akun yang Dicuri
 
@@ -155,3 +155,5 @@ Penghargaan dan program insentif yang unik yang ditawarkan oleh Steem blockchain
 [^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

@@ -110,15 +110,15 @@ Jika akun pengguna dikompromikan, mereka dapat mengubah kunci mereka menggunakan
 
 Jika kunci pengguna atau pemilik pengguna terganggu, penyerang akan memiliki akses penuh ke semua dana di akun mereka. Karena transaksi blockchain tidak dapat diubah, pengguna tidak memiliki cara untuk mendapatkan kembali dana mereka setelah mereka dicuri.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. Selain itu, STEEM yang diadakan pada Minggu 13 Nonton jadwal hanya dapat ditarik pada tingkat 1/13 per minggu, setelah periode menunggu awal tujuh hari. Ini waktu-kunci mencegah penyerang dari yang dapat mengakses bagian penuh pengguna dana segera, sehingga pemilik memiliki waktu untuk mendapatkan kembali kendali atas account mereka sebelum semua dana mereka dapat ditarik.
+Blokir Steem memungkinkan pengguna menyimpan token STEEM dan SBD mereka di rekening tabungan, sehingga dana tidak dapat ditarik sampai setelah tiga hari masa tunggu. Selain itu, STEEM yang diadakan dalam jadwal vestasi 13 minggu hanya dapat ditarik pada tingkat 1/13 per minggu, setelah masa tunggu tujuh hari pertama. Kunci waktu ini mencegah penyerang untuk dapat mengakses sebagian dana pengguna secara langsung, sehingga pemilik yang berhak memiliki waktu untuk mendapatkan kembali kontrol atas akun mereka sebelum semua dana mereka dapat ditarik.
 
-### Tingkat bandwidth yang membatasi biaya-kurang operasi
+### Bandwidth Rate Membatasi Operasi Tanpa Biaya
 
-Karena saksi-saksi yang dibayar sepenuhnya melalui generasi baru token, ada tidak perlu biaya pengguna untuk menyalakan blockchain. Satu-satunya alasan untuk mengenakan biaya akan sebagai penghalang untuk mencegah pengguna dari menyelesaikan jumlah transaksi, yang dapat berpotensi mempengaruhi kinerja blockchain yang tidak masuk akal.
+Karena para saksi dibayar seluruhnya melalui generasi token baru, tidak perlu membebankan biaya kepada pengguna untuk menyalakan blockchain. Satu-satunya alasan untuk mengenakan biaya akan menjadi penghalang untuk mencegah pengguna menyelesaikan transaksi yang tidak masuk akal, yang berpotensi memengaruhi kinerja blockchain.
 
-Untuk menempatkan batasan yang wajar penggunaan sistem, setiap pengguna diberikan bandwidth terbatas. Setiap kali pengguna melakukan operasi blockchain seperti token transfer, posting konten, dan pemungutan suara, menggunakan sebagian dari bandwidth mereka. Jika pengguna melebihi bandwidth uang saku mereka, mereka harus menunggu untuk melakukan tindakan tambahan sampai bandwidth mereka mengisi kembali.
+Untuk menempatkan batasan yang wajar pada penggunaan sistem, setiap pengguna diberi bandwidth terbatas. Setiap kali pengguna melakukan operasi blockchain seperti transfer token, pengiriman konten, dan pemungutan suara, ia menggunakan sebagian dari bandwidth mereka. Jika pengguna melebihi tunjangan bandwidth mereka, mereka harus menunggu untuk melakukan tindakan tambahan sampai bandwidth mereka terisi kembali.
 
-Bandwidth batas menyesuaikan berbasis pada penggunaan jaringan, sehingga pengguna memiliki lebih tinggi bandwidth uang saku ketika penggunaan jaringan rendah. Jumlah bandwidth yang account diperbolehkan berbanding jumlah daya Steem pengguna memiliki, sehingga pengguna dapat selalu meningkatkan mereka bandwidth uang saku dengan mendapatkan tambahan kekuatan Steem.
+Batas bandwidth disesuaikan berdasarkan penggunaan jaringan, sehingga pengguna memiliki tunjangan bandwidth yang lebih tinggi bila penggunaan jaringannya rendah. Jumlah bandwidth yang diperbolehkan oleh akun berbanding lurus dengan jumlah daya Steem Power yang dimiliki pengguna, sehingga pengguna selalu dapat meningkatkan tunjangan bandwidth mereka dengan mendapatkan Steem Power tambahan.
 
 ## Kesimpulan
 

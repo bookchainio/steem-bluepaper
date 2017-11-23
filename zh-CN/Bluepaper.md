@@ -100,7 +100,7 @@ Steem区块链允许把单一授权分为多个有授权的实体，这促使多
 
 ### 智能媒体代币(SMT)
 
-智能媒体代币(SMT) 是可以在Steem区块链上构建的原属代币。 STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. 更详细的技术说明可以在SMT技术白皮书中查阅。[^17]
+智能媒体代币(SMT) 是可以在Steem区块链上构建的原属代币。 STEEM是有史以来第一种SMT。而智能媒体代币协议的目的就是通过允许人们创建类似于STEEM的代币从而用互联网上的内容网站和应用程序赚钱。这些新代币可以通过定制适合不同在线社区通过激励行为的属性, 从而复制 STEEMs 的成功于任何网站或应用程序。 更详细的技术说明可以在SMT技术白皮书中查阅。[^17]
 
 ### 恢复被盗取的账户
 

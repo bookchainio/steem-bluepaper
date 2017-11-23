@@ -62,21 +62,21 @@ Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, 
 
 ### Primitif Dirancang untuk Aplikasi Konten
 
-Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa blockchain primitif pengembang dapat membangun dari termasuk nama Account, posting, komentar, suara dan saldo rekening.
+Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
 
 ### Nama asli sistem
 
-Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat dompet ini dapat menyulitkan bertransaksi dengan pengguna lain dalam konteks media sosial-media biasa. pengguna tidak dapat mengingat alamat string panjang dari memori. Steem blockchain menggunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang mendukung pengalaman pengguna bagi peserta yang mencoba untuk mengirim token karena mereka dapat memverifikasi alamat dari memori mereka sendiri.
+Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat dompet ini dapat menyulitkan bertransaksi dengan pengguna lain dalam konteks media sosial-media biasa. pengguna tidak dapat mengingat alamat string panjang dari memori. Steem Blockchain menggunakan nama pengguna masing-masing peserta sebagai alamat dompet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim token karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
 
 ### Steem Blockchain dolar (SBD)
 
-Banyak pengguna yang diperkenalkan kepada cryptocurrency berjuang untuk memahami bagaimana "magic token internet" diberikan oleh platform dapat benar-benar memiliki dunia nyata nilai. Untuk membantu menjembatani kesenjangan antara sistem uang kertas lebih tradisional yang pengguna utama digunakan untuk, dan tanda-tanda cryptocurrency yang mereka diberikan melalui, mata uang baru yang disebut Steem Blockchain dolar (SBD) diciptakan.
+Banyak pengguna yang diperkenalkan dengan perjuangan kriptocurrency untuk memahami bagaimana "token internet ajaib" yang diberikan oleh platform dapat benar-benar memiliki nilai dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang fiat tradisional yang lebih banyak digunakan pengguna arus utama, dan token kriptokokus yang mereka dapatkan melalui platform, mata uang baru bernama Steem Blockchain Dollars (SBD) telah dibuat.
 
-Token SBD dirancang untuk menjadi dipatok erat satu USD, sehingga pengguna yang menerima mereka bisa tahu kira-kira berapa banyak mereka layak di "nyata Dollar". Token SBD juga menawarkan sebuah mata uang stabil bagi pengguna untuk menyimpan jika mereka mencari untuk melestarikan nilai rekening mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di laporan teknis Steem. [^12]
+Token SBD dirancang untuk dipatok mendekati satu USD, sehingga pengguna yang menerimanya dapat mengetahui kira-kira berapa nilainya dalam istilah "dolar riil". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna untuk dipegang jika mereka ingin mempertahankan nilai akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di whitepaper teknis Steem. [^12]
 
-### Desentralisasi Asing
+### Bursa Terdesentralisasi
 
-Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip dengan pertukaran Bitshares. [^13] Pertukaran memungkinkan pengguna untuk perdagangan mereka STEEM dan SBD Token melalui pasar peer-to-peer desentralisasi yang umum. Pengguna dapat menempatkan buy dan sell perintah, dan urutan pencocokan dilakukan secara otomatis oleh blockchain. Ada juga sebuah buku pesanan yang dapat diakses publik dan sejarah Orde yang pengguna dapat digunakan untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran langsung menggunakan blockchain API, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
+Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip dengan pertukaran Bitshares. [^13] Pertukaran tersebut memungkinkan pengguna untuk menukar token STEEM dan SBD mereka melalui pasar peer-to-peer terdesentralisasi publik. Pengguna dapat menempatkan buy dan sell perintah, dan urutan pencocokan dilakukan secara otomatis oleh blockchain. Ada juga sebuah buku pesanan yang dapat diakses publik dan sejarah Orde yang pengguna dapat digunakan untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran langsung menggunakan blockchain API, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
 
 ### Pembayaran melalui Escrow
 

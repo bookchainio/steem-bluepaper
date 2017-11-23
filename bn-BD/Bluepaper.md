@@ -100,7 +100,7 @@ SBD টোকেনগুলি এক ডলারের সাথে ঘনি
 
 ### স্মার্ট মিডিয়া টোকেন (SMT)
 
-স্মার্ট মিডিয়া টোকেন একটি টোকেন যা স্টিম ব্লকচেইন এর উপর ভিত্তি করে তৈরি করা যায়। STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+স্মার্ট মিডিয়া টোকেন একটি টোকেন যা স্টিম ব্লকচেইন এর উপর ভিত্তি করে তৈরি করা যায়। স্টিম-ই প্রথম SMT যার অস্তিত্ব আছে, এবং স্মার্ট মিডিয়া টোকেন প্রোটোকল বিষয়বস্তু ওয়েবসাইটগুলো এবং অ্যাপ্লিকেশন ওয়েবে থাকা মানুষদের স্টিম এর অনুরুপ টোকেন তৈরির অনুমোদন দেয়, কিন্তু কোনও অনলাইন কমিউনিটিকে দৃষ্টি আকর্ষন করার উপযোগী নয়। আচরণ, মূলত কোন ওয়েবসাইট বা অ্যাপ্লিকেশন STEEMs সাফল্য। স্মার্ট মিডিয়া টোকেন শ্বেতপত্রে আরও বিস্তারিত প্রযুক্তিগত ব্যাখ্যা পাওয়া যাবে। <sup id="fnref:17"><a href="#fn:17" class="footnote-ref">১৭</a></sup>।
 
 ### চোরাই অ্যাকাউন্ট পুনরুদ্ধার
 

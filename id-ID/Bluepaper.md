@@ -112,7 +112,7 @@ Jika kunci pengguna atau pemilik pengguna terganggu, penyerang akan memiliki aks
 
 Blokir Steem memungkinkan pengguna menyimpan token STEEM dan SBD mereka di rekening tabungan, sehingga dana tidak dapat ditarik sampai setelah tiga hari masa tunggu. Selain itu, STEEM yang diadakan dalam jadwal vestasi 13 minggu hanya dapat ditarik pada tingkat 1/13 per minggu, setelah masa tunggu tujuh hari pertama. Kunci waktu ini mencegah penyerang untuk dapat mengakses sebagian dana pengguna secara langsung, sehingga pemilik yang berhak memiliki waktu untuk mendapatkan kembali kontrol atas akun mereka sebelum semua dana mereka dapat ditarik.
 
-### Bandwidth Rate Membatasi Operasi Tanpa Biaya
+### Pembatasan Rasio Lebarpita untuk Operasional yang Tanpa biaya
 
 Karena para saksi dibayar seluruhnya melalui generasi token baru, tidak perlu membebankan biaya kepada pengguna untuk menyalakan blockchain. Satu-satunya alasan untuk mengenakan biaya akan menjadi penghalang untuk mencegah pengguna menyelesaikan transaksi yang tidak masuk akal, yang berpotensi memengaruhi kinerja blockchain.
 

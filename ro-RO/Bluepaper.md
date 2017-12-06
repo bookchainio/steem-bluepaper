@@ -36,7 +36,7 @@ Furthermore, Steem only allows members to vote with STEEM when it is committed t
 
 ## Viteza și scalarea pe Blockchain-ul Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucuru fiind necesar pentru a putea susține cantitatea de trafic de aşteptată pe o platformă media de socializare, mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
 
 ### Delegated Proof of Stake (DPoS)
 
@@ -48,7 +48,7 @@ By defining the rules for when a Hardfork occurs, the witnesses elected within t
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit Graphene [^10] în 2016. ChainBase are rate mai rapide de încărcare şi ieşire, și sprijină în paralel accesul la baza de date, făcându-l mai robust decât predecesorul său. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

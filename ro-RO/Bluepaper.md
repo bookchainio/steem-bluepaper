@@ -20,7 +20,7 @@ Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Ste
 
 Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
-Rata pentru tokeni noi generați, a fost setat la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
+Rata pentru tokeni noi generați, a fost setată la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
 
 Dintre tokeni creați de Steem blockchain în fiecare an, 75% din aceștia reprezintă “bazinul de recompense”, care sunt distribuiți către creatorii de conținut și cei care susțin conținutul prin votarea acestuia. 15% sunt distribuiți către cei care dețini tokeni, iar 10% sunt distribuți către Witnesses, cei care produc blocuri în interiorul protocolului consensual Steem DPoS.
 
@@ -36,7 +36,7 @@ Furthermore, Steem only allows members to vote with STEEM when it is committed t
 
 ## Viteza și scalarea pe Blockchain-ul Steem
 
-Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucuru fiind necesar pentru a putea susține cantitatea de trafic de aşteptată pe o platformă media de socializare, mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
+Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucru fiind necesar pentru a putea susține cantitatea de trafic de aşteptată pe o platformă media de socializare, mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
 
 ### Delegated Proof of Stake (DPoS)
 
@@ -48,11 +48,11 @@ By defining the rules for when a Hardfork occurs, the witnesses elected within t
 
 ### ChainBase
 
-ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit Graphene [^10] în 2016. ChainBase are rate mai rapide de încărcare şi ieşire, și sprijină în paralel accesul la baza de date, făcându-l mai robust decât predecesorul său. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit Graphene [^10] în 2016. ChainBase are rate mai rapide de încărcare şi ieşire, și sprijină în paralel accesul la baza de date, făcându-l mai robust decât predecesorul său. De asemenea, frecvența corupției datelor este mai mică, permițându-i “capturii rapide” a întregii bazei de date, putând efectua mai multe cereri RPC din aceași memorie.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

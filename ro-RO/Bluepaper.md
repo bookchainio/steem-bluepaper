@@ -22,9 +22,9 @@ Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fix�
 
 Rata pentru tokeni noi generați, a fost setat la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Dintre tokeni creați de Steem blockchain în fiecare an, 75% din aceștia reprezintă “bazinul de recompense”, care sunt distribuiți către creatorii de conținut și cei care susțin conținutul prin votarea acestuia. 15% sunt distribuiți către cei care dețini tokeni, iar 10% sunt distribuți către Witnesses, cei care produc blocuri în interiorul protocolului consensual Steem DPoS.
 
-#### Rewards for Content Creators and Curators
+#### Recompense pentru creatorii de conţinut şi cei care susțin conținutul prin vot
 
 The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 

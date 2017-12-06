@@ -20,7 +20,7 @@ Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Ste
 
 Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Rata pentru tokeni noi generați, a fost setat la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

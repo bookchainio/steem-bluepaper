@@ -26,7 +26,7 @@ Dintre tokeni creați de Steem blockchain în fiecare an, 75% din aceștia repre
 
 #### Recompense pentru creatorii de conţinut şi cei care susțin conținutul prin vot
 
-Utilizatorii care produc conținut, aduc valoare platformei de socializare prin crearea de material care va aduge noi utilizatori, precum și prin menținerea activă a utilizatorilor actuali. Acest lucru are menirea să distribuie monezile la set mai larg de utilizatori, precum și să crească efectul rețelei. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Utilizatorii care produc conținut, aduc valoare platformei de socializare prin crearea de material care va aduge noi utilizatori, precum și prin menținerea activă a utilizatorilor actuali. Acest lucru are menirea să distribuie monezile la set mai larg de utilizatori, precum și să crească efectul rețelei. Utilizatorii care evaluează şi votează conţinutul, joacă un rol important în distribuirea monedelor către utilizatorii care adăugă conținutul cel mai valoros. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 
@@ -34,7 +34,7 @@ Steem operates on the basis of one-STEEM, one-vote. Under this model, individual
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
-## Viteza și scalarea pe Blockchainul Steem
+## Viteza și scalarea pe Blockchain-ul Steem
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

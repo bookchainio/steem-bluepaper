@@ -14,11 +14,11 @@ Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain 
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Bazinul de recompense ("token-urile de unde vin?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că token-urile sunt produse în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, token-urile sunt produse în mod regulat dar aleatoriu și sunt distribuite persoanelor ale căror aparate efectuează munca ("mineri").
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
 The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 

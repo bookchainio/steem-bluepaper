@@ -10,7 +10,7 @@ No campo das cripto-moedas, as propiedades únicas do STEEM o convirten tanto en
 
 Ademais de estes adiantos en tecnoloxía BlockChain e tokens, Steem como sistema provee características avanzadas adicionais para mellorar a experiencia de usuaria, como a Recuperación de Contas Roubadas, [^5], servizos de custodia, contido promovido polo usuario, sistema de reputación e contas de aforro. Ademais aporta tempos de confirmación de tres segundos e cero comisións en todas as transaccións. Todo isto permite apoirar a misión de levar diñeiro intelixente e social a blogueiras e a constructoras da comunidade a traverso da Internete.
 
-## Proof of Brain: Smart and Social Tokens
+## Proba de Miolo: Tokens Intelixentes e Sociais
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

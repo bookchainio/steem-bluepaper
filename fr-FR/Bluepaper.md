@@ -122,7 +122,7 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 ## Conclusion
 
-L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
+L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. La performance de la blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
 
 [^1]: Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

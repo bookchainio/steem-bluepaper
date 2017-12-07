@@ -14,7 +14,7 @@ Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain 
 
 Sistemele de token care recompensează utilizatorii ce contribuie la un sistem inter-relațional tokeni-comunitate, necesită mecanisme pentru stabilirea şi evaluarea conţinutului pe valoare socială: noi numim acesta "Dovadă-de-creier."
 
-### Bazinul de recompense ("token-urile de unde vin?")
+### Bazinul de recompense ("de unde vin tokeni?")
 
 Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, token-urile sunt produse în mod regulat dar aleatoriu și sunt distribuite persoanelor ale căror aparate efectuează munca ("mineri").
 

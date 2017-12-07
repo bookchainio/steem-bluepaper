@@ -12,7 +12,7 @@ Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain 
 
 ## Dovada a creierului: tokeni inteligenți şi sociali
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Sistemele de token care recompensează utilizatorii ce contribuie la un sistem inter-relațional tokeni-comunitate, necesită mecanisme pentru stabilirea şi evaluarea conţinutului pe valoare socială: noi numim acesta "Dovadă-de-creier."
 
 ### Bazinul de recompense ("token-urile de unde vin?")
 
@@ -58,7 +58,7 @@ Practically speaking, AppBase enables different cores, or even different compute
 
 ## Caracteristicile platformei Steem
 
-Steem blockchain este atât un sistem de prelucrare a tokenilor digitali, cât și o platofmă de socializare. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain este atât un sistem de prelucrare a tokenilor digitali, cât și o platofmă de socializare. Caracteristicile oferite de blockchain trebuie să sprijine ambele scopuri, oferindu-le tilizatorilor o experienţă excelentă, atunci când sunt utilizate ambele aspecte ale platformei.
 
 ### Primitives Designed for Content Applications
 

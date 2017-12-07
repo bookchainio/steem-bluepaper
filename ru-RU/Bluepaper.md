@@ -100,7 +100,7 @@ Steem также упрощает использование Мастер-пар
 
 ### Смарт медиа токены (Smart Media Tokens, SMT)
 
-Смарт медиа токены – это базовые токены, различные типы которых могут создаваться на блокчейне Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Смарт медиа токены – это базовые токены, различные типы которых могут создаваться на блокчейне Steem. Самым первым SMT является STEEM, и протокол Смарт медиа токенов нацелен на монетизацию контента веб-сайтов и приложений путем предоставления людям возможности создавать токены, обладающие схожими со STEEM свойствами, но гибко настраиваемые под нужды любого онлайн-сообщества. Они призваны поощрять определенное поведение, по сути повторяя успешный опыт STEEM на любом другом веб-сайте или в приложении. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Восстановление украденного аккаунта
 

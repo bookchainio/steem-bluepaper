@@ -66,9 +66,9 @@ Steem oferă utilizatorilor capacitatea unică de a publica şi stoca diferite t
 
 ### Numele sistemului
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Adresele portofelui folosite de multe tehnologii din blockchain, cum ar fi Bitcoin și Ethereum, conțin multe șiruri lungi de litere și numere aleatorii. Aceste adrese forate lungi, însă, fac dificilă tranzacționarea cu alți utilizatori într-o rețea de socializare online. Steem blockchain foloseşte numele fiecarui utilizator participant ca adresa lor de portofel, suținând astfel experienţa utilizatorului. Utilizatoriilor care încearcă să trimită tokeni, le va fi mult mai ușor deoarece ei pot verifica adresele din propria memorie.
 
-### Steem Blockchain Dollars (SBD)
+### Dolari Steem Blockchain (SBD)
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 

@@ -76,13 +76,13 @@ Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui US
 
 ### Schimb descentralizat
 
-Steem blockchain oferă un schimb descentralizat de tokeni, similar cu schimbul Bitshares. [^13] Schimbul oferă utilizatorilor să facă schimb între STEEM şi SBD printr-o piaţă publică descentralizate peer-to-peer. Utilizatorii au posibiliatea de cumpărare şi vânzare, iar ordinea de potrivire se face automat de blockchain. Există, de asemenea, o carte de ordin public accesibilă, precum şi istoricul comenzilor pe care utilizatorii le pot utiliza pentru a analiza piaţa. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain oferă un schimb descentralizat de tokeni, similar cu schimbul Bitshares. [^13] Schimbul oferă utilizatorilor să facă schimb între STEEM şi SBD printr-o piaţă publică descentralizate peer-to-peer. Utilizatorii au posibiliatea de cumpărare şi vânzare, iar ordinea de potrivire se face automat de blockchain. Există, de asemenea, o carte de ordin public accesibilă, precum şi istoricul comenzilor pe care utilizatorii le pot utiliza pentru a analiza piaţa. Utilizatorii pot interacționa cu schimbul valutar direct, prin intermediul API-ului blockchain, sau se pot folosi de un GUI (o interfață grafică), cum ar fi cea de pe Steemit.com. [^14]
 
-### Payments Through Escrow
+### Plăţi prin Escrow - împuternicire legală
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Caracterul ireversibil al tranzacţiilor din blockchain este o caracteristică importantă de securitate. Există, totuși, multe cazuri în care utilizatorii nu se simt comfortabil să trimită tokeni la un alt individ fără o modalitate de a-i recupera, în cazul în care celălalt utilizator nu își respectă cuvântul. Steem blockchain oferă o modalitate pentru utilizatori să-și trimită monede între ei, cu un terţ, desemnat ca serviciu de împuternicire legală. Utilizatorul acre acţionează ca serviciu de împuternicire legală este capabil să determina dacă sunt îndeplinite condiţiile din acord, şi permite fondurile pentru a fi trimise la destinatar sau returnate expeditorului.
 
-### Hierarchical Private Key Structure
+### Structură ierarhică a cheii private
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

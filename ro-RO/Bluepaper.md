@@ -62,7 +62,7 @@ Steem blockchain este atât un sistem de prelucrare a tokenilor digitali, cât �
 
 ### Primitives Designed for Content Applications
 
-Steem oferă utilizatorilor capacitatea unică de a publica şi stoca diferite tipuri de conţinut direct și permanent în registrul imuabil al blockchain-ului, ca text simplu. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem oferă utilizatorilor capacitatea unică de a publica şi stoca diferite tipuri de conţinut direct și permanent în registrul imuabil al blockchain-ului, ca text simplu. Odată ce sunt stocate în blockchain, datele devin publice pentru programatori, acești având liber acces la contribuție. Programatorii au posibiliatea de a interacționa direct cu conținutul din blockchain, folosind API-urile disponibile. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -62,7 +62,7 @@ La blockchain Steem à deux objectifs, d’être un système de jeton numérique
 
 ### Primitives conçu pour les applications de contenu
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

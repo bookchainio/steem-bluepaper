@@ -70,9 +70,9 @@ Adresele portofelui folosite de multe tehnologii din blockchain, cum ar fi Bitco
 
 ### Dolari Steem Blockchain (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Multi utilizatori care sunt neexperimentați în ceea ce privește cryptocurrency, lupta pentru a înţelege cum funcționează "tokeni magici ai internetului" și ce valoare au de fapt în lumea reală. Pentru a întelege mai bine cum funcționează acest sistem, și pentru a elimina nedumeririle utilizatoriilor care sunt obișnuiți cu bani din sistemul monetar actual, a fost creată o nouă valută criptică, numită Dolari Steem Blockchain (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

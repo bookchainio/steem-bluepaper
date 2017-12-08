@@ -16,7 +16,7 @@ Sistemele de token care recompensează utilizatorii ce contribuie la un sistem i
 
 ### Bazinul de recompense ("de unde vin tokeni?")
 
-Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, token-urile sunt produse în mod regulat dar aleatoriu și sunt distribuite persoanelor ale căror aparate efectuează munca ("mineri").
+Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, tokeni sunt produși în mod regulat dar aleatoriu și sunt distribuiți persoanelor ale căror aparate efectuează munca ("mineri").
 
 Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
@@ -62,7 +62,7 @@ Steem blockchain este atât un sistem de prelucrare a tokenilor digitali, cât �
 
 ### Primitives Designed for Content Applications
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem oferă utilizatorilor capacitatea unică de a publica şi stoca diferite tipuri de conţinut direct și permanent în registrul imuabil al blockchain-ului, ca text simplu. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -66,7 +66,7 @@ Steem offre aux utilisateurs la capacité unique de publier et de stocker diffé
 
 ### Système de nom natif
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Les adresses de portefeuille utilisés par beaucoup des technologies blockchain, telles que Bitcoin et Ethereum, consistait historiquement de longues chaînes aléatoire de lettres et de chiffres, toutefois, ces adresses de portefeuille peuvent rendre difficile à effectuer des transactions avec d’autres utilisateurs dans un contexte typique de médias sociaux en ligne parce que les utilisateurs sont incapables de se rappeler des adresses a longue chaîne de character en mémoire. La blockchain Steem utilise le nom d’utilisateur de chaque participant comme leur adresse de portefeuille, ce qui renforce l’expérience utilisateur pour les participants qui tentent d’envoyer les jetons parce qu’ils peuvent vérifier les adresses de leur propre mémoire.
 
 ### Steem Blockchain Dollars (SBD)
 

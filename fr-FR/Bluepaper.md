@@ -62,9 +62,9 @@ La blockchain Steem à deux objectifs, d’être un système de jeton numérique
 
 ### Primitives conçu pour les applications de contenu
 
-Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans la blockchain directement à l’aide des APIs disponibles. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans la blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
 
-### Native Name System
+### Système de nom natif
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

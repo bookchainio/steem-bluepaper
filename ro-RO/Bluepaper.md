@@ -60,7 +60,7 @@ Practically speaking, AppBase enables different cores, or even different compute
 
 Steem blockchain este atât un sistem de prelucrare a tokenilor digitali, cât și o platofmă de socializare. Caracteristicile oferite de blockchain trebuie să sprijine ambele scopuri, oferindu-le tilizatorilor o experienţă excelentă, atunci când sunt utilizate ambele aspecte ale platformei.
 
-### Primitives Designed for Content Applications
+### Primitivele destinat aplicaţiilor de conţinut
 
 Steem oferă utilizatorilor capacitatea unică de a publica şi stoca diferite tipuri de conţinut direct și permanent în registrul imuabil al blockchain-ului, ca text simplu. Odată ce sunt stocate în blockchain, datele devin publice pentru programatori, acești având liber acces la contribuție. Programatorii au posibiliatea de a interacționa direct cu conținutul din blockchain, folosind API-urile disponibile. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

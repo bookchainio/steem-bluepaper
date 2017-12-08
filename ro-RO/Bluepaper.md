@@ -92,9 +92,9 @@ Steem facilitează, de asemenea, utilizarea unei Parole Principale care cripteaz
 
 ### Autorităţile Multi Sig
 
-Steem blockchain permite ca autoritatea să fie împărțită de mai multe entități, astfel încât mai mulți utilizatori pot să împartă aceași autoritate sau este nevoie de mai multe entități pentru a autoriza o tranzacție pentru ca aceasta să fie validă. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain permite ca autoritatea să fie împărțită de mai multe entități, astfel încât mai mulți utilizatori pot să împartă aceași autoritate sau este nevoie de mai multe entități pentru a autoriza o tranzacție pentru ca aceasta să fie validă. Acest lucru se face la fel ca pe Bitshares [^16] unde fiecărei perechi de chei publice/private se atribuie o greutate, şi un prag stabilit pentru autoritate. Pentru ca o tranzacţie să fie validă, este nevoie de mai multe entități care să semneze pentru ca greutatea sumei lor să atingă sau să depășească pragul.
 
-### Multiple Reward Beneficiaries
+### Multipli beneficiari de recompensă
 
 For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 

@@ -72,11 +72,11 @@ Adresele portofelui folosite de multe tehnologii din blockchain, cum ar fi Bitco
 
 Multi utilizatori care sunt neexperimentați în ceea ce privește cryptocurrency, lupta pentru a înţelege cum funcționează "tokeni magici ai internetului" și ce valoare au de fapt în lumea reală. Pentru a întelege mai bine cum funcționează acest sistem, și pentru a elimina nedumeririle utilizatoriilor care sunt obișnuiți cu bani din sistemul monetar actual, a fost creată o nouă valută criptică, numită Dolari Steem Blockchain (SBD).
 
-Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. Tokeni SBD oferă, de asemenea, o monedă relativ stabilă astfel încât, utilizatorii care să aibe o valoare aproximativă în USD, pot să îi păstreze. O explicaţie mult mai detaliată din punct de vedere tehnic, pote fi găsiteă în documentaţie tehnică a Steem whitepaper. [^12]
 
-### Decentralized Exchange
+### Schimb descentralizat
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain oferă un schimb descentralizat de tokeni, similar cu schimbul Bitshares. [^13] Schimbul oferă utilizatorilor să facă schimb între STEEM şi SBD printr-o piaţă publică descentralizate peer-to-peer. Utilizatorii au posibiliatea de cumpărare şi vânzare, iar ordinea de potrivire se face automat de blockchain. Există, de asemenea, o carte de ordin public accesibilă, precum şi istoricul comenzilor pe care utilizatorii le pot utiliza pentru a analiza piaţa. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

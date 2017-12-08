@@ -98,9 +98,9 @@ Steem blockchain permite ca autoritatea să fie împărțită de mai multe entit
 
 Pentru orice post, există un număr de diferite persoane care au un interes financiar în recompensă. Aceasta îi include pe: autor, posibili co-autori, referenți, furnizorii de hosting, blog-urile care au încorporat comentarii blockchain şi pe programatori. Indiferent de site-ul sau orice alt instrument folosit la crearea unui post, există posibilitatea de a stabili felul în care sunt împărțite recompensele între diferite părți. Acest lucru permite pentru diferite forme de colaborare, precum și platformele care sunt construite pe baza Steem blockchain, să colecteze o parte din recompensele utilizatorilor lor.
 
-### Smart Media Tokens (SMT)
+### Tokeni Smart Media (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Tokeni Smart Media sunt tokeni nativi care pot fi construiți pe Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

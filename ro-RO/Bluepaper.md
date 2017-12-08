@@ -96,7 +96,7 @@ Steem blockchain permite ca autoritatea să fie împărțită de mai multe entit
 
 ### Multipli beneficiari de recompensă
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Pentru orice post, există un număr de diferite persoane care au un interes financiar în recompensă. Aceasta îi include pe: autor, posibili co-autori, referenți, furnizorii de hosting, blog-urile care au încorporat comentarii blockchain şi pe programatori. Indiferent de site-ul sau orice alt instrument folosit la crearea unui post, există posibilitatea de a stabili felul în care sunt împărțite recompensele între diferite părți. Acest lucru permite pentru diferite forme de colaborare, precum și platformele care sunt construite pe baza Steem blockchain, să colecteze o parte din recompensele utilizatorilor lor.
 
 ### Smart Media Tokens (SMT)
 

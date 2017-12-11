@@ -10,7 +10,7 @@ Dalam bidang mata uang kripto, sifat unik yang dimiliki oleh STEEM membuatnya "c
 
 Sebagai tambahan dari keunggulan dalam teknologi blockchain dan mata uang digital, Steem sebagai sebuah sistem menyediakan fitur tambahan yang lebih canggih untuk menambahkan pengalaman baru kepada pengguna, seperti Pemulihan Akun Curian[^5], layanan escrow (pihak ketiga), promosi konten oleh pengguna, sistem reputasi, dan tabungan. Semua ini dilakukan bersamaan dengan memberikan pengguna tiga detik waktu konfirmasi dan nol biaya untuk seluruh transaksi. Keseluruhan ini memungkinkan Steem untuk mendukung misi membawa mata uang digital yang pintar dan berbasis sosial untuk para penerbit dan para penggiat sosial di seluruh Internet.
 
-## Bukti otak: token cerdas dan sosial
+## Bukti Kecerdasan: Mata uang yang cerdas dan berbasis sosial
 
 Sistem Token yang pahala pengguna karena mereka berkontribusi pada sistem berbasis token masyarakat memerlukan mekanisme untuk membangun dan mengevaluasi konten 's nilai sosial: kami menyebutnya "Bukti-of-otak."
 

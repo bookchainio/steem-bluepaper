@@ -12,7 +12,7 @@ Sebagai tambahan dari keunggulan dalam teknologi blockchain dan mata uang digita
 
 ## Bukti Kecerdasan: Mata uang yang cerdas dan berbasis sosial
 
-Sistem Token yang pahala pengguna karena mereka berkontribusi pada sistem berbasis token masyarakat memerlukan mekanisme untuk membangun dan mengevaluasi konten 's nilai sosial: kami menyebutnya "Bukti-of-otak."
+Sistem mata uang yang memberi upah untuk pengguna karena berkontribusi pada sistem sebuah komunitas yang berbasis token memerlukan sebuah mekanisme untuk membangun dan mengevaluasi konten yang menilai sosial: kami menyebutnya "Bukti Kecerdasan."
 
 ### Kolam Renang hadiah ("mana token berasal dari?")
 

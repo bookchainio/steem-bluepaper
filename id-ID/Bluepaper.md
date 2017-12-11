@@ -14,9 +14,9 @@ Sebagai tambahan dari keunggulan dalam teknologi blockchain dan mata uang digita
 
 Sistem mata uang yang memberi upah untuk pengguna karena berkontribusi pada sistem sebuah komunitas yang berbasis token memerlukan sebuah mekanisme untuk membangun dan mengevaluasi konten yang menilai sosial: kami menyebutnya "Bukti Kecerdasan."
 
-### Kolam Renang hadiah ("mana token berasal dari?")
+### Wadah Penghargaan("Dari mana datangnya Token?")
 
-Salah satu aspek yang paling inovatif (dan paling disalah mengerti) dari Steem blockchain adalah "Hadiah renang" dari Token yang didistribusikan ke pencipta konten yang berharga. Untuk memahami apa hadiah renang, yang pertama perlu dipahami bahwa Token yang dihasilkan berbeda di lembaga blockchains daripada PoW blockchains. Dalam tradisional PoW blockchains Token yang dihasilkan secara teratur tetapi secara acak didistribusikan kepada rakyat mesin yang melakukan pekerjaan ("penambang").
+Salah satu aspek yang paling inovatif (dan sering disalahartikan) dari Steem blockchain adalah "Wadah Penghargaan" tempat dimana token didistribusikan untuk para pembuat konten yang berharga. Untuk memahami apa itu Wadah Penghargaan, yang pertama perlu dipahami bahwasanya Token dihasilkan secara berbeda pada blockchain DPoS jika dibandingkan pada blockchain PoW. Dalam tradisional PoW blockchains Token yang dihasilkan secara teratur tetapi secara acak didistribusikan kepada rakyat mesin yang melakukan pekerjaan ("penambang").
 
 Berbeda dari PoW-hanya cryptocurrencies, tanda-tanda di Steem yang dihasilkan pada tingkat bunga tetap sebesar satu blok setiap tiga detik. Token ini mendapatkan didistribusikan ke berbagai aktor di sistem berdasarkan aturan didefinisikan blockchain. Aktor ini, konten pencipta, saksi dan kurator, bersaing dengan cara yang khusus untuk Token. Tidak seperti cara PoW tradisional distribusi, dimana penambang bersaing lebih dari daya komputasi yang mentah, para aktor dalam jaringan Steem insentif untuk bersaing dengan cara yang menambah nilai ke jaringan.
 

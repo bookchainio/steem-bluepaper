@@ -32,7 +32,7 @@ Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat m
 
 Steem beroperasi berdasarkan satu-STEEM, satu suara. Dengan model ini, individu yang telah berkontribusi paling banyak terhadap platform, yang diukur dengan saldo akun mereka, memiliki pengaruh paling besar mengenai bagaimana kontribusi diberikan. Pasak bisa dibeli atau diterima. Pengguna tidak dapat memperoleh pengaruh tambahan dengan memiliki banyak akun, karena satu akun dengan jumlah saham akan memiliki pengaruh yang sama dengan dua akun berbeda yang berbagi jumlah saham yang sama. Satu-satunya cara bagi pengguna untuk meningkatkan pengaruhnya di platform adalah meningkatkan kepemilikan saham mereka.
 
-Selanjutnya, Steem hanya mengizinkan anggota untuk meberikan suara dengan STEEM yang akan dikerjakan dalam rentang 13 minggu jadwal tetap yang disebut Steem Power. Dengan model ini, para anggota memiliki insentif finansial untuk memilih dengan cara yang memaksimalkan nilai jangka panjang STEEM mereka.
+Selanjutnya, Steem hanya mengizinkan anggota untuk meberikan suara dengan STEEM yang akan dikerjakan dalam rentang 13 minggu jadwal tetap yang disebut Steem Power. Dengan model ini, para anggota memiliki dorongan finansial untuk memilih dengan cara yang akan memaksimalkan nilai STEEM mereka untuk jangka waktu yang panjang.
 
 ## Kecepatan dan skala pada Steem Blockchain
 

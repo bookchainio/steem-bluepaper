@@ -20,7 +20,7 @@ Salah satu aspek yang paling inovatif (dan sering disalahartikan) dari Steem blo
 
 Berbeda dari mata uang kripto yang sebatas PoW, token di dalam Steem dihasilkan pada rasio yang tetap dalam satu blok di setiap tiga detik. Token-token ini akan didistribusikan ke berbagai pelaku di dalam sistem berdasarkan peraturan yang ditetapkan pada blockchain. Para pelaku ini, seperti pembuat konten, saksi-saksi, dan kurator, bersaing dengan cara-cara khusus untuk mendapatkan token. Berbeda dengan sarana distribusi dari PoW tradisional, di mana para penambang bersaing dengan kekuatan komputasi semata, para pelaku dalam jaringan Steem didorong untuk bersaing dengan cara-cara yang menambahkan nilai ke dalam jaringan.
 
-Tingkat baru Token yang dihasilkan ditetapkan untuk 9,5% per tahun dimulai pada Desember tahun 2016, dan berkurang pada tingkat 0,01% setiap blok 250.000, atau sekitar 0.5% per tahun. Inflasi akan terus menurun pada tingkat ini sampai mencapai 0,95%, setelah periode sekitar 20,5 tahun.
+Angka yang dihasilkan oleh token baru diatur pada angka 9.5% per tahun dimulai pada Desember 2016, dan menurun menjadi 0.01% setiap 250,000 blok, atau sekitar 0.5% per tahun. Inflasi akan terus menurun pada angka ini hingga mencapai 0.95%, setelah rentang waktu sekitar 20.5 tahun.
 
 Pasokan dari tanda-tanda baru yang diciptakan oleh Steem blockchain setiap tahun, 75% dari token tersebut menyusun "hadiah renang" yang dibagikan kepada pencipta konten dan konten kurator. 15% didistribusikan ke dipegang pemegang token, dan 10% didistribusikan kepada saksi, produsen blok bekerja sama di dalam Steem's lembaga konsensus protokol.
 

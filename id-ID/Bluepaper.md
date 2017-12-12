@@ -22,7 +22,7 @@ Berbeda dari mata uang kripto yang sebatas PoW, token di dalam Steem dihasilkan 
 
 Angka yang dihasilkan oleh token baru diatur pada angka 9.5% per tahun dimulai pada Desember 2016, dan menurun menjadi 0.01% setiap 250,000 blok, atau sekitar 0.5% per tahun. Inflasi akan terus menurun pada angka ini hingga mencapai 0.95%, setelah rentang waktu sekitar 20.5 tahun.
 
-Pasokan dari tanda-tanda baru yang diciptakan oleh Steem blockchain setiap tahun, 75% dari token tersebut menyusun "hadiah renang" yang dibagikan kepada pencipta konten dan konten kurator. 15% didistribusikan ke dipegang pemegang token, dan 10% didistribusikan kepada saksi, produsen blok bekerja sama di dalam Steem's lembaga konsensus protokol.
+Berdasarkan persedian token baru yang dibuat oleh blockchain Steem steiap tahunnya, 75% dari token-token tersebut menghasilkan "wadah penghargaan" yang akan didistribusikan kepada para pembuat konten dan kurator konten. 15% didistribusikan ke dipegang pemegang token, dan 10% didistribusikan kepada saksi, produsen blok bekerja sama di dalam Steem's lembaga konsensus protokol.
 
 #### Imbalan untuk kadar pencipta dan kurator
 

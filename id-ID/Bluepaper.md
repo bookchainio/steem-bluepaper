@@ -24,7 +24,7 @@ Angka yang dihasilkan oleh token baru diatur pada angka 9.5% per tahun dimulai p
 
 Berdasarkan persedian token baru yang dibuat oleh blockchain Steem steiap tahunnya, 75% dari token-token tersebut menghasilkan "wadah penghargaan" yang akan didistribusikan kepada para pembuat konten dan kurator konten. 15% didistribusikan ke dipegang pemegang token, dan 10% didistribusikan kepada saksi, produsen blok bekerja sama di dalam Steem's lembaga konsensus protokol.
 
-#### Imbalan untuk kadar pencipta dan kurator
+#### Penghargaan untuk Pembuat Konten dan Kurator
 
 Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat materi yang akan mendorong pengguna baru ke platform, serta menjaga agar pengguna tetap terlibat dan terhibur. Ini membantu dalam mendistribusikan mata uang ke kumpulan pengguna yang lebih luas dan meningkatkan efek jaringan. Pengguna yang membutuhkan waktu untuk mengevaluasi dan memberi suara pada konten memainkan peran penting dalam mendistribusikan mata uang ke pengguna yang menambahkan nilai terbanyak. Blockchain imbalan kedua dari ini kegiatan relatif untuk mereka nilai berdasarkan pada kolektif kebijaksanaan dari orang banyak dikumpulkan melalui itu pancang-tertimbang sistem pemungutan suara.
 

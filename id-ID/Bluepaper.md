@@ -26,9 +26,9 @@ Berdasarkan persedian token baru yang dibuat oleh blockchain Steem steiap tahunn
 
 #### Penghargaan untuk Pembuat Konten dan Kurator
 
-Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat materi yang akan mendorong pengguna baru ke platform, serta menjaga agar pengguna tetap terlibat dan terhibur. Ini membantu dalam mendistribusikan mata uang ke kumpulan pengguna yang lebih luas dan meningkatkan efek jaringan. Pengguna yang membutuhkan waktu untuk mengevaluasi dan memberi suara pada konten memainkan peran penting dalam mendistribusikan mata uang ke pengguna yang paling banyak memberikan nilai. Blockchain imbalan kedua dari ini kegiatan relatif untuk mereka nilai berdasarkan pada kolektif kebijaksanaan dari orang banyak dikumpulkan melalui itu pancang-tertimbang sistem pemungutan suara.
+Pengguna yang menghasilkan konten menambahkan nilai ke jaringan dengan membuat materi yang akan mendorong pengguna baru ke platform, serta menjaga agar pengguna tetap terlibat dan terhibur. Ini membantu dalam mendistribusikan mata uang ke kumpulan pengguna yang lebih luas dan meningkatkan efek jaringan. Pengguna yang membutuhkan waktu untuk mengevaluasi dan memberi suara pada konten memainkan peran penting dalam mendistribusikan mata uang ke pengguna yang paling banyak memberikan nilai. Blockchain memberikan penghargaan atas kedua aktivitas ini relatif terhadap nilai mereka berdasarkan kebijaksanaan kolektif dari kerumunan yang dikumpulkan melalui sistem voting yang diberi bobot.
 
-#### Pemungutan suara dengan mempertaruhkan-token untuk menentukan alokasi dari imbalan
+#### Pemungutan suara dengan Staked-Token untuk menentukan alokasi dari imbalan
 
 Steem beroperasi berdasarkan satu-STEEM, satu suara. Dengan model ini, individu yang telah berkontribusi paling banyak terhadap platform, yang diukur dengan saldo akun mereka, memiliki pengaruh paling besar mengenai bagaimana kontribusi diberikan. Pasak bisa dibeli atau diterima. Pengguna tidak dapat memperoleh pengaruh tambahan dengan memiliki banyak akun, karena satu akun dengan jumlah saham akan memiliki pengaruh yang sama dengan dua akun berbeda yang berbagi jumlah saham yang sama. Satu-satunya cara bagi pengguna untuk meningkatkan pengaruhnya di platform adalah meningkatkan kepemilikan saham mereka.
 

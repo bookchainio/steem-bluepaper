@@ -56,17 +56,17 @@ AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 
-## Steem’s Platform Features
+## Fonctionnalités de la plateforme de STEEM
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+La blockchain Steem à deux objectifs, d’être un système de jeton numérique, ainsi qu’une plate-forme de médias sociaux. Les fonctionnalités offertes par la blockchain doivent soutenir les deux objectifs et fournir aux utilisateurs une expérience de classe mondiale lors de l’utilisation de ces deux aspects de la plate-forme.
 
-### Primitives Designed for Content Applications
+### Primitives conçu pour les applications de contenu
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans la blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
 
-### Native Name System
+### Système de nom natif
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Les adresses de portefeuille utilisés par beaucoup des technologies blockchain, telles que Bitcoin et Ethereum, consistait historiquement de longues chaînes aléatoire de lettres et de chiffres, toutefois, ces adresses de portefeuille peuvent rendre difficile à effectuer des transactions avec d’autres utilisateurs dans un contexte typique de médias sociaux en ligne parce que les utilisateurs sont incapables de se rappeler des adresses a longue chaîne de character en mémoire. La blockchain Steem utilise le nom d’utilisateur de chaque participant comme leur adresse de portefeuille, ce qui renforce l’expérience utilisateur pour les participants qui tentent d’envoyer les jetons parce qu’ils peuvent vérifier les adresses de leur propre mémoire.
 
 ### Steem Blockchain Dollars (SBD)
 
@@ -122,7 +122,7 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 ## Conclusion
 
-L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
+L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. La performance de la blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
 
 [^1]: Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

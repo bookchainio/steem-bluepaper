@@ -104,7 +104,7 @@ Tokens Smart Media são tokens nativos que podem ser construídos na blockchain 
 
 ### Recuperação de Contas Roubadas
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se a chave de um usuário for comprometida, ele pode alterar suas chaves usando a chave privada do proprietário. No caso em que o atacante for capaz de comprometer a chave privada do proprietário e alterar a senha da conta, o usuário tem 30 dias para enviar uma chave anterior funcional através do processo inovador de recuperação de conta do Steem, e retomar o controle da sua conta. Isto também pode ser oferecido por uma pessoa ou empresa que fornece serviços para o Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

@@ -22,11 +22,11 @@ Diferente de cripto-moedas apenas PoW, as tokens no Steem são geradas em uma ta
 
 A taxa em que novos tokes são gerados foi definida em 9,5% por ano, iniciando em Dezempro de 2016, e diminui a uma taxa de 0,01% a cada 250.000 blocos, ou cerca de 0.5% por ano. A inflação irá continuar a reduzir neste ritmo até que alcance 0.95%, após um período de aproximadamente 20.5 anos.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Da oferta de novos tokens criados pela blockchain do Steem a cada ano, 75% desses tokens compôem o "conjunto de recompensas" que são distribuídos para os criados de conteúdo e curadores de conteúdo. 15% são distribuídos para titulares garantidos dos tokens, e 10% são distribuídos para as Testemunhas, os produtores de blocos dentro do protocolo DPOS de consenso do Steem.
 
-#### Rewards for Content Creators and Curators
+#### Recompensas para Criadores de Conteúdo e Curadores
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Os usuários que produzem conteúdo estão agregando valor à rede através da criação de material que irá conduzir novos usuários para a plataforma, bem como manter os usuários existentes engajados e entretidos. Isso ajuda na distribuição da moeda para um conjunto mais amplo de usuários e aumenta o efeito de rede. Os usuários que usam o tempo para avaliar e votar no conteúdo desempenham um papel importante na distribuição da moeda para os usuários que estão agregando o maior valor. As recompensas da blockchain recompensa essas duas atividades em relação ao seu valor baseado na sabedoria coletiva da multidão, através do sistema de voto ponderado.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

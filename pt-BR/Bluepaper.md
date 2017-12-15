@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Steem proporciona um protocolo blockchain escalável[^1] para conteúdo publicamente acessível e imutável, em conjunto com um token digital rápido e sem taxas (chamado STEEM)[^2] que permite que pessoas recebam a moeda utilizando os seus cérebros (o que é chamado "Prova-de-cérebro"). Os dois blocos fundamentais deste protocolo, tanto o blockchain quanto o token, dependem um do outro para segurança, imutabilidade e longevidade, sendo portanto, partes integrais da existência um do outro. Steem vem operando com sucesso por mais de um ano, e agora ultrapassaram o Bitcoin é o Ethereum em quantidade de transações processadas[^3]
+Steem proporciona um protocolo blockchain expandível[^1] para conteúdo publicamente acessível e imutável, em conjunto com um token digital rápido e sem taxas (chamado STEEM)[^2] que permite que pessoas recebam a moeda utilizando os seus cérebros (o que é chamado "Prova-de-cérebro"). Os dois blocos fundamentais deste protocolo, tanto o blockchain quanto o token, dependem um do outro para segurança, imutabilidade e longevidade, sendo portanto, partes integrais da existência um do outro. Steem vem operando com sucesso por mais de um ano, e agora ultrapassaram o Bitcoin é o Ethereum em quantidade de transações processadas[^3]
 
 Comparado com outras blockchains, o Steem se destaca como o primeiro banco de dados publicamente acessível para conteúdo imutável armazenado, em conjunto com um mecanismo embutido de incentivo. Isso torna o Steem uma plataforma pública de publicação na qual qualquer aplicativo da Internet pode puxar e compartilhar dados enquanto recompensa aqueles que contribuem com o conteúdo mais valioso.
 
@@ -126,7 +126,7 @@ O programa singular de recompensas e incentivos que são oferecios pela Blockcha
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Para difencia-lo do termo utilizado para a blockchain, a grafia correta do token digital nativo da Steem é STEEM.
 
 [^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
@@ -144,7 +144,7 @@ O programa singular de recompensas e incentivos que são oferecios pela Blockcha
 
 [^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: O componente da estrutura da blockchain Steem responsável pelo processamento de transações e distribuições de recompensa.
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
@@ -152,7 +152,7 @@ O programa singular de recompensas e incentivos que são oferecios pela Blockcha
 
 [^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteemar" é o termo usado na blockchain Steem para quando um usuário compartilha o conteúdo com seus seguidores.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 

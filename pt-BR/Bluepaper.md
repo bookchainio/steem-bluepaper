@@ -30,7 +30,7 @@ Os usuários que produzem conteúdo estão agregando valor à rede através da c
 
 #### Votando com a Pilha de Tokens para Determinar a Alocação de Recompensas
 
-Steem opera na base de um Steem, um voto. Neste modelo, indivíduos que mais contribuíram para a plataforma, medido através do saldo da sua conta, tem a maior influência em como as contribuições são pontuadas. Pilhas pedem se compradas ou recebidas. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem opera na base de um Steem, um voto. Neste modelo, indivíduos que mais contribuíram para a plataforma, medido através do saldo da sua conta, tem a maior influência em como as contribuições são pontuadas. Pilhas pedem se compradas ou recebidas. Os usuários não podem receber influência adicional possuindo várias contas, já que uma única conta com uma certa pilha terá a mesma influência que duas contas compartilhando o mesmo tamanho de pilha. A única forma do usuário aumentar a sua influência na plataforma é aumentar a sua pilha.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

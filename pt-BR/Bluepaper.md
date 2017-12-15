@@ -104,19 +104,19 @@ Tokens Smart Media são tokens nativos que podem ser construídos na blockchain 
 
 ### Recuperação de Contas Roubadas
 
-Se a chave de um usuário for comprometida, ele pode alterar suas chaves usando a chave privada do proprietário. No caso em que o atacante for capaz de comprometer a chave privada do proprietário e alterar a senha da conta, o usuário tem 30 dias para enviar uma chave anterior funcional através do processo inovador de recuperação de conta do Steem, e retomar o controle da sua conta. Isto também pode ser oferecido por uma pessoa ou empresa que fornece serviços para o Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se a chave de um usuário for comprometida, ele pode alterar suas chaves usando a chave privada do proprietário. No caso em que o atacante for capaz de comprometer a chave privada do proprietário e alterar a senha da conta, o usuário tem 30 dias para enviar uma chave anterior funcional através do processo inovador de recuperação de conta do Steem, e retomar o controle da sua conta. Isto também pode ser oferecido por uma pessoa ou empresa que fornece serviços para o Steem. Não é obrigatório para o registrador fornecer este serviço para os usuários, mas está disponibilizado para aumentar o valor da experiência dos usuários de um registrador.
 
-### Security Through Time-Locks
+### Segurança atraves de Travas-Temporais
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Se as chaves ativas ou de proprietário for comprometida, o atacante teria acesso completo a todos os fundos a sua conta. Uma vez que transações na blockchain são irreversíveis, os usuários não tem como recuperar seus fundos após serem roubados.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+A blockchain Steem permite ao usuário guardar seus tokens STEEM e SBD em uma conta de poupança, de forma que os fundos não possam ser retirados após um período de espera de três dias. Além disso, STEEM que seja guardado durante o período de de 13 semanas de investimento só pode ser retirado a uma taxa de 1/13 por semana, após o período inicial de espera de sete dias. Essas travas-temporais previnem que um invasor acesse a porção completa dos fundos do usuário imediatamente, de forma que o dono por direito tenha tempo de retomar o controle de sua conta antes que todos os fundos sejam retirados.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limitação de Largura de Banda para Operações Sem Taxas
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Devido ao fato que as testemunhas são pagas na sua ttalidade através da geração de novos tokens, não existe a necessidade de cobrar dos usuários uma taxa para alimentar a blockchain. A única razão para cobrar taxas seria como um impedimento para previnir usuários de completar uma quantidade não razoável de transações, que poderia potencialmente impactar a performance da blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+De forma a colocar limites razoáveis no uso do sistema, é dado a cada usuário um limite de largura de banda. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

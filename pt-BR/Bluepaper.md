@@ -62,17 +62,17 @@ A blockchain do Steem serve um duplo propósito de ser um sistema de processamen
 
 ### Primitivos Projetados para Aplicativos de Conteúdo
 
-Steem oferece aos usuários a habilidade única de publicar e armazenar diferentes tipos de conteúdo diretamente e permanentemente no ledger imutável da blockchain como texto sem formatação. Uma vez armazenado na blockchain, os dados se tornam publicamente disponíveis para desenvolvedores construírem a partir deles. Desenvolvedores são capaz de interagir com o conteúdo diretamente na blockchain, utilizando os APIs disponíveis. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem oferece aos usuários a habilidade única de publicar e armazenar diferentes tipos de conteúdo diretamente e permanentemente no ledger imutável da blockchain como texto sem formatação. Uma vez armazenado na blockchain, os dados se tornam publicamente disponíveis para desenvolvedores construírem a partir deles. Desenvolvedores são capaz de interagir com o conteúdo diretamente na blockchain, utilizando os APIs disponíveis. Vários primitivos da blockchain que os desenvolvedores podem construir incluem Nome de Contas, Posts, Comentários, Votos e Saldo de Conta.
 
-### Native Name System
+### Sistema Nativo e Nomes
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Endereços de carteiras utilizados por muitas tecnologias blockchain, como Bitcoin e Ethereum historicamente consistem de sequencias de números e letras aleatórios, entretanto, esses endereços de carteiras podem dificultar a transação com outros em um contexto típico de mídia-social-online porque usuário são incapazes de lembrar os números e letras dos endereços apenas pela memória. A blockchain do Steem utiliza o nome de usuário de cada participante como os seus endereços de carteira, o que melhora a experiência de utilização para os participantes que tentam enviar tokens porque eles podem lembrar os endereços pela sua própria memória.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Muitos usuários que são introduzidos às cripto-moedas tem dificuldade em compreender como "token mágicos da internet" recompensados pela plataforma podem ter valor no mundo real. De forma a ajudar a reduzir a lacuna entre o sistema tradicional de moeda fiduciária que os principais usuários estão acostumados, e os tokens de cripto-moedas que são recompensados através da plataforma, uma nova moeda chamada Steem Blockchain Dollars (SBD) foi criada.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Tokens SBD são projetados para serem indexados o mais próximo de um Dólar, para que os usuários possam saber aproximadamente o quanto eles valem em termos de "dólar verdadeiro". Tokens SBD também oferecem uma moeda relativamente estável para os usuários manterem, se eles estiverem interessados em preservar o valor de sua conta em relação ao Dólar. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

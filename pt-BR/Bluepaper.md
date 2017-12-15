@@ -56,13 +56,13 @@ AppBase é o primeiro passo na criação de um FABRIC multi-cadeias. Appbase per
 
 Em termos práticos, AppBase permite núcleos diferentes, ou até mesmo computadores diferentes, manterem partes diferentes da blockchain do Steem. Isso é significativamente mais eficiente do que exigir que todos os núcleos e todos computadores na rede mantenham a blockchain inteira. Modularizar a blockchain lhe permite aproveitar ao máximo da natureza modular dos computadores. Esse é um passo necessário para o longo processo de criar uma blockchain totalmente paralela e otimizada.
 
-## Características da Plataforma Steem
+## Funcionalidades da Plataforma Steem
 
-A blockchain do Steem serve um duplo propósito de ser um sistema de processamento de token digital, bem como uma plataforma de mídia social popular. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+A blockchain do Steem serve um duplo propósito de ser um sistema de processamento de token digital, bem como uma plataforma de mídia social popular. As funcionalidade oferecidas pela blockchain precisam apoiar os dois propósitos, e oferecer aos usuários uma experiência de padrão mundial ao utilizar os dois aspectos da plataforma.
 
-### Primitives Designed for Content Applications
+### Primitivos Projetados para Aplicativos de Conteúdo
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem oferece aos usuários a habilidade única de publicar e armazenar diferentes tipos de conteúdo diretamente e permanentemente no ledger imutável da blockchain como texto sem formatação. Uma vez armazenado na blockchain, os dados se tornam publicamente disponíveis para desenvolvedores construírem a partir deles. Desenvolvedores são capaz de interagir com o conteúdo diretamente na blockchain, utilizando os APIs disponíveis. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

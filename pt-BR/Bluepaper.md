@@ -90,13 +90,13 @@ Essas chaves privadas são as de Publicação, Ativa e Proprietário. A chave de
 
 Steem também facilita o uso de uma Senha Mestre, que criptografa todas as três chaves. Serviços Web podem utilizar a Senha Mestra que descriptografa e assina com a chave privada necessária. Senhas Mestre permitem que os usuários confiem que certos serviços, impedindo que chaves impróprias sejam transferidas através de quaisquer servidores, aumentando assim, a experiência do usuário enquanto mantém um ambiente seguro de autenticação no lado do cliente.
 
-### Multi Sig Authorities
+### Autoridades Multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+A blockchain Steem permite que uma autoridade seja dividida através de múltiplas entidades, de forma que multiplos usuários dividam a mesma autoridade, ou multiplas entidades sejam necessárias para autorizar a transação para que esta seja válida. Isso é feito da mesma maneira que o Bitshares[^16] aonde cada chave pública/privada tem um peso atribuído, e um limite definido de autoridade. Para que uma tansação seja válida, uma quantidade mínima de entidades deverá assinar de forma que a soma dos seus pesos exceda o limite mínimo.
 
-### Multiple Reward Beneficiaries
+### Beneficiários Múltiplos de Recompensa
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para qualquer publicação determinada, pode haver uma certa quantidade de pessoas que tem interesse na recompensa. Isso inclie o autor, possíveis co-autores, indicações, provedores de hospedagem, blogs que incorporaram os comentários da blockchain, e desenvolvedores de ferramentas. Qualquer site ou ferramenta que seja utilizada para construir uma publicação ou comentário terá a capacidade de definir como as recompensas daquele comentário será dividida entre as várias partes. Isso permite várias formas de colaboração, assim como uma forma para plataformas que são construídas sobre a blockchain Steem coletar uma parte das recompensas dos seus usuários.
 
 ### Smart Media Tokens (SMT)
 

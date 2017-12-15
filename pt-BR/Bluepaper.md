@@ -40,11 +40,11 @@ A blockchain Steem é projetada para ser a blockchain mais rápida e eficiente q
 
 ### Prova de Pilha Delegada (DPoS)
 
-Muitas vezes afunilada pela Prova-de-Trabalho (PoW)[^6], muitas blockchains não conseguem escalar para mais de três transações por segundo, o que é uma fração do tráfeco financeiro do mundo. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Muitas vezes afunilada pela Prova-de-Trabalho (PoW)[^6], muitas blockchains não conseguem escalar para mais de três transações por segundo, o que é uma fração do tráfeco financeiro do mundo. O Steem precisava de muito mais velocidade e escalabilidade do que é fornecido pela Prova-de-Trabalho, então um algorítimo menos conhecido chamado Prova de Trabalho Delegada (DPoS)[^7]foi aproveitado para construir a fundação de uma blockchain adequada para bilhões de usuários.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Por causa do DPoS, a blockchain do Steem é capaz de gerar um novo bloco a cada 3 segundos com uma carga computacional mínima. Isso significa que a blockchain pode processar mais transações e armazenar mais informações, incluindo conteúdo.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Definindo as regras para quando um Hardfork ocorrer, as testemunhas eleitas no âmbito do DPoS podem de forma rápida e eficiente decidir deve-se ou não avançar no hardfork proposto, permitindo a blockchain do protocolo Steem evoluir mais rápidamente que a maioria das outras. A blockchain do Steem já se dividiu 18 vezes [^8], e cada vez que um Hardfork ocorreu, apenas uma única cadeia se manteve após a divisão.
 
 ### ChainBase
 

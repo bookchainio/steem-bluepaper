@@ -14,9 +14,9 @@ Bukod sa pag-unlad na ito sa blockchain at token na teknolohiya, ang Steem bilan
 
 Ang mga sistema ng token na nagbibigay gantimpala sa mga user habang sila ay nagaambag sa isang sistema ng kumunidad na nakabase din sa token ay nangangailangan ng mekanismo sa pagtatayo at pagsusuri sa halaga ng nilalaman: tinatawag namin itong "Proof-of-Brain."
 
-### Ang Rewards Pool ("Saan galing ang mga token?")
+### Ang mga Reward Pool ("Saan galing ang mga token?")
 
-Isa sa mga pinaka innovatibo (at pinaka hindi maintindihan) na aspeto ng Steem blockchain ay ang "Rewards Pool" kung saan ang mga token ay nanggaling at ibabahagi sa mga may-akda ng mga nilalaman. Para maintindihan kung ano ang Rewards Pool, dapat maunawaan ng isang tao na ang mga token ay ginagawa sa iba't ibang DPoS blockchains kaysa sa PoW blockchains. Sa tradisyonal na PoW blockchains, ang mga token ay regular na ginagawa ngunit binabahagi ito sa hindi tiyak na mga tao kung saan ang kanilang mga makinarya ay nagtatrabaho ("miners").
+Isa sa mga pinakabago (at pinaka-hindi maunawaan) na mga aspeto ng Steem blockchain ng "Rewards Pool" mula sa kung aling mga token ang ipinamamahagi sa mga mahalagang manunulat ng nilalaman. Para maintindihan kung ano ang Rewards Pool, dapat maunawaan na ang mga token ay ginagawa sa iba't ibang DPoS na mga blockchain kaysa sa PoW na mga blockchain. Sa tradisyonal na mga PoW blockchain, ang mga token ay regular na pino-prodyus ngunit binabahagi ito na hindi pinipili ang mga tao kung saan ang kanilang mga makinarya ay gumagawa ng pagtatrabaho ("miners").
 
 Magkaiba sa PoW na mga cryptocurrencies, ang mga token sa Steem ay nabubuo sa tiyak na rate ng bawat isang bloke sa loob ng tatlong segundo. Ang mga token na ito ay ibinabahagi sa magkakaibang aktor sa sistema na base sa mga alituntunin na nakalagay sa blockchain. Ang mga aktor na ito ay ang mga gumagawa ng nilalaman, mga saksi, mga curator na nag kukumpitensya sa espesyal na paraan para sa mga token. Hindi tulad sa tradisyonal na PoW sa pagbabahagi, kung saan ang mga minero are nagkukumpitensya gamit ang computer power, ang mga aktor sa Steem network ay nabibigyan ng insentibo para sa paraan na makadagdag ng halaga sa network.
 

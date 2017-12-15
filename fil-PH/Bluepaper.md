@@ -22,7 +22,7 @@ Iba sa PoW-only na mga cryptocurrency, ang mga token sa Steem ay nabubuo sa tiya
 
 Ang rate ng pag-gawa ng mga bagong token ay nakaset sa 9.5% kada taon simula noong Desyembre 2016 at unti unting bumababa sa rate na 0.01% bawat 250,000 na mga bloke, o mga nasa 0.5% kada taon. Ang paglobo ay patuloy na bumababa sa rate na nakasaad hanggang umabot ito ng 0.95%, hangang panahon na tinatayang 20.5 na taon.
 
-Sa supply ng mga bagong token na nabubuo sa Steem blockchain bawat taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at nagbibigay halaga sa mga nilalaman. 15% ay binabahagi sa mga stakeholders at ang 10% ay binabahagi sa mga saksi o tinatawag na Witnesses, ang mga gumagawa ng mga bloke sa loob ng Steem DPoS consensus na protocol.
+Ng supply ng mga bagong token na ginagawa ng Steem blockchain taon-taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at mga curator ng nilalaman. 15% ay binabahagi sa mga stakeholders at ang 10% ay binabahagi sa mga saksi o tinatawag na Witnesses, ang mga gumagawa ng mga bloke sa loob ng Steem DPoS consensus na protocol.
 
 #### Gantimpala sa Gumagawa ng Nilalaman at mga Curator
 

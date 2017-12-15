@@ -36,7 +36,7 @@ Dagdag pa nito, pinapayagan ng ng Steem ang mga myembro na bumoto sa STEEM kung 
 
 ## Bilis at iskala sa Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Ang steem blockchain ay naka desenyo upang maging isa sa pinaka mabilis at pinaka mahusay sa mga blockchain na umiiral na, kung saan kinakailangan na masuportahan ang bilang ng inaasahang trapiko sa isang social medya na plataporma mas malaki kesa sa sukat ng Reddit. Ang Steem ay nalagpasan na ang Bitcoin sa bilang ng mga transaksyon, at kayang i-iskala ang suporta sa mahigit 10,000 na mga transaksyon kada segundo.
 
 ### Delegated Proof of Stake (DPoS)
 

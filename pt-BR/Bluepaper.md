@@ -54,11 +54,11 @@ ChainBase[^9] é a parte do banco de dados da pilha do blockchain e substituiu o
 
 AppBase é o primeiro passo na criação de um FABRIC multi-cadeias. Appbase permite que muitos componentes da blockchain Steem se tornem modulares criando blockchains não-consesual adicionais como plugins dedicados. Estes plugins podem ser atualizados muito mais rapidamente porque eles não necessitam da repetição da blockchain completa. Isso torna o steemd[^11] muito mais eficiente e mais fácil de manter e expandir.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Em termos práticos, AppBase permite núcleos diferentes, ou até mesmo computadores diferentes, manterem partes diferentes da blockchain do Steem. Isso é significativamente mais eficiente do que exigir que todos os núcleos e todos computadores na rede mantenham a blockchain inteira. Modularizar a blockchain lhe permite aproveitar ao máximo da natureza modular dos computadores. Esse é um passo necessário para o longo processo de criar uma blockchain totalmente paralela e otimizada.
 
-## Steem’s Platform Features
+## Características da Plataforma Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+A blockchain do Steem serve um duplo propósito de ser um sistema de processamento de token digital, bem como uma plataforma de mídia social popular. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

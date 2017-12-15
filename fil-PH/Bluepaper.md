@@ -44,7 +44,7 @@ Madalas na halos umapaw dahil sa Proof-of-Work (PoW)[^6], maraming mga blockchai
 
 Dahil sa DPoS, ang Steem blockchain ay nakakapag buo ng bagong bloke kada 3 na segundo sa pinaka mababang komputasyon. Nangangahulugan ito na ang blockchain ay kayang magproseso ng mga transaksyon ng mas marami at magdaos ng marami pang impormasyon, kabilang ang nilalaman.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Sa pamamagitan ng pagtukoy ng mga patakaran para kapag nagkaroon ng isang Hardfork, ang mga saksi na nahalal sa loob ng balangkas ng DPoS ay mabilis at episyente na makakapagpasiya kung oo o hindi susulong nang may isang iminumungkahing hardfork, sa pagpapahintulot ng Steem blockchain protocol na lumago ng mas mabilis kaysa sa karamihan. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

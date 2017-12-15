@@ -116,13 +116,13 @@ A blockchain Steem permite ao usuário guardar seus tokens STEEM e SBD em uma co
 
 Devido ao fato que as testemunhas são pagas na sua ttalidade através da geração de novos tokens, não existe a necessidade de cobrar dos usuários uma taxa para alimentar a blockchain. A única razão para cobrar taxas seria como um impedimento para previnir usuários de completar uma quantidade não razoável de transações, que poderia potencialmente impactar a performance da blockchain.
 
-De forma a colocar limites razoáveis no uso do sistema, é dado a cada usuário um limite de largura de banda. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+De forma a colocar limites razoáveis no uso do sistema, é dado a cada usuário um limite de largura de banda. Sempre que um usuário realiza operações na blockchain como transferência de tokens, publicação de conteúdo, e votação, ele usa uma parte da sua largura de banda. Se um usuário exceder a sua permissão de largura de banda, eles devem esperar para executar ações adicionais assim que sua largura de banda for recarregada.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Limites de largura de banda são ajustados baseados no uso da rede, de forma que os usuários tem uma quantidade de largura de banda quando o uso da rede é mais baixo. A quantidade de uso de banda que é permitido a uma conta é diretamente proporcional à quantidade de Poder Steem que o usuário tem, de forma que os usuários sempre podem aumentar a sua quantidade de banda adquirindo mais Poder Steem.
 
-## Conclusion
+## Conclusão
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+O programa singular de recompensas e incentivos que são oferecios pela Blockchain Steem e seus tokens é projetado para tornar o Steem a rampa de acesso do usuários em geral às cripto-moedas. O desempenho da blockchain é projetado pensando na ampla adoção em massa da moeda e da plataforma. Quando combinado o as velocidades ultra-rápidas dos tempos de processamento e transações sem taxas, Steem está posicionado para se tornar uma das principais tecnologias blockchain utilizadas pelas pessoas ao redor do mundo.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

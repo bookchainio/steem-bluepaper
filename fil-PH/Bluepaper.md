@@ -22,11 +22,11 @@ Iba sa PoW-only na mga cryptocurrency, ang mga token sa Steem ay nabubuo sa tiya
 
 Ang rate ng pag-gawa ng mga bagong token ay nakaset sa 9.5% kada taon simula noong Desyembre 2016 at unti unting bumababa sa rate na 0.01% bawat 250,000 na mga bloke, o mga nasa 0.5% kada taon. Ang paglobo ay patuloy na bumababa sa rate na nakasaad hanggang umabot ito ng 0.95%, hangang panahon na tinatayang 20.5 na taon.
 
-Ng supply ng mga bagong token na ginagawa ng Steem blockchain taon-taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at mga curator ng nilalaman. 15% ay binabahagi sa mga stakeholders at ang 10% ay binabahagi sa mga saksi o tinatawag na Witnesses, ang mga gumagawa ng mga bloke sa loob ng Steem DPoS consensus na protocol.
+Ng supply ng mga bagong token na ginagawa ng Steem blockchain taon-taon, 75% nito ay nasa "rewards pool" na binabahagi para sa mga gumagawa ng nilalaman at mga curator ng nilalaman. Ang 15% ay binabahagi sa naka-vest na mga holder ng token, at ang 10% ay binabahagi sa mga Saksi, ang mga predyuser ng bloke ay nakikipagtulungan sa loob ng Steem DPoS consensus na protocol.
 
-#### Gantimpala sa Gumagawa ng Nilalaman at mga Curator
+#### Mga Gantimpala sa Gumagawa ng Nilalaman at mga Curator
 
-Ang mga gumagamit na gumagawa ng mga nilalaman ay dumadagdag ng halaga sa network sa paraan na nakakahikayat sila ng mga bagong tao paa sa plataporma at sa kadahilanan din na ang mga gumagamit ay nakabubuo ng interaksyon sa iba at nalilibang. Pinapagaling nito ang pagbabahagi ng pera sa malawak na kumpol ng mga gumagamit at pinapalaki ang magandang epekto sa network. Ang mga gumagamit na nagbubuhos ng oras para sumuri at bumoto sa mga nilalaman ay may mahalagang papel na ginagampanan para sa pagbabahagi ng pera sa mga gumagamit na nagdaragdag ng halaga. Ang blockchain ang nagbibigay gantimpala sa mga atibidadis na ito na magkaugnay sa kanilang nai-ambag na halaga na base rin sa karunungan ng madla na nakolekta sa paraan ng pagboto.
+Ang mga user na nagpo-prodyus ng mga nilalaman ay nagdadagdag ng halaga sa network sa pamamagitan ng paggawa ng kasangkapan na nakakahikayat sa mga bagong user para pumasok sa plataporma, pati narin sa pagpapanatili sa dati nang mga user ay nakikihalobilo at nalilibang. Pinapagaling nito ang pagbabahagi ng pera sa malawak na kumpol ng mga gumagamit at pinapalaki ang magandang epekto sa network. Ang mga gumagamit na nagbubuhos ng oras para sumuri at bumoto sa mga nilalaman ay may mahalagang papel na ginagampanan para sa pagbabahagi ng pera sa mga gumagamit na nagdaragdag ng halaga. Ang blockchain ang nagbibigay gantimpala sa mga atibidadis na ito na magkaugnay sa kanilang nai-ambag na halaga na base rin sa karunungan ng madla na nakolekta sa paraan ng pagboto.
 
 #### Pagboto gamit ang Staked-Tokens para Malaman ang Alokasyon ng Pera
 

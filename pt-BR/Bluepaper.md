@@ -32,15 +32,15 @@ Os usuários que produzem conteúdo estão agregando valor à rede através da c
 
 Steem opera na base de um Steem, um voto. Neste modelo, indivíduos que mais contribuíram para a plataforma, medido através do saldo da sua conta, tem a maior influência em como as contribuições são pontuadas. Pilhas pedem se compradas ou recebidas. Os usuários não podem receber influência adicional possuindo várias contas, já que uma única conta com uma certa pilha terá a mesma influência que duas contas compartilhando o mesmo tamanho de pilha. A única forma do usuário aumentar a sua influência na plataforma é aumentar a sua pilha.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Além disso, Steem só permite que os participantes votem com STEEM quando ele é comprometido em uma investimento agendado de 13 semanas chamado Força Steem. Neste modelo, os participantes tem um incentivo financeiro para votar de forma que maximize o valor de longo prazo do seu STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Velocidade e Escalabilidade na Blockchain Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+A blockchain Steem é projetada para ser a blockchain mais rápida e eficiente que existe, o que é necessário para se capaz de suportar a quantidade de tráfego esperado em uma plataforma de mídia social maior que o tamanho do Reddit. Steem ja ultrapassou o Bitcoin em quantidade de transações, e é capas de escalar para aguentar mais de 10.000 transações por segundo.
 
-### Delegated Proof of Stake (DPoS)
+### Prova de Pilha Delegada (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Muitas vezes afunilada pela Prova-de-Trabalho (PoW)[^6], muitas blockchains não conseguem escalar para mais de três transações por segundo, o que é uma fração do tráfeco financeiro do mundo. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

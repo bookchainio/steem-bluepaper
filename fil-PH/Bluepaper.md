@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Pambungad
+## Introduksyon
 
 Ang Steem ay nagbibigay ng isang nasusukat na blockchain na protocol [^1] para sa publikong pag-gamit at hindi mababagong mga nilalaman, kabilang ang isang mabilis na digital na token (tinatawag na STEEM) [^2] na nakukuha sa mga tao gamit ang kanilang mga utak (ito ay tinatawag na "Proof-of-Brain"). Ang dalawang bloke na bumubuo ng protocol na ito ay ang blockchain at ang token, seguridad na nakadepende sa dalawa, hindi mababago at katagalan, at ang integral na kahalagahan sa isa't isa. Higit isang taon nang matagumpay na umaandar ang Steem at nalagpasan pa nito ang Bitcoin at Ethereum sa dami ng transaksyon na na-proseso. [^3]
 
@@ -34,7 +34,7 @@ Nag-ooperate ang Steem base sa tinatawag na one-STEEM, one-vote. Sa model na ito
 
 Dagdag pa nito, pinapayagan ng ng Steem ang mga myembro na bumoto sa STEEM kung ito ay committed sa 13 na linggo na skedyul sa vesting na tinatawag na Steem Power. Sa model na ito, may mga pinansyal na insentibo ang mgamyembro para bumoto sa paraan na mapalawak nila ang kanilang layuning pangmatagalan para sa halaga ng STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Bilis at iskala sa Steem Blockchain
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

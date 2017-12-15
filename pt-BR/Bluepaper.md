@@ -76,11 +76,11 @@ Tokens SBD são projetados para serem indexados o mais próximo de um Dólar, pa
 
 ### Bolsa Descentralizada
 
-A blockchain steem oferece uma bolsa de tokens descentralizada, similar à bolsa Bitshares.[^13] A bolsa permite aos usuários trocar os seus tokens STEEM e SBD através de um mercado peer-to-peer descentralizado. Usuários podem colocar ordens de compra e venda, e a correspondência das ordens é realizada automaticamente pela blockchain. Existe também um livro de ordens de acesso público e um histórico de ordens no qual os usuários podem utilizar para analisar o mercado. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+A blockchain steem oferece uma bolsa de tokens descentralizada, similar à bolsa Bitshares.[^13] A bolsa permite aos usuários trocar os seus tokens STEEM e SBD através de um mercado peer-to-peer descentralizado. Usuários podem colocar ordens de compra e venda, e a correspondência das ordens é realizada automaticamente pela blockchain. Existe também um livro de ordens de acesso público e um histórico de ordens no qual os usuários podem utilizar para analisar o mercado. Os usuário podem interagir com a bolsa diretamente usando a API da blockchain, ou utilizar um GUI como o do Steemit.com[^14]
 
-### Payments Through Escrow
+### Pagamentos Através de Depósito
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+A natureza irreversível de transações na blockchain é um fator importante de segurança, apesar de existirem muitos casos onde os usuários não se sentem confortáveis em enviar seus tokens para outro indivíduo sem uma forma de recuperá-los se o outro usuário não cumprir com sua parte do acordo. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

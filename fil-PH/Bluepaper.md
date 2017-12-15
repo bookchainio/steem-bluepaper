@@ -26,7 +26,7 @@ Ng supply ng mga bagong token na ginagawa ng Steem blockchain taon-taon, 75% nit
 
 #### Mga Gantimpala sa Gumagawa ng Nilalaman at mga Curator
 
-Ang mga user na nagpo-prodyus ng mga nilalaman ay nagdadagdag ng halaga sa network sa pamamagitan ng paggawa ng kasangkapan na nakakahikayat sa mga bagong user para pumasok sa plataporma, pati narin sa pagpapanatili sa dati nang mga user ay nakikihalobilo at nalilibang. Pinapagaling nito ang pagbabahagi ng pera sa malawak na kumpol ng mga gumagamit at pinapalaki ang magandang epekto sa network. Ang mga gumagamit na nagbubuhos ng oras para sumuri at bumoto sa mga nilalaman ay may mahalagang papel na ginagampanan para sa pagbabahagi ng pera sa mga gumagamit na nagdaragdag ng halaga. Ang blockchain ang nagbibigay gantimpala sa mga atibidadis na ito na magkaugnay sa kanilang nai-ambag na halaga na base rin sa karunungan ng madla na nakolekta sa paraan ng pagboto.
+Ang mga user na nagpo-prodyus ng mga nilalaman ay nagdadagdag ng halaga sa network sa pamamagitan ng paggawa ng kasangkapan na nakakahikayat sa mga bagong user para pumasok sa plataporma, pati narin sa pagpapanatili sa dati nang mga user ay nakikihalobilo at nalilibang. Tinutulungan nito ang pagbabahagi ng pera sa malawak na kumpol ng mga user at pinapalawak ang epekto sa network. Ang mga user na bibigay ng oras para magsuri at bumoto sa mga nilalaman ay may mahalagang papel na ginagampanan para sa pagbabahagi ng pera sa mga user na nagdaragdag ng higit na halaga. Ang blockchain ang nagbibigay gantimpala sa mga atibidadis na ito na magkaugnay sa kanilang nai-ambag na halaga na base rin sa karunungan ng madla na nakolekta sa paraan ng pagboto.
 
 #### Pagboto gamit ang Staked-Tokens para Malaman ang Alokasyon ng Pera
 

@@ -36,11 +36,11 @@ Além disso, Steem só permite que os participantes votem com STEEM quando ele �
 
 ## Velocidade e Escalabilidade na Blockchain Steem
 
-A blockchain Steem é projetada para ser a blockchain mais rápida e eficiente que existe, o que é necessário para se capaz de suportar a quantidade de tráfego esperado em uma plataforma de mídia social maior que o tamanho do Reddit. Steem ja ultrapassou o Bitcoin em quantidade de transações, e é capas de escalar para aguentar mais de 10.000 transações por segundo.
+A blockchain Steem é projetada para ser a blockchain mais rápida e eficiente que existe, o que é necessário para se capaz de suportar a quantidade de tráfego esperado em uma plataforma de mídia social maior que o tamanho do Reddit. Steem ja ultrapassou o Bitcoin em quantidade de transações, e é capaz de expandir para aguentar mais de 10.000 transações por segundo.
 
 ### Prova de Pilha Delegada (DPoS)
 
-Muitas vezes afunilada pela Prova-de-Trabalho (PoW)[^6], muitas blockchains não conseguem escalar para mais de três transações por segundo, o que é uma fração do tráfeco financeiro do mundo. O Steem precisava de muito mais velocidade e escalabilidade do que é fornecido pela Prova-de-Trabalho, então um algorítimo menos conhecido chamado Prova de Trabalho Delegada (DPoS)[^7]foi aproveitado para construir a fundação de uma blockchain adequada para bilhões de usuários.
+Muitas vezes afunilada pela Prova-de-Trabalho (PoW)[^6], muitas blockchains não conseguem expandir para mais de três transações por segundo, o que é uma fração do tráfego financeiro do mundo. O Steem precisava de muito mais velocidade e expansão do que é fornecido pela Prova-de-Trabalho, então um algoritimo menos conhecido chamado Prova de Trabalho Delegada (DPoS)[^7]foi aproveitado para construir a fundação de uma blockchain adequada para bilhões de usuários.
 
 Por causa do DPoS, a blockchain do Steem é capaz de gerar um novo bloco a cada 3 segundos com uma carga computacional mínima. Isso significa que a blockchain pode processar mais transações e armazenar mais informações, incluindo conteúdo.
 
@@ -48,11 +48,11 @@ Definindo as regras para quando um Hardfork ocorrer, as testemunhas eleitas no �
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] é a parte do banco de dados da pilha do blockchain e substituiu o Graphene[^10] em 2016. ChainBase tem tempos de carregamento e saída mais rápidos, permite acesso paralelo ao banco de dados e é mais robusto contra falhas do que seu predecessor. Também ocorrem corrupção de bando de dados menos frequentemente, permite uma "fotografia" de todo o estado do banco de dados, e pode servir mais solicitações RPS da mesma memória.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase é o primeiro passo na criação de um FABRIC multi-cadeias. Appbase permite que muitos componentes da blockchain Steem se tornem modulares criando blockchains não-consesual adicionais como plugins dedicados. Estes plugins podem ser atualizados muito mais rapidamente porque eles não necessitam da repetição da blockchain completa. Isso torna o steemd[^11] muito mais eficiente e mais fácil de manter e expandir.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

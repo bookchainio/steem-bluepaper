@@ -72,11 +72,11 @@ Ang mga address ng wallet ay ginagamit ng maraming teknolohiya ng blockchain, tu
 
 Maraming mga user na ipinakilala sa cryptocurrency ang nahihirapang unawain kung paanong ang "magic internet token" na ginawaran ng plataporma ay talagang maaring magkaroon nag halaga na nauugnay sa tunay na mundo. Upang matulungang matanggal ang puwang sa pagitan ng mga mas tradisyunal na sistema sa lapad na pera na ginagamit ng mga user ng mainstream, at ang mga token ng cryptocurrency na siyang ipinagkakaloob sa pamamagitan ng mga plataporma, isang bagong pera na tinatawag na Steem Blockchain dollar (SBD) ang nilikha.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Ang SBD token ay dinisenyo upang maging paltak na malapit sa isang USD, upang ang mga user na nakatanggap sa kanila ay malaman kung gaanong ang humigit-kumulang ay nagkakahalaga sa "tunay na dollar" na kataga. Ang SBD na mga token ay nag-aalok din ng relatibo't matatag na currency para sa mga user upang hawakan kung sila ay naghahanap ng pangangalagaan na account na kaparehas ng value sa USD. Ang mas detalyadong teknikal na paliwanag ay matatagpuan sa Steem technical na whitepaper.[^12]
 
-### Decentralized Exchange
+### Desentralisadong Palitan
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Ang Steem blockchain ay nag-aalok ng isang desentralisadong palitan ng token, katulad ng palitang Bitshares.[^13] Ang palitan ay nagtutulot sa mga user na magpalit ng kanilang STEEM at SBD token gamit ang pangpubliko't desentralisadong peer-to-peer na merkado. Ang mga user ay maaring bumili o mag benta ng mga order, at pagpaparehas ng order ay awtomatikong isinasagawa ng blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

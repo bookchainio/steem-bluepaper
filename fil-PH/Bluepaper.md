@@ -54,9 +54,9 @@ ChainBase [^9] ay ang bahagi ng database ng mga salansan ns blockchain at pinali
 
 Ang AppBase ay ang unang hakbang sa paglikha ng maramihang-kadena ng FABRIC. Ang AppBase ay nagbibigay-daan sa maraming mga bahagi ng Steem blockchain na maging modular sa pamamagitan ng paglikha ng mga karagdagang hindi-konsensus na mga blockchain bilang inilaan na mga plugin. Ang mga plugin ay maaring i-update ng mas mabilis dahil hindi na nila kinakailangang isaulit ang kabuuan ng blockchain. Ginawa nito ang steemd[^11] na mas mahusay at mas madali upang mapanatili at masukat.
 
-Sa tuwirang pagsasalita, ang Appbase ay nagbibiga-daan sa iba't ibang mga core, o iba't ibang computer, na mapanatili ang magkakaibang bahagi ng Steem blockchain. Ito ay makabuluhanang mas mahusay kaysa sa pangangailangan ng bawat core, at bawat kompiyuter sa isang network na nagpapanatili nang buong blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Sa tuwirang pagsasalita, ang Appbase ay nagbibiga-daan sa iba't ibang mga core, o iba't ibang computer, na mapanatili ang magkakaibang bahagi ng Steem blockchain. Ito ay makabuluhanang mas mahusay kaysa sa pangangailangan ng bawat core, at bawat kompiyuter sa isang network na nagpapanatili nang buong blockchain. Ang pag modularize ng blockchain ay magbibigay-daan dito upang makapakinabang sa modular na kalikasan ng mga kompiyuter. Ito ay isa sa mga kinakailangang hakbang sa mahabang proseso ng paglikha ng isang buong hilera, buong pag-optimista na blockchain.
 
-## Steem’s Platform Features
+## Mga tampok na plataporma ng Steem
 
 The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 

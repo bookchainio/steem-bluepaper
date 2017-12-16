@@ -96,7 +96,7 @@ Ang Steem blockchain ay nagpapahintulot sa isang awtoridad na mahati sa kabuuan 
 
 ### Maramihang benepisyaryo ng gantimpala
 
-Para sa anumang partikular na post ay maaring mayroong bilang ng iba't ibang tao na may pinansyal na interes sa mga gantimpala. Kabilang dito ang may-akda, posibleng kasamang may-akda, nagsangguni, hosting provider, mga blog na nakapaloob sa mga komento sa blockchain, at kasangkapan ng mga developer. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para sa anumang partikular na post ay maaring mayroong bilang ng iba't ibang tao na may pinansyal na interes sa mga gantimpala. Kabilang dito ang may-akda, posibleng kasamang may-akda, nagsangguni, hosting provider, mga blog na nakapaloob sa mga komento sa blockchain, at kasangkapan ng mga developer. Kahit anong website o kagamitan na ginamit para bumuo ng post o ng komento ay may abilidad na magtakda kung paano ang gantimpala mula sa komento ay maibabahagi sa iba't ibang partido. Ito ay nagpapahintulot sa iba't ibang anyo ng kolaborasyon, pati narin sa isang paraan para sa plataporma na binuo sa ibabaw ng Steem blockchain na makakulekta ng bahagi ng gantimpala mula sa kanilang mga user.
 
 ### Smart Media Tokens (SMT)
 

@@ -82,7 +82,7 @@ Ang Steem blockchain ay nag-aalok ng isang desentralisadong palitan ng token, ka
 
 Ang hindi mapapawalang bisa sa katangian ng mga transaksyon ng blockchain ay napakaimportanteng tampok para sa seguridad, kahit maraming mga kaso na ang mga user ay hindi komportable sa pagpapadala ng kanilang mga token sa ibang indibidwal na walang paraan para maibalik ito kapag ang user ay walang hinahawakan na katapusan ng kasunduan. Ang Steem blockchain ay nagbibigay ng isang paraan para sa mga user na makapagpadala ng pera sa isa't isa gaming ang isang third party na itinalaga bilang serbisyong escrow. Ang ganap ng user kapag ang serbisyong escrow ay na determina ang termino ng kasunduan ay natugunan, at maaring payagan na ang pondo ay mailabas para sa receiver o ibabalik sa sender.
 
-### Istraktura ng Hierarchical na pribadong key
+### Istraktura ng hirarkikong pribadong key
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

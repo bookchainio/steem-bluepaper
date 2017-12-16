@@ -62,9 +62,9 @@ Ang Steem blockchain ay naghahatid ng dalawahang layunin ng pagiging isang dihit
 
 ### Ang Primitibong Disenyo para sa Nilalaman ng mga Application
 
-Ang Steem ay nag aalok sa mga user ng katangitanging abilidad na makapaglathala at makapag-imbak ng iba't ibang uri ng nilalaman direkta at permanente sa hindi mababagong ledger ng blockchain bilang isang tekstong walang pormat. Sa sandaling ito ay ma-imbak sa blockchain, ang data ay nagiging pampubliko para sa mga developer upang makapagbuo mula rito. Ang mga developer ay maaaring makipag-ugnayan sa mga nilalaman direkta sa blockchain gamit ang mga maaring gamitin na APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Ang Steem ay nag aalok sa mga user ng katangitanging abilidad na makapaglathala at makapag-imbak ng iba't ibang uri ng nilalaman direkta at permanente sa hindi mababagong ledger ng blockchain bilang isang tekstong walang pormat. Sa sandaling ito ay ma-imbak sa blockchain, ang data ay nagiging pampubliko para sa mga developer upang makapagbuo mula rito. Ang mga developer ay maaaring makipag-ugnayan sa mga nilalaman direkta sa blockchain gamit ang mga maaring gamitin na APIs. Ilan sa mga primitibong developer ng blockchain ay kayang bumuo mula sa mga pangalan ng akawnt, mga post, mga comment, mga boto at balanse ng akawnt.
 
-### Native Name System
+### Katutubong pangalan ng sistema
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

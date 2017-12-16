@@ -110,11 +110,11 @@ Kung ang isang account ng user ay makompormiso, maaari nilang palitan ang kanila
 
 Kung ang active o owner key ng user ay makompromiso, ang salarain ay maaring magkaroon ng ganap na access sa lahat ng pondo ng kanilang account. Dahil ang mga transaksyon sa blockchain ay hindi na mapapawalang bisa, ang mga user ay wala nang paraan para mabawi ang kanilang pondo pagkatapos na ito ay manakaw.
 
-Ang Steem blockchain ay nagtutulot sa mga user na i-imbak ang kanilang STEEM at SBD na mga token sa isang Savings account, aya ang mga pondo ay hindi ma wi-withdraw hangang matapos ang tatlong araw na paghihintay. Bukod pa rito, ang STEEM na hawak ng 13 lingong vesting skedyul ay maari lamang ma-withdraw sa rate na 1/13 kada lingo, pagkatapos ng paghihintay ng pitong mga araw. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Ang Steem blockchain ay nagtutulot sa mga user na i-imbak ang kanilang STEEM at SBD na mga token sa isang Savings account, aya ang mga pondo ay hindi ma wi-withdraw hangang matapos ang tatlong araw na paghihintay. Bukod pa rito, ang STEEM na hawak ng 13 lingong vesting skedyul ay maari lamang ma-withdraw sa rate na 1/13 kada lingo, pagkatapos ng paghihintay ng pitong mga araw. Ang time-locks na ito ay para maiwasan ang mga salarin na ma access ng buong bahagi ang pondo ng user ng agaran, kaya ang tunay na owner ay may oras pa para mabawi ang kontrol sa kanilang account bago tuluyang ma-withdtaw ang lahat ng pondo.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Paglimita sa bandwidth rate para libreng mga operasyon
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Dahil ang mga witness ay binabayarang ganap sa pamamagitan ng paglikha ng mga bagong token, hindi na kailangang singilin ang mga user ng kabaran para sa pagpapalakas ng blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

@@ -66,7 +66,7 @@ Ang Steem ay nag aalok sa mga user ng katangitanging abilidad na makapaglathala 
 
 ### Katutubong pangalan ng sistema
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Ang mga address ng wallet ay ginagamit ng maraming teknolohiya ng blockchain, tulad ng Bitcoin at Ethereum, mayroong istorikal na nag lalaman ng mahabang string at halo halong letra at numero, gayunman, ang mga address ng wallet na ito ay maaring maging mahirap sa pag transaksyon sa ibang mga user sa tipikal na online-social-media na konteksto dahil ang mga user ay hindi matatandaan ang maahabang string na address sa kanilang isip. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 
 ### Steem Blockchain Dollars (SBD)
 

@@ -102,9 +102,9 @@ Para sa anumang partikular na post ay maaring mayroong bilang ng iba't ibang tao
 
 Ang Smart Media Tokens ay katutubong token na maaring mabuo sa Steem blockchain. Ang STEEM ang kaunaunahang SMT na umiral, at ang Smart Media Token na protokol ay naglalayon na gawing pera ang nilalaman ng mga website at mga application sa kabuuan ng web sa pamamagitan ng pagpahintulot sa tao na gumawa ng mga token na nagtataglay ng mga katangian ng kapareho ng STEEM, ngunit na-cocustomize para umangkop sa pangitain ng kahit na anong online na komunidad sa pamamagitan ng di-insentibong asal, ang tuwirang pag replika sa katagumpayan ng STEEM sa anumang website o application. Maraming teknikal na mga detalye ang makikita sa whitepaper ng Smart Medya Tokens[^17].
 
-### Stolen Account Recovery
+### Pagbawi sa ninakaw na account
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Kung ang isang account ng user ay makompormiso, maaari nilang palitan ang kanilang mga key gamit ang kanilang pribadong owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

@@ -104,13 +104,13 @@ Ang Smart Media Tokens ay katutubong token na maaring mabuo sa Steem blockchain.
 
 ### Pagbawi sa ninakaw na account
 
-Kung ang isang account ng user ay makompormiso, maaari nilang palitan ang kanilang mga key gamit ang kanilang pribadong owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Kung ang isang account ng user ay makompormiso, maaari nilang palitan ang kanilang mga key gamit ang kanilang pribadong owner key. Sa kaganapan naman na ang salarin ay nagawang ikompromiso ang pribadong owner key at baguhin ang password sa account, ang user ay may 30 na araw para mag sumite ng dating gumagana na pribadong key sa pamamagitan ng industry-first stolen account recovery process ng Steem, at pabawi ang kontrol sa kanilang account. Ito ay maaring ialok ng isang tao o kumpanya na nagbibigay ng serbisyo sa rehistrasyon sa Steem. Ityo ay hindi sapilitan para sa registrar na magbigay ng ganitong serbisyo sa mga user, subalit ito ay maari upang taasan ang halaga ng karanasan ng user ng registrar.
 
-### Security Through Time-Locks
+### Seguridad sa pamamagitan ng Time-Locks
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Kung ang active o owner key ng user ay makompromiso, ang salarain ay maaring magkaroon ng ganap na access sa lahat ng pondo ng kanilang account. Dahil ang mga transaksyon sa blockchain ay hindi na mapapawalang bisa, ang mga user ay wala nang paraan para mabawi ang kanilang pondo pagkatapos na ito ay manakaw.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Ang Steem blockchain ay nagtutulot sa mga user na i-imbak ang kanilang STEEM at SBD na mga token sa isang Savings account, aya ang mga pondo ay hindi ma wi-withdraw hangang matapos ang tatlong araw na paghihintay. Bukod pa rito, ang STEEM na hawak ng 13 lingong vesting skedyul ay maari lamang ma-withdraw sa rate na 1/13 kada lingo, pagkatapos ng paghihintay ng pitong mga araw. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

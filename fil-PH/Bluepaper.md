@@ -122,7 +122,7 @@ Ang limitasyon ng bandwidth ay nakaayos batay sa paggamit ng network, kaya ang u
 
 ## Konklusyon
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Ang natatanging mga gantimpala at insentibo na programa ay inaalok ng Steem blockchain at ang token ay dinisenyo upang ihatid ang Steem sa tunay napagrampa sa cryptocurrency para sa mga mainstream user. Ang pagganap ng blockchain ay dinisensyo na may tumpok ng malawakang adopsyon ng currency at ng plataporma sa isip. Kapag sinamahan ng bilis ng kidlat sa orras ng pagproseso at libreng mga transaksyon, ang Steem ay nakaposisyon na maging isa sa nangungunang blockchain na teknolohiya na ginagamit ng mga tao sa buong mundo.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

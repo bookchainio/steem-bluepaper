@@ -52,7 +52,7 @@ ChainBase [^9] ay ang bahagi ng database ng mga salansan ns blockchain at pinali
 
 ### AppBase
 
-Ang AppBase ay ang unang hakbang sa paglikha ng maramihang-kadena ng FABRIC. Ang AppBase ay nagbibigay-daan sa maraming mga bahagi ng Steem blockchain na maging modular sa pamamagitan ng paglikha ng mga karagdagang hindi-konsensus na mga blockchain bilang inilaan na mga plugin. Ang mga plugin ay maaring i-update ng mas mabilis dahil hindi na nila kinakailangang isaulit ang kabuuan ng blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+Ang AppBase ay ang unang hakbang sa paglikha ng maramihang-kadena ng FABRIC. Ang AppBase ay nagbibigay-daan sa maraming mga bahagi ng Steem blockchain na maging modular sa pamamagitan ng paglikha ng mga karagdagang hindi-konsensus na mga blockchain bilang inilaan na mga plugin. Ang mga plugin ay maaring i-update ng mas mabilis dahil hindi na nila kinakailangang isaulit ang kabuuan ng blockchain. Ginawa nito ang steemd[^11] na mas mahusay at mas madali upang mapanatili at masukat.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

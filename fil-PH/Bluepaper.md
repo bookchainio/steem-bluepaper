@@ -114,13 +114,13 @@ Ang Steem blockchain ay nagtutulot sa mga user na i-imbak ang kanilang STEEM at 
 
 ### Paglimita sa bandwidth rate para libreng mga operasyon
 
-Dahil ang mga witness ay binabayarang ganap sa pamamagitan ng paglikha ng mga bagong token, hindi na kailangang singilin ang mga user ng kabaran para sa pagpapalakas ng blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Dahil ang mga witness ay binabayarang ganap sa pamamagitan ng paglikha ng mga bagong token, hindi na kailangang singilin ang mga user ng kabaran para sa pagpapalakas ng blockchain. Ang tanging dahilan para maningil ng kabayadan ay ang magiging batayan para maiwasan na ang mga user na makumpleto ang di makatwirang halaga ng mga transaksyon, na maaring maka apekto sa pagsasagawa ng blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Upang makapaglagay ng makatuwirang limitasyon sa paggamit ng sistema, bawat user ay binigyan ng limitadong bandwidth. Tuwing ang mga user ay magsasagawa ng operasyon sa blockchain katulad ng paglilipat ng token, pagpaskil ng nilalaman, pag boto, ginagamit nito ang ilang bahagi ng kanilang bandwidth. Kung ang user ay lumagpas sa allowance ng kanilang bandwidth, kailangan nilang maghintay para makagawa ng karagdagang aksyon hangang ang kanilang bandwidth ay makapanumbalik.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Ang limitasyon ng bandwidth ay nakaayos batay sa paggamit ng network, kaya ang user ay may mas mataas na allowance kung ang paggamit ng user sa network ay mababa. Ang halaga ng bandwidth na pinapayagan sa isang account ay direktang proporsyonal sa halaga ng Steem Power na mayroon ang user, kaya ang mga user ay maaring mag taas ng allowance ng kanilang bandwith sa pamamagitan ng pagdaragdag ng Steem power.
 
-## Conclusion
+## Konklusyon
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

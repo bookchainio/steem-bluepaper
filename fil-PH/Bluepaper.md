@@ -48,11 +48,11 @@ Sa pamamagitan ng pagtukoy ng mga patakaran para kapag nagkaroon ng isang Hardfo
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase [^9] ay ang bahagi ng database ng mga salansan ns blockchain at pinalitan ng Graphene [^10] noong 2016. Ang ChainBase ay mas mabilis ang load at pag-exit, sinusuportahan ang mag kahilera na access sa database at mas matibay sa mga pagbagsak kaysa sa kanyang hinalinhan. Ito rin ay mas hindi madalas na naco-corrupt ang database, pinapayagan ang instant na "snapshotting" ng buong estado ng database at makapaglilingkod sa higit pang mga kahilingan ng RPC mula sa parehong memory.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+Ang AppBase ay ang unang hakbang sa paglikha ng maramihang-kadena ng FABRIC. Ang AppBase ay nagbibigay-daan sa maraming mga bahagi ng Steem blockchain na maging modular sa pamamagitan ng paglikha ng mga karagdagang hindi-konsensus na mga blockchain bilang inilaan na mga plugin. Ang mga plugin ay maaring i-update ng mas mabilis dahil hindi na nila kinakailangang isaulit ang kabuuan ng blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

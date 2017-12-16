@@ -62,7 +62,7 @@ Ang Steem blockchain ay naghahatid ng dalawahang layunin ng pagiging isang dihit
 
 ### Ang Primitibong Disenyo para sa Nilalaman ng mga Application
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Ang Steem ay nag aalok sa mga user ng katangitanging abilidad na makapaglathala at makapag-imbak ng iba't ibang uri ng nilalaman direkta at permanente sa hindi mababagong ledger ng blockchain bilang isang tekstong walang pormat. Sa sandaling ito ay ma-imbak sa blockchain, ang data ay nagiging pampubliko para sa mga developer upang makapagbuo mula rito. Ang mga developer ay maaaring makipag-ugnayan sa mga nilalaman direkta sa blockchain gamit ang mga maaring gamitin na APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

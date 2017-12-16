@@ -92,11 +92,11 @@ Ang steem ay pinapadali din naman ang paggamit ng isang Master password na nagsa
 
 ### Mga Awtoridad ng Multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Ang Steem blockchain ay nagpapahintulot sa isang awtoridad na mahati sa kabuuan ng maramihang entity, kaya ang maramihang user ay maaring makihati sa parehong awtoridad, o maramihang entity ay kinakailangan upang mapahintulutan ang isang transaksyon para ito ay maging balido. Ito ay ginagawa sa paraang katulad ng Bitshares[^16] na kung saan ang bawat public/private na key na pares ay nagaatas ng timbang, at isang treshold ay tinukoy para sa awtoridad. Para ang isang transaksyon ay maging balido, lumagda ng sapat na entidad upang ang pinagsama sama nilang bigat ay makatugon o lumagpas sa limitasyon.
 
-### Multiple Reward Beneficiaries
+### Maramihang benepisyaryo ng gantimpala
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para sa anumang partikular na post ay maaring mayroong bilang ng iba't ibang tao na may pinansyal na interes sa mga gantimpala. Kabilang dito ang may-akda, posibleng kasamang may-akda, nagsangguni, hosting provider, mga blog na nakapaloob sa mga komento sa blockchain, at kasangkapan ng mga developer. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

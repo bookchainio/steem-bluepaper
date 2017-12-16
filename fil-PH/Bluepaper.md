@@ -58,9 +58,9 @@ Sa tuwirang pagsasalita, ang Appbase ay nagbibiga-daan sa iba't ibang mga core, 
 
 ## Mga tampok na plataporma ng Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Ang Steem blockchain ay naghahatid ng dalawahang layunin ng pagiging isang dihital na token ng processing system, pati na rin isang mainstream social media platform. Ang mga tampok na inaalok ng blockchain ay kailangang suportahan ang parehas na layunin, at magbigay sa mga user ng isang world class na karanasan kapag ginagamit ang parehong aspeto ng plataporma.
 
-### Primitives Designed for Content Applications
+### Ang Primitibong Disenyo para sa Nilalaman ng mga Application
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

@@ -78,7 +78,7 @@ Ang SBD token ay dinisenyo upang maging paltak na malapit sa isang USD, upang an
 
 Ang Steem blockchain ay nag-aalok ng isang desentralisadong palitan ng token, katulad ng palitang Bitshares.[^13] Ang palitan ay nagtutulot sa mga user na magpalit ng kanilang STEEM at SBD token gamit ang pangpubliko't desentralisadong peer-to-peer na merkado. Ang mga user ay maaring bumili o mag benta ng mga order, at pagpaparehas ng order ay awtomatikong isinasagawa ng blockchain. Meron ding magagamit na pangpublikong order book and kasaysayan ng order na magagamit ng user para pag-aralan ang merkado. Ang mga user ay maaringmakihalubilo sa mga palitan direkta gamit ang API ng blockchain, o gumamit ng GUI katulad ng isa sa Steemit.com.[^14]
 
-### Payments Through Escrow
+### Pagbabayad gamit ang Escrow
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

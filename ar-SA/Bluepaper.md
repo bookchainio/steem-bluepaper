@@ -201,31 +201,31 @@
             </h3>
             
             <p>
-              إذا تم اختراق مفتاح نشط أو مالك مستخدم، فسيكون للمهاجم حق الوصول الكامل إلى جميع الأموال في حسابه. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+              إذا تم اختراق مفتاح نشط أو مالك مستخدم، فسيكون للمهاجم حق الوصول الكامل إلى جميع الأموال في حسابه. لأن معاملات بلوكشين لا رجعة فيها، المستخدمين ليس لديهم أي وسيلة للحصول على أموالهم مرة أخرى بعد سرقتها.
             </p>
             
             <p>
-              The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+              ستيم بلوكشين يسمح للمستخدمين بتخزين عملات Steem و SBD في حساب التوفير، بحيث لا يمكن سحب الأموال إلا بعد فترة الانتظار لمدة ثلاثة أيام. وبالإضافة إلى ذلك، ستيم التي تقام في جدول الاستحقاق 13 أسبوعا يمكن سحب فقط بمعدل 1/13 في الأسبوع، بعد فترة الانتظار الأولية من سبعة أيام. هذه الأقفال الزمنية تمنع المهاجم من أن يكون قادر على الوصول إلى الجزء الكامل من أموال المستخدم على الفور، حتى أن المالك الشرعي لديه الوقت لاستعادة السيطرة على حسابه قبل أن يتم سحب جميع أمواله.
             </p>
             
             <h3>
-              Bandwidth Rate Limiting for Fee-less Operations
+              معدل عرض النطاق الترددي من أجل عمليات أقل رسوم
             </h3>
             
             <p>
-              Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+              لأن الشهود يتم الدفع لهم بالكامل من خلال توليد العملات الجديدة، ليست هناك حاجة من المستخدمين لدفع اي رسوم لتشغيل بلوكشين. والسبب الوحيد لفرض رسوم سيكون رادعا لمنع المستخدمين من إكمال مبلغ غير معقول للمعاملات التي يمكن أن يحتمل أن تؤثر على أداء بلوكتشين.
             </p>
             
             <p>
-              In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+              من أجل وضع حدود معقولة لاستخدام النظام، تعطي كل مستخدم عرض نطاق ترددي محدود. كلما يقوم المستخدم من إجراء عمليات بلوكشين مثل نقل عملات، نشر المحتوى، والتصويت، فإنه يستخدم جزء من عرض النطاق الترددي. إذا تجاوز المستخدم بدل النطاق الترددي، يجب أن ينتظر لتنفيذ إجراءات إضافية حتى يعيد شحن النطاق الترددي.
             </p>
             
             <p>
-              Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+              حدود النطاق الترددي ضبط استنادا إلى استخدام الشبكة، بحيث يكون للمستخدمين بدل عرض النطاق الترددي العالي عند استخدام الشبكة منخفضة. ويتناسب مقدار عرض النطاق الترددي الذي يسمح به الحساب بشكل متناسب مع مقدار ستيم باور المستخدم، بحيث يمكن للمستخدمين دائما زيادة بدل عرض النطاق الترددي عن طريق الحصول على المزيد من الطاقة ستيم باور.
             </p>
             
             <h2>
-              Conclusion
+              استنتاج
             </h2>
             
             <p>

@@ -8,7 +8,7 @@ Comparativ cu alte blockchain-uri, Steem iese în evidență ca prima bază de d
 
 În domeniul cripto-valutar, proprietățile unice ale STEEM, îl fac atât “inteligent” cât și “social” comparativ cu altele, cum ar fi bitcoin și ether. Acest lucru provine din două caracteristici noi ale token-ului. Primul este un set de tokeni dedicate creării și valorificării conținutului (numit “bazin de recompense”). Al doilea este un sistem de votare, care valorifică susținătorii conținutului și distribuie tokeni către aceștia. Aceste două proprități unice atunci când sunt combinate, sunt menționate ca Dovadă-de-Creier șo Dovadă-de-Lucru[^4], menite să sublinieze munca necesară pentru a se distribui tokeni către participanții comunității. Dovada-de-Creier poziționeză STEEM ca o unealtă pentru construirea unei comunități în continuă creștere, care să încurajeze membrii să adauge conținut de calitate, răsplătindu-i prin sistemul de recompense.
 
-Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain și tokeni, oferind caracteristici avansate pentru a spori experiența utilizatorului, cum ar fi Recuperearea Conturilor Pierdute[^5], servicii de împuternicire legală, conținut promovat de utilizator și salvarea conturilor. Toate acestea sunt făcute în timp ce le oferă utilizatorilor trei confirmări duble și fără nici o taxă pe tranzacții. Toate acestea îi sprijină misiunea de a aduge valută inteligentă și socială, celor cărora construiesc comunitatea.
+Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain și tokeni, oferind caracteristici avansate pentru a spori experiența utilizatorului, cum ar fi Recuperearea Conturilor Pierdute[^5], servicii de împuternicire legală, conținut promovat de utilizator și salvarea conturilor. Toate acestea sunt făcute în timp ce le oferă utilizatorilor trei confirmări duble și fără nici o taxă pe tranzacții. Toate acestea îi sprijină misiunea de a aduce valută inteligentă și socială, celor cărora construiesc comunitatea.
 
 ## Dovada a creierului: tokeni inteligenți şi sociali
 
@@ -16,9 +16,9 @@ Sistemele de token care recompensează utilizatorii ce contribuie la un sistem i
 
 ### Bazinul de recompense ("de unde vin tokeni?")
 
-Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, tokeni sunt produși în mod regulat dar aleatoriu și sunt distribuiți persoanelor ale căror aparate efectuează munca ("mineri").
+Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuiți către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, tokeni sunt produși în mod regulat dar aleatoriu și sunt distribuiți persoanelor ale căror aparate efectuează munca ("mineri").
 
-Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. Acești actori, cum ar fi creatorii de conținut, witnesses și cei care susțin conținutul prin vot, concurează în moduri specializate pentru tokeni. Spre deosebire de mijloacele de distribuție Pow, unde mineri sunt în competiție prin puterea de procesare a computerului, cei care folosesc rețeaua Steem sunt stimulați să aducă valoare rețelei.
+Față de valutele cripto PoW, tokeni Steem sunt generți la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. Acești actori, cum ar fi creatorii de conținut, witnesses și cei care susțin conținutul prin vot, concurează în moduri specializate pentru tokeni. Spre deosebire de mijloacele de distribuție Pow, unde mineri sunt în competiție prin puterea de procesare a computerului, cei care folosesc rețeaua Steem sunt stimulați să aducă valoare rețelei.
 
 Rata pentru tokeni noi generați, a fost setată la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
 
@@ -34,9 +34,9 @@ Steem operează pe baza un-Steem, un-vot. În acest mod, persoanle care au contr
 
 În plus, Steem le permite membrilor să voteze cu STEEM numai când aceștia se angajează pentru o perioadă de 13 săptămâni numit Putere Steem. În acest fel, membrii sunt stimulați financiar să voteze într-un fel în care maximizează valoarea pe termen lung a STEEM.
 
-## Viteza și scalarea pe Blockchain-ul Steem
+## Viteza și scalarea pe Steem Blockchain
 
-Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucru fiind necesar pentru a putea susține cantitatea de trafic de aşteptată pe o platformă media de socializare, mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
+Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucru fiind necesar pentru a putea susține cantitatea de trafic aşteptată pe o platformă media de socializare mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
 
 ### Dovada de miză delegată (DPoS)
 

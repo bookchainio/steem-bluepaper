@@ -8,3 +8,4 @@
 * [বাংলা](bn-BD/Bluepaper.md)
 * [汉语](zh-CN/Bluepaper.md)
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
+* [Filipino](fil-PH/Bluepaper.md)

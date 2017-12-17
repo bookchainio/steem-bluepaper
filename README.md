@@ -15,6 +15,7 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 * [Chinese Simplified](zh-CN/Bluepaper.md) [@stabilowl](https://steemit.com/@stabilowl), [@victory622](https://steemit.com/@victory622)
 * [Indonesian](id-ID/Bluepaper.md) [@yandot](https://steemit.com/@yandot)
 * [Filipino](fil-PH/Bluepaper.md) [@ruah](https://steemit.com/@ruah)
+* [Portuguese, Brazilian](pt-BR/Bluepaper.md) [@phgnomo](https://steemit.com/@phgnomo)
 
 # Compiling Steem Bluepaper Guide
 

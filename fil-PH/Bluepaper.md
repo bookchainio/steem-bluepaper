@@ -48,13 +48,13 @@ Sa pamamagitan ng pagtukoy ng mga patakaran para kapag nagkaroon ng isang Hardfo
 
 ### ChainBase
 
-ChainBase [^9] ay ang bahagi ng database ng mga salansan ns blockchain at pinalitan ng Graphene [^10] noong 2016. Ang ChainBase ay mas mabilis ang load at pag-exit, sinusuportahan ang mag kahilera na access sa database at mas matibay sa mga pagbagsak kaysa sa kanyang hinalinhan. Ito rin ay mas hindi madalas na naco-corrupt ang database, pinapayagan ang instant na "snapshotting" ng buong estado ng database at makapaglilingkod sa higit pang mga kahilingan ng RPC mula sa parehong memory.
+ChainBase [^9] ay ang bahagi ng database ng mga salansan ns blockchain at pinalitan ng Graphene [^10] noong 2016. Ang ChainBase ay mas mabilis ang load at pag-exit, sinusuportahan ang mag kahilera na access sa database at mas matibay sa mga pagbagsak kaysa sa kanyang hinalinhan. Hindi rin mas-madalas na co-corrupt ang database nito, pinapayagan ang instant na "snapshotting" ng buong estado ng database at makapaglilingkod sa higit pang mga kahilingan ng RPC mula sa parehong memory.
 
 ### AppBase
 
 Ang AppBase ay ang unang hakbang sa paglikha ng maramihang-kadena ng FABRIC. Ang AppBase ay nagbibigay-daan sa maraming mga bahagi ng Steem blockchain na maging modular sa pamamagitan ng paglikha ng mga karagdagang hindi-konsensus na mga blockchain bilang inilaan na mga plugin. Ang mga plugin ay maaring i-update ng mas mabilis dahil hindi na nila kinakailangang isaulit ang kabuuan ng blockchain. Ginawa nito ang steemd[^11] na mas mahusay at mas madali upang mapanatili at masukat.
 
-Sa tuwirang pagsasalita, ang Appbase ay nagbibiga-daan sa iba't ibang mga core, o iba't ibang computer, na mapanatili ang magkakaibang bahagi ng Steem blockchain. Ito ay makabuluhanang mas mahusay kaysa sa pangangailangan ng bawat core, at bawat kompiyuter sa isang network na nagpapanatili nang buong blockchain. Ang pag modularize ng blockchain ay magbibigay-daan dito upang makapakinabang sa modular na kalikasan ng mga kompiyuter. Ito ay isa sa mga kinakailangang hakbang sa mahabang proseso ng paglikha ng isang buong hilera, buong pag-optimista na blockchain.
+Sa tuwirang pagsasalita, ang Appbase ay nagbibigay-daan sa iba't ibang mga core, o iba't ibang computer, na mapanatili ang magkakaibang bahagi ng Steem blockchain. Ito ay makabuluhanang mas mahusay kaysa sa pangangailangan ng bawat core, at bawat kompiyuter sa isang network na nagpapanatili nang buong blockchain. Ang pag modularize ng blockchain ay magbibigay-daan dito upang makapakinabang sa modular na kalikasan ng mga kompiyuter. Ito ay isa sa mga kinakailangang hakbang sa mahabang proseso ng paglikha ng isang buong hilera, buong pag-optimista na blockchain.
 
 ## Mga tampok na plataporma ng Steem
 
@@ -64,7 +64,7 @@ Ang Steem blockchain ay naghahatid ng dalawahang layunin ng pagiging isang dihit
 
 Ang Steem ay nag aalok sa mga user ng katangitanging abilidad na makapaglathala at makapag-imbak ng iba't ibang uri ng nilalaman direkta at permanente sa hindi mababagong ledger ng blockchain bilang isang tekstong walang pormat. Sa sandaling ito ay ma-imbak sa blockchain, ang data ay nagiging pampubliko para sa mga developer upang makapagbuo mula rito. Ang mga developer ay maaaring makipag-ugnayan sa mga nilalaman direkta sa blockchain gamit ang mga maaring gamitin na APIs. Ilan sa mga primitibong developer ng blockchain ay kayang bumuo mula sa mga pangalan ng akawnt, mga post, mga comment, mga boto at balanse ng akawnt.
 
-### Katutubong pangalan ng sistema
+### Sistema ng katutubong pangalan
 
 Ang mga address ng wallet ay ginagamit ng maraming teknolohiya ng blockchain, tulad ng Bitcoin at Ethereum, mayroong istorikal na nag lalaman ng mahabang string at halo halong letra at numero, gayunman, ang mga address ng wallet na ito ay maaring maging mahirap sa pag transaksyon sa ibang mga user sa tipikal na online-social-media na konteksto dahil ang mga user ay hindi matatandaan ang maahabang string na address sa kanilang isip. Ang Steem blockchain ay gumagamit ng user name ng bawat kalahok bilang address ng kanilang wallet, na kung saan pinagiibayo ang karanasan ng user para sa mga kalahok na nagtatangka na magpadala ng mga token dahil kaya nilang tandaan ang mga address mula sa kanilang sariling memorya.
 
@@ -76,11 +76,11 @@ Ang SBD token ay dinisenyo upang maging paltak na malapit sa isang USD, upang an
 
 ### Desentralisadong Palitan
 
-Ang Steem blockchain ay nag-aalok ng isang desentralisadong palitan ng token, katulad ng palitang Bitshares.[^13] Ang palitan ay nagtutulot sa mga user na magpalit ng kanilang STEEM at SBD token gamit ang pangpubliko't desentralisadong peer-to-peer na merkado. Ang mga user ay maaring bumili o mag benta ng mga order, at pagpaparehas ng order ay awtomatikong isinasagawa ng blockchain. Meron ding magagamit na pangpublikong order book and kasaysayan ng order na magagamit ng user para pag-aralan ang merkado. Ang mga user ay maaringmakihalubilo sa mga palitan direkta gamit ang API ng blockchain, o gumamit ng GUI katulad ng isa sa Steemit.com.[^14]
+Ang Steem blockchain ay nag-aalok ng isang desentralisadong palitan ng token, katulad ng palitang Bitshares.[^13] Ang palitan ay nagtutulot sa mga user na magpalit ng kanilang STEEM at SBD token gamit ang pangpubliko't desentralisadong peer-to-peer na merkado. Ang mga user ay maaring bumili o mag benta ng mga order, at pagpaparehas ng order ay awtomatikong isinasagawa ng blockchain. Meron ding magagamit na pangpublikong order book at kasaysayan ng order na magagamit ng user para pag-aralan ang merkado. Ang mga user ay maaringmakihalubilo sa mga palitan direkta gamit ang API ng blockchain, o gumamit ng GUI katulad ng isa sa Steemit.com.[^14]
 
 ### Pagbabayad gamit ang Escrow
 
-Ang hindi mapapawalang bisa sa katangian ng mga transaksyon ng blockchain ay napakaimportanteng tampok para sa seguridad, kahit maraming mga kaso na ang mga user ay hindi komportable sa pagpapadala ng kanilang mga token sa ibang indibidwal na walang paraan para maibalik ito kapag ang user ay walang hinahawakan na katapusan ng kasunduan. Ang Steem blockchain ay nagbibigay ng isang paraan para sa mga user na makapagpadala ng pera sa isa't isa gaming ang isang third party na itinalaga bilang serbisyong escrow. Ang ganap ng user kapag ang serbisyong escrow ay na determina ang termino ng kasunduan ay natugunan, at maaring payagan na ang pondo ay mailabas para sa receiver o ibabalik sa sender.
+Ang hindi mapapawalang bisa sa katangian ng mga transaksyon ng blockchain ay napakaimportanteng tampok para sa seguridad, kahit maraming mga kaso na ang mga user ay hindi komportable sa pagpapadala ng kanilang mga token sa ibang indibidwal na walang paraan para maibalik ito kapag ang user ay walang hinahawakan na katapusan ng kasunduan. Ang Steem blockchain ay nagbibigay ng isang paraan para sa mga user na makapagpadala ng pera sa isa't isa gamit ang isang third party na itinalaga bilang serbisyong escrow. Ang ganap ng user kapag ang serbisyong escrow ay na determina ang termino ng kasunduan ay natugunan, at maaring payagan na ang pondo ay mailabas para sa tatanggap o ibabalik sa sender.
 
 ### Istraktura ng hirarkikong pribadong key
 
@@ -92,7 +92,7 @@ Ang steem ay pinapadali din naman ang paggamit ng isang Master password na nagsa
 
 ### Mga Awtoridad ng Multi Sig
 
-Ang Steem blockchain ay nagpapahintulot sa isang awtoridad na mahati sa kabuuan ng maramihang entity, kaya ang maramihang user ay maaring makihati sa parehong awtoridad, o maramihang entity ay kinakailangan upang mapahintulutan ang isang transaksyon para ito ay maging balido. Ito ay ginagawa sa paraang katulad ng Bitshares[^16] na kung saan ang bawat public/private na key na pares ay nagaatas ng timbang, at isang treshold ay tinukoy para sa awtoridad. Para ang isang transaksyon ay maging balido, lumagda ng sapat na entidad upang ang pinagsama sama nilang bigat ay makatugon o lumagpas sa limitasyon.
+Ang Steem blockchain ay nagpapahintulot sa isang awtoridad na mahati sa kabuuan ng maramihang entity, kaya ang maramihang user ay maaring makihati sa parehong awtoridad, o maramihang entity ay kinakailangan upang mapahintulutan ang isang transaksyon para ito ay maging balido. Ito ay ginagawa sa paraang katulad ng Bitshares[^16] na kung saan ang bawat public/private na key na pares ay nagaatas ng timbang, at isang hangganan ay tinukoy para sa awtoridad. Para ang isang transaksyon ay maging balido, lumagda ng sapat na entidad upang ang pinagsama sama nilang bigat ay makatugon o lumagpas sa limitasyon.
 
 ### Maramihang benepisyaryo ng gantimpala
 

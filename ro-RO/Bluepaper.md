@@ -104,7 +104,7 @@ Tokeni Smart Media sunt tokeni nativi care pot fi construiți pe Steem blockchai
 
 ### Recuperarea Conturilor Furate
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Dacă contul unui utilizator este compromis, își poate schimba cheile folosind cheia privată de proprietar. În cazul în care atacatorul este capabil să compromită cheia privată a propietarului și să schimbe parola contului, utilizatorul are 30 de zile în care poată să trimită prin intermediul sistemul Steem de recuperare a conturilor furate și să își recapte controlul asupra contului. Acest lucru poate fi oferit fie de o persoană sau o companie care furnizează servicii de înregistare Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

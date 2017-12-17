@@ -114,9 +114,9 @@ Steem blockchain permite utilizatorilor să își stocheze STEEM și SBD într-u
 
 ### Lățimea benzii limitează operațiunile fără taxă
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Pentru că witnesses sunt plătiți în întregime prin generarea de tokeni noi, nu este nevoie de a cere utilizatorilor o taxă pentru alimentarea blockchain-ului. Singurul motiv pentru a cere o taxă ar fi un factor de descurajare pentru utilizatorii care fac multe tranzacții, care ar putea avea un impact asupra performanțelor blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Pentru a plasa limite rezonabile pentru folosirea sistemului, fiecărui utilizator îi este dată o bandă limitată. De fiecare dată când utilizatorii efectuează operații pe blockchain cum ar fi transferul de tokeni, comentarea sau votarea, își folosesc o porțiune din lățimea benzii. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

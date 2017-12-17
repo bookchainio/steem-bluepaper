@@ -116,13 +116,13 @@ Steem blockchain permite utilizatorilor să își stocheze STEEM și SBD într-u
 
 Pentru că witnesses sunt plătiți în întregime prin generarea de tokeni noi, nu este nevoie de a cere utilizatorilor o taxă pentru alimentarea blockchain-ului. Singurul motiv pentru a cere o taxă ar fi un factor de descurajare pentru utilizatorii care fac multe tranzacții, care ar putea avea un impact asupra performanțelor blockchain.
 
-Pentru a plasa limite rezonabile pentru folosirea sistemului, fiecărui utilizator îi este dată o bandă limitată. De fiecare dată când utilizatorii efectuează operații pe blockchain cum ar fi transferul de tokeni, comentarea sau votarea, își folosesc o porțiune din lățimea benzii. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Pentru a plasa limite rezonabile pentru folosirea sistemului, fiecărui utilizator îi este dată o bandă limitată. De fiecare dată când utilizatorii efectuează operații pe blockchain cum ar fi transferul de tokeni, comentarea sau votarea, își folosesc o porțiune din lățimea benzii. În cazul în care un utilizator își depășește lățimea benzii, trebuie să aștepte un anumit timp până lățimea benzii este reîncărcată.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Limitele lățimii benzii sunt ajustate pe baza rețelei, astfel încât utilizatorii au o lățime mai mare atunci când utilizarea rețelei este mică. Lățimea benzii este direct proporțională cu Puterea Steem pe care o are un utlizator, astfel aceștia își pot crește lățimea benzii prin achiziția de Putere Steem.
 
-## Conclusion
+## Concluzie
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Aceste recompense unice și programul oferit de Steem blockchain și tokeni sunt concepuți pentru a face Steem cunoscut în cryptocurrency pentru utilizatori obișnuiți. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

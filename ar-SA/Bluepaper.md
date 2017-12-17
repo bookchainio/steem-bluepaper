@@ -139,7 +139,7 @@
         </h3>
         
         <p>
-          The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+          ستيم بلوكشين يقدم تبادل لامركزي للعملة، مماثلة لتبادل بيتشاريس. <fnref target="13" /> ويتيح هذا التبادل للمستعملين تداول عملاتهم الخاصة ب steem و SBD من خلال السوق اللامركزية العامة من الند للند. المستخدمين قادرون على وضع أوامر شراء وبيع، ويتم التنفيذ مطابقة للنظام تلقائيا من قبل بلوكشين. وهناك أيضا كتاب النظام العام وتاريخ النظام يمكن للمستخدمين استخدامها لتحليل السوق. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
         </p>
         
         <h3>

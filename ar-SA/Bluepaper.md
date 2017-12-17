@@ -229,7 +229,7 @@
             </h2>
             
             <p>
-              The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+              تم تصميم المكافآت الفريدة وبرنامج الحوافز التي تقدمها بلوكشين ستيم والعملات لجعل ستيم في نهاية المطاف س شبكة سهلة ، للإستخدام باستمرار. تم تصميم أداء بلوكشين مع الإعتماد الشامل على نطاق واسع من العملة والمنصة. عند الجمع بين أوقات المعالجة السريعة ورسوم أقل للمعاملات، ستيم تصبح واحدة من تقنيات بلوكشين الرائدة المستخدمة من قبل الناس في جميع أنحاء العالم.
             </p>
             
             <footnotes>

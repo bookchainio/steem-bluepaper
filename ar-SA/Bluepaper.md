@@ -2,7 +2,7 @@
 
 ## مقدمة
 
-يوفر ستيم بروتوكول بلوكشين قابل للتطوير من أجل محتوى يصل للجمهور وغير قابل للتغيير، بالإضافة إلى عملة رقمية سريعة وبدون رسوم (تسمى ستيم) 2 والذي يمكن الناس من كسب العملة باستخدام دماغهم (ما يمكن أن يسمى "إثبات العقل" "). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+يوفر ستيم بروتوكول بلوكشين قابل للتطوير من أجل محتوى يصل للجمهور وغير قابل للتغيير، بالإضافة إلى عملة رقمية سريعة وبدون رسوم (تسمى ستيم) 2 والذي يمكن الناس من كسب العملة باستخدام دماغهم (ما يمكن أن يسمى "إثبات العقل" "). لبنات بناء هذا البروتوكول، بلوكشين والعملة الرقمية ، تعتمد على بعضها البعض للأمن والحماية ، وبالتالي فهي جزء لا يتجزأ من وجود بعضها البعض. Steem يعمل بنجاح منذ أكثر من سنة، وقد تجاوزت الآن بيتكوين واثيريوم في عدد المعاملات التي تتم معالجتها. [^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

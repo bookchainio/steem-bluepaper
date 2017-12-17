@@ -182,157 +182,156 @@
           </p>
           
           <h3>
-            Smart Media Tokens (SMT)
+            عملات الوسائط الدكية (SMT)
           </h3>
           
           <p>
-            Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
-          </p>
-          
-          <h3>
-            Stolen Account Recovery
-          </h3>
-          
-          <p>
-            If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
-          </p>
-          
-          <h3>
-            Security Through Time-Locks
-          </h3>
-          
-          <p>
-            If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
-          </p>
-          
-          <p>
-            The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
-          </p>
-          
-          <h3>
-            Bandwidth Rate Limiting for Fee-less Operations
-          </h3>
-          
-          <p>
-            Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
-          </p>
-          
-          <p>
-            In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
-          </p>
-          
-          <p>
-            Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
-          </p>
-          
-          <h2>
-            Conclusion
-          </h2>
-          
-          <p>
-            The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
-          </p>
-          
-          <footnotes>
-            <fn name="1">
-              <p>
-                Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
-              </p>
-            </fn>
+            عملات الوسائط الذكية هي العملات التي يمكن بناؤها على بلوكشين ستيم. ستيم هو أول SMT يتم انشائها، ويهدف بروتوكول سمارت ميديا توكين إلى نقد مواقع المحتوى والتطبيقات عبر شبكة الإنترنت من خلال السماح للناس لخلق العملات التي تمتلك خصائص مماثلة ل ستيم، ولكن للتخصيص لتناسب رؤية أي مجتمع عبر الإنترنت من خلال تحفيز المشاركين ، وتكرار النجاح الدي لقيته منصة ستيم. يمكن العثور على شرح تقني أكثر تفصيلا في ورقة العمل الفنية ستيم. <sup id="fnref: 12"><a href="#fn: 12" class="footnote-ref"> 12 </ 0>.</p> 
             
-            <fn name="2">
-              <p>
-                To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
-              </p>
-            </fn>
+            <h3>
+              استرداد الحساب المسروق
+            </h3>
             
-            <fn name="3">
-              <p>
-                Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
-              </p>
-            </fn>
+            <p>
+              إذا تم اختراق حساب المستخدم، فقد يغير مفاتيحه باستخدام مفتاح المالك الخاص. في حالة أن المهاجم قادر على التنازل عن مفتاح المالك الخاص وتغيير كلمة المرور على الحساب، المستخدم لديه 30 يوما لتقديم المفتاح الخاص واستعادة السيطرة على حساباتهم. ويمكن تقديم ذلك من قبل شخص أو شركة تقدم خدمات التسجيل لشركة ستيم. وليس إلزاميا أن يقدم المسجل هذه الخدمة لمستخدميه، ولكنه متاح لزيادة قيمة تجربة المستخدم المسجل.
+            </p>
             
-            <fn name="4">
-              <p>
-                Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
-              </p>
-            </fn>
+            <h3>
+              الأمن من خلال تأمين الوقت
+            </h3>
             
-            <fn name="5">
-              <p>
-                Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
-              </p>
-            </fn>
+            <p>
+              إذا تم اختراق مفتاح نشط أو مالك مستخدم، فسيكون للمهاجم حق الوصول الكامل إلى جميع الأموال في حسابه. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+            </p>
             
-            <fn name="6">
-              <p>
-                Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
-              </p>
-            </fn>
+            <p>
+              The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+            </p>
             
-            <fn name="7">
-              <p>
-                DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
-              </p>
-            </fn>
+            <h3>
+              Bandwidth Rate Limiting for Fee-less Operations
+            </h3>
             
-            <fn name="8">
-              <p>
-                https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
-              </p>
-            </fn>
+            <p>
+              Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+            </p>
             
-            <fn name="9">
-              <p>
-                ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
-              </p>
-            </fn>
+            <p>
+              In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+            </p>
             
-            <fn name="10">
-              <p>
-                Graphene Documentation http://docs.bitshares.org/
-              </p>
-            </fn>
+            <p>
+              Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+            </p>
             
-            <fn name="11">
-              <p>
-                The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
-              </p>
-            </fn>
+            <h2>
+              Conclusion
+            </h2>
             
-            <fn name="12">
-              <p>
-                Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
-              </p>
-            </fn>
+            <p>
+              The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+            </p>
             
-            <fn name="13">
-              <p>
-                Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-              </p>
-            </fn>
-            
-            <fn name="14">
-              <p>
-                Steemit.com Currency Market https://steemit.com/market
-              </p>
-            </fn>
-            
-            <fn name="15">
-              <p>
-                “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
-              </p>
-            </fn>
-            
-            <fn name="16">
-              <p>
-                Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-              </p>
-            </fn>
-            
-            <fn name="17">
-              <p>
-                Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
-              </p>
-            </fn>
-          </footnotes>
+            <footnotes>
+              <fn name="1">
+                <p>
+                  Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+                </p>
+              </fn>
+              
+              <fn name="2">
+                <p>
+                  To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+                </p>
+              </fn>
+              
+              <fn name="3">
+                <p>
+                  Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+                </p>
+              </fn>
+              
+              <fn name="4">
+                <p>
+                  Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+                </p>
+              </fn>
+              
+              <fn name="5">
+                <p>
+                  Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+                </p>
+              </fn>
+              
+              <fn name="6">
+                <p>
+                  Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+                </p>
+              </fn>
+              
+              <fn name="7">
+                <p>
+                  DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+                </p>
+              </fn>
+              
+              <fn name="8">
+                <p>
+                  https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
+                </p>
+              </fn>
+              
+              <fn name="9">
+                <p>
+                  ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+                </p>
+              </fn>
+              
+              <fn name="10">
+                <p>
+                  Graphene Documentation http://docs.bitshares.org/
+                </p>
+              </fn>
+              
+              <fn name="11">
+                <p>
+                  The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+                </p>
+              </fn>
+              
+              <fn name="12">
+                <p>
+                  Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+                </p>
+              </fn>
+              
+              <fn name="13">
+                <p>
+                  Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+                </p>
+              </fn>
+              
+              <fn name="14">
+                <p>
+                  Steemit.com Currency Market https://steemit.com/market
+                </p>
+              </fn>
+              
+              <fn name="15">
+                <p>
+                  “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+                </p>
+              </fn>
+              
+              <fn name="16">
+                <p>
+                  Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+                </p>
+              </fn>
+              
+              <fn name="17">
+                <p>
+                  Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+                </p>
+              </fn>
+            </footnotes>

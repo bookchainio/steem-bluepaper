@@ -110,9 +110,9 @@ Dacă contul unui utilizator este compromis, își poate schimba cheile folosind
 
 Dacă cheia activă sau privată este compromisă, atacatorul ar avea acces la toate fondurile din cont. Deoarce tranzacțiile blockchain sunt ireversibile, utilizatorii nu au nici o modalitate de a-și recupera fondurile furate.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain permite utilizatorilor să își stocheze STEEM și SBD într-un cont de economii, astfel încât fondurile lor să fie retrease după o periodă de așteptare de 3 zile. În plus, STEEM este menținut pe o perioadă de 13 săptămâni și poate fi retras pe o rată de 1/13 pe săptămână, după o perioadă de așteptare de 7 zile. Acești timpi de blocare împiedică atacatorul de a fi capabil să acceseze toate fondurile imediat, astfel încât proprietarul să poată avea control asupra contului înainte ca toate fondurile să fie retrase.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Lățimea benzii limitează operațiunile fără taxă
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

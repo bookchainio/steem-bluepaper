@@ -159,26 +159,26 @@
         </p>
         
         <p>
-          هذه المفاتيح الخاصة هي النشر، النشاط والمالك. يسمح مفتاح النشر للحسابات بالنشر والتعليق والتحرير والتصويت واستبدال <sup id="fnref:15"><a href="#fn:15" class="footnote-ref"> 15 </ 0>، ومتابعة / تجاهل الحسابات الأخرى. والمقصود بالمفتاح النشط للقيام بمهام أكثر حساسية مثل تحويل الأموال، معاملات الطاقة لأعلى / لأسفل، تحويل دولار ستيم، التصويت لصالح الشهود، وضع أوامر السوق، وإعادة تعيين مفتاح النشر. ومفتاح الملكيه مخصص فقط للاستخدام عند الضرورة. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.</p> 
+          هذه المفاتيح الخاصة هي النشر، النشاط والمالك. يسمح مفتاح النشر للحسابات بالنشر والتعليق والتحرير والتصويت واستبدال <sup id="fnref:15"><a href="#fn:15" class="footnote-ref"> 15 </ 0>، ومتابعة / تجاهل الحسابات الأخرى. والمقصود بالمفتاح النشط للقيام بمهام أكثر حساسية مثل تحويل الأموال، معاملات الطاقة لأعلى / لأسفل، تحويل دولار ستيم، التصويت لصالح الشهود، وضع أوامر السوق، وإعادة تعيين مفتاح النشر. ومفتاح الملكيه مخصص فقط للاستخدام عند الضرورة. وهو المفتاح الأقوى لأنه يمكنه تغيير أي مفتاح للحساب، بما في ذلك مفتاح المالك، وإثبات الملكية أثناء استرداد الحساب. من الناحية المثالية فإنه من المفترض أن يتم تخزينها ، وتستخدم فقط عند الحاجة إلى تغيير مفاتيح الحساب أو لاسترداد حساب.</p> 
           
           <p>
-            Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+            كما يسهل ستيم استخدام كلمة السر الرئيسية التي تشفر جميع المفاتيح الثلاثة. يمكن لخدمات ويب استخدام كلمة السر الرئيسية التي تشفر وتوقع مع المفتاح الخاص اللازم. قد تسمح كلمات المرور الرئيسية للمستخدمين بالثقة بخدمات معينة لمنع نقل المفاتيح غير الصحيحة عبر أي خوادم، مما يزيد من انطباع المستخدم مع الحفاظ على بيئة توقيع آمنة من جانب العميل.
           </p>
           
           <h3>
-            Multi Sig Authorities
+            سلطات Sig المتعددة
           </h3>
           
           <p>
-            The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+            يسمح بلوكشين ستيم بتقسيم سلطة عبر كيانات متعددة، بحيث يمكن لعدة مستخدمين مشاركة نفس السلطة، أو يطلب من كيانات متعددة أن تأذن بمعاملة لكي تكون صالحة. ويتم ذلك نفس طريقة بيتشاريس <fnref target="16" /> حيث يتم تعيين كل زوج مفاتيح عمومي/خاص ، ويتم تحديد عتبة للسلطة. ولكي تكون المعاملة صحيحة، يجب أن توقع كيانات كافية بحيث يلبي مجموع أوزانها العتبة أو يتجاوزها.
           </p>
           
           <h3>
-            Multiple Reward Beneficiaries
+            مكافأة متعددة للمستفيدين
           </h3>
           
           <p>
-            For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+            لأي منشور معين قد يكون هناك عدد من الأشخاص المختلفين الذين لديهم مصلحة مالية في المكافأة. ويشمل ذلك المؤلف، والمؤلفين المشاركين المحتملين، والمراجعين، ومقدمي خدمات الاستضافة، والمدونات التي تضمنت تعليقات بلوكشين ومطوري الأدوات. أيا كان الموقع أو الأداة التي تستخدم للنشر أو التعليق سيكون لديك القدرة على تحديد كيفية تقسيم المكافآت م بين مختلف الأطراف. وهذا يسمح لأشكال مختلفة من التعاون، فضلا عن وسيلة للمنصات التي يتم بناؤها على رأس بلوكشين ستيم لجمع جزء من المكافآت من مستخدميها.
           </p>
           
           <h3>

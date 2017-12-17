@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+  آلإختلاف عن عملات PoW-only فقط، في أنه يتم إنشاء العملات في ستيم بمعدل ثابت من كتلة واحدة كل ثلاث ثوان. يتم توزيع هذه العملات على مختلف الجهات الفاعلة في النظام على أساس قواعد محددة من بلوكشين. هذه الجهات الفاعلة، مثل منشئي المحتوى والشهود والقيمين، تتنافس بطرق متخصصة على هذه العملات. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 </p>
 
 <p>

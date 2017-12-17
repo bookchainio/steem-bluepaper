@@ -2,7 +2,7 @@
 
 ## Introducere
 
-Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imutabil, împreună cu token rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valuta folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
+Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imuabil, împreună cu un token digital rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valută folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
 
 Comparativ cu alte blockchain-uri, Steem iese în evidență ca prima bază de date accesibilă pentru conțintul stocat imuabil sub formă de text, împreună cu un mecanism de stimulare încorporat. Acest lucru face ca Steem să fie o platformă publică, prin care orice aplicație cu acces la internet, poate accesa și partaja date și în același timp, îi răsplătește pe cei care produc conținut valoros.
 
@@ -122,7 +122,7 @@ Limitele lățimii benzii sunt ajustate pe baza rețelei, astfel încât utiliza
 
 ## Concluzie
 
-Aceste recompense unice și programul oferit de Steem blockchain și tokeni sunt concepuți pentru a face Steem cunoscut în cryptocurrency pentru utilizatori obișnuiți. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Aceste recompense unice și programul oferit de Steem blockchain și tokeni sunt concepuți pentru a face Steem cunoscut în cryptocurrency pentru utilizatori obișnuiți. Performanța blockchain este proiectată prin răspândirea la scară largă a monedei și platformei. Datorită timpului scurt de procesare a tranzacților și a lipsei taxelor, Steem ar putea deveni unul dintre principlele tehnologii bazate pe blockchain din întreaga lume.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

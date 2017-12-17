@@ -27,23 +27,23 @@
 </p>
 
 <p>
-  آلإختلاف عن عملات PoW-only فقط، في أنه يتم إنشاء العملات في ستيم بمعدل ثابت من كتلة واحدة كل ثلاث ثوان. يتم توزيع هذه العملات على مختلف الجهات الفاعلة في النظام على أساس قواعد محددة من بلوكشين. هذه الجهات الفاعلة، مثل منشئي المحتوى والشهود والقيمين، تتنافس بطرق متخصصة على هذه العملات. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+  آلإختلاف عن عملات PoW-only فقط، في أنه يتم إنشاء العملات في ستيم بمعدل ثابت من كتلة واحدة كل ثلاث ثوان. يتم توزيع هذه العملات على مختلف الجهات الفاعلة في النظام على أساس قواعد محددة من بلوكشين. هذه الجهات الفاعلة، مثل منشئي المحتوى والشهود والقيمين، تتنافس بطرق متخصصة على هذه العملات. وخلافا لوسائل توزيع PoW التقليدية، حيث يتنافس عمال المناجم على القدرة الحاسوبية الخام، يتم تحفيز الجهات الفاعلة في شبكة ستيم على المنافسة بطرق تضيف قيمة إلى الشبكة.
 </p>
 
 <p>
-  The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+  تم تحديد معدل إنشاء الرموز الجديدة إلى 9.5٪ سنويا ابتداء من ديسمبر 2016، وينخفض بمعدل 0.01٪ كل 250،000 كتل، أو حوالي 0.5٪ سنويا. وسيستمر التضخم بالتناقص على هذا المعدل حتى يصل إلى 0.95٪ بعد فترة 20.5 سنة تقريبا.
 </p>
 
 <p>
-  Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+  في كل كمية من العملات التي تنشئها ستيم بلوكشين كل عام، 75٪ من تلك العملات تشكل "تجمع المكافآت" التي يتم توزيعها على مبدعي المحتوى والقائمين على المحتوى. و 15٪ توزع على أصحاب العملات المميزة، و 10٪ توزع على الشهود، ويتعاون منتجو الكتلة داخل بروتوكول DPoS الخاص بشركة ستيم.
 </p>
 
 <h4>
-  Rewards for Content Creators and Curators
+  مكافآت لمنشئي المحتوى والقيّمين
 </h4>
 
 <p>
-  The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+  ويضيف المستخدمون الذين ينتجون المحتوى قيمة إلى الشبكة عن طريق إنشاء مواد توجه المستخدمين الجدد إلى النظام الأساسي، فضلا عن إبقاء المستخدمين الحاليين مشاركين ومرفه عنهم. هذا يساعد في توزيع العملة لمجموعة واسعة من المستخدمين ويزيد من تأثير الشبكة. يلعب المستخدمون الذين يستغرقون وقتا لتقييم المحتوى والتصويت عليه دورا مهما في توزيع العملة على المستخدمين الذين يضيفون أكبر قيمة. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 </p>
 
 <h4>

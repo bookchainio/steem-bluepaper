@@ -52,9 +52,9 @@ ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit G
 
 ### AppBase
 
-AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase permite mai multor componente din Steem blockchain să devină modulare prin crearea de blockchain adiționale non-consens ca plugin-uri. Aceste plugin-uri pot să fie actualizate mult mai rapid deoarce nu necesită reluarea întregului blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase permite mai multor componente din Steem blockchain să devină modulare prin crearea de blockchain adiționale non-consens ca plugin-uri. Aceste plugin-uri pot să fie actualizate mult mai rapid deoarce nu necesită reluarea întregului blockchain. Aceasta face ca steemd[^11] să fie mult mai eficient și usor de menținut scalabil.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+AppBase permite ca diferite servere sau chiar computere să mențină diferite părți ale Steem blockchain. Acest lucru este mult mai eficient decât ca fiecare computer din rețea să țină întregul blockchain. Modularizarea blockchain-ului îi permite să profite de natura modulară a calculatoarelor. Acesta este un pas necesar în procesul lung de a crea în paralel, un nou blockchain complet optimizat.
 
 ## Caracteristicile platformei Steem
 

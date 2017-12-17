@@ -96,27 +96,27 @@
       قاعدة التطبيق - AppBase هو الخطوة الأولى في إنشاء سلسلة متعددة النسيج. قاعدة التطبيق - AppBase تمكن العديد من مكونات بلوكشين ستيم لتصبح وحدات عن طريق إنشاء بلوكشينز إضافية كالإضافات المخصصة. هذه الإضافات يمكن تحديثها بسرعة أكبر لأنها لا تتطلب إعادة بلوكشين بأكمله. هذا يجعل steemd <sup id="fnref:11"><a href="#fn:11" class="footnote-ref"> 11 </ 0> أكثر كفاءة.</p> 
       
       <p>
-        عمليا، قاعدة التطبيق تمكن من أنوية مختلفة، أو حتى أجهزة كمبيوتر مختلفة، للحفاظ على أجزاء مختلفة من بلوكشين ستيم. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+        عمليا، قاعدة التطبيق تمكن من أنوية مختلفة، أو حتى أجهزة كمبيوتر مختلفة، للحفاظ على أجزاء مختلفة من بلوكشين ستيم. هذا أكثر كفاءة بكثير من طلب كل نواة ، وكل جهاز كمبيوتر في الشبكة يحافظ على بلوكشين بأكمله. نمذجة بلوكشين تمكن من الاستفادة الكاملة من طبيعة وحدات أجهزة الكمبيوتر. هذا خطوة ضرورية في عملية طويلة لخلق بلوكتشين متوازية تماما، والأمثل تماما.
       </p>
       
       <h2>
-        Steem’s Platform Features
+        ميزات النظام الأساسي في Steem
       </h2>
       
       <p>
-        The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+        ستيم بلوكشين يخدم غرض مزدوج من نظام معالجة عملات رقمية، فضلا عن منصة وسائل الاعلام الاجتماعية. الميزات التي تقدمها بلوكشين تحتاج إلى دعم كلا الغرضين، وتوفر للمستخدمين تجربة من الطراز العالمي عند استخدام كلا الجانبين من المنصة.
       </p>
       
       <h3>
-        Primitives Designed for Content Applications
+        الأوليات مصممة لتطبيقات المحتوى
       </h3>
       
       <p>
-        Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+        Steem يوفر للمستخدمين قدرة فريدة على نشر وتخزين أنواع مختلفة من المحتوى مباشرة وبشكل دائم إلى بلوكتشاين كنص عادي. مباشرة بعد تخزينها في البلوكشين تصبح المعلومات ضاهرة للمطورين للعمل عليها. المطورين قادرون على التفاعل مع المحتوى مباشرة في بلوكشين باستخدام واجهات برمجة التطبيقات المتاحة. مطورو بلوكشين يقومون بالبناء عبر هذه المعلومات التي تشمل أسماء الحسابات، المشاركات، تعليقات، الأصوات ورصيد الحساب.
       </p>
       
       <h3>
-        Native Name System
+        نظام الاسم الأصلي
       </h3>
       
       <p>

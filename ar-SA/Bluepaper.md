@@ -120,11 +120,11 @@
       </h3>
       
       <p>
-        Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+        عناوين المحفظة المستخدمة من قبل العديد من تقنيات بلوكشين، مثل بيتكوين و إثريوم، تتكون تاريخيا من سلاسل طويلة من الحروف والأرقام العشوائية، ومع ذلك، عناوين المحفظة يمكن أن تجعل من الصعب التعامل مع مستخدمين آخرين في سياق نموذجي على شبكة الإنترنت لأنه يتعذر على المستخدمين تذكر العناوين الطويلة من الذاكرة. يستخدم بلوكشين ستيم اسم المستخدم لكل مشارك كعنوان محفظتهم، مما يعزز تجربة المستخدم للمشاركين الذين يحاولون إرسال العملات لأنه يمكن التحقق من العناوين من الذاكرة الخاصة بهم.
       </p>
       
       <h3>
-        Steem Blockchain Dollars (SBD)
+        دولار ستيم بلوكشين (SBD)
       </h3>
       
       <p>

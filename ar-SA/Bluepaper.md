@@ -15,15 +15,15 @@
 </h2>
 
 <p>
-  Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+  أنضمة العملات التي تكافئ المستخدمين لأنهم يساهمون في المجتمع القائم على عملة رقمية تتطلب آليات لتحديد وتقييم القيمة الاجتماعية للمحتوى: ونحن نسمي هذا "إثبات العقل"
 </p>
 
 <h3>
-  The Rewards Pool (“Where do the tokens come from?”)
+  تجمع المكافآت (" من أين تأتي العملات ؟")
 </h3>
 
 <p>
-  One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+  واحدة من الجوانب الأكثر ابتكارا (والأكثر سوء فهم) من بلوكشين ستيم هو "تجمع المكافآت " من العملات التي يتم توزيعها على المبدعين والمحتوى القيم. من أجل فهم ما هو تجمع المكافآت، يحتاج المرء أولا أن يفهم أن العملات يتم إنتاجها بشكل مختلف في DPoS blockchains مما هي عليه في PoW blockchains. في PoW blockchains التقليدية، يتم إنتاج الرموز بشكل منتظم ولكن توزع عشوائيا على الناس ("عمال المناجم").
 </p>
 
 <p>

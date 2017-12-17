@@ -2,7 +2,7 @@
 
 ## Introducere
 
-Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imuabil, împreună cu un token digital rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valută folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
+Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imuabil, împreună cu un token digital rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valută folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchain-ul, cât și token-ul, depind unul de cealalt pentru securitate, imuabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
 
 Comparativ cu alte blockchain-uri, Steem iese în evidență ca prima bază de date accesibilă pentru conțintul stocat imuabil sub formă de text, împreună cu un mecanism de stimulare încorporat. Acest lucru face ca Steem să fie o platformă publică, prin care orice aplicație cu acces la internet, poate accesa și partaja date și în același timp, îi răsplătește pe cei care produc conținut valoros.
 
@@ -72,7 +72,7 @@ Adresele portofelui folosite de multe tehnologii din blockchain, cum ar fi Bitco
 
 Multi utilizatori care sunt neexperimentați în ceea ce privește cryptocurrency, lupta pentru a înţelege cum funcționează "tokeni magici ai internetului" și ce valoare au de fapt în lumea reală. Pentru a întelege mai bine cum funcționează acest sistem, și pentru a elimina nedumeririle utilizatoriilor care sunt obișnuiți cu bani din sistemul monetar actual, a fost creată o nouă valută criptică, numită Dolari Steem Blockchain (SBD).
 
-Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. Tokeni SBD oferă, de asemenea, o monedă relativ stabilă astfel încât, utilizatorii care să aibe o valoare aproximativă în USD, pot să îi păstreze. O explicaţie mult mai detaliată din punct de vedere tehnic, pote fi găsiteă în documentaţie tehnică a Steem whitepaper. [^12]
+Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. Tokeni SBD oferă, de asemenea, o monedă relativ stabilă pentru cei care doresc să își păstreze valoare contului aproximativă cu valoarea în dolari. O explicaţie mult mai detaliată din punct de vedere tehnic, pote fi găsită în documentaţiea tehnică a Steem whitepaper. [^12]
 
 ### Schimb descentralizat
 
@@ -80,7 +80,7 @@ Steem blockchain oferă un schimb descentralizat de tokeni, similar cu schimbul 
 
 ### Plăţi prin Escrow - împuternicire legală
 
-Caracterul ireversibil al tranzacţiilor din blockchain este o caracteristică importantă de securitate. Există, totuși, multe cazuri în care utilizatorii nu se simt comfortabil să trimită tokeni la un alt individ fără o modalitate de a-i recupera, în cazul în care celălalt utilizator nu își respectă cuvântul. Steem blockchain oferă o modalitate pentru utilizatori să-și trimită monede între ei, cu un terţ, desemnat ca serviciu de împuternicire legală. Utilizatorul acre acţionează ca serviciu de împuternicire legală este capabil să determina dacă sunt îndeplinite condiţiile din acord, şi permite fondurile pentru a fi trimise la destinatar sau returnate expeditorului.
+Caracterul ireversibil al tranzacţiilor din blockchain este o caracteristică importantă de securitate. Există, totuși, multe cazuri în care utilizatorii nu se simt comfortabil să trimită tokeni la un alt individ fără o modalitate de a-i recupera, în cazul în care celălalt utilizator nu își respectă cuvântul. Steem blockchain oferă o modalitate pentru utilizatori de a-și trimită monede între ei, cu un terţ, desemnat ca serviciu de împuternicire legală. Utilizatorul acre acţionează ca serviciu de împuternicire legală este capabil să determie dacă sunt îndeplinite condiţiile din acord, şi permite fondurile de a fi trimise la destinatar sau returnate expeditorului.
 
 ### Structură ierarhică a cheii private
 
@@ -88,7 +88,7 @@ Steem are o structură ierarhică în ceea ce privește cheia privată pentru a 
 
 Aceste chei private sunt cele de Postare, Activă şi cheia Proprietarului. Cheia de Postare permite utilizatorilor să posteze, comenteze, editeze, voteze, resteem [^15], şi să urmărească/mute(să nu mai vadă conținut de la acel user) alte conturi. Cheia activă este menită pentru transferul de fonduri, tranzacţii power up/down, convertirea de Dolari Steem, pentru votarea de witnesses, pentru plasarea de comezi pe piaţă şi resetarea cheii de postare. Cheia proprietarului trebuie să fie utilizată doar atunci când este cu adevărat necesar. Este cea mai importantă și puternică cheie deoarce cu ajutorul ei pot fi schimbate toate celelalte chei, inclusiv cheia propietarului și de asemenea, pentru dovedirea propietății în cazul în care este nevoie de recuperarea contului. Ideal ar trebui să fie stocată offline, şi utilizată numai atunci când cheile contului trebuie să fie schimbate sau să se recupereze contul compromis.
 
-Steem facilitează, de asemenea, utilizarea unei Parole Principale care criptează toate cele trei chei. Serviciile web pot folosi o parolă principală care decriptează și semnează cu cheia privată, când este necesar. Parolele principale le permit utilizatorilor să aibe încredere în anumite servicii, oprind transferarea unor chei către anumite servere. Astfel, se menține un mediu de siguranță pentru utilizator.
+Steem facilitează, de asemenea, utilizarea unei Parole Principale care criptează toate cele trei chei. Atunci când este neceasr, serviciile web pot folosi o parolă principală care decriptează și semnează cu cheia privată. Parolele principale le permit utilizatorilor să aibe încredere în anumite servicii, oprind transferarea unor chei către anumite servere. Astfel, se menține un mediu de siguranță pentru utilizator.
 
 ### Autorităţile Multi Sig
 

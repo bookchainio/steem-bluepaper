@@ -30,7 +30,7 @@ Utilizatorii care produc conținut, aduc valoare platformei de socializare prin 
 
 #### Votarea cu Tokeni-Miză pentru a determina alocarea recompenselor
 
-Steem operează pe baza un-Steem, un-vot. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem operează pe baza un-Steem, un-vot. În acest mod, persoanle care au contribuit cel mai mult la platformă, măsurat prin soldul contului, au influența cea mai mare asupra felului în care sunt răsplătite contribuțiile. Miza poate fi cumpărată sau câștigată. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

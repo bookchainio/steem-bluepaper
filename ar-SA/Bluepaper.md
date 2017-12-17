@@ -43,19 +43,19 @@
 </h4>
 
 <p>
-  ويضيف المستخدمون الذين ينتجون المحتوى قيمة إلى الشبكة عن طريق إنشاء مواد توجه المستخدمين الجدد إلى النظام الأساسي، فضلا عن إبقاء المستخدمين الحاليين مشاركين ومرفه عنهم. هذا يساعد في توزيع العملة لمجموعة واسعة من المستخدمين ويزيد من تأثير الشبكة. يلعب المستخدمون الذين يستغرقون وقتا لتقييم المحتوى والتصويت عليه دورا مهما في توزيع العملة على المستخدمين الذين يضيفون أكبر قيمة. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+  ويضيف المستخدمون الذين ينتجون المحتوى قيمة إلى الشبكة عن طريق إنشاء مواد توجه المستخدمين الجدد إلى النظام الأساسي، فضلا عن إبقاء المستخدمين الحاليين مشاركين ومرفه عنهم. هذا يساعد في توزيع العملة لمجموعة واسعة من المستخدمين ويزيد من تأثير الشبكة. يلعب المستخدمون الذين يستغرقون وقتا لتقييم المحتوى والتصويت عليه دورا مهما في توزيع العملة على المستخدمين الذين يضيفون أكبر قيمة. و بلوكشين يكافئ كل من هذه الأنشطة بالنسبة لقيمتها على أساس الحكمة الجماعية من الحشد التي تم جمعها من خلال نظام التصويت.
 </p>
 
 <h4>
-  Voting with Staked-Tokens to Determine Allocation of Rewards
+  التصويت بالعملات لتحديد المكافآت
 </h4>
 
 <p>
-  Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+  يعمل ستيم على أساس ستيم واحد ، صوت واحد. وبموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مقاسة برصيد حساباتهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. يمكن شراء نسبة او ربحها. لا يمكن للمستخدمين الحصول على تأثير إضافي من خلال امتلاك حسابات متعددة، لأن حساب واحد مع مبلغ من الحصة سيكون لها نفس تأثير اثنين من حسابات مختلفة تقاسم نفس المبلغ من الحصة. الطريقة الوحيدة للمستخدمين لزيادة نفوذهم في المنصة هي زيادة حصتهم.
 </p>
 
 <p>
-  Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+  وعلاوة على ذلك، ستيم يسمح فقط للأعضاء بالتصويت مع ستيم عندما يتم الإلتزام بجدول زمني للإستحقاق 13 أسبوع يسمى ستيم الطاقة. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 </p>
 
 <h2>

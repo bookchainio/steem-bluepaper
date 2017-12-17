@@ -40,9 +40,9 @@ Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și efici
 
 ### Dovada de miză delegată (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Adesea cu Proof-of-Work (PoW)[^6], multe blockchain nu pot să facă mai mult de trei tranzacții pe secundă; care reprezintă o fracțiune din traficul mondial. Steem are nevoie de o viteză mai mare decât cea oferită de PoW, și astfel a fost implementat cu Dovada de Miză Delegată (DPoS)[^7] pentru a pune bazele unui fundații blockchain potrivită pentru miliarde de utilizatori.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Datorită DPoS, Steem blockchain este capabil să genereze un nou bloc la fiecare 3 secunde cu o încărcare minimă a computerului. Aceasta înseamnă că blockchain-ul poate procesa mai multe tranzacții și poate deține mai multe informații, inclusiv conținut.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

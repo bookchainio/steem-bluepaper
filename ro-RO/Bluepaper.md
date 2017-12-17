@@ -44,7 +44,7 @@ Adesea cu Proof-of-Work (PoW)[^6], multe blockchain nu pot să facă mai mult de
 
 Datorită DPoS, Steem blockchain este capabil să genereze un nou bloc la fiecare 3 secunde cu o încărcare minimă a computerului. Aceasta înseamnă că blockchain-ul poate procesa mai multe tranzacții și poate deține mai multe informații, inclusiv conținut.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Prin definirea regulilor atunci când se întâmplă un Hardfork, witnesses aleși în cardul DPoS pot decide rapid și eficient pentru a merge mai departe cu hardfork-ul propus, permițând protocolului Steem blockchain pentru a evolua mai rapid decât altele. Steem blockchain s-a bifurcat cu succes de 18 ori[^8], și de fiecare dată când s-a produs un Hardfork, numai un singur lanț a rămas.
 
 ### ChainBase
 
@@ -52,7 +52,7 @@ ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit G
 
 ### AppBase
 
-AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase permite mai multor componente din Steem blockchain să devină modulare prin crearea de blockchain adiționale non-consens ca plugin-uri. Aceste plugin-uri pot să fie actualizate mult mai rapid deoarce nu necesită reluarea întregului blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

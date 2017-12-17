@@ -104,11 +104,11 @@ Tokeni Smart Media sunt tokeni nativi care pot fi construiți pe Steem blockchai
 
 ### Recuperarea Conturilor Furate
 
-Dacă contul unui utilizator este compromis, își poate schimba cheile folosind cheia privată de proprietar. În cazul în care atacatorul este capabil să compromită cheia privată a propietarului și să schimbe parola contului, utilizatorul are 30 de zile în care poată să trimită prin intermediul sistemul Steem de recuperare a conturilor furate și să își recapte controlul asupra contului. Acest lucru poate fi oferit fie de o persoană sau o companie care furnizează servicii de înregistare Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Dacă contul unui utilizator este compromis, își poate schimba cheile folosind cheia privată de proprietar. În cazul în care atacatorul este capabil să compromită cheia privată a propietarului și să schimbe parola contului, utilizatorul are 30 de zile în care poată să trimită prin intermediul sistemul Steem de recuperare a conturilor furate și să își recapte controlul asupra contului. Acest lucru poate fi oferit fie de o persoană sau o companie care furnizează servicii de înregistare Steem. Nu este obligatoriu ca registratorul să ofere acest serviciu, dar este disponibil pentru a crește valoarea experienței utilizatorilor.
 
-### Security Through Time-Locks
+### Securitate prin blocări de timp
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Dacă cheia activă sau privată este compromisă, atacatorul ar avea acces la toate fondurile din cont. Deoarce tranzacțiile blockchain sunt ireversibile, utilizatorii nu au nici o modalitate de a-și recupera fondurile furate.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

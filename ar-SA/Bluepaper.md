@@ -89,11 +89,11 @@
     قاعدة السلسلة <sup id="fnref:9"><a href="#fn:9" class="footnote-ref"> 9 </ 0> هي جزء قاعدة البيانات من بلوكشين والجرافين <sup id="fnref:10"><a href="#fn:10" class="footnote-ref"> 10 </ 1> في عام 2016. قاعدة السلسلة تحمل بسرعة كبيرة وتخرج بسرعة، وتدعم الوصول المتوازي إلى قاعدة البيانات وأكثر قوة ضد الحوادث من سابقتها. كما أن لديها قاعدة بيانات قوية بنسبة تلف ضعيفة، والتي تسمح بحصول المزيد من الطلبات من نفس الذاكرة.</p> 
     
     <h3>
-      AppBase
+      قاعدة التطبيق - AppBase
     </h3>
     
     <p>
-      AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+      قاعدة التطبيق - AppBase هو الخطوة الأولى في إنشاء سلسلة متعددة النسيج. قاعدة التطبيق - AppBase تمكن العديد من مكونات بلوكشين ستيم لتصبح وحدات عن طريق إنشاء بلوكشينز إضافية كالإضافات المخصصة. هذه الإضافات يمكن تحديثها بسرعة أكبر لأنها لا تتطلب إعادة بلوكشين بأكمله. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
     </p>
     
     <p>

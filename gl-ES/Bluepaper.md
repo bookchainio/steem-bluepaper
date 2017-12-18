@@ -32,9 +32,9 @@ As usuarias que producen contido está engadindo valor á rede grazas á creaci�
 
 Steem funciona baixo o precepto de un-STEEM, un-voto. Baixo este modelo, as persoas que mais levan aportado á plataforma, medido polo balance da súa conta, teñen mais influencia en determiñar cómo as contribuidoras son puntuadas. Os aforros (Sp) poden ser mercados ou gañados. Os usuarios non poden gañar influencia adicional criando múltiples contas, xa que unha simple conta con unha cantidade aforrada terá a mesma influencia que dúas contas diferentes a mesma cantidade aforrada partillada. O unico xeito para que as usuarias incrementen súa influencia na plataforma é aumentando ó seus aforros.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Ademais de isto, Steem solo permite o voto con STEEM cando este comprometese con un programa de inversión de 13 semanas chamado Steem Power. Baixo este modelo os membros teñen o incentivo financieiro de votar de xeito que maximicen o valor dos seus STEEM á longo prazo.
 
-## Speed and Scale on the Steem Blockchain
+## Velocidade e Scala na BlockChain de Steem
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

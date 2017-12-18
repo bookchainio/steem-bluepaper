@@ -16,7 +16,7 @@ O sistema de Token que recompensa ás usuarias conforme contribuiron á o sistem
 
 ### O fondo de Recompensas (De onde veñen os tokens?)
 
-Un dos aspectos mais innovadores (e menos entendido) da blockchain Steem é o "Fondo de Recompensas" dende onde os tokens son distribuidos ós creadores de contidos valiosos. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Un dos aspectos mais innovadores (e menos entendido) da blockchain Steem é o "Fondo de Recompensas" dende onde os tokens son distribuidos ós creadores de contidos valiosos. Para poder entender que é o fondo de recompensas, compre pirmeiro entender que os tokens son producidos de xeito diferente nas blockchains DPoS que nas blockchains PoW (Bitcoin). Nas blockchains clásicas PoW, os tokens son creados regularmente per aleatoriamente distribuidos aleatoriamente ás persoas cuxas máquinas están realizando o traballo (mineiros).
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

@@ -10,3 +10,4 @@
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
 * [Filipino](fil-PH/Bluepaper.md)
 * [Português (Brasil)](pt-BR/Bluepaper.md)
+* [Română](ro-RO/Bluepaper.md)

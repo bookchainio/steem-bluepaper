@@ -30,7 +30,7 @@ As usuarias que producen contido está engadindo valor á rede grazas á creaci�
 
 #### Votando con moedas aforradas para determiñar a asignación das Recompensas
 
-Steem funciona baixo o precepto de un-STEEM, un-voto. Baixo este modelo, as persoas que mais levan aportado á plataforma, medido polo balance da súa conta, teñen mais influencia en determiñar cómo as contribuidoras son puntuadas. Os aforros (Sp) poden ser mercados ou gañados. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem funciona baixo o precepto de un-STEEM, un-voto. Baixo este modelo, as persoas que mais levan aportado á plataforma, medido polo balance da súa conta, teñen mais influencia en determiñar cómo as contribuidoras son puntuadas. Os aforros (Sp) poden ser mercados ou gañados. Os usuarios non poden gañar influencia adicional criando múltiples contas, xa que unha simple conta con unha cantidade aforrada terá a mesma influencia que dúas contas diferentes a mesma cantidade aforrada partillada. O unico xeito para que as usuarias incrementen súa influencia na plataforma é aumentando ó seus aforros.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

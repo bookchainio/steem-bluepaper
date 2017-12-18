@@ -26,7 +26,7 @@ Dos novos tokens criados pola blockchain Steem cada ano, o 75% deles compoñen o
 
 #### Recompensas para criadoras e curadoras de contido
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+As usuarias que producen contido está engadindo valor á rede grazas á creación de material que conducirá a novas usuarias á plataforma, ó igual que maneirá as usuarias existentes entretidas e involucradas. Isto axuda a unha distribución da moeda a un amplo sector de usuarias e aumenta o efecto rede. As usuarias que toma tempo en avaliar e votar nos contidos, xogan un papel importante na distribución da moeda ás usuarias que engaden o contido mais valioso. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

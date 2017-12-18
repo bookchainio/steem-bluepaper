@@ -2,13 +2,13 @@
 
 ## Introducere
 
-Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imutabil, împreună cu token rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valuta folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchainul, cât și token, depind unul de cealaltă pentru securitate, imutabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
+Steem oferă un protocol de tip blockchain scalabil[^1] pentru conținut accesibil public și imuabil, împreună cu un token digital rapid și netaxabil (numit STEEM)[^2] care permite oamenilor să obțină valută folosindu-și creierul (ceea ce poate fi denumit și “Dovadă-de-Creier”). Cele două blocuri de construcție ale acestui protocol, atât blockchain-ul, cât și token-ul, depind unul de cealalt pentru securitate, imuabilitate și longevitate și sunt, prin urmare parte integrată în existența celuilalt. Steem operează cu succes de peste un an, iar acum a depășit atât Bitcoin cât și Ethereum pe numărul de tranzacții procesate.[^3]
 
 Comparativ cu alte blockchain-uri, Steem iese în evidență ca prima bază de date accesibilă pentru conțintul stocat imuabil sub formă de text, împreună cu un mecanism de stimulare încorporat. Acest lucru face ca Steem să fie o platformă publică, prin care orice aplicație cu acces la internet, poate accesa și partaja date și în același timp, îi răsplătește pe cei care produc conținut valoros.
 
-În domeniul cripto-valutar, proprietățile unice ale STEEM, îl fac atât “inteligent” cât și “social” comparativ cu altele, cum ar fi bitcoin și ether. Acest lucru provine din două noi caracteristici ale token-ului. Primul este un set de tokeni dedicate creării și valorificării conținutului (numit “bazin de recompense”). Al doilea este un sistem de votare, care valorifică susținătorii conținutului și distribuie tokeni către aceștia. Aceste două proprități unice atunci când sunt combinate, sunt menționate ca Dovadă-de-Creier șo Dovadă-de-Lucru[^4], menite să sublinieze munca necesară pentru a se distribui tokeni către participanții comunității. Dovada-de-Creier poziționeză STEEM ca o unealtă pentru construirea unei comunități în continuă creștere, care să încurajeze membrii să adauge conținut de calitate, răsplătindu-i prin sistemul de recompense.
+În domeniul cripto-valutar, proprietățile unice ale STEEM, îl fac atât “inteligent” cât și “social” comparativ cu altele, cum ar fi bitcoin și ether. Acest lucru provine din două caracteristici noi ale token-ului. Primul este un set de tokeni dedicate creării și valorificării conținutului (numit “bazin de recompense”). Al doilea este un sistem de votare, care valorifică susținătorii conținutului și distribuie tokeni către aceștia. Aceste două proprități unice atunci când sunt combinate, sunt menționate ca Dovadă-de-Creier șo Dovadă-de-Lucru[^4], menite să sublinieze munca necesară pentru a se distribui tokeni către participanții comunității. Dovada-de-Creier poziționeză STEEM ca o unealtă pentru construirea unei comunități în continuă creștere, care să încurajeze membrii să adauge conținut de calitate, răsplătindu-i prin sistemul de recompense.
 
-Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain și tokeni, oferind caracteristici avansate pentru a spori experiența utilizatorului, cum ar fi Recuperearea Conturilor Pierdute[^5], servicii de împuternicire legală, conținut promovat de utilizator și salvarea conturilor. Toate acestea sunt făcute în timp ce le oferă utilizatorilor trei confirmări duble și fără nici o taxă pe tranzacții. Toate acestea îi sprijină misiunea de a aduge valută inteligentă și socială, celor cărora construiesc comunitatea.
+Steem aduge noi progrese în ceea ce privește tehnologia bazată pe blockchain și tokeni, oferind caracteristici avansate pentru a spori experiența utilizatorului, cum ar fi Recuperearea Conturilor Pierdute[^5], servicii de împuternicire legală, conținut promovat de utilizator și salvarea conturilor. Toate acestea sunt făcute în timp ce le oferă utilizatorilor trei confirmări duble și fără nici o taxă pe tranzacții. Toate acestea îi sprijină misiunea de a aduce valută inteligentă și socială, celor cărora construiesc comunitatea.
 
 ## Dovada a creierului: tokeni inteligenți şi sociali
 
@@ -16,9 +16,9 @@ Sistemele de token care recompensează utilizatorii ce contribuie la un sistem i
 
 ### Bazinul de recompense ("de unde vin tokeni?")
 
-Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuite către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, tokeni sunt produși în mod regulat dar aleatoriu și sunt distribuiți persoanelor ale căror aparate efectuează munca ("mineri").
+Unul dintre cele mai inovatoare (şi cele mai puțin înțelese) aspecte ale Steem blockchain este “bazinul recompense" din token care sunt distribuiți către creatorii de conţinut valoros. Pentru a înţelege ce este bazinul de recompense, mai întâi trebuie să înţelelegem că tokeni sunt produși în mod diferit în DPoS blockchains decât sunt în PoW blockchains. În tradiţionale PoW blockchains, tokeni sunt produși în mod regulat dar aleatoriu și sunt distribuiți persoanelor ale căror aparate efectuează munca ("mineri").
 
-Diferite de cripto valutele PoW, token-urile Steem sunt generate la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+Față de valutele cripto PoW, tokeni Steem sunt generți la o rată fixă de un bloc la fiecare trei secunde. Acești tokeni sunt distribuiți la diferiți actori din sistemul bazat și definit de reguluile din blockchain. Acești actori, cum ar fi creatorii de conținut, witnesses și cei care susțin conținutul prin vot, concurează în moduri specializate pentru tokeni. Spre deosebire de mijloacele de distribuție Pow, unde mineri sunt în competiție prin puterea de procesare a computerului, cei care folosesc rețeaua Steem sunt stimulați să aducă valoare rețelei.
 
 Rata pentru tokeni noi generați, a fost setată la 9,5 % pe an începând din decembrie 2016 şi apoi scade cu o rată de 0,01 % la fiecare 250.000 blocuri, sau aproximativ 0,5 % pe an. Inflaţia va continua să scădă la această rată, până când ajunge la 0.95 %, după o perioadă de aproximativ 20,5 ani.
 
@@ -26,25 +26,25 @@ Dintre tokeni creați de Steem blockchain în fiecare an, 75% din aceștia repre
 
 #### Recompense pentru creatorii de conţinut şi cei care susțin conținutul prin vot
 
-Utilizatorii care produc conținut, aduc valoare platformei de socializare prin crearea de material care va aduge noi utilizatori, precum și prin menținerea activă a utilizatorilor actuali. Acest lucru are menirea să distribuie monezile la set mai larg de utilizatori, precum și să crească efectul rețelei. Utilizatorii care evaluează şi votează conţinutul, joacă un rol important în distribuirea monedelor către utilizatorii care adăugă conținutul cel mai valoros. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Utilizatorii care produc conținut, aduc valoare platformei de socializare prin crearea de material care va aduge noi utilizatori, precum și prin menținerea activă a utilizatorilor actuali. Acest lucru are menirea să distribuie monezile la set mai larg de utilizatori, precum și să crească efectul rețelei. Utilizatorii care evaluează şi votează conţinutul, joacă un rol important în distribuirea monedelor către utilizatorii care adăugă conținutul cel mai valoros. Blockchain-ul recompensează ambele aceste activități în raport cu valoarea lor bazată pe înțelepciunea colectivă prin sistemul de votare ponderat la mize.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Votarea cu Tokeni-Miză pentru a determina alocarea recompenselor
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem operează pe baza un-Steem, un-vot. În acest mod, persoanle care au contribuit cel mai mult la platformă, măsurat prin soldul contului, au influența cea mai mare asupra felului în care sunt răsplătite contribuțiile. Miza poate fi cumpărată sau câștigată. Utilizatrorii nu pot câștiga influență suplimentară prin deținerea mai multor conturi, deoarce un singur cont cu o anumită miză va avea aceași influență ca două conturi diferite care împart aceași cantitate de miză. Singura modalitate pentru utilizatori de a-și crește infuența este să își crească miza.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+În plus, Steem le permite membrilor să voteze cu STEEM numai când aceștia se angajează pentru o perioadă de 13 săptămâni numit Putere Steem. În acest fel, membrii sunt stimulați financiar să voteze într-un fel în care maximizează valoarea pe termen lung a STEEM.
 
-## Viteza și scalarea pe Blockchain-ul Steem
+## Viteza și scalarea pe Steem Blockchain
 
-Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucru fiind necesar pentru a putea susține cantitatea de trafic de aşteptată pe o platformă media de socializare, mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
+Steem blockchain este conceput pentru a fi unul dintre cele mai rapide și eficiente blockchain, acest lucru fiind necesar pentru a putea susține cantitatea de trafic aşteptată pe o platformă media de socializare mai mare decât Reddit. Steem a depăşit deja Bitcoin în ceea ce privește numărul de tranzacţii, şi este capabil să susțină 10.000 sau mai multe tranzacţii pe secundă.
 
-### Delegated Proof of Stake (DPoS)
+### Dovada de miză delegată (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Adesea cu Proof-of-Work (PoW)[^6], multe blockchain nu pot să facă mai mult de trei tranzacții pe secundă; care reprezintă o fracțiune din traficul mondial. Steem are nevoie de o viteză mai mare decât cea oferită de PoW, și astfel a fost implementat cu Dovada de Miză Delegată (DPoS)[^7] pentru a pune bazele unui fundații blockchain potrivită pentru miliarde de utilizatori.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Datorită DPoS, Steem blockchain este capabil să genereze un nou bloc la fiecare 3 secunde cu o încărcare minimă a computerului. Aceasta înseamnă că blockchain-ul poate procesa mai multe tranzacții și poate deține mai multe informații, inclusiv conținut.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Prin definirea regulilor atunci când se întâmplă un Hardfork, witnesses aleși în cardul DPoS pot decide rapid și eficient pentru a merge mai departe cu hardfork-ul propus, permițând protocolului Steem blockchain pentru a evolua mai rapid decât altele. Steem blockchain s-a bifurcat cu succes de 18 ori[^8], și de fiecare dată când s-a produs un Hardfork, numai un singur lanț a rămas.
 
 ### ChainBase
 
@@ -52,9 +52,9 @@ ChainBase [^9] este porţiunea de date din stiva de blockchain şi a înlocuit G
 
 ### AppBase
 
-AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase este primul pas în crearea unui multi-lanţ FABRIC. AppBase permite mai multor componente din Steem blockchain să devină modulare prin crearea de blockchain adiționale non-consens ca plugin-uri. Aceste plugin-uri pot să fie actualizate mult mai rapid deoarce nu necesită reluarea întregului blockchain. Aceasta face ca steemd[^11] să fie mult mai eficient și usor de menținut scalabil.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+AppBase permite ca diferite servere sau chiar computere să mențină diferite părți ale Steem blockchain. Acest lucru este mult mai eficient decât ca fiecare computer din rețea să țină întregul blockchain. Modularizarea blockchain-ului îi permite să profite de natura modulară a calculatoarelor. Acesta este un pas necesar în procesul lung de a crea în paralel, un nou blockchain complet optimizat.
 
 ## Caracteristicile platformei Steem
 
@@ -72,7 +72,7 @@ Adresele portofelui folosite de multe tehnologii din blockchain, cum ar fi Bitco
 
 Multi utilizatori care sunt neexperimentați în ceea ce privește cryptocurrency, lupta pentru a înţelege cum funcționează "tokeni magici ai internetului" și ce valoare au de fapt în lumea reală. Pentru a întelege mai bine cum funcționează acest sistem, și pentru a elimina nedumeririle utilizatoriilor care sunt obișnuiți cu bani din sistemul monetar actual, a fost creată o nouă valută criptică, numită Dolari Steem Blockchain (SBD).
 
-Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. Tokeni SBD oferă, de asemenea, o monedă relativ stabilă astfel încât, utilizatorii care să aibe o valoare aproximativă în USD, pot să îi păstreze. O explicaţie mult mai detaliată din punct de vedere tehnic, pote fi găsiteă în documentaţie tehnică a Steem whitepaper. [^12]
+Tokeni SBD au fost concepuți pentru a fi raportați strâns cu valoarea unui USD, astfel încât utilizatorii care îi primesc să poată şti aproximativ cam cât valorează aceștia în “bani reali”. Tokeni SBD oferă, de asemenea, o monedă relativ stabilă pentru cei care doresc să își păstreze valoare contului aproximativă cu valoarea în dolari. O explicaţie mult mai detaliată din punct de vedere tehnic, pote fi găsită în documentaţiea tehnică a Steem whitepaper. [^12]
 
 ### Schimb descentralizat
 
@@ -80,7 +80,7 @@ Steem blockchain oferă un schimb descentralizat de tokeni, similar cu schimbul 
 
 ### Plăţi prin Escrow - împuternicire legală
 
-Caracterul ireversibil al tranzacţiilor din blockchain este o caracteristică importantă de securitate. Există, totuși, multe cazuri în care utilizatorii nu se simt comfortabil să trimită tokeni la un alt individ fără o modalitate de a-i recupera, în cazul în care celălalt utilizator nu își respectă cuvântul. Steem blockchain oferă o modalitate pentru utilizatori să-și trimită monede între ei, cu un terţ, desemnat ca serviciu de împuternicire legală. Utilizatorul acre acţionează ca serviciu de împuternicire legală este capabil să determina dacă sunt îndeplinite condiţiile din acord, şi permite fondurile pentru a fi trimise la destinatar sau returnate expeditorului.
+Caracterul ireversibil al tranzacţiilor din blockchain este o caracteristică importantă de securitate. Există, totuși, multe cazuri în care utilizatorii nu se simt comfortabil să trimită tokeni la un alt individ fără o modalitate de a-i recupera, în cazul în care celălalt utilizator nu își respectă cuvântul. Steem blockchain oferă o modalitate pentru utilizatori de a-și trimită monede între ei, cu un terţ, desemnat ca serviciu de împuternicire legală. Utilizatorul acre acţionează ca serviciu de împuternicire legală este capabil să determie dacă sunt îndeplinite condiţiile din acord, şi permite fondurile de a fi trimise la destinatar sau returnate expeditorului.
 
 ### Structură ierarhică a cheii private
 
@@ -88,7 +88,7 @@ Steem are o structură ierarhică în ceea ce privește cheia privată pentru a 
 
 Aceste chei private sunt cele de Postare, Activă şi cheia Proprietarului. Cheia de Postare permite utilizatorilor să posteze, comenteze, editeze, voteze, resteem [^15], şi să urmărească/mute(să nu mai vadă conținut de la acel user) alte conturi. Cheia activă este menită pentru transferul de fonduri, tranzacţii power up/down, convertirea de Dolari Steem, pentru votarea de witnesses, pentru plasarea de comezi pe piaţă şi resetarea cheii de postare. Cheia proprietarului trebuie să fie utilizată doar atunci când este cu adevărat necesar. Este cea mai importantă și puternică cheie deoarce cu ajutorul ei pot fi schimbate toate celelalte chei, inclusiv cheia propietarului și de asemenea, pentru dovedirea propietății în cazul în care este nevoie de recuperarea contului. Ideal ar trebui să fie stocată offline, şi utilizată numai atunci când cheile contului trebuie să fie schimbate sau să se recupereze contul compromis.
 
-Steem facilitează, de asemenea, utilizarea unei Parole Principale care criptează toate cele trei chei. Serviciile web pot folosi o parolă principală care decriptează și semnează cu cheia privată, când este necesar. Parolele principale le permit utilizatorilor să aibe încredere în anumite servicii, oprind transferarea unor chei către anumite servere. Astfel, se menține un mediu de siguranță pentru utilizator.
+Steem facilitează, de asemenea, utilizarea unei Parole Principale care criptează toate cele trei chei. Atunci când este neceasr, serviciile web pot folosi o parolă principală care decriptează și semnează cu cheia privată. Parolele principale le permit utilizatorilor să aibe încredere în anumite servicii, oprind transferarea unor chei către anumite servere. Astfel, se menține un mediu de siguranță pentru utilizator.
 
 ### Autorităţile Multi Sig
 
@@ -104,25 +104,25 @@ Tokeni Smart Media sunt tokeni nativi care pot fi construiți pe Steem blockchai
 
 ### Recuperarea Conturilor Furate
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Dacă contul unui utilizator este compromis, își poate schimba cheile folosind cheia privată de proprietar. În cazul în care atacatorul este capabil să compromită cheia privată a propietarului și să schimbe parola contului, utilizatorul are 30 de zile în care poată să trimită prin intermediul sistemul Steem de recuperare a conturilor furate și să își recapte controlul asupra contului. Acest lucru poate fi oferit fie de o persoană sau o companie care furnizează servicii de înregistare Steem. Nu este obligatoriu ca registratorul să ofere acest serviciu, dar este disponibil pentru a crește valoarea experienței utilizatorilor.
 
-### Security Through Time-Locks
+### Securitate prin blocări de timp
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Dacă cheia activă sau privată este compromisă, atacatorul ar avea acces la toate fondurile din cont. Deoarce tranzacțiile blockchain sunt ireversibile, utilizatorii nu au nici o modalitate de a-și recupera fondurile furate.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain permite utilizatorilor să își stocheze STEEM și SBD într-un cont de economii, astfel încât fondurile lor să fie retrease după o periodă de așteptare de 3 zile. În plus, STEEM este menținut pe o perioadă de 13 săptămâni și poate fi retras pe o rată de 1/13 pe săptămână, după o perioadă de așteptare de 7 zile. Acești timpi de blocare împiedică atacatorul de a fi capabil să acceseze toate fondurile imediat, astfel încât proprietarul să poată avea control asupra contului înainte ca toate fondurile să fie retrase.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Lățimea benzii limitează operațiunile fără taxă
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Pentru că witnesses sunt plătiți în întregime prin generarea de tokeni noi, nu este nevoie de a cere utilizatorilor o taxă pentru alimentarea blockchain-ului. Singurul motiv pentru a cere o taxă ar fi un factor de descurajare pentru utilizatorii care fac multe tranzacții, care ar putea avea un impact asupra performanțelor blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Pentru a plasa limite rezonabile pentru folosirea sistemului, fiecărui utilizator îi este dată o bandă limitată. De fiecare dată când utilizatorii efectuează operații pe blockchain cum ar fi transferul de tokeni, comentarea sau votarea, își folosesc o porțiune din lățimea benzii. În cazul în care un utilizator își depășește lățimea benzii, trebuie să aștepte un anumit timp până lățimea benzii este reîncărcată.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Limitele lățimii benzii sunt ajustate pe baza rețelei, astfel încât utilizatorii au o lățime mai mare atunci când utilizarea rețelei este mică. Lățimea benzii este direct proporțională cu Puterea Steem pe care o are un utlizator, astfel aceștia își pot crește lățimea benzii prin achiziția de Putere Steem.
 
-## Conclusion
+## Concluzie
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Aceste recompense unice și programul oferit de Steem blockchain și tokeni sunt concepuți pentru a face Steem cunoscut în cryptocurrency pentru utilizatori obișnuiți. Performanța blockchain este proiectată prin răspândirea la scară largă a monedei și platformei. Datorită timpului scurt de procesare a tranzacților și a lipsei taxelor, Steem ar putea deveni unul dintre principlele tehnologii bazate pe blockchain din întreaga lume.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

@@ -36,9 +36,9 @@ Selanjutnya, Steem hanya mengizinkan anggota untuk meberikan suara dengan STEEM 
 
 ## Kecepatan dan skala pada Steem Blockchain
 
-Steem blockchain adalah dirancang menjadi satu dari tercepat dan paling efisien blockchains di adanya, yang mana perlu untuk bisa mendukung itu jumlah dari lalu lintas diharapkan di sebuah sosial media peron lebih besar daripada itu ukuran dari reddit. Steem memiliki sudah melampaui bitcoin di nomor dari transaksi, dan mampu untuk skala mendukung 10,000 atau lebih transaksi per kedua.
+Blockchain Steem dirancang untuk menjadi salah satu yang tercepat dan paling efisien yang ada, hal ini diperlukan untuk dapat mendukung jumlah lalu lintas yang diharapkan pada platform media sosial yang lebih besar dari ukuran Reddit. Steem telah melampaui Bitcoin dalam hal jumlah transaksi, dan mampu ditingkatkan untuk mendukung 10.000 atau lebih transaksi per detik.
 
-### Didelegasikan bukti dari pancang (dpos)
+### Bukti Saham yang Didelegasikan (DPoS)
 
 Sering bottlenecked oleh Proof-of-Work (PoW) [^6], banyak blockchains tidak dapat melakukan skala di luar tiga transaksi per detik, yang merupakan sebagian kecil dari lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem aporta un protocolo de blockchain [^1] escalable para contido publicamente accesible e inmutable, xunto con un token dixital rápido e baixo en comisións (chamado Steem)[^2] o cal permite que a xente gañe a moda usando seu miolo. (o cal é chamado "Proba de Miolo"). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 En comparanza con outras Blockchains, Steem xurde como a primeira base de datos públicamente accesible con almacenamento inmuitable para contido almaceado en forma de texto plano, que incorpora un mecanismo de incentivos. Isto fai Steem unha plataforma pública de publicación na cal, dende calquera aplicación pode se extraer e partillar datos o tempo que se recompensa a aquelas que contribuen co contido mais valioso. .
 

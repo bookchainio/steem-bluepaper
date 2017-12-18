@@ -11,3 +11,4 @@
 * [Filipino](fil-PH/Bluepaper.md)
 * [Português (Brasil)](pt-BR/Bluepaper.md)
 * [Română](ro-RO/Bluepaper.md)
+* [اللغة العربية](ar-SA/Bluepaper.md)

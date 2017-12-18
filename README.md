@@ -17,6 +17,7 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 * [Filipino](fil-PH/Bluepaper.md) [@ruah](https://steemit.com/@ruah)
 * [Portuguese (Brazilian)](pt-BR/Bluepaper.md) [@phgnomo](https://steemit.com/@phgnomo)
 * [Romanian](ro-RO/Bluepaper.md) [@sarmizegetusa](https://steemit.com/@sarmizegetusa)
+* [Arabic](ar-SA/Bluepaper.md) [@samhamou](https://steemit.com/@samhamou)
 
 # Compiling Steem Bluepaper Guide
 

@@ -28,9 +28,9 @@ Dos novos tokens criados pola blockchain Steem cada ano, o 75% deles compoñen o
 
 As usuarias que producen contido está engadindo valor á rede grazas á creación de material que conducirá a novas usuarias á plataforma, ó igual que maneirá as usuarias existentes entretidas e involucradas. Isto axuda a unha distribución da moeda a un amplo sector de usuarias e aumenta o efecto rede. As usuarias que toma tempo en avaliar e votar nos contidos, xogan un papel importante na distribución da moeda ás usuarias que engaden o contido mais valioso. As recompensas da blockchain relativas ó valor baséase na sabiduría colectiva recollidas a traverso do sistema do voto ponderado.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Votando con moedas aforradas para determiñar a asignación das Recompensas
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Os aforros (Sp) poden ser mercados ou gañados. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem funciona baixo o precepto de un-STEEM, un-voto. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Os aforros (Sp) poden ser mercados ou gañados. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

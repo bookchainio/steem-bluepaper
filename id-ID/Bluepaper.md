@@ -40,7 +40,7 @@ Blockchain Steem dirancang untuk menjadi salah satu yang tercepat dan paling efi
 
 ### Bukti Saham yang Didelegasikan (DPoS)
 
-Sering bottlenecked oleh Proof-of-Work (PoW) [^6], banyak blockchains tidak dapat melakukan skala di luar tiga transaksi per detik, yang merupakan sebagian kecil dari lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
+Seringnya algoritma Bukti-Kerja (PoW)[^6] ini mengalami tahap menunggu, banyak dari applikasi Blockchain yang tidak dapat melakukan transaksi di luar transaksi per tiga deitk, yang merupakan sebagian kecil dari keseluruhan lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
 
 Karena DPoS, block block Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
 

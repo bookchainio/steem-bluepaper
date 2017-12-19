@@ -44,7 +44,7 @@ Seringnya algoritma Bukti-Kerja (PoW)[^6] ini mengalami tahap menunggu, banyak d
 
 Karena menggunakan algoritma DPoS, blockchain Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi yang minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
 
-Dengan mendefinisikan peraturan saat terjadi Hardfork, saksi yang dipilih dalam kerangka DPoS dapat memutuskan secara cepat dan efisien apakah akan bergerak maju dengan hardfork yang diusulkan, sehingga protokol blockstrain Steem berkembang lebih cepat daripada kebanyakan yang lain. Blockchain Steem telah berhasil bercabang 18 kali [^8], dan setiap kali terjadi Hardfork, hanya satu rantai yang bertahan setelah garpu.
+Dengan mendefinisikan peraturan saat terjadinya Hardfork, saksi yang dipilih dalam kerangka kerja DPoS dapat memutuskan secara cepat dan efisien apakah akan melangkaj maju dengan hardfork yang diusulkan, sehingga memungkinkan protokol blockchain Steem berkembang lebih cepat daripada kebanyakan lainnya. Blockchain Steem telah berhasil bercabang 18 kali [^8], dan setiap kali terjadi Hardfork, hanya satu rantai yang bertahan setelah garpu.
 
 ### ChainBase
 

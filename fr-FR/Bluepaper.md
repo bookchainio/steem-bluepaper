@@ -70,9 +70,9 @@ Les adresses de portefeuille utilisés par beaucoup des technologies blockchain,
 
 ### STEEM Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Beaucoup d’utilisateurs qui découvrent la monnaie cryptographique ont du mal à comprendre comment les « jetons magique d'internet » décerné par la plate-forme peut effectivement avoir une valeur dans le monde réel. Afin de contribuer à combler la distance entre les systèmes de monnaie fiduciaire plus traditionnels dont les utilisateurs sont plus habitués et les jetons cryptographique dont ils gagnent par le biais de la plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars (SBD) a été créée.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Les jetons de SBD sont conçus pour être liées étroitement à un USD, afin que les utilisateurs qui les reçoivent puissent savoir environ combien ils valent en « dollars réels ». Ceux-ci offrent également une monnaie relativement stable pour les utilisateurs qui veulent les garder, s'ils cherchent à préserver leur valeur du compte par rapport au USD. On trouvera une explication technique détaillée dans le livre blanc technique Steem. [^12]
 
 ### Decentralized Exchange
 

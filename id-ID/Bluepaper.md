@@ -54,7 +54,7 @@ Chainbase[^9] merupakan satu bagian dari basisdata yang terdapat dalam kumpulan 
 
 Basis Aplikasi adalah langkah pertama dalam menciptakan STRUKTUR multi-rantai. Basis Aplikasi memungkinkan komponen-komponen dari blockchain Steem menjadi lebih modular dengan menciptakan tambahan non-konsesus blockchain sebagai plugin tambahan. Plugin ini dapat diperbarui lebih cepat karena plugin-plugin ini tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd[^11] menjadi jauh lebih efisien dan mudah untuk dirawat dan dikembangkan.
 
-Secara praktis, AppBase memungkinkan core yang berbeda, atau bahkan komputer yang berbeda, untuk mempertahankan bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada membutuhkan setiap inti, dan setiap komputer di jaringan mempertahankan keseluruhan blockchain. Modularizing blockchain memungkinkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya paralel dan sepenuhnya optimal.
+Secara praktis, Basis Aplikasi memungkinkan inti sistem yang berbeda, atau bahkan komputer yang berbeda, untuk merawat bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada mengharuskan setiap inti sistem, dan setiap komputer di jaringan merawat keseluruhan blockchain. Modularizing blockchain memungkinkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya paralel dan sepenuhnya optimal.
 
 ## Fitur Platform Steem
 

@@ -48,7 +48,7 @@ En définissant les règles pour lorsque se produit un Hardfork, les témoins, �
 
 ### ChainBase
 
-ChainseBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase est plus rapide à charger et possède un meilleur temps de sortie. De plus, il supporte les accès parallèles à la base de données et il est plus robuste contre les crash par rapport à son prédécesseur. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase est plus rapide à charger et possède un meilleur temps de sortie. De plus, il supporte les accès parallèles à la base de données et il est plus robuste contre les crash par rapport à son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des "snapshotting" instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
 
 ### AppBase
 

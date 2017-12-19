@@ -42,7 +42,7 @@ Blockchain Steem dirancang untuk menjadi salah satu yang tercepat dan paling efi
 
 Seringnya algoritma Bukti-Kerja (PoW)[^6] ini mengalami tahap menunggu, banyak dari applikasi Blockchain yang tidak dapat melakukan transaksi di luar transaksi per tiga deitk, yang merupakan sebagian kecil dari keseluruhan lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
 
-Karena DPoS, block block Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
+Karena menggunakan algoritma DPoS, blockchain Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi yang minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
 
 Dengan mendefinisikan peraturan saat terjadi Hardfork, saksi yang dipilih dalam kerangka DPoS dapat memutuskan secara cepat dan efisien apakah akan bergerak maju dengan hardfork yang diusulkan, sehingga protokol blockstrain Steem berkembang lebih cepat daripada kebanyakan yang lain. Blockchain Steem telah berhasil bercabang 18 kali [^8], dan setiap kali terjadi Hardfork, hanya satu rantai yang bertahan setelah garpu.
 

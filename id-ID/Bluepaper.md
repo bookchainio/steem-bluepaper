@@ -48,7 +48,7 @@ Dengan mendefinisikan peraturan saat terjadinya Hardfork, saksi yang dipilih dal
 
 ### ChainBase
 
-Chainbase[^9] merupakan satu bagian dari basisdata yang terdapat dalam kumpulan blokchain dan menggantikan Graphene[^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses secara paralel ke basisdata dan lebih tahan terhadap kerusakan daripada pendahulunya. Ini juga memiliki database korupsi yang kurang sering, memungkinkan "snapshotting" instan seluruh status database, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
+Chainbase[^9] merupakan satu bagian dari basisdata yang terdapat dalam kumpulan blokchain dan menggantikan Graphene[^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses secara paralel ke basisdata dan lebih tahan terhadap kerusakan daripada pendahulunya. Juga memiliki tingkat kurasakan basisdata yang lebih rendah, memungkin dilakukannya "snapshooting" keseluruhan status basisdata, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
 
 ### Aplikasi Base
 

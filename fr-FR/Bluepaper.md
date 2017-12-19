@@ -34,13 +34,13 @@ STEEM opère sur la base de un-STEEM, un-vote. Selon ce modéle, les personnes c
 
 De plus, Steem permet seulement aux membres de voter avec des STEEM quand ceux-ci sont soumis à un temps d'acquisition de 13 semaines appelé Steem Power. Selon ce modèle, les membres ont un incitatif financier pour voter d’une manière qui maximise la valeur à long terme de leur STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## La rapidité et l'ampleur sur la Steem Blockchain
 
 La Blockchain Steem est conçue pour une des plus rapide et efficace existante, ce qui est nécessaire afin de pouvoir prendre en charge le volume du trafic prévu sur une plateforme de médias sociaux suppérieure à la taille de Reddit. Steem à déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour supporter 10.000 ou plus transactions par seconde.
 
 ### Délégation Proof of Stake (DPoS)
 
-Souvent encombré par le Proof-of-Work (PoW / preuve de travail) [^6] beaucoup deblockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) [^7] à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
+Souvent encombré par le Proof-of-Work (PoW / preuve de travail) [^6] beaucoup de Blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) [^7] à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
 
 Grâce à DPoS, la blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
 
@@ -48,7 +48,7 @@ En définissant les règles pour lorsque se produit un Hardfork, les témoins, �
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainseBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase est plus rapide à charger et possède un meilleur temps de sortie. De plus, il supporte les accès parallèles à la base de données et il est plus robuste contre les crash par rapport à son prédécesseur. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

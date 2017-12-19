@@ -32,11 +32,11 @@ Les utilisateurs qui produisent du contenu ajoutent de la valeur au réseau en c
 
 STEEM opère sur la base de un-STEEM, un-vote. Selon ce modéle, les personnes contribuant le plus sur la plateforme, telle que mesurée par le solde de leur compte, ont plus d'influence sur comment les contributions sont notées. La participation peut être achetée ou gagnée. Utilisateurs ne peuvent pas acquérir une influence supplémentaire en possédant des comptes multiples, depuis un seul compte avec un montant de jeu aura la même influence que deux comptes différents, partage le même montant de mise. La seule manière dont les utilisateurs d'augmenter leur influence surla plateforme est d'augmenter leur participation.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Selon ce modèle, les membres ont un incitatif financier pour voter d’une manière qui maximise la valeur à long terme de leur STEEM.
+De plus, Steem permet seulement aux membres de voter avec des STEEM quand ceux-ci sont soumis à un temps d'acquisition de 13 semaines appelé Steem Power. Selon ce modèle, les membres ont un incitatif financier pour voter d’une manière qui maximise la valeur à long terme de leur STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 
-La Blockchain Steem est conçue pourune des olus rapide et efficace existante, ce qui est nécessaire afin de pouvoir prendre en charge le volume du trafic prévu sur une plateforme de médias sociaux suppérieure à la taille de Reddit. Steem à déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour supporter 10.000 ou plus transactions par seconde.
+La Blockchain Steem est conçue pour une des plus rapide et efficace existante, ce qui est nécessaire afin de pouvoir prendre en charge le volume du trafic prévu sur une plateforme de médias sociaux suppérieure à la taille de Reddit. Steem à déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour supporter 10.000 ou plus transactions par seconde.
 
 ### Délégation Proof of Stake (DPoS)
 

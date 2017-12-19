@@ -50,9 +50,9 @@ Dengan mendefinisikan peraturan saat terjadinya Hardfork, saksi yang dipilih dal
 
 Chainbase[^9] merupakan satu bagian dari basisdata yang terdapat dalam kumpulan blokchain dan menggantikan Graphene[^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses secara paralel ke basisdata dan lebih tahan terhadap kerusakan daripada pendahulunya. Juga memiliki tingkat kurasakan basisdata yang lebih rendah, memungkin dilakukannya "snapshooting" keseluruhan status basisdata, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
 
-### Aplikasi Base
+### Basis Aplikasi (AppBase)
 
-AppBase adalah langkah pertama dalam menciptakan multi chain FABRIC. AppBase memungkinkan banyak komponen blokir Steem menjadi modular dengan menciptakan tambahan blokade non-konsensus sebagai plugin khusus. Plugin ini dapat diperbarui lebih cepat karena mereka tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd [^11] jauh lebih efisien dan mudah untuk mempertahankan dan skala.
+Basis Aplikasi adalah langkah pertama dalam menciptakan STRUKTUR multi-rantai. Basis Aplikasi memungkinkan komponen-komponen dari blockchain Steem menjadi lebih modular dengan menciptakan tambahan non-konsesus blockchain sebagai plugin tambahan. Plugin ini dapat diperbarui lebih cepat karena plugin-plugin ini tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd[^11] menjadi jauh lebih efisien dan mudah untuk dirawat dan dikembangkan.
 
 Secara praktis, AppBase memungkinkan core yang berbeda, atau bahkan komputer yang berbeda, untuk mempertahankan bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada membutuhkan setiap inti, dan setiap komputer di jaringan mempertahankan keseluruhan blockchain. Modularizing blockchain memungkinkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya paralel dan sepenuhnya optimal.
 

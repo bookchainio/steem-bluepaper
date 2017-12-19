@@ -52,9 +52,9 @@ ChainBase[^9] est la portion base de données de la pile blockchain et remplace 
 
 ### AppBase
 
-AppBase est le premier à créer une chaîne-multiple FABRIC. AppBase permet de nombreuses composantes du blockchain Steem pour devenir modulaire en de nouveaux blockchains sans consensus comme plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
+AppBase est la première étape dans la création d’une chaîne multiple FABRIC. AppBase permet de nombreuses composantes du blockchain Steem pour devenir modulaire en de nouveaux blockchains sans consensus comme plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Pratiquement parlant, AppBase permet différents coeurs, ou même différents ordinateurs, pour maintenir les différentes parties de la blockchain Steem. Ceci est nettement plus efficace que d’exiger de tous les cœurs et tous les ordinateurs dans le réseau de maintenir l’ensemble blockchain. La modularisation du blockchain lui permet de profiter pleinement de la nature modulaire des ordinateurs. Il s’agit d’une étape nécessaire dans le long processus de création d’une blockchain entièrement parallèle et entièrement optimisé.
 
 ## Fonctionnalités de la plateforme de STEEM
 
@@ -68,7 +68,7 @@ Steem offre aux utilisateurs la capacité unique de publier et de stocker diffé
 
 Les adresses de portefeuille utilisés par beaucoup des technologies blockchain, telles que Bitcoin et Ethereum, consistait historiquement de longues chaînes aléatoire de lettres et de chiffres, toutefois, ces adresses de portefeuille peuvent rendre difficile à effectuer des transactions avec d’autres utilisateurs dans un contexte typique de médias sociaux en ligne parce que les utilisateurs sont incapables de se rappeler des adresses a longue chaîne de character en mémoire. La blockchain Steem utilise le nom d’utilisateur de chaque participant comme leur adresse de portefeuille, ce qui renforce l’expérience utilisateur pour les participants qui tentent d’envoyer les jetons parce qu’ils peuvent vérifier les adresses de leur propre mémoire.
 
-### Steem Blockchain Dollars (SBD)
+### STEEM Blockchain Dollars (SBD)
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 

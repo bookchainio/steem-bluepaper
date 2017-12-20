@@ -62,7 +62,7 @@ Blockchain Steem memiliki tujuan ganda sebagai sistem pemrosesan mata uang digit
 
 ### Rancangan Sederhana untuk Aplikasi Konten
 
-Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
+Steem menawarkan kepada pengguna kemampuan unik untuk menerbitkan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku besar yang tidak berubah dari blockchain sebagai teks biasa. Setelah tersimpan di blockchain, data akan tersedia secara umum untuk digunakan oleh para pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
 
 ### Nama asli sistem
 

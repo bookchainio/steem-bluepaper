@@ -68,9 +68,9 @@ Steem menawarkan kepada pengguna kemampuan unik untuk menerbitkan dan menyimpan 
 
 Alamat Wallet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat Wallet ini dapat menyulitkan proses transaksi dengan pengguna lain dalam konteks media sosial-media biasa karena pengguna tidak dapat mengingat alamat string yan panjang dari memori. Blockchain Steem menggunakan nama pengguna masing-masing sebagai alamat wallet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim mata uang digital karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
 
-### Steem Blockchain dolar (SBD)
+### Steem Blockchain Dolar (SBD)
 
-Banyak pengguna yang diperkenalkan dengan perjuangan kriptocurrency untuk memahami bagaimana "token internet ajaib" yang diberikan oleh platform dapat benar-benar memiliki nilai dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang fiat tradisional yang lebih banyak digunakan pengguna arus utama, dan token kriptokokus yang mereka dapatkan melalui platform, mata uang baru bernama Steem Blockchain Dollars (SBD) telah dibuat.
+Banyak pengguna yang diperkenalkan dengan mata uang kripto berjuang untuk memahami bagaimana "mata uang internet ajaib" yang diberikan oleh suatu platform dapat benar-benar memiliki nilai di dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang yang disetujui secara tradisional yang lebih banyak digunakan oleh pengguna arus utama, dan token mata uang kripto yang mereka dapatkan melalui platform, maka mata uang baru bernama Steem Blockchain Dollars (SBD) dibuat.
 
 Token SBD dirancang untuk dipatok mendekati satu USD, sehingga pengguna yang menerimanya dapat mengetahui kira-kira berapa nilainya dalam istilah "dolar riil". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna untuk dipegang jika mereka ingin mempertahankan nilai akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di whitepaper teknis Steem. [^12]
 

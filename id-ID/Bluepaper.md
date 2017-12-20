@@ -62,11 +62,11 @@ Blockchain Steem memiliki tujuan ganda sebagai sistem pemrosesan mata uang digit
 
 ### Rancangan Sederhana untuk Aplikasi Konten
 
-Steem menawarkan kepada pengguna kemampuan unik untuk menerbitkan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku besar yang tidak berubah dari blockchain sebagai teks biasa. Setelah tersimpan di blockchain, data akan tersedia secara umum untuk digunakan oleh para pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
+Steem menawarkan kepada pengguna kemampuan unik untuk menerbitkan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku besar yang tidak berubah dari blockchain sebagai teks biasa. Setelah tersimpan di blockchain, data akan tersedia secara umum untuk digunakan oleh para pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang yang baru memulai blockchain dapat membuatnya, termasuk Nama Akun, Posting, Komentar, Pemberian suara, dan Saldo rekening.
 
-### Nama asli sistem
+### Sistem Nama Asli
 
-Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat dompet ini dapat menyulitkan bertransaksi dengan pengguna lain dalam konteks media sosial-media biasa. pengguna tidak dapat mengingat alamat string panjang dari memori. Steem Blockchain menggunakan nama pengguna masing-masing peserta sebagai alamat dompet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim token karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
+Alamat Wallet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat Wallet ini dapat menyulitkan proses transaksi dengan pengguna lain dalam konteks media sosial-media biasa karena pengguna tidak dapat mengingat alamat string yan panjang dari memori. Blockchain Steem menggunakan nama pengguna masing-masing sebagai alamat wallet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim mata uang digital karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
 
 ### Steem Blockchain dolar (SBD)
 

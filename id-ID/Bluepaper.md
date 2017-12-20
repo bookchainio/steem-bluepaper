@@ -58,9 +58,9 @@ Secara praktis, Basis Aplikasi memungkinkan inti sistem yang berbeda, atau bahka
 
 ## Fitur Platform Steem
 
-Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, serta platform media sosial arus utama. Fitur yang ditawarkan oleh blockchain perlu mendukung kedua tujuan tersebut, dan memberi pengguna pengalaman kelas dunia saat menggunakan kedua aspek platform.
+Blockchain Steem memiliki tujuan ganda sebagai sistem pemrosesan mata uang digital, serta platform media sosial utama. Fitur-fitur yang ditawarkan oleh blockchain perlu mendukung kedua tujuan tersebut, dan memberi pengguna pengalaman kelas dunia saat menggunakan kedua aspek platform tersebut.
 
-### Primitif Dirancang untuk Aplikasi Konten
+### Rancangan Sederhana untuk Aplikasi Konten
 
 Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
 

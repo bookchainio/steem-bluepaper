@@ -74,9 +74,9 @@ Banyak pengguna yang baru diperkenalkan dengan mata uang kripto berusaha untuk m
 
 Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang menerimanya dapat mengetahui taksiran nilainya dalam istilah "dollar yang nyata". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna yang ingin tetap menyimpannya jika mereka ingin mempertahankan nilai dari akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di panduan teknis Steem whitepaper. [^12]
 
-### Bursa Terdesentralisasi
+### Pasar Saham yang Terdesentralisasi
 
-Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip dengan pertukaran Bitshares. [^13] Pertukaran tersebut memungkinkan pengguna untuk menukar token STEEM dan SBD mereka melalui pasar peer-to-peer terdesentralisasi publik. Pengguna bisa melakukan order beli dan jual, dan order matching dilakukan secara otomatis oleh blockchain. Ada juga buku pesanan dan riwayat ketertiban yang dapat diakses oleh publik yang dapat digunakan pengguna untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran secara langsung menggunakan API blockchain, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
+Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan pengguna untuk menukar token STEEM dan SBD mereka melalui pasar peer-to-peer terdesentralisasi publik. Pengguna bisa melakukan order beli dan jual, dan order matching dilakukan secara otomatis oleh blockchain. Ada juga buku pesanan dan riwayat ketertiban yang dapat diakses oleh publik yang dapat digunakan pengguna untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran secara langsung menggunakan API blockchain, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
 
 ### Pembayaran melalui Escrow
 

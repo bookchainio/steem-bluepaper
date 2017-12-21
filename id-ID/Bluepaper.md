@@ -76,7 +76,7 @@ Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang mener
 
 ### Pasar Saham yang Terdesentralisasi
 
-Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan pengguna untuk menukar token STEEM dan SBD mereka melalui pasar peer-to-peer terdesentralisasi publik. Pengguna bisa melakukan order beli dan jual, dan order matching dilakukan secara otomatis oleh blockchain. Ada juga buku pesanan dan riwayat ketertiban yang dapat diakses oleh publik yang dapat digunakan pengguna untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran secara langsung menggunakan API blockchain, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
+Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan para pengguna untuk melakukan pertukaran token STEEM dan SBD milik mereka melalui pasar umum yang terdesentralisasi melalui orang ke orang. Pengguna bisa melakukan order beli dan jual, dan order matching dilakukan secara otomatis oleh blockchain. Ada juga buku pesanan dan riwayat ketertiban yang dapat diakses oleh publik yang dapat digunakan pengguna untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran secara langsung menggunakan API blockchain, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
 
 ### Pembayaran melalui Escrow
 

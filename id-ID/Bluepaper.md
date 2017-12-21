@@ -80,7 +80,7 @@ Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa 
 
 ### Pembayaran Melalui Pihak Ketiga
 
-Sifat yang tidak dapat diubah dari transaksi di blockchain merupakan fitur keamanan yang sangat penting, walaupun ada banyak kasus di mana pengguna mungkin merasa tidak nyaman mengirimkan token mereka ke orang lain tanpa bisa mendapatkan kembali jika pengguna lain tidak menyetujui akhir perjanjian mereka. Blockchain Steem menyediakan cara bagi pengguna untuk mengirimkan koin satu sama lain dengan pihak ketiga yang ditunjuk sebagai penengah. Pengguna yang bertindak sebagai escrow layanan dapat menentukan apakah syarat kesepakatan telah terpenuhi, dan memungkinkan dana dilepaskan ke receiver atau dikembalikan ke pengirim.
+Sifat yang tidak dapat diubah dari transaksi di blockchain merupakan fitur keamanan yang sangat penting, walaupun ada banyak kasus di mana pengguna mungkin merasa tidak nyaman mengirimkan token mereka ke orang lain tanpa bisa mendapatkan kembali jika pengguna lain tidak menyetujui akhir perjanjian mereka. Blockchain Steem menyediakan cara bagi pengguna untuk mengirimkan koin satu sama lain dengan pihak ketiga yang ditunjuk sebagai penengah. Pengguna yang bertindak sebagai layanan pihak ketiga dapat menentukan apakah syarat-syarat kesepakatan telah terpenuhi, dan memungkinkan dana diberikan ke penerima atau dikembalikan ke pengirim.
 
 ### Struktur Kunci Pribadi Hirarkis
 

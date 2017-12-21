@@ -76,11 +76,11 @@ Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang mener
 
 ### Pasar Saham yang Terdesentralisasi
 
-Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan para pengguna untuk melakukan pertukaran token STEEM dan SBD milik mereka melalui pasar umum yang terdesentralisasi melalui orang ke orang. Pengguna dapat melakukan pembelian atau penjualan, dan pencocokan permintaan dilakukan secara otomatis oleh blockchain. Juga tersedia buku dan riwayat permintaan yang dapat diakses secara publik sehingga pengguna dapat menganalisa pasar. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan para pengguna untuk melakukan pertukaran token STEEM dan SBD milik mereka melalui pasar umum yang terdesentralisasi melalui orang ke orang. Pengguna dapat melakukan pembelian atau penjualan, dan pencocokan permintaan dilakukan secara otomatis oleh blockchain. Juga tersedia buku dan riwayat permintaan yang dapat diakses secara publik sehingga pengguna dapat menganalisa pasar. Pengguna dapat langsung berinteraksi dengan pasar saham secara langsung menggunakan API blockchain, atau menggunakan antarmuka grafis seperti yang ada di Steemit.com.[^14]
 
-### Pembayaran melalui Escrow
+### Pembayaran Melalui Pihak Ketiga
 
-Sifat yang tidak dapat diubah dari transaksi blockchain adalah fitur keamanan yang penting, walaupun ada banyak kasus di mana pengguna mungkin tidak nyaman mengirimkan token mereka ke orang lain tanpa cara mendapatkannya kembali jika pengguna lain tidak menahan akhir perjanjian mereka. Steem blockchain menyediakan cara bagi pengguna untuk mengirim uang ke satu sama lain dengan pihak ketiga yang ditunjuk sebagai layanan escrow. Pengguna yang bertindak sebagai escrow layanan dapat menentukan apakah syarat kesepakatan telah terpenuhi, dan memungkinkan dana dilepaskan ke receiver atau dikembalikan ke pengirim.
+Sifat yang tidak dapat diubah dari transaksi di blockchain merupakan fitur keamanan yang sangat penting, walaupun ada banyak kasus di mana pengguna mungkin merasa tidak nyaman mengirimkan token mereka ke orang lain tanpa bisa mendapatkan kembali jika pengguna lain tidak menyetujui akhir perjanjian mereka. Blockchain Steem menyediakan cara bagi pengguna untuk mengirimkan koin satu sama lain dengan pihak ketiga yang ditunjuk sebagai penengah. Pengguna yang bertindak sebagai escrow layanan dapat menentukan apakah syarat kesepakatan telah terpenuhi, dan memungkinkan dana dilepaskan ke receiver atau dikembalikan ke pengirim.
 
 ### Struktur Kunci Pribadi Hirarkis
 

@@ -76,7 +76,7 @@ Les jetons de SBD sont conçus pour être liées étroitement à un USD, afin qu
 
 ### Échange décentralisé
 
-Le blockchain Steem propose un échange symbolique décentralisé, semblable à l’échange de Bitshares. [^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Le blockchain Steem propose un échange symbolique décentralisé, semblable à l’échange de Bitshares. [^13] L’échange permet aux utilisateurs d’échanger leurs jetons STEEM et SBD grâce à un marché public de peer-to-peer décentralisé. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

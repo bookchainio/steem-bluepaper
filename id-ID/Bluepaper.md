@@ -72,7 +72,7 @@ Alamat Wallet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin d
 
 Banyak pengguna yang baru diperkenalkan dengan mata uang kripto berusaha untuk memahami bagaimana "mata uang internet ajaib" yang diberikan oleh suatu platform dapat benar-benar memiliki nilai di dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang yang disetujui secara tradisional yang lebih banyak digunakan oleh pengguna arus utama, dan token mata uang kripto yang mereka dapatkan melalui sebuah platform, maka mata uang baru bernama Steem Blockchain Dollars (SBD) dibuat.
 
-Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang menerimanya dapat mengetahui taksiran nilainya dalam istilah "dollar yang nyata". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna untuk dipegang jika mereka ingin mempertahankan nilai akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di whitepaper teknis Steem. [^12]
+Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang menerimanya dapat mengetahui taksiran nilainya dalam istilah "dollar yang nyata". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna yang ingin tetap menyimpannya jika mereka ingin mempertahankan nilai dari akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di panduan teknis Steem whitepaper. [^12]
 
 ### Bursa Terdesentralisasi
 

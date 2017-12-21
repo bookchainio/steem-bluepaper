@@ -80,9 +80,9 @@ Le blockchain Steem propose un échange symbolique décentralisé, semblable à 
 
 ### Paiements par l’intermédiaire de tiers de confiance
 
-Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. Le blockchain Steem offre un moyen aux utilisateurs d’envoyer des jetons l'un à l’autre avec une tierce partie désignée comme un service d’entiercement. L’utilisateur agissant comme le service d'entiercement est en mesure de déterminer si les termes de l’accord ont été respectées et libérer les fonds au récepteur ou retourné à l’expéditeur.
 
-### Hierarchical Private Key Structure
+### Structure hiérarchique de clé privé
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

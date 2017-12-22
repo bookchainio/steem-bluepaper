@@ -94,9 +94,9 @@ Steem juga memfasilitasi penggunaan Master Password yang mengenkripsi ketiga tom
 
 Blockchain Steem memungkinkan sebuah otoritas untuk dibagi menjadi beberapa entitas, sehingga beberapa pengguna dapat berbagi otoritas yang sama, atau beberapa entitas dibutuhkan untuk memberikan otorisasi agar sebuah transaksi menjadi sah. Hal ini dilakukan dengan cara yang sama seperti halnya Bitshares [^16] di mana setiap pasangan dari kunci publik/pribadi diberikan bobot, dan ambang batas didefinisikan bagi yang memilikik otoritas. Agar sebuah transaksi menjadi sah, entitas yang melakukan penandatanganan harus dirasa cukup sehingga jumlah bobot harus memenuhi atau melampaui ambang batas.
 
-### Beberapa penerima manfaat Reward
+### Penerima manfaat dari Penghargaan Berganda
 
-Untuk jabatan tertentu mungkin ada sejumlah orang yang berbeda yang memiliki kepentingan finansial dalam penghargaan tersebut. Ini termasuk penulis, kemungkinan rekan penulis, perujuk, penyedia hosting, blog yang menyematkan komentar blockchain, dan pengembang alat. Apa pun situs web atau alat yang digunakan untuk membuat pos atau komentar akan memiliki kemampuan untuk menentukan bagaimana imbalan dari komentar tersebut dibagi di antara berbagai pihak. Hal ini memungkinkan berbagai bentuk kolaborasi, dan juga cara untuk platform yang dibangun di atas blokir Steem untuk mengumpulkan sebagian dari penghargaan dari penggunanya.
+Untuk setiap postingan yang dimuat mungkin ada sejumlah orang yang berbeda yang mendapatkan keuntungan finansial sebagai penghargaan. Ini termasuk penulis, kemungkinan rekan penulis, perujuk, penyedia hosting, blog yang menyematkan komentar blockchain, dan pengembang alat. Apa pun situs web atau alat yang digunakan untuk membuat pos atau komentar akan memiliki kemampuan untuk menentukan bagaimana imbalan dari komentar tersebut dibagi di antara berbagai pihak. Hal ini memungkinkan berbagai bentuk kolaborasi, dan juga cara untuk platform yang dibangun di atas blokir Steem untuk mengumpulkan sebagian dari penghargaan dari penggunanya.
 
 ### Smart Media Token (SMT)
 

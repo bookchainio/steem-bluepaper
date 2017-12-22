@@ -2,7 +2,7 @@
 
 ## 소 개
 
-스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 수수료가 없고, 빠른 디지털 토큰(STEEM 이라고 부른다)[^2] 기반의 확장 가능한 블록체인 프로토콜[^1]을 제공한다. 지능(brain) 활동을 통해 화폐를 벌 수 있기 때문에 이를 "지능 증명" (Proof-of-Brain) 이라고 부른다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존적이기 때문에 서로의 존재는 필수적인 것이다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 능가하고 있다.[^3]
+스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 수수료가 없고, 빠른 디지털 토큰(STEEM)[^2] 기반의 확장 가능한 블록체인 프로토콜[^1]을 제공한다. 지능(brain) 활동을 통해 화폐를 벌 수 있기 때문에 이를 "지능 증명" (Proof-of-Brain) 이라고 부른다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존적이기 때문에 서로의 존재는 필수적인 것이다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 능가하고 있다.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

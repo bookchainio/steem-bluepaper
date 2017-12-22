@@ -31,5 +31,6 @@ pandoc -s Bluepaper.md --to=markdown_mmd --atx-headers --wrap=none -o SteemBluep
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-bluepaper/localized.svg)](https://crowdin.com/project/steem-bluepaper)
 
-If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
-https://crowdin.com/project/steem-bluepaper
+Translation should be done in the [Steem Bluepape Crowdin translation project](https://crowdin.com/project/steem-bluepaper) which you can join using following [link](https://crowdin.com/project/steem-bluepaper).
+
+If you have a questions or want to add new language, please contact [@testz](https://steemit.com/@testz) in [Utopian Discord transaltors channel](https://discord.gg/VsyduEe).

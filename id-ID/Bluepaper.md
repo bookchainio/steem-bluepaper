@@ -42,45 +42,45 @@ Blockchain Steem dirancang untuk menjadi salah satu yang tercepat dan paling efi
 
 Seringnya algoritma Bukti-Kerja (PoW)[^6] ini mengalami tahap menunggu, banyak dari applikasi Blockchain yang tidak dapat melakukan transaksi di luar transaksi per tiga deitk, yang merupakan sebagian kecil dari keseluruhan lalu lintas keuangan dunia. Steem membutuhkan skala dan kecepatan yang jauh lebih banyak daripada yang ditawarkan oleh PoW, dan algoritma yang lebih rendah yang disebut Delegated Proof of Stake (DPoS) [^7] dimanfaatkan untuk meletakkan fondasi bagi blockchain yang sesuai untuk miliaran pengguna.
 
-Karena DPoS, block block Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
+Karena menggunakan algoritma DPoS, blockchain Steem mampu menghasilkan blok baru setiap 3 detik dengan beban komputasi yang minimal. Ini berarti bahwa blockchain dapat memproses lebih banyak transaksi dan menyimpan lebih banyak informasi, termasuk konten.
 
-Dengan mendefinisikan peraturan saat terjadi Hardfork, saksi yang dipilih dalam kerangka DPoS dapat memutuskan secara cepat dan efisien apakah akan bergerak maju dengan hardfork yang diusulkan, sehingga protokol blockstrain Steem berkembang lebih cepat daripada kebanyakan yang lain. Blockchain Steem telah berhasil bercabang 18 kali [^8], dan setiap kali terjadi Hardfork, hanya satu rantai yang bertahan setelah garpu.
+Dengan mendefinisikan peraturan saat terjadinya Hardfork, saksi yang dipilih dalam kerangka kerja DPoS dapat memutuskan secara cepat dan efisien apakah akan melangkaj maju dengan hardfork yang diusulkan, sehingga memungkinkan protokol blockchain Steem berkembang lebih cepat daripada kebanyakan lainnya. Blockchain Steem telah berhasil di-fork sebanyak 18 kali [^8], dan setiap kali Hardfork dilakukan, hanya satu rantai yang tersisa setelah aktifitas fork.
 
 ### ChainBase
 
-ChainBase [^9] adalah bagian database tumpukan blokir dan mengganti Graphene [^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses paralel ke database dan lebih kuat melawan crash daripada pendahulunya. Ini juga memiliki database korupsi yang kurang sering, memungkinkan "snapshotting" instan seluruh status database, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
+Chainbase[^9] merupakan satu bagian dari basisdata yang terdapat dalam kumpulan blokchain dan menggantikan Graphene[^10] pada tahun 2016. ChainBase memiliki waktu muat dan keluar yang lebih cepat, mendukung akses secara paralel ke basisdata dan lebih tahan terhadap kerusakan daripada pendahulunya. Juga memiliki tingkat kurasakan basisdata yang lebih rendah, memungkin dilakukannya "snapshooting" keseluruhan status basisdata, dan dapat melayani lebih banyak permintaan RPC dari memori yang sama.
 
-### Aplikasi Base
+### Basis Aplikasi (AppBase)
 
-AppBase adalah langkah pertama dalam menciptakan multi chain FABRIC. AppBase memungkinkan banyak komponen blokir Steem menjadi modular dengan menciptakan tambahan blokade non-konsensus sebagai plugin khusus. Plugin ini dapat diperbarui lebih cepat karena mereka tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd [^11] jauh lebih efisien dan mudah untuk mempertahankan dan skala.
+Basis Aplikasi adalah langkah pertama dalam menciptakan STRUKTUR multi-rantai. Basis Aplikasi memungkinkan komponen-komponen dari blockchain Steem menjadi lebih modular dengan menciptakan tambahan non-konsesus blockchain sebagai plugin tambahan. Plugin ini dapat diperbarui lebih cepat karena plugin-plugin ini tidak memerlukan pengulangan seluruh blockchain. Hal ini membuat steemd[^11] menjadi jauh lebih efisien dan mudah untuk dirawat dan dikembangkan.
 
-Secara praktis, AppBase memungkinkan core yang berbeda, atau bahkan komputer yang berbeda, untuk mempertahankan bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada membutuhkan setiap inti, dan setiap komputer di jaringan mempertahankan keseluruhan blockchain. Modularizing blockchain memungkinkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya paralel dan sepenuhnya optimal.
+Secara praktis, Basis Aplikasi memungkinkan inti sistem yang berbeda, atau bahkan komputer yang berbeda, untuk merawat bagian yang berbeda dari blockchain Steem. Ini secara signifikan lebih efisien daripada mengharuskan setiap inti sistem, dan setiap komputer di jaringan merawat keseluruhan blockchain. Modularisasi blockchain memungkinkannya untuk mendapat keuntungan dari sifat dasar komputer yang modular. Ini adalah salah satu langkah penting dalam proses panjang pembuatan blockchain yang sepenuhnya bersifat paralel dan optimal.
 
 ## Fitur Platform Steem
 
-Steem blockchain melayani tujuan ganda sebagai sistem pemrosesan token digital, serta platform media sosial arus utama. Fitur yang ditawarkan oleh blockchain perlu mendukung kedua tujuan tersebut, dan memberi pengguna pengalaman kelas dunia saat menggunakan kedua aspek platform.
+Blockchain Steem memiliki tujuan ganda sebagai sistem pemrosesan mata uang digital, serta platform media sosial utama. Fitur-fitur yang ditawarkan oleh blockchain perlu mendukung kedua tujuan tersebut, dan memberi pengguna pengalaman kelas dunia saat menggunakan kedua aspek platform tersebut.
 
-### Primitif Dirancang untuk Aplikasi Konten
+### Rancangan Sederhana untuk Aplikasi Konten
 
-Steem menawarkan kepada pengguna kemampuan unik untuk mempublikasikan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku teks yang tidak berubah dari blockchain sebagai teks biasa. Setelah disimpan di blockchain, data tersedia untuk pengembangan pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang primitif blockchain dapat membangun dari termasuk nama akun, Post, Komentar, Suara dan Saldo rekening.
+Steem menawarkan kepada pengguna kemampuan unik untuk menerbitkan dan menyimpan berbagai jenis konten secara langsung dan permanen ke dalam buku besar yang tidak berubah dari blockchain sebagai teks biasa. Setelah tersimpan di blockchain, data akan tersedia secara umum untuk digunakan oleh para pengembang. Pengembang dapat berinteraksi dengan konten secara langsung di blockchain menggunakan API yang tersedia. Beberapa pengembang yang baru memulai blockchain dapat membuatnya, termasuk Nama Akun, Posting, Komentar, Pemberian suara, dan Saldo rekening.
 
-### Nama asli sistem
+### Sistem Nama Asli
 
-Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat dompet ini dapat menyulitkan bertransaksi dengan pengguna lain dalam konteks media sosial-media biasa. pengguna tidak dapat mengingat alamat string panjang dari memori. Steem Blockchain menggunakan nama pengguna masing-masing peserta sebagai alamat dompet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim token karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
+Alamat Wallet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari string dan angka acak yang panjang, namun alamat Wallet ini dapat menyulitkan proses transaksi dengan pengguna lain dalam konteks media sosial-media biasa karena pengguna tidak dapat mengingat alamat string yan panjang dari memori. Blockchain Steem menggunakan nama pengguna masing-masing sebagai alamat wallet mereka, yang memperkuat pengalaman pengguna bagi peserta yang mencoba mengirim mata uang digital karena mereka dapat memverifikasi alamat dari ingatan mereka sendiri.
 
-### Steem Blockchain dolar (SBD)
+### Steem Blockchain Dolar (SBD)
 
-Banyak pengguna yang diperkenalkan dengan perjuangan kriptocurrency untuk memahami bagaimana "token internet ajaib" yang diberikan oleh platform dapat benar-benar memiliki nilai dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang fiat tradisional yang lebih banyak digunakan pengguna arus utama, dan token kriptokokus yang mereka dapatkan melalui platform, mata uang baru bernama Steem Blockchain Dollars (SBD) telah dibuat.
+Banyak pengguna yang baru diperkenalkan dengan mata uang kripto berusaha untuk memahami bagaimana "mata uang internet ajaib" yang diberikan oleh suatu platform dapat benar-benar memiliki nilai di dunia nyata. Untuk membantu menjembatani kesenjangan antara sistem uang yang disetujui secara tradisional yang lebih banyak digunakan oleh pengguna arus utama, dan token mata uang kripto yang mereka dapatkan melalui sebuah platform, maka mata uang baru bernama Steem Blockchain Dollars (SBD) dibuat.
 
-Token SBD dirancang untuk dipatok mendekati satu USD, sehingga pengguna yang menerimanya dapat mengetahui kira-kira berapa nilainya dalam istilah "dolar riil". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna untuk dipegang jika mereka ingin mempertahankan nilai akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di whitepaper teknis Steem. [^12]
+Token SBD dirancang untuk mendekati harga satu USD, sehingga pengguna yang menerimanya dapat mengetahui taksiran nilainya dalam istilah "dollar yang nyata". Token SBD juga menawarkan mata uang yang relatif stabil bagi pengguna yang ingin tetap menyimpannya jika mereka ingin mempertahankan nilai dari akun mereka relatif terhadap USD. Penjelasan teknis yang lebih rinci dapat ditemukan di panduan teknis Steem whitepaper. [^12]
 
-### Bursa Terdesentralisasi
+### Pasar Saham yang Terdesentralisasi
 
-Steem blockchain menawarkan pertukaran token yang terdesentralisasi, mirip dengan pertukaran Bitshares. [^13] Pertukaran tersebut memungkinkan pengguna untuk menukar token STEEM dan SBD mereka melalui pasar peer-to-peer terdesentralisasi publik. Pengguna bisa melakukan order beli dan jual, dan order matching dilakukan secara otomatis oleh blockchain. Ada juga buku pesanan dan riwayat ketertiban yang dapat diakses oleh publik yang dapat digunakan pengguna untuk menganalisis pasar. Pengguna dapat berinteraksi dengan pertukaran secara langsung menggunakan API blockchain, atau menggunakan GUI seperti yang ada di Steemit.com. [^14]
+Blockchain Steem menawarkan pertukaran mata uang yang terdesentralisasi, serupa dengan pertukaran Bitshare.[^13] Pertukaran tersebut memungkinkan para pengguna untuk melakukan pertukaran token STEEM dan SBD milik mereka melalui pasar umum yang terdesentralisasi melalui orang ke orang. Pengguna dapat melakukan pembelian atau penjualan, dan pencocokan permintaan dilakukan secara otomatis oleh blockchain. Juga tersedia buku dan riwayat permintaan yang dapat diakses secara publik sehingga pengguna dapat menganalisa pasar. Pengguna dapat langsung berinteraksi dengan pasar saham secara langsung menggunakan API blockchain, atau menggunakan antarmuka grafis seperti yang ada di Steemit.com.[^14]
 
-### Pembayaran melalui Escrow
+### Pembayaran Melalui Pihak Ketiga
 
-Sifat yang tidak dapat diubah dari transaksi blockchain adalah fitur keamanan yang penting, walaupun ada banyak kasus di mana pengguna mungkin tidak nyaman mengirimkan token mereka ke orang lain tanpa cara mendapatkannya kembali jika pengguna lain tidak menahan akhir perjanjian mereka. Steem blockchain menyediakan cara bagi pengguna untuk mengirim uang ke satu sama lain dengan pihak ketiga yang ditunjuk sebagai layanan escrow. Pengguna yang bertindak sebagai escrow layanan dapat menentukan apakah syarat kesepakatan telah terpenuhi, dan memungkinkan dana dilepaskan ke receiver atau dikembalikan ke pengirim.
+Sifat yang tidak dapat diubah dari transaksi di blockchain merupakan fitur keamanan yang sangat penting, walaupun ada banyak kasus di mana pengguna mungkin merasa tidak nyaman mengirimkan token mereka ke orang lain tanpa bisa mendapatkan kembali jika pengguna lain tidak menyetujui akhir perjanjian mereka. Blockchain Steem menyediakan cara bagi pengguna untuk mengirimkan koin satu sama lain dengan pihak ketiga yang ditunjuk sebagai penengah. Pengguna yang bertindak sebagai layanan pihak ketiga dapat menentukan apakah syarat-syarat kesepakatan telah terpenuhi, dan memungkinkan dana diberikan ke penerima atau dikembalikan ke pengirim.
 
 ### Struktur Kunci Pribadi Hirarkis
 

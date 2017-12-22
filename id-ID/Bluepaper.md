@@ -92,7 +92,7 @@ Steem juga memfasilitasi penggunaan Master Password yang mengenkripsi ketiga tom
 
 ### Otoritas Multi Sig
 
-Steem blockchain memungkinkan otoritas untuk dibagi di beberapa entitas, sehingga beberapa pengguna dapat berbagi otoritas yang sama, atau beberapa entitas diminta untuk memberi otorisasi transaksi agar berlaku. Hal ini dilakukan dengan cara yang sama seperti Bitshares [^16] di mana setiap pasangan kunci publik / swasta diberi bobot, dan ambang batas didefinisikan untuk otoritas. Agar transaksi menjadi valid, entitas yang cukup harus masuk sehingga jumlah bobot mereka memenuhi atau melampaui ambang batas.
+Blockchain Steem memungkinkan sebuah otoritas untuk dibagi menjadi beberapa entitas, sehingga beberapa pengguna dapat berbagi otoritas yang sama, atau beberapa entitas dibutuhkan untuk memberikan otorisasi agar sebuah transaksi menjadi sah. Hal ini dilakukan dengan cara yang sama seperti halnya Bitshares [^16] di mana setiap pasangan dari kunci publik/pribadi diberikan bobot, dan ambang batas didefinisikan bagi yang memilikik otoritas. Agar transaksi menjadi valid, entitas yang cukup harus masuk sehingga jumlah bobot mereka memenuhi atau melampaui ambang batas.
 
 ### Beberapa penerima manfaat Reward
 

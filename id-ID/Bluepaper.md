@@ -96,7 +96,7 @@ Blockchain Steem memungkinkan sebuah otoritas untuk dibagi menjadi beberapa enti
 
 ### Penerima manfaat dari Penghargaan Berganda
 
-Untuk setiap postingan yang dimuat mungkin ada sejumlah orang yang berbeda yang mendapatkan keuntungan finansial sebagai penghargaan. Ini termasuk penulis, rekan penulis, pemberi referensi, penyedia jasa hosting, blog yang menyematkan komentar blockchain, dan alat pengembang. Apapun situs web atau alat yang digunakan untuk membuat sebuah postingan atau komentar mempunyai kemampuan untuk menentukan bagaimana penghargaan yang diperoleh dari komentar tersebut dibagikan di antara berbagai pihak yang terlibat. Hal ini memungkinkan berbagai bentuk kolaborasi, dan juga cara untuk platform yang dibangun di atas blokir Steem untuk mengumpulkan sebagian dari penghargaan dari penggunanya.
+Untuk setiap postingan yang dimuat mungkin ada sejumlah orang yang berbeda yang mendapatkan keuntungan finansial sebagai penghargaan. Ini termasuk penulis, rekan penulis, pemberi referensi, penyedia jasa hosting, blog yang menyematkan komentar blockchain, dan alat pengembang. Apapun situs web atau alat yang digunakan untuk membuat sebuah postingan atau komentar mempunyai kemampuan untuk menentukan bagaimana penghargaan yang diperoleh dari komentar tersebut dibagikan di antara berbagai pihak yang terlibat. Hal ini memungkinkan kolaborasi dalam berbagai bentuk, dan juga cara bagi platform-platform yang dibangun atas blockchain Steem untuk mengumpulkan sebagian dari penghargaan dari penggunanya.
 
 ### Smart Media Token (SMT)
 

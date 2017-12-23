@@ -100,7 +100,7 @@ Untuk setiap postingan yang dimuat mungkin ada sejumlah orang yang berbeda yang 
 
 ### Smart Media Token (SMT)
 
-Smart Media Token merupakan token asli yang dapat dibangun di atas blockchain Steem. STEEM adalah SMT pertama yang pernah ada, dan protokol Smart Media Token bertujuan untuk memonetisasi situs web dan aplikasi konten di seluruh web dengan mengizinkan orang membuat token yang memiliki properti yang serupa dengan STEEM, namun dapat disesuaikan dengan visi komunitas online manapun melalui pemberian insentif. perilaku, pada dasarnya mereplikasi kesuksesan STEEM ke situs web atau aplikasi apa pun. Detail teknis lebih banyak dapat ditemukan di lembar tulis Smart Media Token [^17].
+Smart Media Token merupakan token asli yang dapat dibangun di atas blockchain Steem. STEEM adalah SMT pertama yang pernah ada, dan protokol dari Smart Media Token ini bertujuan untuk menguangkan sebuah konten situs web dan aplikasi di seluruh web dengan mengizinkan orang lain membuat token yang memiliki sifat yang serupa dengan STEEM, namun dapat disesuaikan agar sesuai dengan visi komunitas daring melalui perilaku yang memberi insentif, pada dasarnya peniruan STEEM berhasil diterapkan pada situs web atau aplikasi apapun. Untuk rincian teknis lebih lanjut dapat dibaca di tulisan Smart Media Token[^17].
 
 ### Pemulihan Akun yang Dicuri
 

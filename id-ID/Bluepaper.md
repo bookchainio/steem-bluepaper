@@ -116,9 +116,9 @@ Blockchain Steem memungkin pengguna untuk menyimpan token STEEM dan SBD milik me
 
 Karena seluruh para saksi dibayar melalui pembuatan token baru, sehingga tidak perlu membebankan pengguna biaya untuk menjalankan blockchain. Satu-satunya alasan untuk membebankan biaya hanyalah sebagai pencegahan untuk mencegah pengguna dari menyelesaikan jumlah transaksi yang tidak masuk akal, yang sangat berpotensi mempengaruhi kinerja blockchain.
 
-Untuk menempatkan batasan yang wajar pada penggunaan sistem, setiap pengguna akan diberikan lebar pita yang terbatas. Setiap kali pengguna melakukan operasi blockchain seperti transfer token, pengiriman konten, dan pemungutan suara, ia menggunakan sebagian dari bandwidth mereka. Jika pengguna melebihi tunjangan bandwidth mereka, mereka harus menunggu untuk melakukan tindakan tambahan sampai bandwidth mereka terisi kembali.
+Untuk menempatkan batasan yang wajar pada penggunaan sistem, setiap pengguna akan diberikan lebar pita yang terbatas. Setiap kali pengguna melakukan aktifitas di blockchain seperti mentransfer token, membuat konten, dan memberikan suara, itu akan menggunakan sebagian dari lebarpita yang mereka miliki. Jika pengguna telah melebihi batas lebarpita yang diizinkan, mereka harus menunggu untuk melakukan tindakan tambahan sampai lebarpita mereka terisi kembali.
 
-Batas bandwidth disesuaikan berdasarkan penggunaan jaringan, sehingga pengguna memiliki tunjangan bandwidth yang lebih tinggi bila penggunaan jaringannya rendah. Jumlah bandwidth yang diperbolehkan oleh akun berbanding lurus dengan jumlah daya Steem Power yang dimiliki pengguna, sehingga pengguna selalu dapat meningkatkan tunjangan bandwidth mereka dengan mendapatkan Steem Power tambahan.
+Batas lebarpita diatur berdasarkan penggunaan jaringan, jadi pengguna akan mendapatkan batas lebarpita yang tinggi pada saat pemakaian jaringan masih rendah. Jumlah bandwidth yang diperbolehkan oleh akun berbanding lurus dengan jumlah daya Steem Power yang dimiliki pengguna, sehingga pengguna selalu dapat meningkatkan tunjangan bandwidth mereka dengan mendapatkan Steem Power tambahan.
 
 ## Kesimpulan
 

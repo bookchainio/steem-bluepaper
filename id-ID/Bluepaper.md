@@ -114,7 +114,7 @@ Blockchain Steem memungkin pengguna untuk menyimpan token STEEM dan SBD milik me
 
 ### Pembatasan Rasio Lebarpita untuk Operasional yang Tanpa biaya
 
-Karena seluruh para saksi dibayar melalui pembuatan token baru, sehingga tidak perlu membebankan pengguna biaya untuk menjalankan blockchain. Satu-satunya alasan untuk mengenakan biaya akan menjadi penghalang untuk mencegah pengguna menyelesaikan transaksi yang tidak masuk akal, yang berpotensi memengaruhi kinerja blockchain.
+Karena seluruh para saksi dibayar melalui pembuatan token baru, sehingga tidak perlu membebankan pengguna biaya untuk menjalankan blockchain. Satu-satunya alasan untuk membebankan biaya hanyalah sebagai pencegahan untuk mencegah pengguna dari menyelesaikan jumlah transaksi yang tidak masuk akal, yang sangat berpotensi mempengaruhi kinerja blockchain.
 
 Untuk menempatkan batasan yang wajar pada penggunaan sistem, setiap pengguna diberi bandwidth terbatas. Setiap kali pengguna melakukan operasi blockchain seperti transfer token, pengiriman konten, dan pemungutan suara, ia menggunakan sebagian dari bandwidth mereka. Jika pengguna melebihi tunjangan bandwidth mereka, mereka harus menunggu untuk melakukan tindakan tambahan sampai bandwidth mereka terisi kembali.
 

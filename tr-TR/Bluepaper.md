@@ -10,13 +10,13 @@ Kripto para birimleri alanında, örnegin Bitcoin ve Ether’e kıyasla, STEEM�
 
 Blockchain’deki ve token teknolojisindeki bu gelişmelere ek olarak Steem, kullanıcı deneyimini artırmak için, çalınan hesap telafisi, emanet servisleri (escrow), üye tarafından öne çıkartılan içerikler gibi ilaveten gelişmiş özellikler saglayan bir sistemdir. Bu ise tümüyle kullanıcılara üç ikincil doğrulama süresi ve tüm işlemlerde sıfır ücret sağlarken yapilmis oluyor. Tüm bunlar, internette yayıncılara ve topluluk üreticilerine akıllı ve sosyal para birimi getirme misyonunu desteklemeye olanak tanır.
 
-## Proof of Brain: Akıllı ve Sosyal Token'lar
+## Beyin Kaniti: Akıllı ve Sosyal Token'lar
 
-Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için ödül alan token sistemleri, içeriğin toplumsal değerini belirleme ve değerlendirme mekanizmaları gerektirir. Bunu "Proof of Brain" olarak adlandırırız.
+Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için ödüllendiren token sistemleri, içeriğin topluluksal değerini belirleme ve değerlendirme mekanizmaları gerektirir. Bunu "Beyin Kaniti" olarak adlandırırız
 
-### Ödüller Havuzu ("Token'ler nereden gelir?")
+### Ödül Havuzu ("Token'lar nereden gelir?")
 
-Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödüller Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchain'in de PoW blockchain'inden farklı üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilir ancak makinaları çalışmakta olan insanlara ("madenciler") rastgele dağıtılır.
+Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, kendisi sayesinde token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödül Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchain'in de PoW blockchain'inden farklı sekilde üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilmekte, fakat, makinaları belirli isleri yapmakta olan insanlara ("madenciler") rastgele dağıtilmaktadir.
 
 PoW sadece kripto para birimlerinden farklı olarak Steem'deki token'lar her üç saniyede bir sabit bir blok hızında üretilir. Bu token'ler, blok zincirinin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler belirteçler için özel yollarla rekabet eder. Madencilerin çiğ bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW dağıtım araçlarının aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
 

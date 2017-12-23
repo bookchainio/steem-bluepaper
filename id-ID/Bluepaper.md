@@ -118,11 +118,11 @@ Karena seluruh para saksi dibayar melalui pembuatan token baru, sehingga tidak p
 
 Untuk menempatkan batasan yang wajar pada penggunaan sistem, setiap pengguna akan diberikan lebar pita yang terbatas. Setiap kali pengguna melakukan aktifitas di blockchain seperti mentransfer token, membuat konten, dan memberikan suara, itu akan menggunakan sebagian dari lebarpita yang mereka miliki. Jika pengguna telah melebihi batas lebarpita yang diizinkan, mereka harus menunggu untuk melakukan tindakan tambahan sampai lebarpita mereka terisi kembali.
 
-Batas lebarpita diatur berdasarkan penggunaan jaringan, jadi pengguna akan mendapatkan batas lebarpita yang tinggi pada saat pemakaian jaringan masih rendah. Jumlah bandwidth yang diperbolehkan oleh akun berbanding lurus dengan jumlah daya Steem Power yang dimiliki pengguna, sehingga pengguna selalu dapat meningkatkan tunjangan bandwidth mereka dengan mendapatkan Steem Power tambahan.
+Batas lebarpita diatur berdasarkan penggunaan jaringan, jadi pengguna akan mendapatkan batas lebarpita yang tinggi pada saat pemakaian jaringan masih rendah. Jumlah lebarpita yang dibolehkan bagi sebuah akun berbanding lurus dengan jumlah Steem Power yang dimiliki oleh pengguna, jadi pengguna selalu dapat meningkatkan jumlah lebarpita yang diizinkan bagi mereka dengan menambahkan Steem Power mereka.
 
 ## Kesimpulan
 
-Penghargaan dan program insentif yang unik yang ditawarkan oleh Steem blockchain dan token dirancang untuk menjadikan Steem sebagai jalan utama menuju kriptocurrency bagi pengguna utama. Kinerja blockchain dirancang dengan adopsi massal mata uang dan platform yang luas. Bila digabungkan dengan waktu pemrosesan petir cepat dan transaksi tanpa biaya, Steem diposisikan untuk menjadi salah satu teknologi blockchain terkemuka yang digunakan oleh orang-orang di seluruh dunia.
+Penghargaan dan program insentif unik yang ditawarkan oleh blockchain Steem dan mata uang digital dirancang untuk menjadikan Steem media utama menuju mata uang kripto bagi pengguna utama. Kinerja blockchain dirancang dengan adopsi massal mata uang dan platform yang luas. Bila digabungkan dengan waktu pemrosesan petir cepat dan transaksi tanpa biaya, Steem diposisikan untuk menjadi salah satu teknologi blockchain terkemuka yang digunakan oleh orang-orang di seluruh dunia.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

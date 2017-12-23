@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Tanıtım
+## Giriş
 
 Steem kamusal olarak erişilebilir ve sabit içerik için, insanların onu beyinlerini kullanarak edinmelerine olanak saglayan (“Beyin Kaniti” olarak adlandırılabilecek) hizli ve ücretsiz bir dijital token ile birlikte (STEEM adında) ölçeklendirilebilir bir blockchain protokolü saglar. Bu protokolün iki ana yapi tasi, blockchain ve token, sabitlik ve uzun ömürlülük icin birbirine bagimlidir ve bu yüzden de birbirlerinin varliginin ayrilmaz birer parcasidir. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır
 
@@ -8,7 +8,7 @@ Steem, diger Blockchainler ile kıyaslandığında, yerleşik teşvik mekanizmas
 
 Kripto para birimleri alanında, örnegin Bitcoin ve Ether’e kıyasla, STEEM’in benzersiz özellikleri onu hem “akilli” hem de “sosyal” kılmaktadır. Bu, iki yeni token özelliklerinden kaynaklanmaktadır. Ilki, Icerik üretimini ve küratörlügü tesvige adanmis bir token havuzudur (“Ödül Havuzu” olarak adlandirilir). İkincisi ise, içeriğin değerini tayin etmek ve ona tokenlar dağıtmak için topluluğun bilgeliğini kaldıraç olarak kullanan bir oylama sistemidir. Bir araya geldiklerinde Beyin Kaniti -ki o da Is-Kaniti’na dayanan bir anlayıştır- olarak adandirilan bu benzersiz iki özellik topluluk üyelerine tokenlarin dağıtılması için gerekli olan insan emeginin ön plana çıkartılmasını hedeflemektedir. Beyin-Kaniti STEEM’i bir üyelerini yerleşik ödül yapisi aracılığıyla deger yaratma hususunda cesaretlendiren ve bu sayede sürekli olarak büyüyen topluluklar yaratma aracı olarak konumlandırır.
 
-STEEM, blockchain ve token teknolojisindeki bu ilerlemelere ek olarak, Çalınan Hesap Kurtarma, emanet hizmetleri, kullanıcı tarafından tanıtılan içerik, itibar sistemi ve tasarruf hesapları gibi kullanıcı deneyimini geliştirmek için ek gelişmiş özellikler de sağlar. Hepsi bitti kullanıcılara üç ikincil doğrulama süresini ve tüm işlemlerde sıfır ücret sağlıyor. Bu ise tümüyle kullanıcılara üç ikincil doğrulama süresi ve tüm işlemlerde sıfır ücret sağlarken yapilmis oluyor. Tüm bunlar, internette yayıncılara ve topluluk üreticilerine akıllı ve sosyal para birimi getirme misyonunu desteklemeye olanak tanır.
+Blockchain’deki ve token teknolojisindeki bu gelişmelere ek olarak Steem, kullanıcı deneyimini artırmak için, çalınan hesap telafisi, emanet servisleri (escrow), üye tarafından öne çıkartılan içerikler gibi ilaveten gelişmiş özellikler saglayan bir sistemdir. Bu ise tümüyle kullanıcılara üç ikincil doğrulama süresi ve tüm işlemlerde sıfır ücret sağlarken yapilmis oluyor. Tüm bunlar, internette yayıncılara ve topluluk üreticilerine akıllı ve sosyal para birimi getirme misyonunu desteklemeye olanak tanır.
 
 ## Proof of Brain: Akıllı ve Sosyal Token'lar
 

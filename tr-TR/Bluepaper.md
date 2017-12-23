@@ -2,7 +2,7 @@
 
 ## Tanıtım
 
-Steem kamusal olarak erişilebilir ve sabit içerik için, insanların onu beyinlerini kullanarak edinmelerine olanak saglayan (“Beyin Kaniti” olarak adlandırılabilecek) hizli ve ücretsiz bir dijital token ile birlikte (STEEM adında) ölçeklendirilebilir bir blockchain protokolü saglar. Bu protokolün iki yapı taşı, hem blok zincir hem de simge, güvenlik, değişmezlik ve uzun ömür için birbirlerine bağımlıdır ve bu nedenle birbirlerinin varlığının ayrılmaz bir parçasıdır. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır
+Steem kamusal olarak erişilebilir ve sabit içerik için, insanların onu beyinlerini kullanarak edinmelerine olanak saglayan (“Beyin Kaniti” olarak adlandırılabilecek) hizli ve ücretsiz bir dijital token ile birlikte (STEEM adında) ölçeklendirilebilir bir blockchain protokolü saglar. Bu protokolün iki ana yapi tasi, blockchain ve token, sabitlik ve uzun ömürlülük icin birbirine bagimlidir ve bu yüzden de birbirlerinin varliginin ayrilmaz birer parcasidir. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır
 
 Steem diğer blok zincirlerle karşılaştırıldığında, yerinde teşvik mekanizması ile birlikte, düz metin olarak değişmez şekilde depolanmış içeriğe yönelik ilk erişilebilir veri tabanı olarak öne çıkmaktadır. Bu Steem’i en değerli içeriklerle katkı yapanları ödüllendirirken; ayni zamanda herhangi bir internet uygulamasının kendisinden veri çekebileceği ve onu paylaşabileceği bir kamusal paylaşım platformu haline getirmektedir.
 

@@ -108,9 +108,9 @@ Jika akun salah satu pengguna dibajak, mereka dapat mengganti kunci mereka denga
 
 ### Keamanan Melalui Waktu-Kunci
 
-Jika kunci pengguna atau pemilik pengguna terganggu, penyerang akan memiliki akses penuh ke semua dana di akun mereka. Karena transaksi blockchain tidak dapat diubah, pengguna tidak memiliki cara untuk mendapatkan kembali dana mereka setelah mereka dicuri.
+Jika kunci Aktif dan kunci Pemilik diambil alih, maka penyerang akan mendapatkan akses penuh terhadap seluruh dana yang ada di akun mereka. Karena sifat dari transaksi blockchain yang tidak dapat berubah, maka pengguna tidak mungkin mendapatkan kembali dana milik mereka apabila dicuri oleh pihak lain.
 
-Blokir Steem memungkinkan pengguna menyimpan token STEEM dan SBD mereka di rekening tabungan, sehingga dana tidak dapat ditarik sampai setelah tiga hari masa tunggu. Selain itu, STEEM yang diadakan dalam jadwal vestasi 13 minggu hanya dapat ditarik pada tingkat 1/13 per minggu, setelah masa tunggu tujuh hari pertama. Kunci waktu ini mencegah penyerang untuk dapat mengakses sebagian dana pengguna secara langsung, sehingga pemilik yang berhak memiliki waktu untuk mendapatkan kembali kontrol atas akun mereka sebelum semua dana mereka dapat ditarik.
+Blockchain Steem memungkin pengguna untuk menyimpan token STEEM dan SBD milik mereka dalam tabungan akun, sehingga dana tidak dapat ditarik sampai melewati batas tiga hari masa tunggu. Selain itu, STEEM yang diadakan dalam jadwal vestasi 13 minggu hanya dapat ditarik pada tingkat 1/13 per minggu, setelah masa tunggu tujuh hari pertama. Kunci waktu ini mencegah penyerang untuk dapat mengakses sebagian dana pengguna secara langsung, sehingga pemilik yang berhak memiliki waktu untuk mendapatkan kembali kontrol atas akun mereka sebelum semua dana mereka dapat ditarik.
 
 ### Pembatasan Rasio Lebarpita untuk Operasional yang Tanpa biaya
 

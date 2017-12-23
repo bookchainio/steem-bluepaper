@@ -104,7 +104,7 @@ Smart Media Token merupakan token asli yang dapat dibangun di atas blockchain St
 
 ### Pemulihan Akun yang Dicuri
 
-Jika akun pengguna dikompromikan, mereka dapat mengubah kunci mereka menggunakan kunci pemilik pribadi mereka. Jika penyerang dapat mengkompromikan kunci pemilik pribadi dan mengubah kata sandi di akun, pengguna memiliki waktu 30 hari untuk mengirimkan kunci pribadi yang sebelumnya berfungsi melalui proses pemulihan akun curian industri Steem yang pertama, dan mendapatkan kembali kontrol atas akun mereka. Ini mungkin ditawarkan oleh seseorang atau perusahaan yang memberikan layanan pendaftaran kepada Steem. Tidak wajib bagi petugas pendaftaran untuk memberikan layanan ini kepada penggunanya, namun tersedia untuk meningkatkan nilai pengalaman pengguna pendaftar.
+Jika akun salah satu pengguna dibajak, mereka dapat mengganti kunci mereka dengan menggunakan kunci owner pribadi milik mereka. Seandainya penyerang dapat mengambil alih kunci pribadi si pemilik dan mengganti kata sandi akun tersebut, maka pengguna mempunyai 30 hari untuk mengirimkan kunci pribadi yang sebelumnya masih berfungsi melalui proses pemulihan akun curian Industri Steem yang pertama, dan mendapatkan kembali akses penuh atas akun mereka. Ini mungkin ditawarkan oleh seseorang atau perusahaan yang memberikan layanan pendaftaran kepada Steem. Tidak wajib bagi petugas pendaftaran untuk memberikan layanan ini kepada penggunanya, namun tersedia untuk meningkatkan nilai pengalaman pengguna pendaftar.
 
 ### Keamanan Melalui Waktu-Kunci
 

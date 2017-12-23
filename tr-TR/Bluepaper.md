@@ -20,9 +20,9 @@ Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinde
 
 Sadece PoW'a (Is Kaniti) dayanan kripto para birimlerinden farklı olarak, Steem'deki token'lar her üç saniyede bir sabit bir blok hızında üretilir. Bu token'ler, blockchainin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler tokenler için özel yollarla rekabet eder. Madencilerin ham bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW (Is Kaniti) paylasim yollarinin aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
 
-Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak yılda % 9.5'e ayarlandı ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azaltıldı. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından% 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
+Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak, yılda % 9.5'e ayarlanmistir ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azalmaktadir. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından, % 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
 
-Her yıl Steem blockchain'i tarafından oluşturulan yeni token'lerin arzında, bu token'lerin %75'i içerik oluşturuculara ve içerik küratörlerine dağıtılan "ödül havuzu" nü oluşturmaktadır. %15'i hak verilen token sahiplerine dağıtılır ve %10 witness'lara dağıtılır. Witnesslar blok üretenlerdir ve Steem'in DPoS konsensüs protokolünde işbirliği yaparlar.
+Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nü oluşturmaktadır. %15'i hak verilen token sahiplerine dağıtılır ve %10 witness'lara dağıtılır. Witnesslar blok üretenlerdir ve Steem'in DPoS konsensüs protokolünde işbirliği yaparlar.
 
 #### İçerik Oluşturucular ve Küratörler İçin Ödüller
 

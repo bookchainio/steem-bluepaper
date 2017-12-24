@@ -72,11 +72,11 @@ Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafin
 
 Kripto parabirimi dünyasina giren bircok kullanici platform tarafindan ödül olarak verilen "büyülü internet tokenlarinin" nasil gercek dünyada bir karsiligi olacagini anlamakta güclük ceker. Ana akim kullanicilarin alisik oldugu geleneksel tedavül sistemleri ile platform araciligiyla dagitilan kripto parabirimi tokenlari arasindaki boslugu doldurmak icin Steem Blockchain Dolari (SBD) icat edildi.
 
-SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokenlari kullanicilara ayrica, hesap degerlerini Amerikan dolarina nisbi olarak tutmak istediklerinde de, goreli olarak sabit bir parabirimi sunmaktadir. Daha fazla teknik ayrinti Steem Technical Whitepaper'da[^12] bulunabilir.
 
-### Decentralized Exchange
+### Gayri Merkezi Takas
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

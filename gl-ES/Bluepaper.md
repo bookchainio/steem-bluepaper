@@ -42,13 +42,13 @@ A Blockchain Steem está diseñada para ser unha das mais rápidas e mais eficie
 
 Debido ós funiles das blockchains de Proba de Traballo (PoW) [^6],, moitas de elas non poden escalar mais aló das tres transaccións por segundo, que non é mais que unha fracción do tráfego financieiro mundial. Steem necesitaba mais escalabilidade e velocidade que as ofrecidas por PoW, e como o menos coñecido algoritmo chamado Proba de Partiipación Delegada (DPoS) [^7] foi aproveitada para sentar os alicerces de unha blockchain idonea para miles de millóns de usuarias.
 
-Grazas ó DPoS, a blockchain de Steem é capaz de xenerar un novo bloque cada 3 segundos con unha carga computacional mínima. This means that the blockchain can process more transactions and hold more information, including content.
+Grazas ó DPoS, a blockchain de Steem é capaz de xenerar un novo bloque cada 3 segundos con unha carga computacional mínima. Isto significa que a blockchain pode procesar mais transaccións e manter mais informacións, incluindo contidos.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Ao definir as regras para cando se produce un Hardfork, as testemuñas elixidas dentro do marco DPoS poden decidir de forma rápida e eficiente sobre avanzar ou non cun hardfork proposto, permitindo que a blockchain do Steem evolúa con maior velocidade que a maioría das outras. A blockchain de Steem xa foi bifurcada con éxito 18 veces [^8], e cada vez que ocurriu unha bifurcación, só unha cadea persistiu tras a bifurcación.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] é a porción da pila de base de dados da blockchain e sustituiu a Graphene [^10] no 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

@@ -66,7 +66,7 @@ Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde dü
 
 ### Native Name System
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafindan kullanilmaktadir. Tarihsel olarak bu adresler rastgele dizilmis harfler ve rakamlardan olusmaktadir. Ne var ki bu, tipik bir cevirimici sosyal medya baglaminda kullanicilar uzun dizi-adresleri hafizalarinda tutamayacaklari icin diger kullanicilar ile etkilesime gecmeyi zorlastirmaktadir. Steem Blockchain'i her katilimcinin kullanici ismini onun cüzdan adresi olarak kullanir ki bu da token transfer etmeye calisan kullanicinin -adresi aklinda tutabildigi icin- kullanici deneyimini desteklemektedir.
 
 ### Steem Blockchain Dollars (SBD)
 

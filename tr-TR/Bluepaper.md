@@ -80,7 +80,7 @@ Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token taka
 
 ### Escrow Yoluyla Ödemeler
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütlerini yerine getirmedigi zaman tokenlari geri almanin bir yolunun bulunmadigindan- token göndermek konusunda rahatsiz hissedebilse de blockchainin tersinemez dogasi önemli bir güvenlik özelligidir. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

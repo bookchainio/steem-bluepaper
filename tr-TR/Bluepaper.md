@@ -30,9 +30,9 @@ Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve m
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 
-Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Belirli sayida hisseye sahip olan tekil bir hesap ile ayni oranda hisseyi paylasan iki farkli hesabin etki gücü ayni olacagindan kullanicilar birden fazla hesap sahibi olarak ilave etki gücü kazanamazlar. Kullanicilar icin platform üzerindeki etkilerini artirabilmenin tek yolu hisselerini artirmaktir.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 haftaligina temlik edilmis STEEM ile oylama hakki sunar. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

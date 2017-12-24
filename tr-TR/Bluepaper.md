@@ -42,9 +42,9 @@ Steem blockchain'i halihazirda mevcut olan blockchain'ler arasinda en hizli ve e
 
 Proof-of-Work(PoW)[^6] tarafindan sinirlandirildiklari icin Blockchainler saniye basina üc islem ölceginin üzerine cikamazlar ki bu da dünyanin finansal trafiginin sadece kucuk bir kismidir. Steem PoW tarafindan sunulandan daha büyük bir olcege ve daha fazlasina ihtiyac duydu ve bu yüzden milyarlarca kullaniciya uygun bir blockchain'e zemin hazirlamak icin Delegated Proof of Stake (DPoS)[^7] olarak adlandirilan, az bilinen bir algoritmayi kullandi.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+DPoS sebebiyle Steem Blockchain, en az bilgi islem yükü ile 3 saniyede bir blok üretebilebilme kapasitesine sahiptir. Bu demektir ki, blockchain daha fazla islemi isleyebilir ve icerik de dahil olmak üzere daha fazla bilgiyi saklayabilir.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi icerisindeki secilmis Witness hizlica ve etkin bir sekilde önerilen hardfork ile devam edip etmeme kararini verebilir ki bu da blockchain protokolünün diger bircoguna oranla daha hizli evrimlesmesini saglar. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

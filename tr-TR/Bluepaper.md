@@ -28,7 +28,7 @@ Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i 
 
 Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise parabirimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. Icerikler hakkinda degerlendirme ve oylama hususunda zaman ayiran kullanicilar parabiriminin en fazla arti deger katan kullanicilar arasinda dagitilmasinda önemli rol oynamaktadirlar. Blockchain tüm bu aktiviteleri toplulugun bilgeligine dayanan hisse-agirlikli oylama sisteminde edinilmis göreli degelerine göre ödüllendirir.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Ödüllerin Paylasimini Belirlemek Icin Hisselendirilmis-Token'lar ile Oylama Yapmak
 
 Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Belirli sayida hisseye sahip olan tekil bir hesap ile ayni oranda hisseyi paylasan iki farkli hesabin etki gücü ayni olacagindan kullanicilar birden fazla hesap sahibi olarak ilave etki gücü kazanamazlar. Kullanicilar icin platform üzerindeki etkilerini artirabilmenin tek yolu hisselerini artirmaktir.
 
@@ -40,7 +40,7 @@ Steem blockchain'i halihazirda mevcut olan blockchain'ler arasinda en hizli ve e
 
 ### Delegated Proof of Stake (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Proof-of-Work(PoW)[^6] tarafindan sinirlandirildiklari icin Blockchainler saniye basina üc islem ölceginin üzerine cikamazlar ki bu da dünyanin finansal trafiginin sadece kucuk bir kismidir. Steem PoW tarafindan sunulandan daha büyük bir olcege ve daha fazlasina ihtiyac duydu ve bu yüzden milyarlarca kullaniciya uygun bir blockchain'e zemin hazirlamak icin Delegated Proof of Stake (DPoS)[^7] olarak adlandirilan, az bilinen bir algoritmayi kullandi.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

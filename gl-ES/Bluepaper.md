@@ -70,11 +70,11 @@ Os enderezos das carteiras usados por varias tecnoloxías blockchain, como o Bit
 
 ### Steem Blockchain Dollars (SBD)
 
-Moitas usuarias que son introducidas nas cripto-moedas teñen dificultade en comprender cómo "os tokens máxicos da internet" recompensados pola plataforma poden ter valor no mundo real. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Moitas usuarias que son introducidas nas cripto-moedas teñen dificultade en comprender cómo "os tokens máxicos da internet" recompensados pola plataforma poden ter valor no mundo real. Co fin de axudar a pechar a fenda entre o sistema tradicional de cartos fiduciairos que usan o groso das usuarias, e os tokens de cripto-moedas cos cais son recompensadas a traverso da plataforma, foi criada unha nova moeda chamada Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Os tokens SBD foron diseñados para estar vencellados o valor de un USD, de forma que as usuarias que o reciben poden saber aproximadamente canto é o valor en termos de "dolar real". Os tokens SBD tamén ofrecen unha moeda relativamente estable para que usuarias as manteñan si queren manter o vlaor da súa conta en relación ó USD. Unha explicación mais detallada podes atopar no Steem Whitepaper.[^12]
 
-### Decentralized Exchange
+### Troco Descentralizado
 
 The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 

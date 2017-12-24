@@ -22,7 +22,7 @@ Sadece PoW'a dayanan kripto para birimlerinden farklı olarak, Steem'deki token'
 
 Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak, yılda % 9.5'e ayarlanmistir ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azalmaktadir. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından, % 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
 
-Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nu oluşturmaktadır. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nu oluşturmaktadır. Dagitilan muktesep hisselerin %15'i token sahiplerine, %10'u ise Steem'in DPoS konsensus protokolü icerisinde faaliyette bulunan blok ütecileri olan Witness'lara dagitilir.
 
 #### Rewards for Content Creators and Curators
 

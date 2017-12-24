@@ -60,7 +60,7 @@ Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisaya
 
 Steem Blockchain'i anaakim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmak yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
 
-### Primitives Designed for Content Applications
+### Icerik Uygulamalari Icin Tasarlanmis Temel
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

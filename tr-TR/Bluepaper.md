@@ -52,7 +52,7 @@ ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'i
 
 ### AppBase
 
-AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase Steem Blockchain'inin bircok bileseninin atanmis eklentiler olarak islev goren ilave non-consensus blockchainler yaratmak suretiyle birimsellesmesine olan tanir. Bu eklentiler tüm blockchain'in tamamen basa sarilmasina gereksinim duymadigi icin cok daha hizli bir sekilde güncellenebilir. Bu steemd'i[^11] olcekleme ve bakim konularinda cok daha efektif ve kolay kilar.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

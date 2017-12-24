@@ -36,13 +36,13 @@ Ademais de isto, Steem solo permite o voto con STEEM cando este comprometese con
 
 ## Velocidade e Scala na BlockChain de Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+A Blockchain Steem está diseñada para ser unha das mais rápidas e mais eficientes que existen, o cal é necesario para poder soportar a cantidade de tráfego esperada nunha plataforma social media con un tamaño tan grande como o mesmo Reddit. Steem xa sobrepasou ó Bitcoin en número de transaccións, e pode escalarse para superar as 10.000 ou mais transaccións por segundo.
 
-### Delegated Proof of Stake (DPoS)
+### Proba de Partiipación Delegada (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Debido ós funiles das blockchains de Proba de Traballo (PoW) [^6],, moitas de elas non poden escalar mais aló das tres transaccións por segundo, que non é mais que unha fracción do tráfego financieiro mundial. Steem necesitaba mais escalabilidade e velocidade que as ofrecidas por PoW, e como o menos coñecido algoritmo chamado Proba de Partiipación Delegada (DPoS) [^7] foi aproveitada para sentar os alicerces de unha blockchain idonea para miles de millóns de usuarias.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Grazas ó DPoS, a blockchain de Steem é capaz de xenerar un novo bloque cada 3 segundos con unha carga computacional mínima. This means that the blockchain can process more transactions and hold more information, including content.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

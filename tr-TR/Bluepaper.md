@@ -26,7 +26,7 @@ Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i 
 
 #### Icerik Üreticileri ve Curatorler icin olan ödüller
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise parabirimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

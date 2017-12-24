@@ -64,7 +64,7 @@ Steem Blockchain'i anaakim sosyal medya platformu olmanin yani sira bir dijital 
 
 Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchain'in degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Bir kere blockchainde saklandiginda veri onun üzerine insalarda bulunacak gelistiriciler erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
 
-### Native Name System
+### Yerel Isim Sistemi
 
 Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafindan kullanilmaktadir. Tarihsel olarak bu adresler rastgele dizilmis harfler ve rakamlardan olusmaktadir. Ne var ki bu, tipik bir cevirimici sosyal medya baglaminda kullanicilar uzun dizi-adresleri hafizalarinda tutamayacaklari icin diger kullanicilar ile etkilesime gecmeyi zorlastirmaktadir. Steem Blockchain'i her katilimcinin kullanici ismini onun cüzdan adresi olarak kullanir ki bu da token transfer etmeye calisan kullanicinin -adresi aklinda tutabildigi icin- kullanici deneyimini desteklemektedir.
 
@@ -76,9 +76,9 @@ SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu say
 
 ### Gayri Merkezi Exchange
 
-Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer pazarinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer pazarinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Kullanicilar exchange ile dogrudan blockchain API'ni kullanarak ya da, Steemit.com'da[^14] oldugu gibi, GUI'yi kullanarak etkilesime gecebilir.
 
-### Payments Through Escrow
+### Escrow Yoluyla Ödemeler
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

@@ -16,13 +16,13 @@ Les systèmes de jetons qui récompensent les utilisateurs lorsqu'ils contribuen
 
 ### Le Pool de récompense («d'où viennent les jetons?»)
 
-L'un des aspects les plus innovants (et les plus mal compris) du blockchain de Steem est le "Pool de récompenses" à partir duquel les jetons sont distribués aux créateurs de contenu de valeur. Afin de comprendre ce qu'est le pool de récompenses, il faut d'abord comprendre que les jetons sont produits différemment dans les blockchains DPoS qu'ils ne le sont dans les blockchains de PoW. Dans les blockchains PoW traditionnels, les jetons sont produits régulièrement mais distribués aléatoirement aux personnes dont les machines effectuent un travail de ("mineurs").
+L'un des aspects les plus innovants (et les plus mal compris) du blockchain de Steem est le "Pool de récompenses" à partir duquel les jetons sont distribués aux créateurs de contenu de valeur. Afin de comprendre ce qu'est le pool de récompenses, il faut d'abord comprendre que les jetons sont produits différemment dans les blockchains DPoS qu'ils ne le sont dans les blockchains de PoW. Dans les blockchains PoW traditionnels, les jetons sont produits régulièrement mais distribués aléatoirement aux personnes dont les machines effectuent un travail de «mineurs».
 
 Différentes des crypto-monnaies propres à PoW, les jetons de Steem sont générés à un taux fixe d'un bloc toutes les trois secondes. Ces jetons sont distribués aux différents acteurs dans le système basé sur des règles bien définies du blockchain. Ces acteurs, tels que les créateurs de contenu, les témoins et les curateur, rivalisent de manière spécialisée pour les jetons. Contrairement aux moyens traditionnels de distribution du PoW, où les mineurs rivalisent sur la puissance informatique brute, les acteurs du réseau Steem sont incités à être compétitifs de manière à ajouter de la valeur au réseau.
 
 Le taux de génération de nouveaux jetons a été fixé à 9,5% par an à compter de décembre 2016, et diminue à raison de 0,01% tous les 250 000 blocs, soit environ 0,5% par an. L'inflation continuera à décroître à ce rythme jusqu'à atteindre 0,95%, après une période d'environ 20,5 ans.
 
-De l'offre de nouveaux jetons créés par la blockchain Steem chaque année, 75% de ces tokens composent le «pool de récompenses» qui est distribué aux créateurs de contenu et aux curateurs de contenu. 15 % sont distribués aux détenteurs de jeton, et 10 % sont distribués aux témoins, les producteurs de bloc coopérant à l’intérieur du protocole de consensus DPoS de Steem .
+De l'offre de nouveaux jetons créés par le blockchain Steem chaque année, 75% de ces jetons composent le «pool de récompenses» qui est distribué aux créateurs et aux curateurs de contenu. 15% sont distribués aux détenteurs de jetons acquis, et 10% sont distribués aux témoins, les producteurs de blocs coopérant au protocole de consensus DPoS de Steem.
 
 #### Récompenses pour les créateurs de contenu et des conservateurs
 

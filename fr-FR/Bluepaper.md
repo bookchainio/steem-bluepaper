@@ -70,7 +70,7 @@ Les adresses de portefeuille utilisés par beaucoup des technologies blockchain,
 
 ### STEEM Blockchain Dollars (SBD)
 
-Beaucoup d’utilisateurs qui découvrent la monnaie cryptographique ont du mal à comprendre comment les « jetons magique d'internet » décerné par la plate-forme peut effectivement avoir une valeur dans le monde réel. Afin de contribuer à combler la distance entre les systèmes de monnaie fiduciaire plus traditionnels dont les utilisateurs sont plus habitués et les jetons cryptographique dont ils gagnent par le biais de la plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars (SBD) a été créée.
+Beaucoup d’utilisateurs qui découvrent la monnaie cryptographique ont du mal à comprendre comment les « jetons magique d'internet » attribués par la plate-forme peut effectivement avoir une valeur dans le monde réel. Afin de contribuer à combler la distance entre les systèmes de monnaie fiduciaire plus traditionnels dont les utilisateurs sont plus habitués et les jetons cryptographique dont ils gagnent par le biais de la plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars (SBD) a été créée.
 
 Les jetons de SBD sont conçus pour être liées étroitement à un USD, afin que les utilisateurs qui les reçoivent puissent savoir environ combien ils valent en « dollars réels ». Ceux-ci offrent également une monnaie relativement stable pour les utilisateurs qui veulent les garder, s'ils cherchent à préserver leur valeur du compte par rapport au USD. On trouvera une explication technique détaillée dans le livre blanc technique Steem. [^12]
 
@@ -106,19 +106,19 @@ Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être cr�
 
 Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisant sa clé propriétaire privée. Dans le cas où l'attaquant est capable de compromettre la clé privée du propriétaire et de changer le mot de passe, l'utilisateur dispose de 30 jours pour soumettre une clé privée auparavant fonctionnelle via le processus de récupération de compte volé de Steem et reprendre le contrôle de son compte. Cela peut être offert par une personne ou une entreprise qui fournit des services d'enregistrement à Steem. Il n'est pas obligatoire pour le registraire de fournir ce service à ses utilisateurs, mais il est disponible pour augmenter l'expérience d'enregistrement des utilisateurs.
 
-### Sécurité temps-écluses
+### Sécurité à verrou temporel
 
 Si la clé active ou propriétaire d'un utilisateur est compromise, l'attaquant aura un accès complet à tous les fonds de son compte. Parce que les transactions blockchain sont irréversibles, les utilisateurs n'ont aucun moyen de récupérer leurs fonds après qu'ils ont été volés.
 
 La blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. En outre, STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limitation du débit de bande passante pour les opérations sans frais
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Parce que les témoins sont entièrement payés grâce à la génération de nouveaux jetons, il n'est pas nécessaire de facturer aux utilisateurs des frais pour alimenter le blockchain. La seule raison de facturer des frais aurait pour effet dissuasif d'empêcher les utilisateurs d'effectuer un nombre déraisonnable de transactions, ce qui pourrait avoir un impact sur la performance du blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Afin de placer des limites raisonnables sur l'utilisation du système, chaque utilisateur dispose d'une bande passante limitée. Lorsque les utilisateurs effectuent des opérations sur le blockchain telles que les transferts de jetons, la publication et le vote, ils utilisent une partie de leur bande passante. Si un utilisateur dépasse sa capacité de bande passante, il doit attendre que sa bande passante se recharge afin d'effectuer des actions supplémentaires.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Les limites de bande passante s'ajustent en fonction de l'utilisation du réseau, de sorte que les utilisateurs disposent d'une bande passante plus importante lorsque l'utilisation du réseau est faible. La quantité de bande passante autorisée pour un compte est directement proportionnelle à la quantité de Steem Power dont dispose un utilisateur. Les utilisateurs peuvent donc toujours augmenter leur bande passante en obtenant des Steem Power supplémentaire.
 
 ## Conclusion
 

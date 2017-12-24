@@ -48,7 +48,7 @@ Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi
 
 ### ChainBase
 
-ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'in[^10] yerini almistir. ChainBase daha hizli yükleme ve cikis zamanlarina sahiptir, veritabanina paralel erisimi destekler ve selefine oranla cökmelere karsi daha dayaniklidir. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'in[^10] yerini almistir. ChainBase daha hizli yükleme ve cikis zamanlarina sahiptir, veritabanina paralel erisimi destekler ve selefine oranla cökmelere karsi daha dayaniklidir. Ayni zamanda, daha nadir veritabani yozlasmasina sahiptir; tüm veritabaninin anlik "snapshooting"ine izin verir ve daha fazla sayida ayni memory üzerinden yapilan RPC talepleri sunabilir.
 
 ### AppBase
 

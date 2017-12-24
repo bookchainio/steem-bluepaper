@@ -22,9 +22,9 @@ Différentes des crypto-monnaies propres à PoW, les jetons de Steem sont géné
 
 Le taux de génération de nouveaux jetons a été fixé à 9,5% par an à compter de décembre 2016, et diminue à raison de 0,01% tous les 250 000 blocs, soit environ 0,5% par an. L'inflation continuera à décroître à ce rythme jusqu'à atteindre 0,95%, après une période d'environ 20,5 ans.
 
-De l'offre de nouveaux jetons créés par le blockchain Steem chaque année, 75% de ces jetons composent le «pool de récompenses» qui est distribué aux créateurs et aux curateurs de contenu. 15% sont distribués aux détenteurs de jetons acquis, et 10% sont distribués aux témoins, les producteurs de blocs coopérant au protocole de consensus DPoS de Steem.
+De l'offre de nouveaux jetons créés par le blockchain Steem chaque année, 75% de ces jetons composent le «pool de récompenses» qui est distribué aux créateurs et aux curateurs de contenu. 15% sont distribués aux détenteurs de jetons, et 10% sont distribués aux témoins, les producteurs de blocs coopérant au protocole de consensus DPoS de Steem.
 
-#### Récompenses pour les créateurs de contenu et des conservateurs
+#### Récompenses pour les créateurs et curateurs de contenu
 
 Les utilisateurs qui produisent du contenu ajoutent de la valeur au réseau en créant le matériel qui va conduire les nouveaux utilisateurs à la plate-forme, ainsi que garder les utilisateurs existants engagés et de se divertir. Cela aide à distribuer la monnaie à un ensemble plus large d’utilisateurs et augmente l’effet de réseau. Les utilisateurs qui prennent le temps d’évaluer et de voter sur le contenu jouent un rôle important dans la distribution de la monnaie pour les utilisateurs qui ajoutent le plus de valeur. La blockchain récompense chacunes de ces activités par rapport à leur valeur fondée sur la sagesse collective de la foule, recueillie par le biais du système de vote pondéré pieu.
 

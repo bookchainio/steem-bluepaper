@@ -54,11 +54,11 @@ ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'i
 
 AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase Steem Blockchain'inin bircok bileseninin atanmis eklentiler olarak islev goren ilave non-consensus blockchainler yaratmak suretiyle birimsellesmesine olan tanir. Bu eklentiler tüm blockchain'in tamamen basa sarilmasina gereksinim duymadigi icin cok daha hizli bir sekilde güncellenebilir. Bu steemd'i[^11] olcekleme ve devamlilik konularinda cok daha efektif ve kolay kilar.
 
-Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisayarin, Steem Blockchain'inin cesitli kisimlarini sürdürmesine olanak tanir. Bu ise her cekirdegin ve agdaki her bilgisayarin tüm blockchaini devam ettirmesine gereksinim duymaktan onemli olcude daha islevseldir. Blockchaini birimsellestirmek bilgisayarlarin birimsel dogalarindan tumuyle faydalanabilmeyi mumkun kilar. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisayarin, Steem Blockchain'inin cesitli kisimlarini sürdürmesine olanak tanir. Bu ise her cekirdegin ve agdaki her bilgisayarin tüm blockchaini devam ettirmesine gereksinim duymaktan onemli olcude daha islevseldir. Blockchaini birimsellestirmek bilgisayarlarin birimsel dogalarindan tumuyle faydalanabilmeyi mumkun kilar. Bu uzun vadede tümüyle paralel ve tümüyle optimize edilmis bir blockchain yaratma yolunda onemli bir adimdir.
 
-## Steem’s Platform Features
+## Steem'in Platform Özellikleri
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem Blockchain'i anaakim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmak yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
 
 ### Primitives Designed for Content Applications
 

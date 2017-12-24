@@ -80,7 +80,7 @@ Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token taka
 
 ### Escrow Yoluyla Ödemeler
 
-Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütlerini yerine getirmedigi zaman tokenlari geri almanin bir yolunun bulunmadigindan- token göndermek konusunda rahatsiz hissedebilse de blockchainin tersinemez dogasi önemli bir güvenlik özelligidir. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütlerini yerine getirmedigi zaman tokenlari geri almanin bir yolunun bulunmadigindan- token göndermek konusunda rahatsiz hissedebilse de blockchainin tersinemez dogasi önemli bir güvenlik özelligidir. Steem blockchain, kullanicilara birbirlerine ücüncü parti olarak belirlenmis escrow servisi yoluyla token gönderme hakki tanir. Escrow hizmeti saglayan kullanici anlasma sartlarinin yerine getirilip getirilmedigine karar verme hakkina sahiptir. Ya fonun aliciya gitmesine izin verir ya da göndericiye geri dönmesine hükmeder.
 
 ### Hierarchical Private Key Structure
 

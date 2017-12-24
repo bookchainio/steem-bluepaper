@@ -104,13 +104,13 @@ Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être cr�
 
 ### Récupération de compte volé
 
-Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisant sa clé propriétaire privée. Dans le cas où l'attaquant est capable de compromettre la clé privée du propriétaire et de changer le mot de passe, l'utilisateur dispose de 30 jours pour soumettre une clé privée auparavant fonctionnelle via le processus de récupération de compte volé de Steem et reprendre le contrôle de son compte. Cela peut être offert par une personne ou une entreprise qui fournit des services d'enregistrement à Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisant sa clé propriétaire privée. Dans le cas où l'attaquant est capable de compromettre la clé privée du propriétaire et de changer le mot de passe, l'utilisateur dispose de 30 jours pour soumettre une clé privée auparavant fonctionnelle via le processus de récupération de compte volé de Steem et reprendre le contrôle de son compte. Cela peut être offert par une personne ou une entreprise qui fournit des services d'enregistrement à Steem. Il n'est pas obligatoire pour le registraire de fournir ce service à ses utilisateurs, mais il est disponible pour augmenter l'expérience d'enregistrement des utilisateurs.
 
-### Security Through Time-Locks
+### Sécurité temps-écluses
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Si la clé active ou propriétaire d'un utilisateur est compromise, l'attaquant aura un accès complet à tous les fonds de son compte. Parce que les transactions blockchain sont irréversibles, les utilisateurs n'ont aucun moyen de récupérer leurs fonds après qu'ils ont été volés.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+La blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. En outre, STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

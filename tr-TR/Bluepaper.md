@@ -68,11 +68,11 @@ Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde dü
 
 Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafindan kullanilmaktadir. Tarihsel olarak bu adresler rastgele dizilmis harfler ve rakamlardan olusmaktadir. Ne var ki bu, tipik bir cevirimici sosyal medya baglaminda kullanicilar uzun dizi-adresleri hafizalarinda tutamayacaklari icin diger kullanicilar ile etkilesime gecmeyi zorlastirmaktadir. Steem Blockchain'i her katilimcinin kullanici ismini onun cüzdan adresi olarak kullanir ki bu da token transfer etmeye calisan kullanicinin -adresi aklinda tutabildigi icin- kullanici deneyimini desteklemektedir.
 
-### Steem Blockchain Dollars (SBD)
+### Steem Blockchain Dolari (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Kripto parabirimi dünyasina giren bircok kullanici platform tarafindan ödül olarak verilen "büyülü internet tokenlarinin" nasil gercek dünyada bir karsiligi olacagini anlamakta güclük ceker. Ana akim kullanicilarin alisik oldugu geleneksel tedavül sistemleri ile platform araciligiyla dagitilan kripto parabirimi tokenlari arasindaki boslugu doldurmak icin Steem Blockchain Dolari (SBD) icat edildi.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

@@ -66,11 +66,11 @@ Steem ofrece ás usuarias a posibilidade única de publicar e almacear diferente
 
 ### Sistema de Nomes Nativos
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Os enderezos das carteiras usados por varias tecnoloxías blockchain, como o Bitcoin e Ethereum, son históricamente longas cadeas de letras e números aleatorias, con todo, estes enderezos de carteira poden dificultar as transaccións con outras usuarias nun contexto típico de Redes Sociais, porque as usuarias non son capaces de lembralos de memoria. A blockchain Steem usa o nome de cada participante como seu enderezo de carteira, o cal mellora que mellora a experiencia da usuaria para as participantes que tentan enviar tokens porque poden verificar os enderezos dende a súa propia memoria.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Moitas usuarias que son introducidas nas cripto-moedas teñen dificultade en comprender cómo "os tokens máxicos da internet" recompensados pola plataforma poden ter valor no mundo real. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 

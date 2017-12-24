@@ -52,9 +52,9 @@ ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'i
 
 ### AppBase
 
-AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase Steem Blockchain'inin bircok bileseninin atanmis eklentiler olarak islev goren ilave non-consensus blockchainler yaratmak suretiyle birimsellesmesine olan tanir. Bu eklentiler tüm blockchain'in tamamen basa sarilmasina gereksinim duymadigi icin cok daha hizli bir sekilde güncellenebilir. Bu steemd'i[^11] olcekleme ve bakim konularinda cok daha efektif ve kolay kilar.
+AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase Steem Blockchain'inin bircok bileseninin atanmis eklentiler olarak islev goren ilave non-consensus blockchainler yaratmak suretiyle birimsellesmesine olan tanir. Bu eklentiler tüm blockchain'in tamamen basa sarilmasina gereksinim duymadigi icin cok daha hizli bir sekilde güncellenebilir. Bu steemd'i[^11] olcekleme ve devamlilik konularinda cok daha efektif ve kolay kilar.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisayarin, Steem Blockchain'inin cesitli kisimlarini sürdürmesine olanak tanir. Bu ise her cekirdegin ve agdaki her bilgisayarin tüm blockchaini devam ettirmesine gereksinim duymaktan onemli olcude daha islevseldir. Blockchaini birimsellestirmek bilgisayarlarin birimsel dogalarindan tumuyle faydalanabilmeyi mumkun kilar. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 
 ## Steem’s Platform Features
 

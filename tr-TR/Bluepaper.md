@@ -74,9 +74,9 @@ Kripto parabirimi dünyasina giren bircok kullanici platform tarafindan ödül o
 
 SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokenlari kullanicilara ayrica, hesap degerlerini Amerikan dolarina nisbi olarak tutmak istediklerinde de, goreli olarak sabit bir parabirimi sunmaktadir. Daha fazla teknik ayrinti Steem Technical Whitepaper'da[^12] bulunabilir.
 
-### Gayri Merkezi Takas
+### Gayri Merkezi Exchange
 
-Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer pazarinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

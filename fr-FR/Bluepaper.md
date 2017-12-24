@@ -92,11 +92,11 @@ Steem facilite également l’utilisation d’un mot de passe maître qui crypte
 
 ### Autorités Multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Le blockchain Steem permet à une autorité d'être divisée entre plusieurs entités, de sorte que plusieurs utilisateurs peuvent partager la même autorité, ou plusieurs entités sont nécessaires pour autoriser une transaction afin qu'elle soit valide. Ceci est fait de la même manière que Bitshares[^16] où chaque paire de clés publique / privée reçoit un poids et un seuil est défini pour l'autorité. Pour qu'une transaction soit valide, suffisamment d'entités doivent signer pour que la somme de leurs poids atteigne ou dépasse le seuil.
 
-### Multiple Reward Beneficiaries
+### Bénéficiaires de récompenses multiples
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Pour une publication donnée, il peut y avoir un certain nombre de personnes différentes qui ont un intérêt financier dans la récompense. Cela inclut l'auteur, les co-auteurs possibles, les référents, les fournisseurs d'hébergement, les blogs qui ont intégré les commentaires blockchain et les développeurs d'outils. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

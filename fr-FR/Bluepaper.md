@@ -100,11 +100,11 @@ Pour une publication donnée, il peut y avoir un certain nombre de personnes dif
 
 ### Jetons médiatique intelligent (SMT)
 
-Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur la blockchain Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur la blockchain Steem. STEEM est le premier SMT à exister, et le protocole de jeton médiatique intelligent vise à monétiser les sites web et les applications de contenu sur le Web en permettant aux gens de créer des jetons possédant des propriétés similaires à STEEM, mais personnalisable pour s'adapter à la vision de toute communauté en ligne grâce à un comportement incitatif, reproduisant essentiellement le succès de STEEM sur n'importe quel site ou application. Plus de détails techniques peuvent être trouvés dans le livre blanc du jeton médiatique intelligent[^17] (disponnible en anglais seulement).
 
-### Stolen Account Recovery
+### Récupération de compte volé
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisant sa clé propriétaire privée. Dans le cas où l'attaquant est capable de compromettre la clé privée du propriétaire et de changer le mot de passe, l'utilisateur dispose de 30 jours pour soumettre une clé privée auparavant fonctionnelle via le processus de récupération de compte volé de Steem et reprendre le contrôle de son compte. Cela peut être offert par une personne ou une entreprise qui fournit des services d'enregistrement à Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 
@@ -156,4 +156,4 @@ L'unique récompense et le programme incitatif offert par les jetons et la block
 
 [^16]: Bitshares Gestion des identités Flexible http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
 
-[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+[^17]: Livre blanc du Jetons médiatique intelligent (en anglais) https://smt.steem.io/smt-whitepaper.pdf

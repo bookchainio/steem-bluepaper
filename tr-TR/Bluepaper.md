@@ -62,7 +62,7 @@ Steem Blockchain'i anaakim sosyal medya platformu olmanin yani sira bir dijital 
 
 ### Icerik Uygulamalari Icin Tasarlanmis Temel
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchain'in degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Bir kere blockchainde saklandiginda veri onun üzerine insalarda bulunacak gelistiriciler erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
 
 ### Native Name System
 

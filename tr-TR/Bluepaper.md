@@ -44,11 +44,11 @@ Proof-of-Work(PoW)[^6] tarafindan sinirlandirildiklari icin Blockchainler saniye
 
 DPoS sebebiyle Steem Blockchain, en az bilgi islem yükü ile 3 saniyede bir blok üretebilebilme kapasitesine sahiptir. Bu demektir ki, blockchain daha fazla islemi isleyebilir ve icerik de dahil olmak üzere daha fazla bilgiyi saklayabilir.
 
-Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi icerisindeki secilmis Witness hizlica ve etkin bir sekilde önerilen hardfork ile devam edip etmeme kararini verebilir ki bu da blockchain protokolünün diger bircoguna oranla daha hizli evrimlesmesini saglar. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi icerisindeki secilmis Witness hizlica ve etkin bir sekilde önerilen hardfork ile devam edip etmeme kararini verebilir ki bu da blockchain protokolünün diger bircoguna oranla daha hizli evrimlesmesini saglar. Steem blockchain simdiye kadar 18 defa basarili bir sekilde forklanmistir[^8] ve her Hardfork olusumundan sonra sadece tek bir chain kalmistir.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'in[^10] yerini almistir. ChainBase daha hizli yükleme ve cikis zamanlarina sahiptir, veritabanina paralel erisimi destekler ve selefine oranla cökmelere karsi daha dayaniklidir. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

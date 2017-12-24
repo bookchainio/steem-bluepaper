@@ -96,11 +96,11 @@ Le blockchain Steem permet à une autorité d'être divisée entre plusieurs ent
 
 ### Bénéficiaires de récompenses multiples
 
-Pour une publication donnée, il peut y avoir un certain nombre de personnes différentes qui ont un intérêt financier dans la récompense. Cela inclut l'auteur, les co-auteurs possibles, les référents, les fournisseurs d'hébergement, les blogs qui ont intégré les commentaires blockchain et les développeurs d'outils. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Pour une publication donnée, il peut y avoir un certain nombre de personnes différentes qui ont un intérêt financier dans la récompense. Cela inclut l'auteur, les co-auteurs possibles, les référents, les fournisseurs d'hébergement, les blogs qui ont intégré les commentaires blockchain et les développeurs d'outils. Quel que soit le site ou l'outil utilisé pour construire un article ou un commentaire auront la possibilité de définir comment les récompenses de ce commentaire sont réparties entre les différentes parties. Cela permet diverses formes de collaboration, ainsi qu'un moyen pour les plates-formes qui sont construites au-dessus du blockchain Steem de recueillir une partie des récompenses de leurs utilisateurs.
 
-### Smart Media Tokens (SMT)
+### Jetons médiatique intelligent (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur la blockchain Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

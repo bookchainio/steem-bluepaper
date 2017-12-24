@@ -54,13 +54,13 @@ ChainBase[^9] é a porción da pila de base de dados da blockchain e sustituiu a
 
 AppBase é o primerio paso para crear unha multi-cadea FABRIC. AppBase permite que moitos compoñentes da blockchain Steem sexan modulares creando blockchains adicionais sen consenso como complementos dedicados. Estes complementos (plugins) poden ser actualizados moito mais rápido porque eles non requiren repetir a blockchain completa. Isto fai que Steemd [^11] sexa moito máis eficiente e máis fácil de manter e escalar.
 
-Falando practicamente, AppBase permite que diferentes cernes, ou incluso diferentes computadoras, manter diferentes partes da Steem blockchain. Isto resulta significantemente mais eficiente que esixir a cada cerne e cada computadora na rede, manter a blockchain completa. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Falando practicamente, AppBase permite que diferentes cernes, ou incluso diferentes computadoras, manter diferentes partes da Steem blockchain. Isto resulta significantemente mais eficiente que esixir a cada cerne e cada computadora na rede, manter a blockchain completa. Modularizar a blockchain permite aproveitar ó maximo a natureza modular das computadoras. Este é un paso necesario no longo proceso de crear unha blockchain totalmente paralela e optimizada.
 
-## Steem’s Platform Features
+## Características da Plataforma Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+A blockcahin Steem ten o doble propósito de ser un sistema de procesamento de token dixital, así como unha plataforma de Redes Sociais. As características que ofrece a blockchain necesita dar soporte a ambos propósitos, e proporcionar ás usuarias "unha experiencia de clase mundial" cando usan ambos aspectos da plataforma.
 
-### Primitives Designed for Content Applications
+### Primitivas Deseñadas para Aplicacións de Contido
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

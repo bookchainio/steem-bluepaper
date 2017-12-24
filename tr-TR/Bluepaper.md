@@ -32,11 +32,11 @@ Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve m
 
 Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Belirli sayida hisseye sahip olan tekil bir hesap ile ayni oranda hisseyi paylasan iki farkli hesabin etki gücü ayni olacagindan kullanicilar birden fazla hesap sahibi olarak ilave etki gücü kazanamazlar. Kullanicilar icin platform üzerindeki etkilerini artirabilmenin tek yolu hisselerini artirmaktir.
 
-Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 haftaligina temlik edilmis STEEM ile oylama hakki sunar. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 haftaligina temlik edilmis STEEM ile oylama hakki sunar. Bu model altinda, kullanicilar kendi STEEM'lerinin uzun vadeli degerini azami seviyeye cikartacak sekilde oylama yapma konusunda finansal insiyatife sahiptir.
 
-## Speed and Scale on the Steem Blockchain
+## Steem Blockchain'inde Hiz ve Ölcek
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain'i halihazirda mevcut olan blockchain'ler arasinda en hizli ve en islevsel olanlarindan birisi olmak icin tasarlanmistir ki bu da Reddit büyüklügünden daha büyük olan bir sosyal medya platformundan beklenecek trafigi destekleyebilmek icin elzemdir. Steem yapilan islem sayisi bakimindan, daha simdiden, Bitcoin'i asmistir ve saniye basina 10,000 islem olceginde destek sunabilmeye muktedirdir.
 
 ### Delegated Proof of Stake (DPoS)
 

@@ -92,11 +92,11 @@ Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir
 
 ### Multi Sig Authorities
 
-Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin verir ki bu sayede de bircok kullanici ayni yetkiyi paylasabilir. Benzer sekilde fazla sayida bilesenin varligi da bir islemin gecerliligini onaylamak icin gereklidir. Bu, bir yetki icin bir alt limitin tanimli oldugu ve her bir özel/genel anahtar ciftine bir agirligin tayin edildigi Bitshares'de[^16] yapilan ile ayni sekilde yapilir. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin verir ki bu sayede de bircok kullanici ayni yetkiyi paylasabilir. Benzer sekilde fazla sayida bilesenin varligi da bir islemin gecerliligini onaylamak icin gereklidir. Bu, bir yetki icin bir alt limitin tanimli oldugu ve her bir özel/genel anahtar ciftine bir agirligin tayin edildigi Bitshares'de[^16] yapilan ile ayni sekilde yapilir. Bir islemin gecerli olabilmesi icin yeteri sayida bilesenin imzasi gerekmektedir bu sayede agirliklarinin toplami altlimiti saglar ya da asar.
 
-### Multiple Reward Beneficiaries
+### Cok Sayida Ödül Hak-Sahipleri
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

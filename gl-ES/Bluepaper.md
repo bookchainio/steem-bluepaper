@@ -118,11 +118,11 @@ Dado que as testemuñas son pagas na súa totalidade a través da xeneración de
 
 Para definir uns límites razoables no uso do sistema, cada usuaria ten asiñada un límite de largura de banda. Sempre que unha usuaria realiza operacións na blockchain como transferencia de tokens, publicación de contidos e votacións, il usa unha porción do seu ancho de banda. Se unha usuaria supera súa largura de banda, deberá agardar para realizar accións adicionais ata que seu ancho de banda recargue.
 
-Os límites do ancho de banda axustanse ó uso da rede, de xeito que as usuarias dispoñen de maior ancho de banda cando o uso da rede é baixo. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Os límites do ancho de banda axustanse ó uso da rede, de xeito que as usuarias dispoñen de maior ancho de banda cando o uso da rede é baixo. A cantidade de ancho de banda da que dispón unha usuaria é directamente proporcional á cantidade de Steem Power que a usuaria ten, de xeito que as usuarias poden incrementar súa largura de banda acadando Poder Steem adicional.
 
-## Conclusion
+## Conclusión
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+O programa singular de recompensas e incentivos ofrecidos pola Blockchain de Steem e seus tokens están diseñados para facer de Steem a porta de acceso ás criptomoedas do groso das usuarias. O rendemento da blockchain está proxectado pensando nunha adopción en masa da moeda e da plataforma. Cando se combinan as velocidades ultra-rápidas dos tempos de procesamento e transaccións sen taxas, Steem está posicionado para seren unha das principais tecnoloxías blockchain usadas polas persoas arredor do mundo.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

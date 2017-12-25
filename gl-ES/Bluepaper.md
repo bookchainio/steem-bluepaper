@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Introduction
+## Introducción
 
 Steem aporta un protocolo de blockchain [^1] escalable para contido publicamente accesible e inmutable, xunto con un token dixital rápido e baixo en comisións (chamado Steem)[^2] o cal permite que a xente gañe a moda usando seu miolo. (o cal é chamado "Proba de Miolo"). Os dous pilares de este protocolo, tanto a blockchain como o token, dependen un do oturo por seguridade, duración e inmutabilidade, e están integradas para a existencia mútua. Steem leva operando exitosamente por mais de un ano, e sobrepasou xa tanto o Bitcoin como ó Ethereum en número de transaccións procesadas. [^3]
 

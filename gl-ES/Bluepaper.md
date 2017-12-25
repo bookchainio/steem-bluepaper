@@ -92,11 +92,11 @@ Steem tamén facilita o uso de unha Seña Master que encripta as tres chaves. Os
 
 ### Autoridades Multi Sig
 
-A blockchain Steem permite que unha autoridade sexa dividida a traverso de múltiples entidades, de forma que múltiples usuarias partillan a mesma autoridade, ou múltiples entidades sexan necesarias para autorizar unha transacción para que esta sexa válida. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+A blockchain Steem permite que unha autoridade sexa dividida a traverso de múltiples entidades, de forma que múltiples usuarias partillan a mesma autoridade, ou múltiples entidades sexan necesarias para autorizar unha transacción para que esta sexa válida. Isto faise do mesmo xeito que bitshares[^16] onde cada par de chave pública/privada ten un peso atribuido, e un límite definido de autoridade. Para que uma transacción sexa válida, unha cantidade míńima de entidades deberá asinar de forma que a suma dos seus pesos exceda o límite mínimo.
 
-### Multiple Reward Beneficiaries
+### Beneficiários Múltiplos de Recompensa
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para calquera publicación determiñada pode haber diversas persoas con interese financierio na recompensa. Isto inclue a autora, posibles co-autoras, referentes, proveedores de hospedaxe, blogs que incorporan os comentarios da blockchain, e desenvolvedores de ferramentas. Calquera sitio ou ferramenta que sexa utilizada para construir unha publicación ou comentario terá a capacidade de definir como as recompensas de aquel comentario serán divididas entre varias partes. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

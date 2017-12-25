@@ -122,11 +122,11 @@ Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kulla
 
 ## Sonuc
 
-Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi parabiriminin yaygin bir sekilde belirlenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi parabiriminin yaygin bir sekilde belirlenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. Yildirim hizindaki isleme zamani ve ücretsiz islemler bir araya geldiginde Steem dünya genelinde insanlar tarafindan kullanilan önde gelen blockchain teknolojilerinden biri olma adayidir.
 
-[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+[^1]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;<0>&#8617;</0> . .
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
 [^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 

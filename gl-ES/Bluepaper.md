@@ -76,9 +76,9 @@ Os tokens SBD foron diseñados para estar vencellados o valor de un USD, de form
 
 ### Troco Descentralizado
 
-A blockchain Steem ofrece un mercado de troco descentralizado, similar ó mercado de troco de Bitshares.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+A blockchain Steem ofrece un mercado de troco descentralizado, similar ó mercado de troco de Bitshares.[^13] O mercado de troco permite ás usuarias negociar seus tokens STEEM e SBD mediante un mercado públco, descentralizado e entre pares. As usuarias poden colocar ordes de compra e venda, e a correspondencia de ordes son executadas automáticamente pola blockchain. Existe tamén un libro de ordes publicamente accesibel e un histórico de operacións que as usuarias poden usar para analisar o mercado. As usuarias poden interacturar co mercado de troco directamente usando a API da blockchain, ou usar a algunha GUI como é Steemit.com. [^14]
 
-### Payments Through Escrow
+### Pagamentos a Traves de Depósito
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

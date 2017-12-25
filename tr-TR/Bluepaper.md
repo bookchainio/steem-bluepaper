@@ -118,11 +118,11 @@ Witness'lar tümüyle yeni tokenlarin yaratilmasi yoluyla ödüllendirildigi ici
 
 Sistem kullanimina kabul edilebilir bir sinir koymak icin her kullanicinin sinirli bir bant genisligi vardir. Kullanicilarin token transferleri, icerik paylasma ve oylama gibi blockchain islemlerinde bulunduklari her durumda bu onlarin bant genisliginden bir kismini kullanmaktadir. Eger kullanicilar kendi bant genisligi sinirlarlarini asarlarsa, daha fazla eylemde bulunabilmek icin önce kendi bant genisligi haklarinin yeniden yüklenmesini beklemek zorundadir.
 
-Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kullanimlari az oldugu zaman daha fazla bant genisligine sahiptir. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kullanimlari az oldugu zaman daha fazla bant genisligine sahiptir. Bir hesabin sahip oldugu bant genisligi miktari kullanicinin sahip oldugu Steem Power ile dogru orantilidir. Bu nedenle, her zaman icin, kullanicilar fazladan Steem Power edinerek kendi bant genislikligi sinirini artirabilirler.
 
 ## Sonuc
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi parabiriminin yaygin bir sekilde belirlenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

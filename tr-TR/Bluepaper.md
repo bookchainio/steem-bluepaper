@@ -88,7 +88,7 @@ Steem yüksek-güvenlikli ve düsük-güvenlikli islemleri kolaylastirmak icin t
 
 Bu özel anahtarlar Posting, Active ve Owner'dir. Posting anahtari kullanici hesaplarina post etme, yorum yapma, düzenleme, resteem[^15], ve diger hesaplari takip etme/susturma imkani tanir. Active Anahtari, fon transferi, power up/down islemleri, Steem Dolar'i dönüsümleri, Witness oylamalari, piyasa emirleri girme ve Posting Anahtarini sinirlama gibi daha hassas görevleri yerine getirmek icindir. Owner Anahtari ise sadece ihtiyac hasil oldugunda kullanilmalidir. O ilgili hesabin Owner anahtari da dahil diger tüm anahtarlarini degistirebilecegi icin en güclü anahtardir. Ve Hesap Kurtarma sürecinde hesap mülkiyetini kanitlar. Ideal olani, cevrimdisi olarak saklanmasi ve sadece hesabin diger anahtarlarinin degistirilmesi ya da tehlike altindaki hesabin kurtarilmasi gerektiginde kullanilmasidir.
 
-Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir. Web hizmetleri gerekli özel anahtari desifreleyen ve imzalayan bir Master Password kullanabilir. Master Pasword'lar kullanicilarin uygunsuz anahtarlarin sunucular arasinda transfer edilmesinin engellenmesi icin bazi hizmetlere güvenebilmelerine olanak saglar. Bu sayede güvenli bir istemci-tarafi imzalama ortami yaratirken kullanici deneyimini de artirir.
 
 ### Multi Sig Authorities
 

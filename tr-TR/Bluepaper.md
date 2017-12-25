@@ -116,9 +116,9 @@ Steem blockchaini kullanicilara STEEM ve SBD tokenlarini bir tasarruf hesabinda 
 
 Witness'lar tümüyle yeni tokenlarin yaratilmasi yoluyla ödüllendirildigi icin kullanicilardan blockchain calistirma maliyeti talep etmeye gerek yoktur. Herhangi maliyet talebinde bulunmak icin tek sebep ise, caydirici amacli olarak, blockchainin performansini etkilemesi ihtimal dahilinde olan akil almaz sayida islem gerceklestirilmesinin önüne engellenmesi amaciyladir.
 
-Sistem kullanimina kabul edilebilir bir sinir koymak icin her kullanicinin sinirli bir bant genisligi vardir. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Sistem kullanimina kabul edilebilir bir sinir koymak icin her kullanicinin sinirli bir bant genisligi vardir. Kullanicilarin token transferleri, icerik paylasma ve oylama gibi blockchain islemlerinde bulunduklari her durumda bu onlarin bant genisliginden bir kismini kullanmaktadir. Eger kullanicilar kendi bant genisligi sinirlarlarini asarlarsa, daha fazla eylemde bulunabilmek icin önce kendi bant genisligi haklarinin yeniden yüklenmesini beklemek zorundadir.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kullanimlari az oldugu zaman daha fazla bant genisligine sahiptir. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
 ## Sonuc
 

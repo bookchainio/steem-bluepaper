@@ -102,9 +102,9 @@ Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulu
 
 Smart Media Tokenlari Steem blockchain'i üzerinde insa edilebilecek yerel tokenlardir. STEEM ilk varolan SMT'dir. Ve Smart Media Token protokolü insanlara STEEM'e benzer özelliklere sahip fakat tesvik edilmis davranis yoluyla herhangi bir cevrim ici toplulugun vizyonuna uyum saglayabilecek -esasen STEEM'in basarisini herhangi bir internet sitesi ya da uygulama icin örnek alacak- tokenlar yaratarak internet siteleri ve uygulamalar üzerindeki iceriklerin parasallastirilmasini hedefler. Daha fazla teknik detay Smart Media Tokens whitepaper'inda[^17] bulunabilir.
 
-### Stolen Account Recovery
+### Calinti Hesap Kurtarimi
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilirler. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

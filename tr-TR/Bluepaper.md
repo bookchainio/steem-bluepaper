@@ -96,9 +96,9 @@ Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin ver
 
 ### Cok Sayida Ödül Hak-Sahipleri
 
-Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Paylasim ya da yorum olusturmak icin kullanilmis olan internet sitelerinin ve araclarin yapilan yorumdan gelen ödüllerin cesitli taraflar arasinda nasil dagilitacagini belirleme hakki vardir. Bu cesitli sekillerdeki isbirliklerine olanak sundugu gibi Steem blockchaini üzerine insa edilmis platformlara da, kullanicilari üzerinden, ödüllerin bir kismindan pay almalarina imkan tanir.
 
-### Smart Media Tokens (SMT)
+### Smart Media Tokenlari (SMT)
 
 Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 

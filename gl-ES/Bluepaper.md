@@ -100,13 +100,13 @@ Para calquera publicación determiñada pode haber diversas persoas con interese
 
 ### Tokens Smart Media (SMT)
 
-Os Tokens Smart Media son tokens nativos que poden ser construidos na blockchain de Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Os Tokens Smart Media son tokens nativos que poden ser construidos na blockchain de Steem. STEEM é o primeiro SMT existente, e o protocolo de Tokens Smart Media pretende monetizar o contido de websites e aplicacións na web permitindo ás persoas criar tokens con propiedade similares ó STEEM, mais persoalizable para adaptarse á visión de calquera comunidade en liña a través dun comportamento incentivado, esencialmente replicando o éxito de STEEM a calquera sitio web ou aplicación. Mais información técnica podese atopar no whitepaper de Tokens Smart Media[^17].
 
-### Stolen Account Recovery
+### Recuperación de Contas Roubadas
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se unha conta de usuaria fora comprometida, ela pode mudar súas chaves usando a chave privada da propietaria. No caso de que a atacante fora quen de comprometer a chave privada da propietaria e alterar a seña da conta, a usuaria ten 30 días para enviar unha chave anterior funcional a traverso do proceso innovador de recuperación de conta do Steem, e retomar o control da súa conta. Isto pode ser ofrecido por unha persoa ou compañía que forneza servizos de rexitro para o Steem. Non é obrigatorio que o rexistrador forneza este servizo ás usuarias, pero está dispoñible para mellorar a experiencia das usuarias de un rexitrador.
 
-### Security Through Time-Locks
+### Srguridade a traverso de Bloqueos Temporais
 
 If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 

@@ -104,7 +104,7 @@ Smart Media Tokenlari Steem blockchain'i üzerinde insa edilebilecek yerel token
 
 ### Calinti Hesap Kurtarimi
 
-Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilirler. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilirler. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. Kullanicilara bu hizmetleri sunmak her ne kadar kayit saglayicilari icin zorunlu olmasa da kayitli kullanicilarin kullanim deneyimini degerini artirabilmektedir.
 
 ### Security Through Time-Locks
 

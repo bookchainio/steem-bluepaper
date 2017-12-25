@@ -106,11 +106,11 @@ Smart Media Tokenlari Steem blockchain'i üzerinde insa edilebilecek yerel token
 
 Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilirler. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. Kullanicilara bu hizmetleri sunmak her ne kadar kayit saglayicilari icin zorunlu olmasa da kayitli kullanicilarin kullanim deneyimini degerini artirabilmektedir.
 
-### Time-Lock'lar Yoluyla Güvenlik
+### Zaman Kilitleri Yoluyla Güvenlik
 
 Eger bir kullanicinin Active ya da Owner anahtari ifsa olduysa, saldirgan kullanicinin hesabindaki tüm fonlara tamamen erisim saglar. Blockchain islemleri tersinemez oldugu icin kullanicilarin fonlari calindiktan sonra onlari geri alabilmeleri icin herhangi bir yol yoktur.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchaini kullanicilara STEEM ve SBD tokenlarini bir tasarruf hesabinda saklama imkani tanir ki bu sayede fonlar üc günlük bir bekleme süreci dolmadan cekilemez. Buna ek olarak, 13 haftalik bir temlik cizelgesinde bulunan STEEM ise nihai bekleme süresi olan yedi günün sonunda ancak haftada 1/13 oraninda cekilebilir. Bu zaman kilitleri herhangi bir saldirganin bir anda kullanicinin fonlarinin tamamina erismesini engeller. Bu sayede hak sahibi olan kullanici tüm fonlari cekilmeden önce hesabini geri kazanabilmek icin zaman kazanmis olur.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

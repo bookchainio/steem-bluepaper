@@ -98,7 +98,7 @@ El blockchain de Steem permite que una autoridad se divida entre múltiples enti
 
 Para cualquier publicación hecha, puede haber un número de personas diferentes que tengan un interés financiero en la recompensa. Esto incluye a el autor, posibles coautores, referencias, proveedores de hosting, blogs que embeben comentarios del blockchain y desarrolladores de herramientas. Cualquiera que sea el sitio web o herramienta que se utilice para construir una publicación o comentario tendrá la capacidad de establecer cómo las recompensas de ese comentario se dividen entre varios participantes. Esto permite diversas formas de colaboración, así como una forma de que las plataformas que se construyen sobre el blockchain de Steem, recojan una parte de las recompensas de sus usuarios.
 
-### Smart Media Tokens (SMT)
+### _Smart Media Tokens (SMT)_
 
 Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 

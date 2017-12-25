@@ -108,11 +108,11 @@ Se unha conta de usuaria fora comprometida, ela pode mudar súas chaves usando a
 
 ### Srguridade a traverso de Bloqueos Temporais
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Se as chaves activas ou de propietaria foran comprometidas, o atacante pode ter acceso total a todos os fundos na súa conta. Como as transaccións na blockchain son irreversibles, as usuarias non teñen xeito de recuperar seus fundos após de seren roubados.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+A blockchain de Steem permite ás usuarias gardar seus tokens STEEM e SBD nunha conta de aforros, de xeito que os fundos non poden ser retirados ata un periodo de espera de tres días. Ademais, os STEEM gardados no programa de investimento de 13 semanas poderá somente acceder a eles a unha taxa de 1/13 por semana, tras o periodo inicial de espera de sete días. Estes bloqueos temporais preveñen que un atacante sexa quen de acceder á totaldade dos fundos de unha usuaria inmediatamente, de xeito que a dona certa teña tempo de retomar o control da súa conta antes de que o fundos sexan retirados.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limitación de Ancho de Banda para Operacións sen Taxas
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

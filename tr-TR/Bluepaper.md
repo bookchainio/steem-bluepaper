@@ -112,11 +112,11 @@ Eger bir kullanicinin Active ya da Owner anahtari ifsa olduysa, saldirgan kullan
 
 Steem blockchaini kullanicilara STEEM ve SBD tokenlarini bir tasarruf hesabinda saklama imkani tanir ki bu sayede fonlar üc günlük bir bekleme süreci dolmadan cekilemez. Buna ek olarak, 13 haftalik bir temlik cizelgesinde bulunan STEEM ise nihai bekleme süresi olan yedi günün sonunda ancak haftada 1/13 oraninda cekilebilir. Bu zaman kilitleri herhangi bir saldirganin bir anda kullanicinin fonlarinin tamamina erismesini engeller. Bu sayede hak sahibi olan kullanici tüm fonlari cekilmeden önce hesabini geri kazanabilmek icin zaman kazanmis olur.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ücretsiz Operasyonlar Icin Bantgenisligi Orani Sinirlamasi
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Witness'lar tümüyle yeni tokenlarin yaratilmasi yoluyla ödüllendirildigi icin kullanicilardan blockchain calistirma maliyeti talep etmeye gerek yoktur. Herhangi maliyet talebinde bulunmak icin tek sebep ise, caydirici amacli olarak, blockchainin performansini etkilemesi ihtimal dahilinde olan akil almaz sayida islem gerceklestirilmesinin önüne engellenmesi amaciyladir.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Sistem kullanimina kabul edilebilir bir sinir koymak icin her kullanicinin sinirli bir bant genisligi vardir. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

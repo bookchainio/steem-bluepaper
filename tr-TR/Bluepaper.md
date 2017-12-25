@@ -82,7 +82,7 @@ Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token taka
 
 Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütlerini yerine getirmedigi zaman tokenlari geri almanin bir yolunun bulunmadigindan- token göndermek konusunda rahatsiz hissedebilse de blockchainin tersinemez dogasi önemli bir güvenlik özelligidir. Steem blockchain, kullanicilara birbirlerine ücüncü parti olarak belirlenmis escrow servisi yoluyla token gönderme hakki tanir. Escrow hizmeti saglayan kullanici anlasma sartlarinin yerine getirilip getirilmedigine karar verme hakkina sahiptir. Ya fonun aliciya gitmesine izin verir ya da göndericiye geri dönmesine hükmeder.
 
-### Hierarchical Private Key Structure
+### Hiyerarsik Özel Anahtar Yapisi
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

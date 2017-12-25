@@ -114,11 +114,11 @@ A blockchain de Steem permite ás usuarias gardar seus tokens STEEM e SBD nunha 
 
 ### Limitación de Ancho de Banda para Operacións sen Taxas
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Dado que as testemuñas son pagas na súa totalidade a través da xeneración de novos tokens, non existe a necesidade de cobrar unha taxa ás usuarias para alimentar a blockchain. A única razón para cargar unha taxa sería como un impedimento para previr ás usuarias realizar un número irracional de transaccións, as cais poderían potencialmente impactar no rendemento da blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Para definir uns límites razoables no uso do sistema, cada usuaria ten asiñada un límite de largura de banda. Sempre que unha usuaria realiza operacións na blockchain como transferencia de tokens, publicación de contidos e votacións, il usa unha porción do seu ancho de banda. Se unha usuaria supera súa largura de banda, deberá agardar para realizar accións adicionais ata que seu ancho de banda recargue.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Os límites do ancho de banda axustanse ó uso da rede, de xeito que as usuarias dispoñen de maior ancho de banda cando o uso da rede é baixo. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
 ## Conclusion
 

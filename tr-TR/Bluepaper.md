@@ -90,7 +90,7 @@ Bu özel anahtarlar Posting, Active ve Owner'dir. Posting anahtari kullanici hes
 
 Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir. Web hizmetleri gerekli özel anahtari desifreleyen ve imzalayan bir Master Password kullanabilir. Master Pasword'lar kullanicilarin uygunsuz anahtarlarin sunucular arasinda transfer edilmesinin engellenmesi icin bazi hizmetlere güvenebilmelerine olanak saglar. Bu sayede güvenli bir istemci-tarafi imzalama ortami yaratirken kullanici deneyimini de artirir.
 
-### Multi Sig Authorities
+### Multi Sig Yetkileri
 
 Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin verir ki bu sayede de bircok kullanici ayni yetkiyi paylasabilir. Benzer sekilde fazla sayida bilesenin varligi da bir islemin gecerliligini onaylamak icin gereklidir. Bu, bir yetki icin bir alt limitin tanimli oldugu ve her bir özel/genel anahtar ciftine bir agirligin tayin edildigi Bitshares'de[^16] yapilan ile ayni sekilde yapilir. Bir islemin gecerli olabilmesi icin yeteri sayida bilesenin imzasi gerekmektedir bu sayede agirliklarinin toplami altlimiti saglar ya da asar.
 
@@ -112,7 +112,7 @@ Eger bir kullanicinin Active ya da Owner anahtari ifsa olduysa, saldirgan kullan
 
 Steem blockchaini kullanicilara STEEM ve SBD tokenlarini bir tasarruf hesabinda saklama imkani tanir ki bu sayede fonlar üc günlük bir bekleme süreci dolmadan cekilemez. Buna ek olarak, 13 haftalik bir temlik cizelgesinde bulunan STEEM ise nihai bekleme süresi olan yedi günün sonunda ancak haftada 1/13 oraninda cekilebilir. Bu zaman kilitleri herhangi bir saldirganin bir anda kullanicinin fonlarinin tamamina erismesini engeller. Bu sayede hak sahibi olan kullanici tüm fonlari cekilmeden önce hesabini geri kazanabilmek icin zaman kazanmis olur.
 
-### Ücretsiz Operasyonlar Icin Bantgenisligi Orani Sinirlamasi
+### Ücretsiz Operasyonlar Icin Bant Genisligi Orani Sinirlamasi
 
 Witness'lar tümüyle yeni tokenlarin yaratilmasi yoluyla ödüllendirildigi icin kullanicilardan blockchain calistirma maliyeti talep etmeye gerek yoktur. Herhangi maliyet talebinde bulunmak icin tek sebep ise, caydirici amacli olarak, blockchainin performansini etkilemesi ihtimal dahilinde olan akil almaz sayida islem gerceklestirilmesinin önüne engellenmesi amaciyladir.
 

@@ -76,7 +76,7 @@ SBD tokenleri deger olarak bir Amerikan Dolarina yakin olacak sekilde tasarlandi
 
 ### Merkezi Olmayan Takas
 
-Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer pazarinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Kullanicilar exchange ile dogrudan blockchain API'ni kullanarak ya da, Steemit.com'da[^14] oldugu gibi, GUI'yi kullanarak etkilesime gecebilir.
+Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer piyasasinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Kullanicilar exchange ile dogrudan blockchain API'ni kullanarak ya da, Steemit.com'da[^14] oldugu gibi, GUI'yi kullanarak etkilesime gecebilir.
 
 ### Escrow Yoluyla Ödemeler
 
@@ -84,7 +84,7 @@ Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütleri
 
 ### Hiyerarsik Özel Anahtar Yapisi
 
-Steem yüksek-güvenlikli ve düsük-güvenlikli islemleri kolaylastirmak icin türünün ilk örnegi olan bir hiyerarsik özel anahtar sistemine kullanmaktadir. Düsük-güvenlikli islemler, post etmek ve yorum yapmak gibi, sosyal olmak egilimindedir. Yüksek-güvenlikli islemler ise transferler ve anahtar degisimleri türündedir. Bu, anahtarlarin izin verdigi girislere bagli olarak, kullanicilara kendi anahtarlarina farkli seviyelerde güvenlik tayin etme olanagi saglamaktadir.
+Steem yüksek-güvenlikli ve düsük-güvenlikli islemleri kolaylastirmak icin türünün ilk örnegi olan bir hiyerarsik özel anahtar sistemi kullanmaktadir. Düsük-güvenlikli islemler, post etmek ve yorum yapmak gibi, sosyal olmak egilimindedir. Yüksek-güvenlikli islemler ise transferler ve anahtar degisimleri türündedir. Bu, anahtarlarin izin verdigi girislere bagli olarak, kullanicilara kendi anahtarlarina farkli seviyelerde güvenlik tayin etme olanagi saglamaktadir.
 
 Bu özel anahtarlar Posting, Active ve Owner'dir. Posting anahtari kullanici hesaplarina post etme, yorum yapma, düzenleme, resteem[^15], ve diger hesaplari takip etme/susturma imkani tanir. Active Anahtari, fon transferi, power up/down islemleri, Steem Dolar'i dönüsümleri, Witness oylamalari, piyasa emirleri girme ve Posting Anahtarini sinirlama gibi daha hassas görevleri yerine getirmek icindir. Owner Anahtari ise sadece ihtiyac hasil oldugunda kullanilmalidir. O ilgili hesabin Owner anahtari da dahil diger tüm anahtarlarini degistirebilecegi icin en güclü anahtardir. Ve Hesap Kurtarma sürecinde hesap mülkiyetini kanitlar. Ideal olani, cevrimdisi olarak saklanmasi ve sadece hesabin diger anahtarlarinin degistirilmesi ya da tehlike altindaki hesabin kurtarilmasi gerektiginde kullanilmasidir.
 
@@ -94,9 +94,9 @@ Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir
 
 Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin verir ki bu sayede de bircok kullanici ayni yetkiyi paylasabilir. Benzer sekilde fazla sayida bilesenin varligi da bir islemin gecerliligini onaylamak icin gereklidir. Bu, bir yetki icin bir alt limitin tanimli oldugu ve her bir özel/genel anahtar ciftine bir agirligin tayin edildigi Bitshares'de[^16] yapilan ile ayni sekilde yapilir. Bir islemin gecerli olabilmesi icin yeteri sayida bilesenin imzasi gerekmektedir bu sayede agirliklarinin toplami altlimiti saglar ya da asar.
 
-### Cok Sayida Ödül Hak-Sahipleri
+### Coklu Sayida Ödül Hak-Sahipligi
 
-Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Paylasim ya da yorum olusturmak icin kullanilmis olan internet sitelerinin ve araclarin yapilan yorumdan gelen ödüllerin cesitli taraflar arasinda nasil dagilitacagini belirleme hakki vardir. Bu cesitli sekillerdeki isbirliklerine olanak sundugu gibi Steem blockchaini üzerine insa edilmis platformlara da, kullanicilari üzerinden, ödüllerin bir kismindan pay almalarina imkan tanir.
+Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Paylasim ya da yorum olusturmak icin kullanilmis olan internet sitelerinin ve araclarin yapilan yorumdan gelen ödüllerin cesitli taraflar arasinda nasil dagilitacagini belirleme hakki vardir. Bu cesitli sekillerdeki isbirliklerine olanak sundugu gibi Steem blockchaini üzerine insa edilmis platformlarin da, kullanicilari üzerinden, ödüllerin bir kismindan pay almalarina imkan tanir.
 
 ### Smart Media Tokenlari (SMT)
 
@@ -104,7 +104,7 @@ Smart Media Tokenlari Steem blockchain'i üzerinde insa edilebilecek yerel token
 
 ### Calinti Hesap Kurtarimi
 
-Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilirler. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. Kullanicilara bu hizmetleri sunmak her ne kadar kayit saglayicilari icin zorunlu olmasa da kayitli kullanicilarin kullanim deneyimini degerini artirabilmektedir.
+Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilir. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. Kullanicilara bu hizmetleri sunmak her ne kadar kayit saglayicilari icin zorunlu olmasa da kayitli kullanicilarin kullanim deneyimini artirabilmektedir.
 
 ### Zaman Kilitleri Yoluyla Güvenlik
 

@@ -2,11 +2,11 @@
 
 ## 소 개
 
-스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 빠르고 수수료가 없는 디지털 토큰(STEEM)[^2] 기반의 확장 가능한 블록체인 프로토콜[^1]을 제공한다. 사람들은 글쓰기나 큐레이팅 등의 창작 활동을 통해 화폐를 벌 수 있으며, 이를 "지능 증명" (Proof-of-Brain) 이라고 부른다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존하고 있기 때문에 서로 꼭 필요한 존재다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 능가하고 있다.[^3]
+스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 빠르고 수수료가 없는 디지털 토큰(STEEM)[^1] 기반의 확장 가능한 블록체인 프로토콜[^2]을 제공한다. 사람들은 글쓰기나 큐레이팅 등의 창작 활동을 통해 화폐를 벌 수 있으며, 이를 "지능 증명" (Proof-of-Brain) 이라고 부른다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존하고 있기 때문에 서로 꼭 필요한 존재다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 능가하고 있다.[^3]
 
 다른 블록체인과 비교했을때, 스팀은 자체적인 보상 체계를 가지고 있고, 평문 형태로 변경 불가능하게 저장된 콘텐츠에 공개적으로 접근할 수 있는 최초의 데이터베이스라는 점에서 특별하다. 이같은 특징은 스팀을 가장 가치있는 콘텐츠에 공헌하는 사람들에게 보상을 제공하면서 수많은 인터넷 애플리케이션이 참여하고 데이터를 공유하는 공개 출판 플랫폼으로 만들었다.
 
-가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖는다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것이다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^4], meant to emphasize the human work required to distribute tokens to community participants. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
+가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖는다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것이다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 한다. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
 
 In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
 

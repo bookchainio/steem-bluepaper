@@ -6,7 +6,7 @@
 
 다른 블록체인과 비교했을때, 스팀은 자체적인 보상 체계를 가지고 있고, 평문 형태로 변경 불가능하게 저장된 콘텐츠에 공개적으로 접근할 수 있는 최초의 데이터베이스라는 점에서 특별하다. 이같은 특징은 스팀을 가장 가치있는 콘텐츠에 공헌하는 사람들에게 보상을 제공하면서 수많은 인터넷 애플리케이션이 참여하고 데이터를 공유하는 공개 출판 플랫폼으로 만들었다.
 
-가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖는다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것이다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 한다. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
+가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖는다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것이다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 한다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 멤버들이 커뮤니티의 가치를 상승시킬 수 있도록 동기를 부여한다.
 
 In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
 

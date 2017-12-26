@@ -18,15 +18,15 @@ Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için 
 
 Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, kendisi sayesinde token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödül Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchaininde PoW blockchaininde olandan farklı bir sekilde üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilmekte, fakat, makinaları belirli isleri yapmakta olan insanlara ("madenciler") rastgele dağıtilmaktadir.
 
-Sadece PoW'a dayanan kripto para birimlerinden farklı olarak, Steem'deki token'lar her üç saniyede bir sabit bir blok hızında üretilir. Bu token'ler, blockchainin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler tokenler için özel yollarla rekabet eder. Madencilerin ham bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW paylasim yollarinin aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
+Sadece PoW'a dayanan kripto para birimlerinden farklı olarak, Steem'deki token'lar her üç saniyede bir blok seklinde sabit bir hızda üretilir. Bu token'ler, blockchainin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler tokenler için özel yollarla rekabet eder. Madencilerin ham bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW paylasim yollarinin aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
 
 Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak, yılda % 9.5'e ayarlanmistir ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azalmaktadir. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından, % 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
 
 Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nu oluşturmaktadır. Dagitilan muktesep hisselerin %15'i token sahiplerine, %10'u ise Steem'in DPoS konsensus protokolü icerisinde faaliyette bulunan blok ütecileri olan Witness'lara dagitilir.
 
-#### Icerik Üreticileri ve Curatorler icin olan ödüller
+#### Icerik Üreticileri ve Küratorler icin olan ödüller
 
-Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise parabirimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. Icerikler hakkinda degerlendirme ve oylama hususunda zaman ayiran kullanicilar parabiriminin en fazla arti deger katan kullanicilar arasinda dagitilmasinda önemli rol oynamaktadirlar. Blockchain tüm bu aktiviteleri toplulugun bilgeligine dayanan hisse-agirlikli oylama sisteminde edinilmis göreli degelerine göre ödüllendirir.
+Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise para birimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. Icerikler hakkinda degerlendirme ve oylama hususunda zaman ayiran kullanicilar para biriminin en fazla arti deger katan kullanicilar arasinda dagitilmasinda önemli rol oynamaktadirlar. Blockchain tüm bu aktiviteleri toplulugun bilgeligine dayanan hisse-agirlikli oylama sistemiyle edinilmis göreli degelerine göre ödüllendirir.
 
 #### Ödüllerin Paylasimini Belirlemek Icin Hisselendirilmis-Token'lar ile Oylama Yapmak
 
@@ -36,13 +36,13 @@ Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 
 
 ## Steem Blockchain'inde Hiz ve Ölcek
 
-Steem blockchain'i halihazirda mevcut olan blockchain'ler arasinda en hizli ve en islevsel olanlarindan birisi olmak icin tasarlanmistir ki bu da Reddit büyüklügünden daha büyük olan bir sosyal medya platformundan beklenecek trafigi destekleyebilmek icin elzemdir. Steem yapilan islem sayisi bakimindan, daha simdiden, Bitcoin'i asmistir ve saniye basina 10,000 islem olceginde destek sunabilmeye muktedirdir.
+Steem Blockchain'i halihazirda mevcut olan blockchainler arasinda en hizli ve en islevsel olanlarindan birisi olmak icin tasarlanmistir ki bu da Reddit büyüklügünden daha büyük olan bir sosyal medya platformundan beklenecek trafigi destekleyebilmek icin elzemdir. Steem yapilan islem sayisi bakimindan, daha simdiden, Bitcoin'i asmistir ve saniye basina 10,000 islem olceginde destek sunabilmeye muktedirdir.
 
 ### Delegated Proof of Stake (DPoS)
 
 Proof-of-Work(PoW)[^6] tarafindan sinirlandirildiklari icin Blockchainler saniye basina üc islem ölceginin üzerine cikamazlar ki bu da dünyanin finansal trafiginin sadece kucuk bir kismidir. Steem PoW tarafindan sunulandan daha büyük bir olcege ve daha fazlasina ihtiyac duydu ve bu yüzden milyarlarca kullaniciya uygun bir blockchain'e zemin hazirlamak icin Delegated Proof of Stake (DPoS)[^7] olarak adlandirilan, az bilinen bir algoritmayi kullandi.
 
-DPoS sebebiyle Steem Blockchain, en az bilgi islem yükü ile 3 saniyede bir blok üretebilebilme kapasitesine sahiptir. Bu demektir ki, blockchain daha fazla islemi isleyebilir ve icerik de dahil olmak üzere daha fazla bilgiyi saklayabilir.
+DPoS sebebiyle Steem Blockchain'i, en az bilgi islem yükü ile 3 saniyede bir blok üretebilebilme kapasitesine sahiptir. Bu demektir ki, blockchain daha fazla islemi isleyebilir ve icerik de dahil olmak üzere daha fazla bilgiyi saklayabilir.
 
 Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi icerisindeki secilmis Witness hizlica ve etkin bir sekilde önerilen hardfork ile devam edip etmeme kararini verebilir ki bu da blockchain protokolünün diger bircoguna oranla daha hizli evrimlesmesini saglar. Steem blockchain simdiye kadar 18 defa basarili bir sekilde forklanmistir[^8] ve her Hardfork olusumundan sonra sadece tek bir chain kalmistir.
 

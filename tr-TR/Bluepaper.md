@@ -58,11 +58,11 @@ Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisaya
 
 ## Steem'in Platform Özellikleri
 
-Steem Blockchain'i anaakim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmak yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
+Steem Blockchain'i ana akim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmasi yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
 
 ### Icerik Uygulamalari Icin Tasarlanmis Temel
 
-Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchain'in degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Bir kere blockchainde saklandiginda veri onun üzerine insalarda bulunacak gelistiriciler erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
+Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchainin degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Veri bir kere blockchainde saklandiginda, onun üzerine insalarda bulunacak gelistiriciler icin erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
 
 ### Yerel Isim Sistemi
 
@@ -72,9 +72,9 @@ Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafin
 
 Kripto parabirimi dünyasina giren bircok kullanici platform tarafindan ödül olarak verilen "büyülü internet tokenlarinin" nasil gercek dünyada bir karsiligi olacagini anlamakta güclük ceker. Ana akim kullanicilarin alisik oldugu geleneksel tedavül sistemleri ile platform araciligiyla dagitilan kripto parabirimi tokenlari arasindaki boslugu doldurmak icin Steem Blockchain Dolari (SBD) icat edildi.
 
-SBD tokenleri bir Amerikan Dolarina yaklasik olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokenlari kullanicilara ayrica, hesap degerlerini Amerikan dolarina nisbi olarak tutmak istediklerinde de, goreli olarak sabit bir parabirimi sunmaktadir. Daha fazla teknik ayrinti Steem Technical Whitepaper'da[^12] bulunabilir.
+SBD tokenleri deger olarak bir Amerikan Dolarina yakin olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokenlari kullanicilara ayrica, hesap degerlerini Amerikan dolarina nisbi olarak tutmak istediklerinde de, goreli olarak sabit bir para birimi sunmaktadir. Daha fazla teknik ayrinti Steem Technical Whitepaper'da[^12] bulunabilir.
 
-### Gayri Merkezi Exchange
+### Merkezi Olmayan Takas
 
 Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer pazarinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Kullanicilar exchange ile dogrudan blockchain API'ni kullanarak ya da, Steemit.com'da[^14] oldugu gibi, GUI'yi kullanarak etkilesime gecebilir.
 

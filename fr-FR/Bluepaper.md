@@ -40,9 +40,9 @@ Le blockchain de Steem est conçu pour être l'un des blockchains les plus rapid
 
 ### Preuve de participation déléguée (DPoS)
 
-Souvent encombré par le Proof-of-Work (PoW / preuve de travail) [^6] beaucoup de Blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) [^7] à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
+Souvent encombré par le Preuve de travail (PoW) [^6] beaucoup de blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem avait besoin de beaucoup plus d'ampleur et de vitesse que le PoW, et un algorithme moins connu appelé DPoS (Preuve de participation déléguée) [^7] a été utilisé pour jeter les bases d'un blockchain adaptée à des milliards d'utilisateurs.
 
-Grâce à DPoS, la blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
+Grâce à DPoS, le blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
 
 En définissant les règles pour lorsque se produit un Hardfork, les témoins, élus dans le cadre de la PoW peuvent rapidement et efficacement décider ou non d’aller de l’avant avec un projet hardfork, permettant au protocole de la blockchain Steem d’évoluer plus rapidement que la plupart d’autres. Le blockchain Steem a Forké déjà avec succès 18 fois [^8], et chaque fois qu’un Hardfork s’est produite, une seule chaîne a persisté après la fourche.
 

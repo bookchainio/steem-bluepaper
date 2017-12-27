@@ -28,17 +28,17 @@ De l'offre de nouveaux jetons créés par le blockchain Steem chaque année, 75%
 
 Les utilisateurs qui produisent du contenu ajoutent de la valeur au réseau en créant du matériel qui attirera de nouveaux utilisateurs vers la plateforme, tout en maintenant l'engagement et le divertissement des utilisateurs existants. Cela facilite la distribution de la monnaie à un plus grand nombre d'utilisateurs et augmente l'effet réseau. Les utilisateurs qui prennent le temps d’évaluer et de voter sur le contenu jouent un rôle important dans la distribution de la monnaie pour les utilisateurs qui ajoutent le plus de valeur. Le blockchain récompense ces deux activités par rapport à leur valeur sur la base de la sagesse collective de la foule rassemblée à travers le système de vote pondéré.
 
-#### Voter avec des jetons pondérés pour déterminer l'attribution des récompenses
+#### Voter avec des jetons participatifs pour déterminer l'attribution des récompenses
 
-Steem opère sur la base de un STEEM, un vote. Selon ce modèle, les personnes qui ont le plus contribué à la plateforme, selon le solde de leur compte, ont le plus d'influence sur la façon dont les contributions sont cotées. La participation peut être achetée ou gagnée. Utilisateurs ne peuvent pas acquérir une influence supplémentaire en possédant des comptes multiples, depuis un seul compte avec un montant de jeu aura la même influence que deux comptes différents, partage le même montant de mise. La seule manière dont les utilisateurs d'augmenter leur influence surla plateforme est d'augmenter leur participation.
+Steem opère sur la base de un STEEM, un vote. Selon ce modèle, les personnes qui ont le plus contribué à la plateforme, selon le solde de leur compte, ont le plus d'influence sur la façon dont les contributions sont cotées. La participation peut être achetée ou gagnée. Les utilisateurs ne peuvent pas acquérir une influence supplémentaire en possédant plusieurs comptes, car un même compte avec un montant de participation aura la même influence que deux comptes différents partageant le même montant de participation. Le seul moyen pour les utilisateurs d'accroître leur influence sur la plateforme est d'augmenter leur participation.
 
-De plus, Steem permet seulement aux membres de voter avec des STEEM quand ceux-ci sont soumis à un temps d'acquisition de 13 semaines appelé Steem Power. Selon ce modèle, les membres ont un incitatif financier pour voter d’une manière qui maximise la valeur à long terme de leur STEEM.
+De plus, Steem ne permet aux membres de voter avec STEEM que lorsqu'il est engagé dans un programme d'acquisition de 13 semaines appelé Steem Power. Selon ce modèle, les membres ont une incitation financière à voter de manière à maximiser la valeur à long terme de leur STEEM.
 
-## La rapidité et l'ampleur sur la Steem Blockchain
+## La rapidité et l'ampleur sur le Steem Blockchain
 
-La Blockchain Steem est conçue pour une des plus rapide et efficace existante, ce qui est nécessaire afin de pouvoir prendre en charge le volume du trafic prévu sur une plateforme de médias sociaux suppérieure à la taille de Reddit. Steem à déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour supporter 10.000 ou plus transactions par seconde.
+Le blockchain de Steem est conçu pour être l'un des blockchains les plus rapides et les plus efficaces, ce qui est nécessaire pour supporter la quantité de trafic attendue sur une plate-forme de médias sociaux supérieur à la taille de Reddit. Steem a déjà dépassé Bitcoin en nombre de transactions, et est capable d'évoluer pour prendre en charge 10 000 transactions ou plus par seconde.
 
-### Délégation Proof of Stake (DPoS)
+### Preuve de participation déléguée (DPoS)
 
 Souvent encombré par le Proof-of-Work (PoW / preuve de travail) [^6] beaucoup de Blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) [^7] à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
 

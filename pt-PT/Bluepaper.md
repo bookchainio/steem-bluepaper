@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O Steem fornece um protótipo escalável de cadeia de bloqueiol[^1] para conteúdo acessível e imutável ao público, juntamente com um sinal digital rápido e sem taxa (chamado STEEM)[^2] que permite que as pessoas ganhem a moeda usando o seu cérebro (o que pode ser chamado de "Prova de Cérebro"). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+O Steem fornece um protótipo escalável de cadeia de blocosl[^1] para conteúdo acessível e imutável ao público, juntamente com um símbolo digital rápido e sem taxa (chamado STEEM)[^2] que permite que as pessoas ganhem a moeda usando o seu cérebro (o que pode ser chamado de "Prova de Cérebro"). Os dois blocos de construção deste protótipo, tanto a sequência de blocos como o símbolo, dependem um do outro por segurança, imutabilidade e longevidade e, portanto, são integrantes da existência um do outro. A Steem vem operando com sucesso há mais de um ano, e agora ultrapassou o Bitcoin e o Ethereum em número de transacções processadas.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref"></a></sup>
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

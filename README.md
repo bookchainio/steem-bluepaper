@@ -7,17 +7,18 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 
 # Translators
 
-* [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)
-* [German](de-DE/Bluepaper.md) [@jedigeiss](https://steemit.com/@jedigeiss), [@alexvan](https://steemit.com/@alexvan), [@theaustrianguy](https://steemit.com/@theaustrianguy) and [@afrog](https://steemit.com/@afrog)
-* [Russian](ru-RU/Bluepaper.md) [@rusteemitblog](https://steemit.com/@rusteemitblog)
-* [Spanish](es-ES/Bluepaper.md) [@jesusbatallar](https://steemit.com/@jesusbatallar)
+* [Arabic](ar-SA/Bluepaper.md) [@samhamou](https://steemit.com/@samhamou)
 * [Bengali](bn-BD/Bluepaper.md) [@mrrifat1](https://steemit.com/@mrrifat1)
 * [Chinese Simplified](zh-CN/Bluepaper.md) [@stabilowl](https://steemit.com/@stabilowl), [@victory622](https://steemit.com/@victory622)
-* [Indonesian](id-ID/Bluepaper.md) [@yandot](https://steemit.com/@yandot)
 * [Filipino](fil-PH/Bluepaper.md) [@ruah](https://steemit.com/@ruah)
+* [German](de-DE/Bluepaper.md) [@jedigeiss](https://steemit.com/@jedigeiss), [@alexvan](https://steemit.com/@alexvan), [@theaustrianguy](https://steemit.com/@theaustrianguy) and [@afrog](https://steemit.com/@afrog)
+* [Indonesian](id-ID/Bluepaper.md) [@yandot](https://steemit.com/@yandot)
+* [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)
 * [Portuguese (Brazilian)](pt-BR/Bluepaper.md) [@phgnomo](https://steemit.com/@phgnomo)
 * [Romanian](ro-RO/Bluepaper.md) [@sarmizegetusa](https://steemit.com/@sarmizegetusa)
-* [Arabic](ar-SA/Bluepaper.md) [@samhamou](https://steemit.com/@samhamou)
+* [Russian](ru-RU/Bluepaper.md) [@rusteemitblog](https://steemit.com/@rusteemitblog)
+* [Spanish](es-ES/Bluepaper.md) [@jesusbatallar](https://steemit.com/@jesusbatallar)
+* [Turkish](tr-TR/Bluepaper.md) [@tubi](https://steemit.com/@tubi)
 
 # Compiling Steem Bluepaper Guide
 

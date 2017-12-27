@@ -122,7 +122,7 @@ Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kulla
 
 ## Sonuc
 
-Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi parabiriminin yaygin bir sekilde belirlenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. Yildirim hizindaki isleme zamani ve ücretsiz islemler bir araya geldiginde Steem dünya genelinde insanlar tarafindan kullanilan önde gelen blockchain teknolojilerinden biri olma adayidir.
+Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi para biriminin yaygin bir sekilde benimsenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. Yildirim hizindaki isleme zamani ve ücretsiz islemler bir araya geldiginde Steem dünya genelinde insanlar tarafindan kullanilan önde gelen blockchain teknolojilerinden biri olma adayidir.
 
 [^1]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;<0>&#8617;</0> . .
 

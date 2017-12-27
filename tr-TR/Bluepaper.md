@@ -1,159 +1,159 @@
 ![](\headerimage.png)
 
-## Tanıtım
+## Giriş
 
-İnternetteki yayıncılar ve içerik işletmeleri için akıllı, sosyal para kazanmayı sağlayan bir protokoldür. Steem, halkın erişebileceği ve değiştirilemeyeceği içeriğin yanı sıra, insanların beyinlerini kullanarak para kazanmalarını sağlayan hızlı ve ücretsiz bir dijital gösterge ("Beyin Kanıtı" olarak adlandırılabilecek) ile ölçeklenebilir bir blok zincir protokolü sağlar. Bu protokolün iki yapı taşı, hem blok zincir hem de simge, güvenlik, değişmezlik ve uzun ömür için birbirlerine bağımlıdır ve bu nedenle birbirlerinin varlığının ayrılmaz bir parçasıdır. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem kamusal olarak erişilebilir ve sabit içerik için, insanların onu beyinlerini kullanarak edinmelerine olanak saglayan (“Proof-of-Brain” olarak adlandırılabilecek) hizli ve ücretsiz bir dijital token ile birlikte (STEEM adında))[^2] ölçeklendirilebilir bir blockchain protokolü[^1] saglar. Bu protokolün iki ana yapi tasi, blockchain ve token, sabitlik ve uzun ömürlülük icin birbirine bagimlidir ve bu yüzden de birbirlerinin varliginin ayrilmaz birer parcasidir. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır [^3]
 
-Steem diğer blok zincirlerle karşılaştırıldığında, yerinde teşvik mekanizması ile birlikte, düz metin olarak değişmez şekilde depolanmış içeriğe yönelik ilk erişilebilir veri tabanı olarak öne çıkmaktadır. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
+Steem, diger Blockchainler ile kıyaslandığında, yerleşik teşvik mekanizması ile birlikte; düz metin olarak sabit halde saklanan içerige yönelik kamusal olarak erişilebilir ilk veritabani olmasi yönüyle öne cikmaktadir. Bu Steem’i en değerli içeriklerle katkı yapanları ödüllendirirken; ayni zamanda herhangi bir internet uygulamasının kendisinden veri çekebileceği ve onu paylaşabileceği bir kamusal paylaşım platformu haline getirmektedir.
 
-Kripto para birimleri alanında, STEEM'in eşsiz özellikleri bitcoin ve ether gibi diğerlerinden daha "akıllı" ve "sosyal" hale getiriyor. Bu, iki yeni token özelliklerinden kaynaklanmaktadır. Birincisi, içerik oluşturma ve küratörlüğü teşvik etmek için çalışan belirteçlerin bir havuzdur ("ödül havuzu" olarak adlandırılır). The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it. İkincisi ise, içeriğin değerini değerlendirmek ve token'ları dağıtmak için kalabalığın bilgeliğini kullanan bir oylama sistemidir. Bir araya getirildiklerinde bu iki benzersiz özellik, topluluk katılımcılarına token dağıtmak için gerekli olan insan çalışmalarını vurgulamak amacıyla Proof-of-Work'e dayanan bir beyandır. Proof-of Brain, sürekli olarak büyüyen toplulukları oluşturmak için üye olarak yerleşik ödül yapısıyla topluluğa değer katmaya teşvik eden bir araç olarak STEEM'i konumlandırır.
+Kripto para birimleri alanında, örnegin Bitcoin ve Ether’e kıyasla, STEEM’in benzersiz özellikleri onu hem “akilli” hem de “sosyal” kılmaktadır. Bu iki ana token özelliginden kaynaklanmaktadir. Ilki, Icerik üretimini ve küratörlügü tesvige adanmis bir token havuzudur (“Ödül Havuzu” olarak adlandirilir). İkincisi ise, içeriğin değerini tayin etmek ve ona tokenlar dağıtmak için topluluğun bilgeliğini kaldıraç olarak kullanan bir oylama sistemidir. Bir araya geldiklerinde Proof-of-Brain -ki o da Proof-of-Work'e[^4], nazire yapan bir adlandirmadir- olarak adandirilan bu benzersiz iki özellik topluluk üyelerine tokenlarin dağıtılması için gerekli olan insan emeginin ön plana çıkartılmasını hedeflemektedir. Proof-of-Brain STEEM’i üyelerini yerleşik ödül yapisi aracılığıyla deger yaratma hususunda cesaretlendiren ve bu sayede sürekli olarak büyüyen bir topluluklar yaratma aracı olarak konumlandırır.
 
-STEEM, blockchain ve token teknolojisindeki bu ilerlemelere ek olarak, Çalınan Hesap Kurtarma, emanet hizmetleri, kullanıcı tarafından tanıtılan içerik, itibar sistemi ve tasarruf hesapları gibi kullanıcı deneyimini geliştirmek için ek gelişmiş özellikler de sağlar. Hepsi bitti kullanıcılara üç ikincil doğrulama süresini ve tüm işlemlerde sıfır ücret sağlıyor. Tüm bunlar, internette yayıncılara ve topluluk üreticilerine akıllı ve sosyal para birimi getirme misyonunu desteklemesine olanak tanır. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Blockchaindeki ve token teknolojisindeki bu gelişmelere ek olarak Steem, kullanıcı deneyimini artırmak için, çalınan hesap telafisi[^5], escrow, kullanici tarafından öne çıkartılan içerikler gibi ilaveten gelişmiş özellikler saglayan bir sistemdir. Tüm bunlar ise tümüyle kullanıcılara üç ikincil doğrulama süresi ve tüm işlemlerde sıfır ücret sağlarken yapilmis oluyor. Tüm bunlar, internette yayıncılara ve topluluk üreticilerine akıllı ve sosyal para birimi getirme misyonunu desteklemeye olanak tanır.
 
-## Proof of Brain: Akıllı ve Sosyal Token'lar
+## Proof-of-Brain: Akıllı ve Sosyal Token'lar
 
-Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için ödül alan token sistemleri, içeriğin toplumsal değerini belirleme ve değerlendirme mekanizmaları gerektirir. Bunu "Proof of Brain" olarak adlandırırız.
+Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için ödüllendiren token sistemleri, içeriğin topluluksal değerini belirleme ve değerlendirme mekanizmaları gerektirir. Bunu "Proof-of-Brain" olarak adlandırırız
 
-### Ödüller Havuzu ("Token'ler nereden gelir?")
+### Ödül Havuzu ("Token'lar nereden gelir?")
 
-Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödüller Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchain'in de PoW blockchain'inden farklı üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilir ancak makinaları çalışmakta olan insanlara ("madenciler") rastgele dağıtılır.
+Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, kendisi sayesinde token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödül Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchaininde PoW blockchaininde olandan farklı bir sekilde üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilmekte, fakat, makinaları belirli isleri yapmakta olan insanlara ("madenciler") rastgele dağıtilmaktadir.
 
-PoW sadece kripto para birimlerinden farklı olarak Steem'deki token'lar her üç saniyede bir sabit bir blok hızında üretilir. Bu token'ler, blok zincirinin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler belirteçler için özel yollarla rekabet eder. Madencilerin çiğ bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW dağıtım araçlarının aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
+Sadece PoW'a dayanan kripto para birimlerinden farklı olarak, Steem'deki token'lar her üç saniyede bir blok seklinde sabit bir hızda üretilir. Bu token'ler, blockchainin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler tokenler için özel yollarla rekabet eder. Madencilerin ham bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW paylasim yollarinin aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
 
-Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak yılda % 9.5'e ayarlandı ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azaltıldı. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından% 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
+Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak, yılda % 9.5'e ayarlanmistir ve her 250.000 blokta % 0.01 oranında veya yılda yaklaşık % 0.5 oranında azalmaktadir. Enflasyon, yaklaşık 20.5 yıllık bir sürenin ardından, % 0.95'e ulaşana kadar bu oranda düşmeye devam edecektir.
 
-Her yıl Steem blockchain'i tarafından oluşturulan yeni token'lerin arzında, bu token'lerin %75'i içerik oluşturuculara ve içerik küratörlerine dağıtılan "ödül havuzu" nü oluşturmaktadır. %15'i hak verilen token sahiplerine dağıtılır ve %10 witness'lara dağıtılır. Witnesslar blok üretenlerdir ve Steem'in DPoS konsensüs protokolünde işbirliği yaparlar.
+Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nu oluşturmaktadır. Dagitilan muktesep hisselerin %15'i token sahiplerine, %10'u ise Steem'in DPoS konsensus protokolü icerisinde faaliyette bulunan blok ütecileri olan Witness'lara dagitilir.
 
-#### İçerik Oluşturucular ve Küratörler İçin Ödüller
+#### Icerik Üreticileri ve Küratorler icin olan ödüller
 
-İçerik üreten kullanıcılar, yeni kullanıcıları platforma yönlendirecek materyalleri yaratarak, aynı zamanda mevcut kullanıcıların etkileşimde kalmasını ve eğlenilmesini sağlayarak ağa değer katmaktadır. Bu, kullanılan dijital paranın daha geniş bir kullanıcı grubuna dağıtılmasına yardımcı olur ve ağ etkisini artırır. İçeriği değerlendirmek ve oy kullanmak için zaman harcayan kullanıcılar para birimini en çok değer katanlara dağıtmada önemli bir rol oynamaktadır. Blockchain, bu faaliyetlerin her ikisini de like temelli bir oylama sistemi ile toplanan kalabalığın kolektif bilgeliğine dayanan değerlerine göre ödüllendirir.
+Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise para birimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. Icerikler hakkinda degerlendirme ve oylama hususunda zaman ayiran kullanicilar para biriminin en fazla arti deger katan kullanicilar arasinda dagitilmasinda önemli rol oynamaktadirlar. Blockchain tüm bu aktiviteleri toplulugun bilgeligine dayanan hisse-agirlikli oylama sistemiyle edinilmis göreli degelerine göre ödüllendirir.
 
-#### Ödüllerin Tahsisini Belirlemek İçin Oylama Yapmak 
+#### Ödüllerin Paylasimini Belirlemek Icin Hisselendirilmis-Token'lar ile Oylama Yapmak
 
-Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. SP satın alınabilir veya kazanılabilir. Kullanıcılar, birden fazla hesaba sahip olmak suretiyle ek etki kazanamaz; bahis miktarı olan tek bir hesap, aynı miktarda hisseyi paylaşan iki farklı hesapla aynı etkiye sahip olacaktır. Kullanıcıların platform üzerindeki etkilerini artırmasının tek yolu, SP'larını artırmaktır.
+Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Belirli sayida hisseye sahip olan tekil bir hesap ile ayni oranda hisseyi paylasan iki farkli hesabin etki gücü ayni olacagindan kullanicilar birden fazla hesap sahibi olarak ilave etki gücü kazanamazlar. Kullanicilar icin platform üzerindeki etkilerini artirabilmenin tek yolu hisselerini artirmaktir.
 
-Dahası Steem, Steem Power adlı 13 haftalık bir hak sahipliği planını taahhüt ettiği zaman üyelerin STEEM ile oy kullanmasına izin verir. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
+Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 haftaligina temlik edilmis STEEM ile oylama hakki sunar. Bu model altinda, kullanicilar kendi STEEM'lerinin uzun vadeli degerini azami seviyeye cikartacak sekilde oylama yapma konusunda finansal insiyatife sahiptir.
 
-## Steem Blockchain'de Hız ve Ölçek
+## Steem Blockchain'inde Hiz ve Ölcek
 
-Steem blockchain'i, Reddit'in boyutundan daha büyük bir sosyal medya platformunda beklenen trafik miktarını destekleyebilmek için gerekli olan en hızlı ve en verimli blok zincirlerinden biri olacak şekilde tasarlanmıştır. Steem, işlem sayısı bakımından zaten Bitcoin'u aştı ve saniyede 10.000 veya daha fazla işlemi destekleyecek şekilde ölçeklenebilir.
+Steem Blockchain'i halihazirda mevcut olan blockchainler arasinda en hizli ve en islevsel olanlarindan birisi olmak icin tasarlanmistir ki bu da Reddit büyüklügünden daha büyük olan bir sosyal medya platformundan beklenecek trafigi destekleyebilmek icin elzemdir. Steem yapilan islem sayisi bakimindan, daha simdiden, Bitcoin'i asmistir ve saniye basina 10,000 islem olceginde destek sunabilmeye muktedirdir.
 
-### Temsilci olarak atanan kanıt hissesini (DPoS)
+### Delegated Proof of Stake (DPoS)
 
-Çoğu zaman İş Kanıtlaması (PoW) ile tıkanmış birçok blok zinciri, saniyede üç işlemin ötesine geçemez; bu da dünyanın finansal trafiğinin bir kısmını oluşturur. Steem, PoW tarafından sunulana oranla çok daha fazla ölçek ve hız gerekti ve bu nedenle milyarlarca kullanıcı için uygun bir blok zincirin temelini atmak için Delegated Proof of Payake (DPoS) adı verilen daha az bilinen bir algoritma kullanıldı.
+Proof-of-Work(PoW)[^6] tarafindan sinirlandirildiklari icin Blockchainler saniye basina üc islem ölceginin üzerine cikamazlar ki bu da dünyanin finansal trafiginin sadece kucuk bir kismidir. Steem PoW tarafindan sunulandan daha büyük bir olcege ve daha fazlasina ihtiyac duydu ve bu yüzden milyarlarca kullaniciya uygun bir blockchain'e zemin hazirlamak icin Delegated Proof of Stake (DPoS)[^7] olarak adlandirilan, az bilinen bir algoritmayi kullandi.
 
-DPoS nedeniyle, Steem blok zinciri, minimum hesaplama yüküyle her 3 saniyede bir yeni bir blok oluşturabiliyor. Bu, blok zincirinin daha fazla işlem gerçekleştirebileceği ve içerikler de dahil olmak üzere daha fazla bilgi tutabileceği anlamına geliyor.
+DPoS sebebiyle Steem Blockchain'i, en az bilgi islem yükü ile 3 saniyede bir blok üretebilebilme kapasitesine sahiptir. Bu demektir ki, blockchain daha fazla islemi isleyebilir ve icerik de dahil olmak üzere daha fazla bilgiyi saklayabilir.
 
-Bir Hardfork oluştuğunda kuralları tanımlayarak, DPoS çerçevesinde seçilen witnesslar Steem blok zinciri protokolünün diğerlerinden daha hızlı gelişmesine izin vererek önerilen bir Hardfork ile ilerlemeye devam etmeme konusunda hızlı ve verimli bir şekilde karar verebilir. Steem blok zinciri zaten 18 kez çatallanmış ve bir Hardfork meydana geldiğinde çatalın ardından yalnızca tek bir zincir devam etmiş.
+Bir Hardfork'un olusmasi hususundaki kurallarin belirlenmesi ile, DPoS cercevesi icerisindeki secilmis Witness hizlica ve etkin bir sekilde önerilen hardfork ile devam edip etmeme kararini verebilir ki bu da blockchain protokolünün diger bircoguna oranla daha hizli evrimlesmesini saglar. Steem blockchain simdiye kadar 18 defa basarili bir sekilde forklanmistir[^8] ve her Hardfork olusumundan sonra sadece tek bir chain kalmistir.
 
 ### ChainBase
 
-ChainBase, blockchain yığınının veritabanı kısmıdır ve 2016'da Graphene'in yerini almıştır. ChainBase, daha hızlı yükleme ve çıkış sürelerine sahiptir, veritabanına paralel erişimi destekler ve çökmelere karşı öncekilerden daha dayanıklıdır. Ayrıca daha az sıklıkta veritabanı yolsuzluğuna sahiptir, tüm veritabanı durumunun anlık "anlık görüntüsünü" almasını sağlar ve aynı bellekten daha fazla RPC isteği görebilir.
+ChainBase[^9] blockchain istifinin veritabani kismdir ve 2016 yilinda Graphene'in[^10] yerini almistir. ChainBase daha hizli yükleme ve cikis zamanlarina sahiptir, veritabanina paralel erisimi destekler ve selefine oranla cökmelere karsi daha dayaniklidir. Ayni zamanda, daha nadir veritabani yozlasmasina sahiptir; tüm veritabaninin anlik "snapshooting"ine izin verir ve daha fazla sayida ayni memory üzerinden yapilan RPC talepleri sunabilir.
 
 ### AppBase
 
-AppBase, çok zincirli bir katman yaratmanın ilk adımıdır. AppBase, Steem blok zincirinin birçok bileşenini, eklenti olarak ek konsensüs blok zincirleri oluşturarak modüler hale getirir. Bu eklentiler, tüm blok zincirinin tekrar değiştirilmesini gerektirmediğinden çok daha hızlı güncellenebilir. Bu, Steemd'i korumak ve ölçeklendirmek için daha verimli ve daha kolay hale getirir.
+AppBase multi-chain FABRIC yaratmak konusunda ilk adimdir. AppBase Steem Blockchain'inin bircok bileseninin atanmis eklentiler olarak islev goren ilave non-consensus blockchainler yaratmak suretiyle birimsellesmesine olan tanir. Bu eklentiler tüm blockchain'in tamamen basa sarilmasina gereksinim duymadigi icin cok daha hizli bir sekilde güncellenebilir. Bu steemd'i[^11] olcekleme ve devamlilik konularinda cok daha efektif ve kolay kilar.
 
-Pratikte AppBase, Steem blok zincirinin farklı bölümlerini korumak için farklı çekirdeklerin veya farklı bilgisayarların kullanılmasını sağlar Bu, her çekirdeğin ve ağdaki tüm bilgisayarların blok zincirini korumasını gerektirmekten çok daha etkilidir. Blok zincirinin modülerleştirilmesi, bilgisayarların modüler yapısından tam olarak faydalanmasını sağlar. Bu tamamen paralel ve optimize edilmiş bir blok zincir oluşturmanın uzun süreci için gerekli bir adımdır.
+Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisayarin, Steem Blockchain'inin cesitli kisimlarini sürdürmesine olanak tanir. Bu ise her cekirdegin ve agdaki her bilgisayarin tüm blockchaini devam ettirmesine gereksinim duymaktan onemli olcude daha islevseldir. Blockchaini birimsellestirmek bilgisayarlarin birimsel dogalarindan tumuyle faydalanabilmeyi mumkun kilar. Bu uzun vadede tümüyle paralel ve tümüyle optimize edilmis bir blockchain yaratma yolunda onemli bir adimdir.
 
 ## Steem'in Platform Özellikleri
 
-Steem blok zinciri, ana toplayıcı bir sosyal medya platformunun yanı sıra, dijital bir belirteç işleme sistemi olma amacına da hizmet ediyor. Blok zincirinin sunduğu özellikler her iki amacı da desteklemeli ve platformun her iki yönünü de kullanırken kullanıcılara dünya standartlarında bir deneyim sunmalıdır.
+Steem Blockchain'i ana akim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmasi yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
 
-### İçerik Uygulamaları için İlkel Tasarım
+### Icerik Uygulamalari Icin Tasarlanmis Temel
 
-Steem, kullanıcılara farklı metin türlerini doğrudan ve kalıcı olarak, blok şablonunun değiştirilemez defterine düz metin olarak yayınlama ve depolama olanağı sunar. Bir kere blok zincirinde saklandığında, veriler geliştiriciler tarafından oluşturulması için halka açılmaktadır. Geliştiriciler mevcut API'ları kullanarak içerikle doğrudan blok zincirinde etkileşime geçebilir. Geliştiricilerin birçoğu, Hesap İsimleri, Yayınlar, Yorumlar, Oylar ve Hesap Bakiyesini içeren geliştirilebilir blok zincir ilkel geliştiricilerinden biridir.
+Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchainin degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Veri bir kere blockchainde saklandiginda, onun üzerine insalarda bulunacak gelistiriciler icin erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
 
-### Yerli İsim Sistemi
+### Yerel Isim Sistemi
 
-Bitcoin ve Ethereum gibi birçok blok zincir teknolojisinin kullandığı cüzdan adresleri tarihsel olarak çok sayıda rastgele harf ve sayı dizgesinden oluşuyordu, ancak bu cüzdan adresleri, tipik bir çevrimiçi sosyal medya içeriğinde diğer kullanıcılarla işlem yapmakta zorluk çekebilir; çünkü, kullanıcılar uzun dizili adresleri bellekten geri yükleyemez. Steem blok zinciri, her bir katılımcının kullanıcı adını mülkiyet adreslerini kendi belleklerinden doğrulayabileceği, belirteç göndermeye çalışan katılımcılar için kullanıcı deneyimini güçlendiren cüzdan adresi olarak kullanıyor.
+Cüzdan adresleri Bitcoin ve Ethereum gibi bircok blockchain teknolojisi tarafindan kullanilmaktadir. Tarihsel olarak bu adresler rastgele dizilmis harfler ve rakamlardan olusmaktadir. Ne var ki bu, tipik bir cevirimici sosyal medya baglaminda kullanicilar uzun dizi-adresleri hafizalarinda tutamayacaklari icin diger kullanicilar ile etkilesime gecmeyi zorlastirmaktadir. Steem Blockchain'i her katilimcinin kullanici ismini onun cüzdan adresi olarak kullanir ki bu da token transfer etmeye calisan kullanicinin -adresi aklinda tutabildigi icin- kullanici deneyimini desteklemektedir.
 
-### Steem Blockchain doları (SBD)
+### Steem Blockchain Dolari (SBD)
 
-Cryptocurrency ile tanışan birçok kullanıcı, platform tarafından verilen "sihirli internet tokenlarını" gerçekte gerçek dünya değerine sahip olabileceğini kavramak için mücadele ediyor. Genel kullanıcılarının kullandığı daha geleneksel para sistemleri ile platform üzerinden ödüllendirilen şifreleme tokenları arasındaki boşluğu kapatmak için Steem Blockchain Dollars (SBD) adlı yeni para birimi oluşturuldu.
+Kripto parabirimi dünyasina giren bircok kullanici platform tarafindan ödül olarak verilen "büyülü internet tokenlarinin" nasil gercek dünyada bir karsiligi olacagini anlamakta güclük ceker. Ana akim kullanicilarin alisik oldugu geleneksel tedavül sistemleri ile platform araciligiyla dagitilan kripto parabirimi tokenlari arasindaki boslugu doldurmak icin Steem Blockchain Dolari (SBD) icat edildi.
 
-SBD tokenları, bir ABD Doları'na yakın bir şekilde tutturulacak şekilde tasarlanmıştır; böylece, onları alan kullanıcılar, "gerçek dolar" terimlerinde ne kadar değerli olduklarını bilebilirler. SBD tokenları ayrıca, hesap değerlerini ABD Doları'na göre korumak isteyen kullanıcılar için nispeten istikrarlı bir para birimi sunar. Daha detaylı teknik açıklama Steem Whitepaper raporda bulunabilir.
+SBD tokenleri deger olarak bir Amerikan Dolarina yakin olacak sekilde tasarlandi ki bu sayede kullanicilar onlarin "gercek dolar" düzleminde yaklasik olarak ne kadar ettigini bilebilsin. SBD tokenlari kullanicilara ayrica, hesap degerlerini Amerikan dolarina nisbi olarak tutmak istediklerinde de, goreli olarak sabit bir para birimi sunmaktadir. Daha fazla teknik ayrinti Steem Technical Whitepaper'da[^12] bulunabilir.
 
-### Merkezi Olmayan Değişim
+### Merkezi Olmayan Takas
 
-Steem blok zinciri, Bitshares değişimine benzer şekilde merkezi olmayan bir token değişimini sunar. Kullanıcıların STEEM ve SBD tokenlarını halka açık bir eşsiz pazar aracılığıyla ticaret yapmalarını sağlar. Kullanıcılar, alım satım emirleri verebilir ve emir eşleştirmesi, blokçu tarafından otomatik olarak gerçekleştirilir. Kullanıcıların piyasayı analiz etmek için kullanabilecekleri, genel olarak erişilebilir bir sipariş defteri ve sipariş geçmişi de vardır. Kullanıcılar, blok zinciri API'sini kullanarak doğrudan exchange'le etkileşim kurabilir veya Steemit.com'daki gibi bir GUI kullanabilirler.
+Steem Blockchain'i, tipki Bitshares exchange[^13] gibi, merkezsiz bir token takas imkani sunar Takas kullanicilarin STEEM ve SBD tokenlarini kamusal ve merkezsiz bir peer-to-peer piyasasinda alip satmalarina olanak verir. Kullanicilar alis ve satis emirleri girebilir; siralama eslesmesi ise otomatik olarak blockchain tarafindan yapilir. Ayrica, kullanicilarin piyasayi analiz etmek icin kullanabilecekleri kamusal olarak erisilebilir bir emir defteri ve emir tarihcesi mevcuttur. Kullanicilar exchange ile dogrudan blockchain API'ni kullanarak ya da, Steemit.com'da[^14] oldugu gibi, GUI'yi kullanarak etkilesime gecebilir.
 
-### Emanet ile Ödeme Yapma
+### Escrow Yoluyla Ödemeler
 
-Blok zinciri işlemlerinin geri döndürülemez nitelikleri önemli bir güvenlik özelliğidir, ancak kullanıcıların, diğer kullanıcı sözleşmeyi sonlandırmadıkları zaman, onları geri almanın bir yolu olmaksızın başka bir kişiye belirteceklerini göndermekten pek hoşlanmayacak pek çok durum olmasına rağmen önemli bir güvenlik özelliğidir. Steem blok zinciri, kullanıcıların bir emanet hizmeti olarak belirlenmiş üçüncü bir tarafla birbirlerine token göndermesinin bir yolunu sunar. Emanet servisi gibi davranan kullanıcı, sözleşme şartlarının yerine getirilip getirilmediğini belirleyebilir ve fonların alıcıya bırakılmasına veya gönderene geri verilmesine izin verebilir.
+Her ne kadar bazen kulanicilar baska kisilere - karsi taraf anlasma taahhütlerini yerine getirmedigi zaman tokenlari geri almanin bir yolunun bulunmadigindan- token göndermek konusunda rahatsiz hissedebilse de blockchainin tersinemez dogasi önemli bir güvenlik özelligidir. Steem blockchain, kullanicilara birbirlerine ücüncü parti olarak belirlenmis escrow servisi yoluyla token gönderme hakki tanir. Escrow hizmeti saglayan kullanici anlasma sartlarinin yerine getirilip getirilmedigine karar verme hakkina sahiptir. Ya fonun aliciya gitmesine izin verir ya da göndericiye geri dönmesine hükmeder.
 
-### Hiyerarşik Özel Anahtar Yapısı
+### Hiyerarsik Özel Anahtar Yapisi
 
-Steem, düşük güvenlikli ve yüksek güvenlikli işlemleri kolaylaştırmak için kendi türünün hiyerarşik özel anahtar sistemlerinden bir tanesini kullanmaktadır. Düşük güvenlikli işlemler, gönderme veya yorum yapma gibi toplumsal olma eğilimindedir. Yüksek güvenlikli işlemler, aktarımlar ve anahtar değişikliklerdir. u, kullanıcıların, anahtarların izin verdiği erişime bağlı olarak, anahtarları için farklı güvenlik seviyeleri uygulamasına olanak tanır.
+Steem yüksek-güvenlikli ve düsük-güvenlikli islemleri kolaylastirmak icin türünün ilk örnegi olan bir hiyerarsik özel anahtar sistemi kullanmaktadir. Düsük-güvenlikli islemler, post etmek ve yorum yapmak gibi, sosyal olmak egilimindedir. Yüksek-güvenlikli islemler ise transferler ve anahtar degisimleri türündedir. Bu, anahtarlarin izin verdigi girislere bagli olarak, kullanicilara kendi anahtarlarina farkli seviyelerde güvenlik tayin etme olanagi saglamaktadir.
 
-Bu özel anahtarlar Posting, Active ve Owner'dır. Posting anahtarı, hesapların post yayınlayabilmesi, yorum yapması, oy kullanması, diğer hesapları resteem yapmasını ve takip edip / mute etmesi gibi işlemlerine izin verir. Active anahtar, para transferi, power up / down yapma, Steam Dolarını dönüştürme, witnesslara oy verme, market emirleri verme ve posting anahtarını sıfırlama gibi hassas görevler içindir. Owner anahtarı yalnızca gerektiğinde kullanılmak üzere tasarlanmıştır. En güçlü anahtardır, çünkü sahibinin anahtarı da dahil olmak üzere bir hesabın herhangi bir anahtarını değiştirebilir ve Hesap Kurtarma sırasında sahipliği kanıtlamak mümkün olur. İdeal olarak, çevrimdışı depolanması amaçlanmıştır ve yalnızca hesap anahtarlarının değiştirilmesi gerektiğinde veya tehlikeye atılmış bir hesabı kurtarmak için kullanılır.
+Bu özel anahtarlar Posting, Active ve Owner'dir. Posting anahtari kullanici hesaplarina post etme, yorum yapma, düzenleme, resteem[^15], ve diger hesaplari takip etme/susturma imkani tanir. Active Anahtari, fon transferi, power up/down islemleri, Steem Dolar'i dönüsümleri, Witness oylamalari, piyasa emirleri girme ve Posting Anahtarini sinirlama gibi daha hassas görevleri yerine getirmek icindir. Owner Anahtari ise sadece ihtiyac hasil oldugunda kullanilmalidir. O ilgili hesabin Owner anahtari da dahil diger tüm anahtarlarini degistirebilecegi icin en güclü anahtardir. Ve Hesap Kurtarma sürecinde hesap mülkiyetini kanitlar. Ideal olani, cevrimdisi olarak saklanmasi ve sadece hesabin diger anahtarlarinin degistirilmesi ya da tehlike altindaki hesabin kurtarilmasi gerektiginde kullanilmasidir.
 
-Steem ayrıca, üç anahtarı da şifreleyen ve bir Ana Parola kullanır. Web servisleri, gerekli özel anahtarın şifresini çözen ve imzalayan bir Ana Şifre kullanabilir. Ana Parola, kullanıcıların uygun olmayan anahtarların herhangi bir sunucuya aktarılmasını önlemek için belirli hizmetlere güvenmelerine, dolayısıyla güvenli bir istemci tarafı imzalama ortamı sağlarken kullanıcı deneyiminin artmasına izin verebilir.
+Steem ayrica diger üc anahtari sifreleyen bir Master Password da kullanmaktadir. Web hizmetleri gerekli özel anahtari desifreleyen ve imzalayan bir Master Password kullanabilir. Master Pasword'lar kullanicilarin uygunsuz anahtarlarin sunucular arasinda transfer edilmesinin engellenmesi icin bazi hizmetlere güvenebilmelerine olanak saglar. Bu sayede güvenli bir istemci-tarafi imzalama ortami yaratirken kullanici deneyimini de artirir.
 
-### Çoklu Sig Yetkililer
+### Multi Sig Yetkileri
 
-Steem blok zinciri, birden fazla kullanıcının aynı yetkiyi paylaşması için bir makamın birden çok varlığa bölünmesine izin verir veya geçerli olabilmesi için bir işlemi yetkilendirmek için birden çok varlığa ihtiyaç duyulur. Bu, her genel / özel anahtar çiftine bir ağırlık atanmış ve otorite için bir eşik tanımlanan Bitshares ile aynı şekilde yapılır. Bir işlemin geçerli olabilmesi için, yeterli varlıklar, ağırlıklarının toplamı eşiğe ulaşması veya aşması için imzalamalıdır.
+Steem blockchaini bir yetkinin cok fazla bilesen arasinda dagitilmasina izin verir ki bu sayede de bircok kullanici ayni yetkiyi paylasabilir. Benzer sekilde fazla sayida bilesenin varligi da bir islemin gecerliligini onaylamak icin gereklidir. Bu, bir yetki icin bir alt limitin tanimli oldugu ve her bir özel/genel anahtar ciftine bir agirligin tayin edildigi Bitshares'de[^16] yapilan ile ayni sekilde yapilir. Bir islemin gecerli olabilmesi icin yeteri sayida bilesenin imzasi gerekmektedir bu sayede agirliklarinin toplami altlimiti saglar ya da asar.
 
-### Çoklu Ödül Faydalanıcıları
+### Coklu Sayida Ödül Hak-Sahipligi
 
-Verilen herhangi bir yazı için, ödüle maddi olarak ilgi gösteren birkaç kişi olabilir. Buna yazar, muhtemel ortak yazarlar, yönlendirenler, barındırma sağlayıcıları, blok zincir yorumlarına gömülü bloglar ve araç geliştiricileri de dahildir. Bir yayın veya yorum oluşturmak için kullanılan web sitesi veya araç ne olursa olsun, bu yorumun ödüllerinin çeşitli taraflar arasında nasıl bölündüğünü ayarlama olanağına sahip olacak. Bu, kullanıcıların ödüllerinin bir kısmını toplamak için Steem blok zincirinin üzerine inşa edilmiş platformlar için bir takım yol yanı sıra çeşitli işbirliği biçimleri sağlar.
+Herhangi bir post icin verilen ödülden mali kari olan farkli sayida insan bulunabilir. Yazar, muhtemel es-yazarlar, refere eden kisiler, hosting saglayicilari, blockchain yorumlari bulunduran bloglar ve arac gelistiricleri de buna dahildir. Paylasim ya da yorum olusturmak icin kullanilmis olan internet sitelerinin ve araclarin yapilan yorumdan gelen ödüllerin cesitli taraflar arasinda nasil dagilitacagini belirleme hakki vardir. Bu cesitli sekillerdeki isbirliklerine olanak sundugu gibi Steem blockchaini üzerine insa edilmis platformlarin da, kullanicilari üzerinden, ödüllerin bir kismindan pay almalarina imkan tanir.
 
-### Akıllı medya simgeleri (SMT)
+### Smart Media Tokenlari (SMT)
 
-Akıllı medya simgeleri Steem blockchain üzerinde inşa edilebilir yerel simgeleri vardır. STEEM şimdiye kadar var olan ilk SMT'dir ve Akıllı Medya Token protokolü, insanların STEEM'e benzer özelliklere sahip olan, ancak teşvik edilerek herhangi bir çevrimiçi topluluğun vizyonuna uyacak şekilde özelleştirilebilen belirteçler oluşturmasına izin vererek içerik web sitelerini ve uygulamaları web üzerinden para kazanmayı amaçlamaktadır. davranış, esasen STEEMs başarı herhangi bir web sitesi ya da uygulama çoğaltılması. Daha fazla teknik ayrıntı akıllı medya simgeleri whitepaper [^17] ' bulunabilir.
+Smart Media Tokenlari Steem blockchain'i üzerinde insa edilebilecek yerel tokenlardir. STEEM ilk varolan SMT'dir. Ve Smart Media Token protokolü insanlara STEEM'e benzer özelliklere sahip fakat tesvik edilmis davranis yoluyla herhangi bir cevrim ici toplulugun vizyonuna uyum saglayabilecek -esasen STEEM'in basarisini herhangi bir internet sitesi ya da uygulama icin örnek alacak- tokenlar yaratarak internet siteleri ve uygulamalar üzerindeki iceriklerin parasallastirilmasini hedefler. Daha fazla teknik detay Smart Media Tokens whitepaper'inda[^17] bulunabilir.
 
-### Çalıntı hesap kurtarma
+### Calinti Hesap Kurtarimi
 
-Bir kullanıcının hesabı tehlikeye atılırsa, anahtarları private owner anahtarını kullanarak değiştirebilirler. Saldırgan, private owner anahtarını tehlikeye atabilir ve hesaptaki parolayı değiştirebilirse, kullanıcı, daha önce işlevsel olan bir private owner anahtarı Steem'in endüstride ilk kez çalınan hesap kurtarma işlemi yoluyla 30 gün içinde gönderir ve hesapları üzerinde kontrolünü yeniden kazanır. Bu, Steem'e kayıt hizmetleri veren bir kişi veya şirket tarafından teklif edilebilir. Kayıtçının bu hizmeti kullanıcılarına sunması zorunlu değildir, ancak bir kayıtçının kullanıcı deneyiminin değerini artırabilmektedir.
+Eger bir kullanicinin hesabi tehlike altindaysa kisisel Owner anahtarini kullanarak anahtarlarini degistirebilir. Saldirganin kisisel Owner anahtarini elde ettigi ve hesabin kullanici sifresini degistirebildigi durumlarda ise, magdur kullanicinin önceki calisan özel anahtari Steem'in -sektörde bir ilk olan- hesap kurtarma islemi sirasinda ibraz etmesi ve kendi hesabi üzerindeki kontrolü yeniden ele gecirebilmesi icin 30 günü vardir. Bu Steem'e kayit hizmeti saglayan herhangi bir kisi ya kurulus tarafindan saglanabilir. Kullanicilara bu hizmetleri sunmak her ne kadar kayit saglayicilari icin zorunlu olmasa da kayitli kullanicilarin kullanim deneyimini artirabilmektedir.
 
-### Zaman-Kilitleriyle Güvenlik
+### Zaman Kilitleri Yoluyla Güvenlik
 
-Bir kullanıcının etkin veya sahibi anahtarı tehlikeye atılırsa, saldırgan hesabındaki tüm paralara tam erişime sahip olur. Blok zinciri işlemleri geri döndürülemez olduğu için, kullanıcıların paralarını çalınmalarından sonra geri almanın hiçbir yolu yoktur.
+Eger bir kullanicinin Active ya da Owner anahtari ifsa olduysa, saldirgan kullanicinin hesabindaki tüm fonlara tamamen erisim saglar. Blockchain islemleri tersinemez oldugu icin kullanicilarin fonlari calindiktan sonra onlari geri alabilmeleri icin herhangi bir yol yoktur.
 
-Steem blokaj zinciri, kullanıcıların STEEM ve SBD tokenlarını bir tasarruf hesabında saklamalarına olanak tanır, böylece fonlar üç günlük bekleme süresinden sonraya kadar çekilemez. Buna ek olarak, 13 haftalık hak sahipliği programında tutulan STEEM, ancak ilk yedi gün bekleme süresinin ardından haftada 1/13 oranında çekilebilir. Bu zaman kilitleri, bir saldırganın, kullanıcı fonlarının tam bölümüne derhal erişebilmesini önler; böylece, hak sahibinin, tüm fonları geri çekilebilmek için hesabının kontrolünü ele geçirme zamanı vardır.
+Steem blockchaini kullanicilara STEEM ve SBD tokenlarini bir tasarruf hesabinda saklama imkani tanir ki bu sayede fonlar üc günlük bir bekleme süreci dolmadan cekilemez. Buna ek olarak, 13 haftalik bir temlik cizelgesinde bulunan STEEM ise nihai bekleme süresi olan yedi günün sonunda ancak haftada 1/13 oraninda cekilebilir. Bu zaman kilitleri herhangi bir saldirganin bir anda kullanicinin fonlarinin tamamina erismesini engeller. Bu sayede hak sahibi olan kullanici tüm fonlari cekilmeden önce hesabini geri kazanabilmek icin zaman kazanmis olur.
 
-### Ücretli İşlemler İçin Bant Genişliği Oranı Sınırlaması
+### Ücretsiz Operasyonlar Icin Bant Genisligi Orani Sinirlamasi
 
-Witnessların tamamen yeni tokenların oluşturulması yoluyla ödenmesi, kullanıcıların blok zincirine güç sağlamak için bir ücret ödemesine gerek bırakmak. Bir ücret talep etmenin tek nedeni, kullanıcıların makul olmayan bir miktarda işlem yapmasını engellemek için caydırıcı bir unsur olabilir ve bu da potansiyel olarak blok zincirinin performansını etkiler.
+Witness'lar tümüyle yeni tokenlarin yaratilmasi yoluyla ödüllendirildigi icin kullanicilardan blockchain calistirma maliyeti talep etmeye gerek yoktur. Herhangi maliyet talebinde bulunmak icin tek sebep ise, caydirici amacli olarak, blockchainin performansini etkilemesi ihtimal dahilinde olan akil almaz sayida islem gerceklestirilmesinin önüne engellenmesi amaciyladir.
 
-Sistem kullanımına makul sınırlar koymak için her kullanıcıya sınırlı bir bant genişliği verilir. Kullanıcılar, token aktarımı, içerik yayınlama ve oylama gibi blok zinciri işlemlerini gerçekleştirdiğinde, bant genişliğinin bir kısmını tüketir. Bir kullanıcı bant genişliği ödeneklerini aşarsa, bant genişliği şarj oluncaya kadar ek eylemler gerçekleştirmek için beklemesi gerekir.
+Sistem kullanimina kabul edilebilir bir sinir koymak icin her kullanicinin sinirli bir bant genisligi vardir. Kullanicilarin token transferleri, icerik paylasma ve oylama gibi blockchain islemlerinde bulunduklari her durumda bu onlarin bant genisliginden bir kismini kullanmaktadir. Eger kullanicilar kendi bant genisligi sinirlarlarini asarlarsa, daha fazla eylemde bulunabilmek icin önce kendi bant genisligi haklarinin yeniden yüklenmesini beklemek zorundadir.
 
-Bant genişliği sınırları ağ kullanımına bağlı olarak ayarlanır, böylece kullanıcılar ağ kullanımı düşük olduğunda daha yüksek bir bant genişliği ödeneğine sahip olurlar. Bir hesaba izin verilen bant genişliği miktarı, kullanıcının sahip olduğu Steem Power'ın miktarı ile doğru orantılıdır, böylece kullanıcılar ek Steem Power elde ederek bant genişliği parasını her zaman artırabilir.
+Bant genisligi sinirlari ag kullanimiyla ilintilidir. Yani kullanicilar ag kullanimlari az oldugu zaman daha fazla bant genisligine sahiptir. Bir hesabin sahip oldugu bant genisligi miktari kullanicinin sahip oldugu Steem Power ile dogru orantilidir. Bu nedenle, her zaman icin, kullanicilar fazladan Steem Power edinerek kendi bant genislikligi sinirini artirabilirler.
 
-## Sonuç
+## Sonuc
 
-Steem'in blok zinciri ve tokenı tarafından sunulan benzersiz ödül ve teşvik programı, Steem'i genel kullanıcılar için şifreleme sırasındaki nihai onayı sağlayacak şekilde tasarlanmıştır. Blok zincirinin performansı, dövizin ve platformun akılda tutulmasıyla kitlesel olarak benimsenerek tasarlanmıştır. Anlık hızlı işlem süreleri ve ücretsiz işlemlerle birleştirildiğinde, Steem dünyanın dört bir yanındaki insanlar tarafından kullanılan önde gelen blok zincir teknolojilerinden biri haline gelmiştir.
+Steem blockchaininin ve tokenin sundugu essiz ödüller ve tesvik programi Steem'i ana akim kullanicilarin kripto parabirimlerine girisi icin muazzam bir giris kapisi haline getirmektedir. Blockchainin performansi para biriminin yaygin bir sekilde benimsenmesi ve platformun akillarda yer edinmesine dayali olarak tasarlanmistir. Yildirim hizindaki isleme zamani ve ücretsiz islemler bir araya geldiginde Steem dünya genelinde insanlar tarafindan kullanilan önde gelen blockchain teknolojilerinden biri olma adayidir.
 
-[^1]: Söz konusu pozisyon kağıt temsilci seçilen kanıtı. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+[^1]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.&#160;<0>&#8617;</0> . .
 
-[^2]: Dönem için onun blockchain ayırt etmek için doğru yazım Steem'ın yerli dijital belirtecinin STEEM. olduğunu
+[^2]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^3]: İşlem hacmi: İkinci rapor başına hareket. Steem witness ve kullanıcı "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]: İşin kanıtı. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-Work \_system
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Steemit.com kullanıcılar için hesap kurtarma başlatma çalıntı: 07-13-2017 https://steemit.com/recover \_account\_step\_1
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Bitcoin ölçeklenebilirlik sorun https://en.wikipedia.org/wiki/Bitcoin \_scalability\_problem
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]: DPoS teknik inceleme https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
 [^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Grafin belgelerine http://docs.bitshares.org/
+[^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: İşlemleri işleme ve ödüllerin dağıtımından sorumlu olan Steem blokçerçevesi bileşeninin bileşeni.
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
 
-[^12]: Steem teknik inceleme https://steem.io/SteemWhitePaper.pdf
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Bitshares Merkezi Olmayan Değişim http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com döviz piyasası https://steemit.com/market
+[^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: "Resteem", bir kullanıcı içeriğini takipçileri ile paylaştığında Steem'in blok zincirinde kullanılan terimdir.
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]: Bitshares Esnek Kimlik Yönetimi http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^17]: Akıllı medya simgeleri teknik inceleme https://smt.steem.io/smt-whitepaper.pdf
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

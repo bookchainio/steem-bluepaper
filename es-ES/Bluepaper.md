@@ -100,7 +100,7 @@ Para cualquier publicación hecha, puede haber un número de personas diferentes
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Los Smart Media Tokens son tokens que pueden ser desarrollados nativamente en el blockchain de Steem. STEEM es el primer token social que ha existido, y su protocolo busca monetizar el contenido dentro de la web así como el de las aplicaciones involucradas o construidas basadas en su cadena de bloques, permitiendo a los usuarios crear nuevos tokens que tengan propiedades similares a STEEM, pero de una manera que puedan ser diseñados de acuerdo a la vision que se tenga pensada por cualquier persona o comunidad a través de la remuneración del comportamiento dentro de la aplicación. Mayor detalle técnico puede ser encontrado en el papel blanco de los Smart Media Tokens[^17].
 
 ### Recuperación de cuenta robada
 

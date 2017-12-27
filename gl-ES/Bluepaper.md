@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Introduction
+## Introducción
 
 Steem aporta un protocolo de blockchain [^1] escalable para contido publicamente accesible e inmutable, xunto con un token dixital rápido e baixo en comisións (chamado Steem)[^2] o cal permite que a xente gañe a moda usando seu miolo. (o cal é chamado "Proba de Miolo"). Os dous pilares de este protocolo, tanto a blockchain como o token, dependen un do oturo por seguridade, duración e inmutabilidade, e están integradas para a existencia mútua. Steem leva operando exitosamente por mais de un ano, e sobrepasou xa tanto o Bitcoin como ó Ethereum en número de transaccións procesadas. [^3]
 
@@ -36,93 +36,93 @@ Ademais de isto, Steem solo permite o voto con STEEM cando este comprometese con
 
 ## Velocidade e Scala na BlockChain de Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+A Blockchain Steem está diseñada para ser unha das mais rápidas e mais eficientes que existen, o cal é necesario para poder soportar a cantidade de tráfego esperada nunha plataforma social media con un tamaño tan grande como o mesmo Reddit. Steem xa sobrepasou ó Bitcoin en número de transaccións, e pode escalarse para superar as 10.000 ou mais transaccións por segundo.
 
-### Delegated Proof of Stake (DPoS)
+### Proba de Partiipación Delegada (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Debido ós funiles das blockchains de Proba de Traballo (PoW) [^6],, moitas de elas non poden escalar mais aló das tres transaccións por segundo, que non é mais que unha fracción do tráfego financieiro mundial. Steem necesitaba mais escalabilidade e velocidade que as ofrecidas por PoW, e como o menos coñecido algoritmo chamado Proba de Partiipación Delegada (DPoS) [^7] foi aproveitada para sentar os alicerces de unha blockchain idonea para miles de millóns de usuarias.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Grazas ó DPoS, a blockchain de Steem é capaz de xenerar un novo bloque cada 3 segundos con unha carga computacional mínima. Isto significa que a blockchain pode procesar mais transaccións e manter mais informacións, incluindo contidos.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Ao definir as regras para cando se produce un Hardfork, as testemuñas elixidas dentro do marco DPoS poden decidir de forma rápida e eficiente sobre avanzar ou non cun hardfork proposto, permitindo que a blockchain do Steem evolúa con maior velocidade que a maioría das outras. A blockchain de Steem xa foi bifurcada con éxito 18 veces [^8], e cada vez que ocurriu unha bifurcación, só unha cadea persistiu tras a bifurcación.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] é a porción da pila de base de dados da blockchain e sustituiu a Graphene [^10] no 2016. ChainBase ten tempos de carga e resposta mais rápidos, acepta acceso paraleo á database e é mais robusta contra fallas que seu prededesor. Tamén ten menor frecuencia de corrupción da base de datos, permite realizar "capturas" instantaneas do estado da base de datos completa e pode servir mais chamadas de procesos remótos (RPC) dende a mesma memoria.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase é o primerio paso para crear unha multi-cadea FABRIC. AppBase permite que moitos compoñentes da blockchain Steem sexan modulares creando blockchains adicionais sen consenso como complementos dedicados. Estes complementos (plugins) poden ser actualizados moito mais rápido porque eles non requiren repetir a blockchain completa. Isto fai que Steemd [^11] sexa moito máis eficiente e máis fácil de manter e escalar.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Falando practicamente, AppBase permite que diferentes cernes, ou incluso diferentes computadoras, manter diferentes partes da Steem blockchain. Isto resulta significantemente mais eficiente que esixir a cada cerne e cada computadora na rede, manter a blockchain completa. Modularizar a blockchain permite aproveitar ó maximo a natureza modular das computadoras. Este é un paso necesario no longo proceso de crear unha blockchain totalmente paralela e optimizada.
 
-## Steem’s Platform Features
+## Características da Plataforma Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+A blockcahin Steem ten o doble propósito de ser un sistema de procesamento de token dixital, así como unha plataforma de Redes Sociais. As características que ofrece a blockchain necesita dar soporte a ambos propósitos, e proporcionar ás usuarias "unha experiencia de clase mundial" cando usan ambos aspectos da plataforma.
 
-### Primitives Designed for Content Applications
+### Primitivas Deseñadas para Aplicacións de Contido
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem ofrece ás usuarias a posibilidade única de publicar e almacear diferentes tipos de contido directa e permanentemente no libro maior (blockcahin) inmutable como texto plano. Unha vez almaceados na blockchain, os dados son accesibles publicamente para que os desenvolvedores poidan explotalos. As desenvolvedoras son capaces de interactuar co contido directamente coa blockchain usando as APIs dispoñibles. Várias primitivas da blockchain que os desenvolvedores podem construir incluen Nome de Contas, Posts, Comentários, Votos e Saldo de Conta.
 
-### Native Name System
+### Sistema de Nomes Nativos
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Os enderezos das carteiras usados por varias tecnoloxías blockchain, como o Bitcoin e Ethereum, son históricamente longas cadeas de letras e números aleatorias, con todo, estes enderezos de carteira poden dificultar as transaccións con outras usuarias nun contexto típico de Redes Sociais, porque as usuarias non son capaces de lembralos de memoria. A blockchain Steem usa o nome de cada participante como seu enderezo de carteira, o cal mellora que mellora a experiencia da usuaria para as participantes que tentan enviar tokens porque poden verificar os enderezos dende a súa propia memoria.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Moitas usuarias que son introducidas nas cripto-moedas teñen dificultade en comprender cómo "os tokens máxicos da internet" recompensados pola plataforma poden ter valor no mundo real. Co fin de axudar a pechar a fenda entre o sistema tradicional de cartos fiduciairos que usan o groso das usuarias, e os tokens de cripto-moedas cos cais son recompensadas a traverso da plataforma, foi criada unha nova moeda chamada Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Os tokens SBD foron diseñados para estar vencellados o valor de un USD, de forma que as usuarias que o reciben poden saber aproximadamente canto é o valor en termos de "dolar real". Os tokens SBD tamén ofrecen unha moeda relativamente estable para que usuarias as manteñan si queren manter o vlaor da súa conta en relación ó USD. Unha explicación mais detallada podes atopar no Steem Whitepaper.[^12]
 
-### Decentralized Exchange
+### Troco Descentralizado
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+A blockchain Steem ofrece un mercado de troco descentralizado, similar ó mercado de troco de Bitshares.[^13] O mercado de troco permite ás usuarias negociar seus tokens STEEM e SBD mediante un mercado públco, descentralizado e entre pares. As usuarias poden colocar ordes de compra e venda, e a correspondencia de ordes son executadas automáticamente pola blockchain. Existe tamén un libro de ordes publicamente accesibel e un histórico de operacións que as usuarias poden usar para analisar o mercado. As usuarias poden interacturar co mercado de troco directamente usando a API da blockchain, ou usar a algunha GUI como é Steemit.com. [^14]
 
-### Payments Through Escrow
+### Pagamentos a Traves de Depósito
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+A naturerza irreversible das transaccións na blockchain é unha característica importante de seguridade, ainda que existen algúns casos onde as usuarias poden non sentirse cómodas enviando seus tokens a outro individuo sen un xeito de recuperalos se o outra usuaria non cumpe coa súa parte do acordo. A blockchain Steem fornece ás usuarias un xeito de enviar moedas uns aos outros através de um terceiro desiñado como servizo de custódia. A usuaria que actua como servizo de custodia é capaz de determiñar se os termos do acordo foron compridos, e así permitir que os fundos sexan liberados para o receptora ou retornados á remitente.
 
-### Hierarchical Private Key Structure
+### Estrutura Xerarquica de Chave Privada
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem emprega um sistema xerárquico de chave privada inovador para facilitar transaccións de baixa seguridade e de alta seguridade. As transaccións de baixa seguridade tenden a ser sociais, como postear ou comentar. As transaccións de alta seguridade tenden a ser transferencias e mudanzas de chaves. Isto permite ás usuarias implementar diferentes niveis de seguridade para súas chaves, dependendo do tipo de acceso que cada chave permite.
 
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+Estas chaves privadas son as de Publicación, Ativa e Propietaria. A chave de publicación permite ás contas publicar, comentar, editar, votar e resteem[^15], e seguir ou silenciar outras contas. A chave activa é para tarefas mais sensibesl como as transferencias de fundos, transaccións de PowerUp/PowerDown, trocar Steem Dollars, votar por testemuñas, colocar ordes no mercado e mudar a chave de publicación. A chave propietaria serve apenas para seu uso cando sexa necesario. Esta é a chave mais potente porque permite mudar calquera chave de unha conta, incluindo a chave do propietario, e para probar a propiedade durante unha recuperación de conta. Idealmente está diseñada para ser almaceada off-line, e ser usada solo cando as chaves da conta deben ser mudadas ou para recuperar unha conta comprometida.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem tamén facilita o uso de unha Seña Master que encripta as tres chaves. Os Servizos Web poden utilizar a Seña Maestra que desencripta e asina coa chave privada necesaria. As Chaves Maestras poden permitir que as usuarias confien en certos servizos impedindo que chaves impropias sexan transferidas a traverso de calquera servidor, mellorando a experiencia da usuaria mentras mantense a seguridade de autentificación no lado do cliente.
 
-### Multi Sig Authorities
+### Autoridades Multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+A blockchain Steem permite que unha autoridade sexa dividida a traverso de múltiples entidades, de forma que múltiples usuarias partillan a mesma autoridade, ou múltiples entidades sexan necesarias para autorizar unha transacción para que esta sexa válida. Isto faise do mesmo xeito que bitshares[^16] onde cada par de chave pública/privada ten un peso atribuido, e un límite definido de autoridade. Para que uma transacción sexa válida, unha cantidade míńima de entidades deberá asinar de forma que a suma dos seus pesos exceda o límite mínimo.
 
-### Multiple Reward Beneficiaries
+### Beneficiários Múltiplos de Recompensa
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Para calquera publicación determiñada pode haber diversas persoas con interese financierio na recompensa. Isto inclue a autora, posibles co-autoras, referentes, proveedores de hospedaxe, blogs que incorporan os comentarios da blockchain, e desenvolvedores de ferramentas. Calquera sitio ou ferramenta que sexa utilizada para construir unha publicación ou comentario terá a capacidade de definir como as recompensas de aquel comentario serán divididas entre varias partes. Isto permite varias formas de colaboración, así como unha vía para que as plataformas construidas sobre a blockchain de Steem coleten unha parte das recompensas das súas usuarias.
 
-### Smart Media Tokens (SMT)
+### Tokens Smart Media (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Os Tokens Smart Media son tokens nativos que poden ser construidos na blockchain de Steem. STEEM é o primeiro SMT existente, e o protocolo de Tokens Smart Media pretende monetizar o contido de websites e aplicacións na web permitindo ás persoas criar tokens con propiedade similares ó STEEM, mais persoalizable para adaptarse á visión de calquera comunidade en liña a través dun comportamento incentivado, esencialmente replicando o éxito de STEEM a calquera sitio web ou aplicación. Mais información técnica podese atopar no whitepaper de Tokens Smart Media[^17].
 
-### Stolen Account Recovery
+### Recuperación de Contas Roubadas
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se unha conta de usuaria fora comprometida, ela pode mudar súas chaves usando a chave privada da propietaria. No caso de que a atacante fora quen de comprometer a chave privada da propietaria e alterar a seña da conta, a usuaria ten 30 días para enviar unha chave anterior funcional a traverso do proceso innovador de recuperación de conta do Steem, e retomar o control da súa conta. Isto pode ser ofrecido por unha persoa ou compañía que forneza servizos de rexitro para o Steem. Non é obrigatorio que o rexistrador forneza este servizo ás usuarias, pero está dispoñible para mellorar a experiencia das usuarias de un rexitrador.
 
-### Security Through Time-Locks
+### Srguridade a traverso de Bloqueos Temporais
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Se as chaves activas ou de propietaria foran comprometidas, o atacante pode ter acceso total a todos os fundos na súa conta. Como as transaccións na blockchain son irreversibles, as usuarias non teñen xeito de recuperar seus fundos após de seren roubados.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+A blockchain de Steem permite ás usuarias gardar seus tokens STEEM e SBD nunha conta de aforros, de xeito que os fundos non poden ser retirados ata un periodo de espera de tres días. Ademais, os STEEM gardados no programa de investimento de 13 semanas poderá somente acceder a eles a unha taxa de 1/13 por semana, tras o periodo inicial de espera de sete días. Estes bloqueos temporais preveñen que un atacante sexa quen de acceder á totaldade dos fundos de unha usuaria inmediatamente, de xeito que a dona certa teña tempo de retomar o control da súa conta antes de que o fundos sexan retirados.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limitación de Ancho de Banda para Operacións sen Taxas
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Dado que as testemuñas son pagas na súa totalidade a través da xeneración de novos tokens, non existe a necesidade de cobrar unha taxa ás usuarias para alimentar a blockchain. A única razón para cargar unha taxa sería como un impedimento para previr ás usuarias realizar un número irracional de transaccións, as cais poderían potencialmente impactar no rendemento da blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Para definir uns límites razoables no uso do sistema, cada usuaria ten asiñada un límite de largura de banda. Sempre que unha usuaria realiza operacións na blockchain como transferencia de tokens, publicación de contidos e votacións, il usa unha porción do seu ancho de banda. Se unha usuaria supera súa largura de banda, deberá agardar para realizar accións adicionais ata que seu ancho de banda recargue.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Os límites do ancho de banda axustanse ó uso da rede, de xeito que as usuarias dispoñen de maior ancho de banda cando o uso da rede é baixo. A cantidade de ancho de banda da que dispón unha usuaria é directamente proporcional á cantidade de Steem Power que a usuaria ten, de xeito que as usuarias poden incrementar súa largura de banda acadando Poder Steem adicional.
 
-## Conclusion
+## Conclusión
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+O programa singular de recompensas e incentivos ofrecidos pola Blockchain de Steem e seus tokens están diseñados para facer de Steem a porta de acceso ás criptomoedas do groso das usuarias. O rendemento da blockchain está proxectado pensando nunha adopción en masa da moeda e da plataforma. Cando se combinan as velocidades ultra-rápidas dos tempos de procesamento e transaccións sen taxas, Steem está posicionado para seren unha das principais tecnoloxías blockchain usadas polas persoas arredor do mundo.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

@@ -42,13 +42,13 @@ Le blockchain de Steem est conçu pour être l'un des blockchains les plus rapid
 
 Souvent encombré par le Preuve de travail (PoW) [^6] beaucoup de blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem avait besoin de beaucoup plus d'ampleur et de vitesse que le PoW, et un algorithme moins connu appelé DPoS (Preuve de participation déléguée) [^7] a été utilisé pour jeter les bases d'un blockchain adaptée à des milliards d'utilisateurs.
 
-Grâce à DPoS, le blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
+Grâce à DPoS, le blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que le blockchain peut traiter plus de transactions et contenir plus d'informations, y compris du contenu.
 
-En définissant les règles pour lorsque se produit un Hardfork, les témoins, élus dans le cadre de la PoW peuvent rapidement et efficacement décider ou non d’aller de l’avant avec un projet hardfork, permettant au protocole de la blockchain Steem d’évoluer plus rapidement que la plupart d’autres. Le blockchain Steem a Forké déjà avec succès 18 fois [^8], et chaque fois qu’un Hardfork s’est produite, une seule chaîne a persisté après la fourche.
+En définissant les règles pour le cas où un « Hardfork » (embranchement) se produit, les témoins élus dans le cadre DPoS peuvent rapidement et efficacement décider d'aller de l'avant avec une proposition hardfork, permettant au protocole Steem blockchain d'évoluer plus rapidement que la plupart des autres. Le blockchain Steem a déjà embranché 18 fois [^8], et chaque fois qu'une Hardfork s'est produite, une seule chaîne a persisté après la fourche.
 
 ### ChainBase
 
-ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase est plus rapide à charger et possède un meilleur temps de sortie. De plus, il supporte les accès parallèles à la base de données et il est plus robuste contre les crash par rapport à son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des "snapshotting" instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
+ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase a des temps de chargement et de sortie plus rapides, prend en charge l'accès parallèle à la base de données et est plus robuste contre les plantages que son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des "snapshotting" instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
 
 ### AppBase
 

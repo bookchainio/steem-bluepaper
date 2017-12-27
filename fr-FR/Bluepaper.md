@@ -48,21 +48,21 @@ En définissant les règles pour le cas où un « Hardfork » (embranchement) se
 
 ### ChainBase
 
-ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase a des temps de chargement et de sortie plus rapides, prend en charge l'accès parallèle à la base de données et est plus robuste contre les plantages que son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des "snapshotting" instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
+ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase a des temps de chargement et de sortie plus rapides, prend en charge l'accès parallèle à la base de données et est plus robuste contre les plantages que son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des « snapshotting » instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
 
 ### AppBase
 
-AppBase est la première étape dans la création d’une chaîne multiple FABRIC. AppBase permet de nombreuses composantes du blockchain Steem pour devenir modulaire en de nouveaux blockchains sans consensus comme plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
+AppBase est la première étape dans la création d’une chaîne multiple FABRIC. AppBase permet à de nombreux composants de la chaîne de blocs Steem de devenir modulaires en créant des chaînes de blocs non consensuelles supplémentaires en tant que plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
 
-Pratiquement parlant, AppBase permet différents coeurs, ou même différents ordinateurs, pour maintenir les différentes parties de la blockchain Steem. Ceci est nettement plus efficace que d’exiger de tous les cœurs et tous les ordinateurs dans le réseau de maintenir l’ensemble blockchain. La modularisation du blockchain lui permet de profiter pleinement de la nature modulaire des ordinateurs. Il s’agit d’une étape nécessaire dans le long processus de création d’une blockchain entièrement parallèle et entièrement optimisé.
+En pratique, AppBase permet à différents cœurs, ou même à différents ordinateurs, de maintenir différentes parties du blockchain Steem. Ceci est nettement plus efficace que d’exiger de tous les cœurs et tous les ordinateurs du réseau de maintenir l’ensemble du blockchain. La modularisation du blockchain lui permet de profiter pleinement de la nature modulaire des ordinateurs. Il s’agit d’une étape nécessaire dans le long processus de création d’un blockchain entièrement parallèle et entièrement optimisé.
 
 ## Fonctionnalités de la plateforme de STEEM
 
-La blockchain Steem à deux objectifs, d’être un système de jeton numérique, ainsi qu’une plate-forme de médias sociaux. Les fonctionnalités offertes par la blockchain doivent soutenir les deux objectifs et fournir aux utilisateurs une expérience de classe mondiale lors de l’utilisation de ces deux aspects de la plate-forme.
+Le blockchain Steem à deux objectifs, d’être un système de jeton numérique, ainsi qu’une plate-forme de médias sociaux. Les fonctionnalités offertes par le blockchain doivent soutenir les deux objectifs et fournir aux utilisateurs une expérience de classe mondiale lors de l’utilisation de ces deux aspects de la plate-forme.
 
 ### Primitives conçu pour les applications de contenu
 
-Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans la blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
+Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable du blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans le blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
 
 ### Système de nom natif
 

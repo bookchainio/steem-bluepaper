@@ -47,19 +47,19 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Ao definir as regras para quando ocorre um Hardfork, as testemunhas eleitas dentro da estrutura do DPoS podem decidir de forma rápida e eficiente se desejam ou não avançar com um modelo de Hardfork proposto, permitindo que o protocolo da cadeia de blocos Steem evolua mais rapidamente do que a maioria dos outros. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  Ao definir as regras para quando ocorre um Hardfork, as testemunhas eleitas dentro da estrutura do DPoS podem decidir de forma rápida e eficiente se desejam ou não avançar com um modelo de Hardfork proposto, permitindo que o protocolo da cadeia de blocos Steem evolua mais rapidamente do que a maioria dos outros. A cadeia de blocos Steem já obteve sucesso 18 vezes<fnref target="8" />, e cada vez que um Hardfork ocorreu, apenas uma única cadeia persistiu após a remoção.
 </p>
 
 <h3>
-  ChainBase
+  Base de Cadeia
 </h3>
 
 <p>
-  ChainBase<fnref target="9" /> is the database portion of the blockchain stack and replaced Graphene<fnref target="10" /> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  A base de cadeia<fnref target="9" /> é a porção do banco de dados da cadeia de blocos e substituiu a Graphene<fnref target="10" /> em 2016. A Base de Cadeia possui tempos de carregamento e saída mais rápidos, suporta acesso paralelo ao banco de dados e é mais robusta contra as falhas do que o seu antecessor. Também favorece uma diminuição na frequência da corrupção no banco de dados, pois permite um "instantâneo" imediato de todo o estado do banco de dados e pode atender mais pedidos RPC da mesma memória.
 </p>
 
 <h3>
-  AppBase
+  Base App
 </h3>
 
 <p>

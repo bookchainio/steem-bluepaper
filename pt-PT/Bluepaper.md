@@ -87,11 +87,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <h3>
-  Native Name System
+  Sistema de nomes nativos
 </h3>
 
 <p>
-  Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  Os endereços de carteira usados por muitas tecnologias de cadeias de bloco, como Bitcoin e Ethereum, historicamente consistiam em longas sequências de letras e números aleatórios, no entanto, esses endereços de carteira podem dificultar a transacção com outros usuários num contexto típico de comunicação social online, porque os usuários não conseguem recuperar os endereços de cadeia longa da memória. A cadeia de blocos Steem usa o nome de usuário de cada participante como seu endereço de carteira, o que reforça a experiência do usuário para os participantes que tentam enviar tokens, porque podem verificar os endereços da sua própria memória.
 </p>
 
 <h3>

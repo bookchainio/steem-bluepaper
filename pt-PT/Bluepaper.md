@@ -47,7 +47,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  Ao definir as regras para quando ocorre um Hardfork, as testemunhas eleitas dentro da estrutura do DPoS podem decidir de forma rápida e eficiente se desejam ou não avançar com um modelo de Hardfork proposto, permitindo que o protocolo da cadeia de blocos Steem evolua mais rapidamente do que a maioria dos outros. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 </p>
 
 <h3>

@@ -179,7 +179,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  O sistema de cadeia Steem permite que os usuários armazenem os seus tokens STEEM e SBD numa conta de poupança, de modo que os fundos não possam ser retirados até um período de espera de três dias. Além disso, o STEEM que se realiza no horário de aquisição de 13 semanas só pode ser retirado a uma taxa de 1/13 por semana, após um período de espera inicial de sete dias. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 </p>
 
 <h3>

@@ -110,9 +110,9 @@ Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisan
 
 Si la clé active ou propriétaire d'un utilisateur est compromise, l'attaquant aura un accès complet à tous les fonds de son compte. Parce que les transactions blockchain sont irréversibles, les utilisateurs n'ont aucun moyen de récupérer leurs fonds après qu'ils ont été volés.
 
-La blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. En outre, STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
+Le blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. De plus, les STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
 
-### Limitation du débit de bande passante pour les opérations sans frais
+### Limitation du débit de bande passante pour des opérations sans frais
 
 Parce que les témoins sont entièrement payés grâce à la génération de nouveaux jetons, il n'est pas nécessaire de facturer aux utilisateurs des frais pour alimenter le blockchain. La seule raison de facturer des frais aurait pour effet dissuasif d'empêcher les utilisateurs d'effectuer un nombre déraisonnable de transactions, ce qui pourrait avoir un impact sur la performance du blockchain.
 
@@ -122,38 +122,38 @@ Les limites de bande passante s'ajustent en fonction de l'utilisation du réseau
 
 ## Conclusion
 
-L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. La performance de la blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
+Le programme unique de récompenses et d'incitations offert par le blockchain et le jeton Steem est conçu pour faire de Steem l'ultime passerelle de crypto-monnaie pour les utilisateurs ordinaires. La performance du blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu'il est combiné avec des temps de traitement ultra-rapides et des transactions sans frais, Steem est positionné pour devenir l'une des principales technologies de blockchain utilisées par les gens du monde entier.
 
-[^1]: Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: Pour le différencier de l’expression de sa blockchain, est l’orthographe correcte du jeton digital native de Steem STEEM. M
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
 
-[^3]: Les Volumes de transactions : Rapport des transactions par seconde. Témoin de Steem et utilisateur « @roadscape ». https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]: Preuve-de-travail. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-Work \_system
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Initiation de récupération de compte volé pour les utilisateurs de Steemit.com : 13/07/2017 https://steemit.com/recover \_account\_step\_1
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Problème d’évolutivité Bitcoin https://en.wikipedia.org/wiki/Bitcoin \_scalability\_problem
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]: Whitepaper DPoS https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]: Communiqué de ChainBase https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Documumentation Graphène http://docs.bitshares.org/
+[^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: La composante du cadre Steem blockchain responsable du traitement des transactions et la distribution des récompenses.
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
 
-[^12]: Whitepaper Steem https://steem.io/SteemWhitePaper.pdf
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Échange décentralisé Bitshares http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com marché de la monnaie https://steemit.com/market
+[^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: « Resteem » est le terme utilisé dans la blockchain Steem pour quand un utilisateur partage du contenu avec leurs disciples.
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]: Bitshares Gestion des identités Flexible http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^17]: Livre blanc du Jetons médiatique intelligent (en anglais) https://smt.steem.io/smt-whitepaper.pdf
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

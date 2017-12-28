@@ -40,10 +40,10 @@ A cadeia de blocos Steem foi concebida para ser uma das cadeias de blocos mais r
 
 ### Prova delegada de participação (DPoS)
 
-Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup id="fnref:6"><a href="#fn:6" class="footnote-ref"> 6 </ 0>, não podem escalar além de três transacções por segundo, o que é uma fracção do tráfego financeiro do mundo. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.</p> 
+Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup id="fnref:6"><a href="#fn:6" class="footnote-ref"> 6 </ 0>, não podem escalar além de três transacções por segundo, o que é uma fracção do tráfego financeiro do mundo. A Steem precisava de muito mais escala e velocidade do que a oferecido pela PoW, e, por isso, um algoritmo menos conhecido, chamado Delegate Proof of Stake (DPoS)<fnref target="7" /> foi aproveitado para lançar as bases de uma cadeia de blocos adequada a biliões de usuários.</p> 
 
 <p>
-  Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+  Por causa do DPoS, a cadeia de blocos Steem é capaz de gerar um novo bloco a cada 3 segundos, com carga computacional mínima. Isso significa que o bloco pode processar mais transacções e manter mais informações, incluindo conteúdo.
 </p>
 
 <p>

@@ -80,9 +80,9 @@ La blockchain Steem offre un échange de jetons décentralisé, similaire à l'�
 
 ### Paiements par l'intermédiaire de l'entiercement
 
-Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. Le blockchain Steem offre un moyen aux utilisateurs d’envoyer des jetons l'un à l’autre avec une tierce partie désignée comme un service d’entiercement. L’utilisateur agissant comme le service d'entiercement est en mesure de déterminer si les termes de l’accord ont été respectées et libérer les fonds au récepteur ou retourné à l’expéditeur.
+Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. Le blockchain Steem offre un moyen aux utilisateurs d’envoyer des jetons l'un à l’autre avec une tierce partie désignée comme un service d’entiercement. L'utilisateur agissant comme le service d'entiercement est capable de déterminer si les termes de l'accord ont été respectés, et peut, soit autoriser les fonds à être remis au récepteur ou renvoyé à l'expéditeur.
 
-### Structure hiérarchique de clé privé
+### Structure de clé privée hiérarchique
 
 Steem utilise un système de clé privée hiérarchique unique en son genre pour faciliter les transactions à faible sécurité et haute sécurité. Les transactions à faible sécurité ont tendance à être sociales, comme la publication ou les commentaires. Les transactions de haute sécurité ont tendance à être des transferts et des changements clés. Cela permet aux utilisateurs d'implémenter différents niveaux de sécurité pour leurs clés, en fonction de l'accès autorisé par les clés.
 

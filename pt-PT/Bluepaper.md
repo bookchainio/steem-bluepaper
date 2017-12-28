@@ -30,7 +30,7 @@ Os usuários que produzem conteúdo estão agregando valor à rede criando mater
 
 #### Votação com Tokens seguros para determinar a atribuição de recompensas
 
-O Steem opera com base em, um STEEM, um voto. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+O Steem opera com base em, um STEEM, um voto. Sob este modelo, os indivíduos que mais contribuíram para a plataforma, medido pelo saldo da sua conta, têm maior influência sobre a forma como as contribuições são pontuadas. A moeda pode ser comprada ou ganha. Os usuários não podem ganhar influência adicional por possuir várias contas, uma vez que uma única conta com uma quantidade de participação terá a mesma influência que duas contas diferentes compartilhando a mesma quantidade de participação. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

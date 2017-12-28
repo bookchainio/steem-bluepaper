@@ -191,15 +191,15 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Para colocar limites razoáveis no uso do sistema, cada usuário recebe uma amplitude de banda limitada. Sempre que os usuários executam operações de cadeias de bloco, como transferências de token, conteúdo de publicação e votação, ele usa uma parte de sua amplitude de banda. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  Para colocar limites razoáveis no uso do sistema, cada usuário recebe uma amplitude de banda limitada. Sempre que os usuários executam operações de cadeias de bloco, como transferências de token, conteúdo de publicação e votação, ele usa uma parte de sua amplitude de banda. Se um usuário exceder o seu limite de amplitude de banda, deve aguardar para executar acções adicionais até recarregar a sua amplitude de banda.
 </p>
 
 <p>
-  Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+  Os limites de amplitude de banda ajustados com base na utilização da rede, para que os usuários tenham uma maior tolerância de largura de banda quando o uso da rede for baixo. A quantidade de largura de banda permitida numa conta é directamente proporcional à quantidade de poder Steem que um usuário possui, de modo que os usuários sempre podem aumentar seu limite de largura de banda, obtendo poder Steem adicional.
 </p>
 
 <h2>
-  Conclusion
+  Conclusão
 </h2>
 
 <p>

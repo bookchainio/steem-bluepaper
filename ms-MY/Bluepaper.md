@@ -26,13 +26,13 @@ Daripada bekalan token baru yang dicipta oleh rantaian blok Steem setiap tahun, 
 
 #### Ganjaran bagi pencipta kandungan dan kurator
 
-Pengguna yang menghasilkan kandungan akan menambah nilai kepada rangkaian dengan mencipta bahan yang akan memacu pengguna baru ke platform, serta memastikan pengguna sedia ada sentiasa terlibat dan terhibur. Ini membantu dalam pengedaran Matawang untuk satu set pengguna yang lebih luas dan meningkatkan kesan rangkaian. Pengguna yang mengambil masa untuk menilai dan mengundi kandungan akan memainkan peranan yang penting dalam pengedaran matawang kepada pengguna yang sedang menambah nilai yang paling banyak. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Pengguna yang menghasilkan kandungan akan menambah nilai kepada rangkaian dengan mencipta bahan yang akan memacu pengguna baru ke platform, serta memastikan pengguna sedia ada sentiasa terlibat dan terhibur. Ini membantu dalam pengedaran Matawang untuk satu set pengguna yang lebih luas dan meningkatkan kesan rangkaian. Pengguna yang mengambil masa untuk menilai dan mengundi kandungan akan memainkan peranan yang penting dalam pengedaran matawang kepada pengguna yang sedang menambah nilai yang paling banyak. Rantaian blok memberikan ganjaran untuk kedua-dua aktiviti ini relatif dengan nilai berdasarkan kebijaksanaan kolektif daripada orang ramai yang dikumpulkan melalui sistem pengundian kepentingan saham.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Mengundi dengan kepentingan saham token untuk menentukan peruntukan ganjaran
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem beroperasi berdasarkan satu-STEEM, satu undi. Di bawah model ini, individu-individu yang telah menyumbang paling banyak kepada platform, seperti yang diukur melalui baki akaun mereka, mempunyai paling banyak pengaruh terhadap bagaimana sumbangan dicetak. Kepentingan saham boleh dibeli atau diperolehi. Pengguna tidak boleh mendapatkan tambahan pengaruh dengan memiliki beberapa akaun, kerana satu akaun dengan jumlah pegangan saham akan mempunyai pengaruh sama sebagaimana dua akaun yang berbeza berkongsi jumlah pegangan yang sama. Satu-satunya cara bagi pengguna untuk memperluaskan pengaruh mereka di platform adalah dengan meningkatkan pegangan ekuiti saham mereka.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Selain itu, Steem hanya membenarkan ahli untuk mengundi dengan STEEM apabila ia komited kepada jadual peletakan hak 13 minggu yang dipanggil kuasa Steem. Di bawah model ini, ahli-ahli mempunyai satu ganjaran kewangan untuk mengundi dengan cara yang memaksimakan nilai jangka panjang STEEM mereka.
 
 ## Speed and Scale on the Steem Blockchain
 

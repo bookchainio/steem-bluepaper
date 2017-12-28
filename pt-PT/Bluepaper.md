@@ -63,11 +63,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  O AppBase é o primeiro passo na criação de um FABRIC de cadeias múltiplas. O AppBase permite que muitos componentes da cadeia de blocos Steem se tornem modulares criando cadeias de bloco adicionais não considerados, como dedicadas ligações. Essas ligações podem ser actualizados muito mais rapidamente, porque não exigem a reprodução de toda a cadeia de blocos. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  O AppBase é o primeiro passo na criação de um FABRIC de cadeias múltiplas. O AppBase permite que muitos componentes da cadeia de blocos Steem se tornem modulares criando cadeias de bloco adicionais não considerados, como dedicadas ligações. Essas ligações podem ser actualizados muito mais rapidamente, porque não exigem a reprodução de toda a cadeia de blocos. Isso torna o Steemd<fnref target="11" /> muito mais eficiente e mais fácil de manter e dimensionar.
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Praticamente falando, o AppBase permite que diferentes núcleos, ou mesmo computadores diferentes, mantenham diferentes partes da cadeia de blocos Steem. Isso é significativamente mais eficiente do que exigir que todos os núcleos, e todos os computadores, mantenham toda a cadeia de blocos, na rede. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 </p>
 
 <h2>

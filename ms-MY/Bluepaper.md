@@ -34,9 +34,9 @@ Steem beroperasi berdasarkan satu-STEEM, satu undi. Di bawah model ini, individu
 
 Selain itu, Steem hanya membenarkan ahli untuk mengundi dengan STEEM apabila ia komited kepada jadual peletakan hak 13 minggu yang dipanggil kuasa Steem. Di bawah model ini, ahli-ahli mempunyai satu ganjaran kewangan untuk mengundi dengan cara yang memaksimakan nilai jangka panjang STEEM mereka.
 
-## Speed and Scale on the Steem Blockchain
+## Kelajuan dan skala pada rantaian blok Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Rantaian blok Steem direka untuk menjadi salah satu daripada rantaian blok yang terpantas dan paling berkesan yang pernah wujud di mana boleh menyokong jumlah trafik yang dijangka pada platform media sosial yang lebih besar daripada saiz Reddit. Steem sudah melepasi Bitcoin dalam jumlah transaksi, dan boleh mencapai skala sokongan 10,000 atau lebih transaksi sesaat.
 
 ### Delegated Proof of Stake (DPoS)
 

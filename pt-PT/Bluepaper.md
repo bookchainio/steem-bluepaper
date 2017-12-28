@@ -63,7 +63,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  O AppBase é o primeiro passo na criação de um FABRIC de cadeias múltiplas. O AppBase permite que muitos componentes da cadeia de blocos Steem se tornem modulares criando cadeias de bloco adicionais não considerados, como dedicadas ligações. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
 </p>
 
 <p>

@@ -179,19 +179,19 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  O sistema de cadeia Steem permite que os usuários armazenem os seus tokens STEEM e SBD numa conta de poupança, de modo que os fundos não possam ser retirados até um período de espera de três dias. Além disso, o STEEM que se realiza no horário de aquisição de 13 semanas só pode ser retirado a uma taxa de 1/13 por semana, após um período de espera inicial de sete dias. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  O sistema de cadeia Steem permite que os usuários armazenem os seus tokens STEEM e SBD numa conta de poupança, de modo que os fundos não possam ser retirados até um período de espera de três dias. Além disso, o STEEM que se realiza no horário de aquisição de 13 semanas só pode ser retirado a uma taxa de 1/13 por semana, após um período de espera inicial de sete dias. Esses bloqueios de tempo impedem que um invasor possa acessar à totalidade dos fundos do usuário, imediatamente, de modo que o proprietário legítimo tenha tempo para recuperar o controle sobre a sua conta antes de que todos os fundos possam ser retirados.
 </p>
 
 <h3>
-  Bandwidth Rate Limiting for Fee-less Operations
+  Limite da Taxa de Banda para Operações Sem Taxas
 </h3>
 
 <p>
-  Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+  Como as testemunhas são pagas inteiramente através da geração de novos tokens, não há necessidade de cobrar aos usuários uma taxa por alimentar a cadeia de blocos. A única razão para cobrar uma taxa seria como dissuasor para evitar que os usuários completem uma quantidade irrazoável de transacções, o que poderia impactar o desempenho da cadeia de blocos.
 </p>
 
 <p>
-  In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  Para colocar limites razoáveis no uso do sistema, cada usuário recebe uma amplitude de banda limitada. Sempre que os usuários executam operações de cadeias de bloco, como transferências de token, conteúdo de publicação e votação, ele usa uma parte de sua amplitude de banda. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 </p>
 
 <p>

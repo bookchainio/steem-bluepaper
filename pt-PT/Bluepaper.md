@@ -67,19 +67,19 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Praticamente falando, o AppBase permite que diferentes núcleos, ou mesmo computadores diferentes, mantenham diferentes partes da cadeia de blocos Steem. Isso é significativamente mais eficiente do que exigir que todos os núcleos, e todos os computadores, mantenham toda a cadeia de blocos, na rede. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Praticamente falando, o AppBase permite que diferentes núcleos, ou mesmo computadores diferentes, mantenham diferentes partes da cadeia de blocos Steem. Isso é significativamente mais eficiente do que exigir que todos os núcleos, e todos os computadores, mantenham toda a cadeia de blocos, na rede. A modulação da cadeia de blocos permite que ela aproveite ao máximo a natureza modular dos computadores. Este é um passo necessário no longo processo de criação de uma cadeia de blocos totalmente paralela e totalmente optimizada.
 </p>
 
 <h2>
-  Steem’s Platform Features
+  Características da plataforma Steem
 </h2>
 
 <p>
-  The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  A cadeia de blocos Steem serve o duplo propósito de ser um sistema de processamento de token digital, assim como uma plataforma convencional de comunicação social. Os recursos oferecidos pela cadeia de blocos precisam apoiar os dois objectivos e oferecer aos usuários uma experiência de classe mundial ao usar ambos aspectos da plataforma.
 </p>
 
 <h3>
-  Primitives Designed for Content Applications
+  Primitivas projectadas para aplicativos de conteúdo
 </h3>
 
 <p>

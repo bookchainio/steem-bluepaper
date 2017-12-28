@@ -100,7 +100,7 @@ Pour une publication donnée, il peut y avoir un certain nombre de personnes dif
 
 ### Jetons médiatique intelligent (SMT)
 
-Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur la blockchain Steem. STEEM est le premier SMT à exister, et le protocole de jeton médiatique intelligent vise à monétiser les sites web et les applications de contenu sur le Web en permettant aux gens de créer des jetons possédant des propriétés similaires à STEEM, mais personnalisable pour s'adapter à la vision de toute communauté en ligne grâce à un comportement incitatif, reproduisant essentiellement le succès de STEEM sur n'importe quel site ou application. Plus de détails techniques peuvent être trouvés dans le livre blanc du jeton médiatique intelligent[^17] (disponnible en anglais seulement).
+Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur le blockchain Steem. STEEM est le premier SMT à exister, et le protocole de jeton médiatique intelligent vise à monétiser les sites web et les applications de contenu sur le Web en permettant aux gens de créer des jetons possédant des propriétés similaires à STEEM, mais personnalisable pour s'adapter à la vision de toute communauté en ligne grâce à un comportement incitatif, reproduisant essentiellement le succès de STEEM sur n'importe quel site ou application. Plus de détails techniques peuvent être trouvés dans le livre blanc du jeton médiatique intelligent[^17] (disponnible en anglais seulement).
 
 ### Récupération de compte volé
 

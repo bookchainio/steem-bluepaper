@@ -24,9 +24,9 @@ A taxa a que os novos símbolos são gerados foi fixada em 9,5% ao ano a partir 
 
 Do fornecimento de novos tokens criados pela cadeia de blocos Steem a cada ano, 75% desses tokens compõem o "grupo de recompensas" que são distribuídos aos criadores de conteúdo e curadores de conteúdo. 15% são distribuídos aos detentores do token adquirido e 10% são distribuídos às testemunhas, os produtores de blocos que cooperam no consenso do protocolo DPoS da Steem.
 
-#### Rewards for Content Creators and Curators
+#### Recompensas para criadores de conteúdo e curadores
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Os usuários que produzem conteúdo estão agregando valor à rede criando material que irá conduzir a novos usuários para a plataforma, além de manter os usuários existentes envolvidos e entretidos. Isso ajuda a distribuir a moeda para um conjunto mais amplo de usuários e aumenta o efeito da rede. Os usuários que dedicam tempo a avaliar e votar conteúdo, estão a desempenhar um papel importante na distribuição da moeda entre os usuários que estão adicionando o máximo de valor. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

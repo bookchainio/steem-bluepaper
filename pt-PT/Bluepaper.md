@@ -22,7 +22,7 @@ Ao contrário das cripto-moedas de PoW, as fichas no Steem são geradas a uma ta
 
 A taxa a que os novos símbolos são gerados foi fixada em 9,5% ao ano a partir de Dezembro de 2016 e diminui a uma taxa de 0,01% a cada 250.000 blocos, ou cerca de 0,5% por ano. A inflação continuará a diminuir a esta taxa até atingir 0,95%, após um período de cerca de 20,5 anos.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Do fornecimento de novos tokens criados pela cadeia de blocos Steem a cada ano, 75% desses tokens compõem o "grupo de recompensas" que são distribuídos aos criadores de conteúdo e curadores de conteúdo. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

@@ -8,13 +8,13 @@
 
 가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖고 있습니다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것입니다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 합니다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로서 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 가치를 상승시키는 방향으로 커뮤니티 멤버들이 활동할 수 있게 돕습니다.
 
-발전된 블록체인, 토큰 기술과 더불어, 스팀은 사용자 경험을 향상시키기 위해 도난 계정 복구[^5], 에스크로 서비스, 사용자 홍보 콘텐츠(promoted content), 평판 시스템, 저축 계정 등의 고급 기능들을 추가로 제공합니다. 이 기능들을 이용할때 사용자에게는 모든 트랜잭션에 대해 3 초의 확인 시간과 수수료 무료 혜택이 제공됩니다. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+발전된 블록체인, 토큰 기술과 더불어, 스팀은 사용자 경험을 향상시키기 위해 도난 계정 복구[^5], 에스크로 서비스, 사용자 홍보 콘텐츠(promoted content), 평판 시스템, 저축 계정 등의 고급 기능들을 추가로 제공합니다. 이 기능들을 이용할때 사용자에게는 모든 트랜잭션에 대해 3 초의 확인 시간과 수수료 무료 혜택이 제공됩니다. 이 모든 것들은 인터넷 상의 콘텐츠 제작자, 커뮤니티 참여자들에게 스마트하고 사회적인(social) 화페를 도입하기 위한 임무를 지원하는데 사용됩니다.
 
-## Proof of Brain: Smart and Social Tokens
+## 지능 증명: 스마트, 소셜 토큰
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+사용자가 토큰 기반 커뮤니티 시스템에 공헌한 만큼 그들에게 보상하는 토큰 시스템은 콘텐츠의 사회적인 가치를 설정하고 평가하기 위한 방법(mechanisms)이 필요합니다: 우리는 이것을 "지능 증명"이라고 부릅니다.
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### 보상 풀("토큰은 어디에서 만들어지는가?")
 
 One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 

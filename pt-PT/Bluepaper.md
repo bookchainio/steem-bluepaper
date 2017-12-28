@@ -83,7 +83,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+  A Steem oferece aos usuários a possibilidade única de publicar e armazenar diferentes tipos de conteúdo, directa e permanentemente no livro gerador imutável do bloco como texto simples. Uma vez armazenados, na cadeia de blocos, os dados ficam disponíveis publicamente, para que os construtores desenvolvam a partir de. Os operadores são capazes de interagir com o conteúdo directamente na cadeia de blocos, usando as APIs disponíveis. Vários dos operadores de cadeias de bloco primitivas, podem construir a partir de Nomes de conta, publicações, comentários, votos e saldo de conta.
 </p>
 
 <h3>

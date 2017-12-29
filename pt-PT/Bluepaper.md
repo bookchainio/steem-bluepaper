@@ -131,11 +131,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Essas chaves privadas são a Publicação, o Ativo e o Proprietário. A tecla de registo permite que as contas publiquem, comentem, editem, votem, rasteiam<fnref target="15" />e sigam/silenciem outras contas. A chave ativa é destinada a tarefas mais sensíveis, como transferência de fundos, transações de subida e descida, conversão de dólares Steem, votação de testemunhas, colocação de ordens de mercado e redefinição da chave de publicação. A chave do proprietário é apenas para usar quando for necessário. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+  Essas chaves privadas são a Publicação, o Ativo e o Proprietário. A tecla de registo permite que as contas publiquem, comentem, editem, votem, rasteiam<fnref target="15" />e sigam/silenciem outras contas. A chave ativa é destinada a tarefas mais sensíveis, como transferência de fundos, transações de subida e descida, conversão de dólares Steem, votação de testemunhas, colocação de ordens de mercado e redefinição da chave de publicação. A chave do proprietário é apenas para usar quando for necessário. É a chave mais poderosa porque pode alterar qualquer chave de uma conta, incluindo a chave do proprietário, e provar a propriedade durante uma recuperação da conta. Idealmente, deve ser guardada offline e usada apenas quando as chaves da conta precisam ser alteradas ou para recuperar uma conta comprometida.
 </p>
 
 <p>
-  Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+  Steem também facilita o uso de uma senha mestra que criptografa as três chaves. Webservices pode usar uma Senha Mestre que decifra e assina com a chave particular necessária. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 </p>
 
 <h3>

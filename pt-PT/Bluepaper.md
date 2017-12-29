@@ -103,15 +103,15 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Os tokens da SBD estão projetados para estar estreitamente ligados a um USD, para que os usuários que os recebem possam saber aproximadamente quanto valem em termos de "dólar real". Os tokens SBD também oferecem uma moeda relativamente estável para que os usuários a mantenham se estão a tentar preservar o valor da conta em relação ao USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  Os tokens da SBD estão projetados para estar estreitamente ligados a um USD, para que os usuários que os recebem possam saber aproximadamente quanto valem em termos de "dólar real". Os tokens SBD também oferecem uma moeda relativamente estável para que os usuários a mantenham se estão a tentar preservar o valor da conta em relação ao USD. Uma explicação técnica mais detalhada pode ser encontrada no documento técnico Steem.<fnref target="12" />
 </p>
 
 <h3>
-  Decentralized Exchange
+  Intercâmbio descentralizado
 </h3>
 
 <p>
-  The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  A cadeia de blocos Steem oferece uma troca de token descentralizada, semelhante à troca de Bitshares.<fnref target="13" /> A troca permite que os usuários troquem os seus tokens STEEM e SBD através de um mercado público descentralizado pessoa a pessoa. Os usuários podem colocar pedidos de compra e venda e a correspondência de pedidos é executada automaticamente pela cadeia de blocos. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
 </p>
 
 <h3>

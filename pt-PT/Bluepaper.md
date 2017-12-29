@@ -159,15 +159,15 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  Tokens de meios inteligentes são tokens nativos que podem ser criados na cadeia de blocos Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Tokens de meios inteligentes são tokens nativos que podem ser criados na cadeia de blocos Steem. O STEEM é o primeiro SMT a existir e o protocolo Smart Media Token visa monetizar sites e aplicativos de conteúdo na Web, permitindo que as pessoas criem tokens que possuam propriedades similares ao STEEM, mas personalizáveis para atender a visão de qualquer comunidade online através de incentivos de comportamento, essencialmente repetindo o sucesso do STEEM em qualquer site ou aplicativo. Mais detalhes técnicos podem ser encontrados no Reporte de Meios Inteligentes Tokens<fnref target="17" />.
 </p>
 
 <h3>
-  Stolen Account Recovery
+  Recuperação de contas roubadas
 </h3>
 
 <p>
-  If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  Se a conta de um usuário estiver comprometida, este pode mudar as suas chaves usando a sua própria chave privada. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 </p>
 
 <h3>

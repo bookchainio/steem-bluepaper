@@ -175,7 +175,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  Se a chave activa ou particular de um usuário estiver comprometida, o invasor terá acesso total a todos os fundos da sua conta. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+  Se a chave activa ou particular de um usuário estiver comprometida, o invasor terá acesso total a todos os fundos da sua conta. Como as transações de cadeias de blocos são irreversíveis, os usuários não têm nenhuma forma de recuperar os seus fundos depois de serem roubados.
 </p>
 
 <p>
@@ -203,7 +203,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h2>
 
 <p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+  O programa exclusivo de recompensas e incentivos oferecido pela cadeia de blocos Steem e o token são projetados para tornar a Steem na última rampa em cripto-moeda para usuários convencionais. O desempenho da cadeia de blocos é projetado com a ampla adopção em massa da moeda e da plataforma em mente. Quando combinado com os tempos de processamento rápido e as transações sem taxas, o Steem está posicionado para se tornar uma das principais tecnologias de cadeias de blocos usadas por pessoas em todo o mundo.
 </p>
 
 <footnotes>

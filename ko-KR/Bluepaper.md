@@ -20,7 +20,7 @@
 
 PoW 전용 가상 화폐와는 다르게 스팀에서 토큰은 고정 비율로 3초마다 1개의 블록씩 생성됩니다. 블록체인의 정의된 규칙에 기반한 시스템에서 이들 토큰은 다양한 액터(actors) 들에게 분배됩니다. 콘텐츠 제작자, 증인(witnesses), 큐레이터 등의 액터들은 토큰을 두고 전문화된 방법으로 경쟁합니다. 채굴자들이 원시 컴퓨팅 능력으로 경쟁하는 전통적인 PoW의 분배 수단과는 다르게, 스팀 네트워크의 액터들은 네트워크의 가치를 높이기 위해 경쟁합니다.
 
-2016년 12월을 기점으로 새로운 토큰이 연 9.5% 비율로 만들어졌지만, 현재는 25만개의 블록당 0.01% 비율(약 연 0.5% 비율) 로 생성됩니다. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+2016년 12월을 기점으로 새로운 토큰이 연 9.5% 비율로 만들어졌지만, 현재는 25만개의 블록당 0.01% 비율(약 연 0.5% 비율) 로 생성됩니다. 인플레이션은 이 비율로 지속적으로 감소하면 약 20.5년 후에는 0.95%가 될 것입니다.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

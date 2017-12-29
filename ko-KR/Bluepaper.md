@@ -16,9 +16,9 @@
 
 ### 보상 풀("토큰은 어디에서 만들어지는가?")
 
-스팀 블록체인의 가장 혁신적인(동시에 가장 오해받는) 특징 중의 하나는 "보상 풀"입니다. 보상 풀로부터 토큰은 가치있는 콘텐츠 제작자들에게 분배됩니다. 보상 풀이 무엇인지 이해하기 위해서는 우선, DPoS(위임된 지분 증명) 블록체인에서의 토큰 생산 방식이 PoW(작업 증명) 블록체인의 생산 방식과 다르다는 것을 이해해야 합니다. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+스팀 블록체인의 가장 혁신적인(동시에 가장 오해받는) 특징 중의 하나는 "보상 풀"입니다. 보상 풀로부터 토큰은 가치있는 콘텐츠 제작자들에게 분배됩니다. 보상 풀이 무엇인지 이해하기 위해서는 우선, DPoS(위임된 지분 증명) 블록체인에서의 토큰 생산 방식이 PoW(작업 증명) 블록체인의 생산 방식과 다르다는 것을 이해해야 합니다. 전통적인 PoW 블록체인에서 토큰 생산은 정기적으로 발생하지만 분배는 작업을 수행하는 머신을 이용해 토큰을 채굴하는 사람들("miner") 을 대상으로 무작위로 이루어집니다.
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+PoW 전용 가상 화폐와는 다르게 스팀에서 토큰은 고정 비율로 3초마다 1개의 블록씩 생성됩니다. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
 The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 

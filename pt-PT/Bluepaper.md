@@ -167,15 +167,15 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  Se a conta de um usuário estiver comprometida, este pode mudar as suas chaves usando a sua própria chave privada. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  Se a conta de um usuário estiver comprometida, este pode mudar as suas chaves usando a sua própria chave privada. Caso o atacante seja capaz de comprometer a chave privada do proprietário e alterar a senha da conta, o usuário tem 30 dias para enviar uma chave privada, funcional anteriormente, através do processo de recuperação de conta roubada da Steem, e recuperar o controlo sobre a sua conta. Isso pode ser oferecido por uma pessoa ou empresa que fornece serviços de registo para Steem. Não é obrigatório que o registador forneça este serviço aos seus usuários, mas está disponível para aumentar o valor da experiência dos usuários de um registo.
 </p>
 
 <h3>
-  Security Through Time-Locks
+  Segurança através de bloqueios de tempo
 </h3>
 
 <p>
-  If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+  Se a chave activa ou particular de um usuário estiver comprometida, o invasor terá acesso total a todos os fundos da sua conta. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 </p>
 
 <p>

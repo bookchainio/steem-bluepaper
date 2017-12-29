@@ -111,15 +111,15 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  A cadeia de blocos Steem oferece uma troca de token descentralizada, semelhante à troca de Bitshares.<fnref target="13" /> A troca permite que os usuários troquem os seus tokens STEEM e SBD através de um mercado público descentralizado pessoa a pessoa. Os usuários podem colocar pedidos de compra e venda e a correspondência de pedidos é executada automaticamente pela cadeia de blocos. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  A cadeia de blocos Steem oferece uma troca de token descentralizada, semelhante à troca de Bitshares.<fnref target="13" /> A troca permite que os usuários troquem os seus tokens STEEM e SBD através de um mercado público descentralizado pessoa a pessoa. Os usuários podem colocar pedidos de compra e venda e a correspondência de pedidos é executada automaticamente pela cadeia de blocos. Também existe um caderno de pedidos e um histórico de pedidos publicamente acessíveis, que os usuários podem usar para analisar o mercado. Os usuários podem interagir com a troca, directamente usando a cadeia de blocos API, ou usar uma GUI, como a do Steemit.com.<fnref target="14" />
 </p>
 
 <h3>
-  Payments Through Escrow
+  Pagamentos por depósito
 </h3>
 
 <p>
-  The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  A natureza irreversível das transacções da cadeias de blocos é um recurso de segurança importante, embora existam muitos casos em que os usuários podem não se sentir muito confiados ao enviar os seus tokens para outro indivíduo sem uma garantia de devolução se o outro usuário não cumprir o acordo. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 </p>
 
 <h3>

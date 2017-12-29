@@ -99,11 +99,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  Muitos usuários que são introduzidos na cripto moeda lutam para compreender como é que os "tokens mágicos da internet" concedidos pela plataforma, podem ter um valor no mundo real. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Muitos usuários que são introduzidos na cripto moeda lutam para compreender como é que os "tokens mágicos da internet" concedidos pela plataforma, podem ter um valor no mundo real. A fim de ajudar a preencher a lacuna entre os sistemas de dinheiro fiduciário mais tradicionais aos quais os usuários actuais estão habituados e os tokens de cripto-moeda que são concedidos através da plataforma, foi criada uma nova moeda denominada Dólares do Blockchain Steem (SBD).
 </p>
 
 <p>
-  SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  Os tokens da SBD estão projetados para estar estreitamente ligados a um USD, para que os usuários que os recebem possam saber aproximadamente quanto valem em termos de "dólar real". Os tokens SBD também oferecem uma moeda relativamente estável para que os usuários a mantenham se estão a tentar preservar o valor da conta em relação ao USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
 </p>
 
 <h3>

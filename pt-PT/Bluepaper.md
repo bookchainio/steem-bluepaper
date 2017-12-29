@@ -119,11 +119,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  A natureza irreversível das transacções da cadeias de blocos é um recurso de segurança importante, embora existam muitos casos em que os usuários podem não se sentir muito confiados ao enviar os seus tokens para outro indivíduo sem uma garantia de devolução se o outro usuário não cumprir o acordo. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  A natureza irreversível das transacções da cadeias de blocos é um recurso de segurança importante, embora existam muitos casos em que os usuários podem não se sentir muito confiados ao enviar os seus tokens para outro indivíduo sem uma garantia de devolução se o outro usuário não cumprir o acordo. A cadeia de blocos Steem fornece uma maneira em que os usuários podem enviar moedas entre si, com um terceiro designado como um serviço de depósito. O usuário que serve como serviço de custódia é capaz de determinar se os termos do contrato foram cumpridos e permitir que os fundos sejam divulgados ao destinatário ou devolvidos ao remetente.
 </p>
 
 <h3>
-  Hierarchical Private Key Structure
+  Estrutura hierárquica de chave privada
 </h3>
 
 <p>

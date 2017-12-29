@@ -143,23 +143,23 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </h3>
 
 <p>
-  A cadeia de blocos Steem permite que uma autoridade seja dividida em várias entidades, de modo que vários usuários possam compartilhar a mesma autoridade, ou são necessárias várias entidades para autorizar uma transação e que ela seja válida. Isso é feito da mesma forma que Bitshares<fnref target="16" /> em que cada par de chaves público/privado é atribuído a um peso e um limite definido para a autoridade. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  A cadeia de blocos Steem permite que uma autoridade seja dividida em várias entidades, de modo que vários usuários possam compartilhar a mesma autoridade, ou são necessárias várias entidades para autorizar uma transação e que ela seja válida. Isso é feito da mesma forma que Bitshares<fnref target="16" /> em que cada par de chaves público/privado é atribuído a um peso e um limite definido para a autoridade. Para que uma transação seja válida, deve ser assinada por entidades suficientes para que a soma do seu poder atinja ou exceda o limite.
 </p>
 
 <h3>
-  Multiple Reward Beneficiaries
+  Vários beneficiários de recompensas
 </h3>
 
 <p>
-  For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+  Para qualquer publicação, pode haver uma série de pessoas diferentes que tenham interesse financeiro na recompensa. Isso inclui o autor, possíveis co-autores, referentes, provedores de hospedagem, blogs que incorporaram comentários de blocos e criadores de ferramentas. Seja qual for o site ou ferramenta que for usado para construir uma publicação ou comentário, deve ter a capacidade de definir como essas recompensas serão divididas entre várias partes. Isso permite várias formas de colaboração, bem como uma maneira para as plataformas que são construídas em cima da cadeia de blocos Steem arrecadarem uma parte das recompensas dos seus usuários.
 </p>
 
 <h3>
-  Smart Media Tokens (SMT)
+  Tokens de meios inteligentes (SMT)
 </h3>
 
 <p>
-  Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Tokens de meios inteligentes são tokens nativos que podem ser criados na cadeia de blocos Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
 </p>
 
 <h3>

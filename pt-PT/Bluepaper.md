@@ -135,7 +135,7 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <p>
-  Steem também facilita o uso de uma senha mestra que criptografa as três chaves. Webservices pode usar uma Senha Mestre que decifra e assina com a chave particular necessária. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+  Steem também facilita o uso de uma senha mestra que criptografa as três chaves. Webservices pode usar uma Senha Mestre que decifra e assina com a chave particular necessária. As senhas principais podem permitir que os usuários confiem em determinados serviços para evitar que as chaves impróprias sejam usadas em qualquer servidor, aumentando assim a experiência do usuário enquanto mantém um ambiente seguro de autenticação do cliente.
 </p>
 
 <h3>

@@ -139,11 +139,11 @@ Muitas vezes, as cadeias de blocos, bloqueadas pela Prova de Trabalho (PoW) <sup
 </p>
 
 <h3>
-  Multi Sig Authorities
+  Autoridades Multi Sig
 </h3>
 
 <p>
-  The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  A cadeia de blocos Steem permite que uma autoridade seja dividida em várias entidades, de modo que vários usuários possam compartilhar a mesma autoridade, ou são necessárias várias entidades para autorizar uma transação e que ela seja válida. Isso é feito da mesma forma que Bitshares<fnref target="16" /> em que cada par de chaves público/privado é atribuído a um peso e um limite definido para a autoridade. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 </p>
 
 <h3>

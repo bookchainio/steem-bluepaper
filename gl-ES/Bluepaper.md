@@ -20,7 +20,7 @@ Un dos aspectos mais innovadores (e menos entendido) da blockchain Steem é o "F
 
 Contrariamente ás criptomoedas solo-PoW, os tokens en Steem son xeneradas con unha cadencia fixa de un bloque cada tres segundos. Estes tokens son distribuidos entre os distintos actores do sistema en función das reglas definidas na blockchain. Estas actoras, como as criadoras de contidos, as curadorea e testemuñas reciben os tokens por vías específicas. Contrariamente o xeito tradicional de distribución PoW, onde os mineiras compiten con poder bruto de computación, na rede Steem, as actoras son incentivadas para competir de forma que engadan valor á Rede.
 
-A cadencia coa que se xeneran os tokens foi definida en Decembro 2016 en 9.5% anual, e mengua con un ratio de 0.01% cada 250.00 bloques, ou 0.5% anual. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+A cadencia coa que se xeneran os tokens foi definida en Decembro 2016 en 9.5% anual, e mengua con un ratio de 0.01% cada 250.00 bloques, ou 0.5% anual. A inflaçión continuará reducindo a ese ritmo ata acadar 0.95%, após un período de aproximadamente 20.5 anos.
 
 Dos novos tokens criados pola blockchain Steem cada ano, o 75% deles compoñen o "fondo de recompensas", o cal distribuese entre as criadoras de contido e as curadoras. 15 % son distribuidas para premiar ós propietarios de tokens, e o 10% son distribuidos ás testemuñas, productoras cooperativas de bloques incluidas no protocolo de consenso DPoS de Steem.
 

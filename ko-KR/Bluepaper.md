@@ -6,7 +6,7 @@
 
 다른 블록체인과 비교했을때, 스팀은 자체적인 보상 체계를 가지고 있고, 평문 형태로 변경 불가능하게 저장된 콘텐츠에 공개적으로 접근할 수 있는 최초의 데이터베이스라는 점에서 특별합니다. 이같은 특징 덕분에 스팀은 수많은 인터넷 애플리케이션이 참여하고 데이터를 공유하는 공개 출판 플랫폼이 되었으며, 스팀은 가장 가치있는 콘텐츠에 공헌하는 사람들에게 보상을 제공합니다.
 
-가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖고 있습니다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것입니다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템입니다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 합니다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로서 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 가치를 상승시키는 방향으로 커뮤니티 멤버들이 활동할 수 있게 돕습니다.
+가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖고 있습니다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것입니다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템입니다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 합니다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로서 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 가치를 상승시키는 방향으로 커뮤니티 멤버들이 활동할 수 있게 유도합니다.
 
 발전된 블록체인, 토큰 기술과 더불어, 스팀은 사용자 경험을 향상시키기 위해 도난 계정 복구[^5], 에스크로 서비스, 사용자 홍보 콘텐츠(promoted content), 평판 시스템, 예금 계정 등의 고급 기능들을 추가로 제공합니다. 이 기능들을 이용할때 사용자에게는 모든 트랜잭션에 대해 3 초의 확인 시간과 수수료 무료 혜택이 제공됩니다. 이 모든 것들은 인터넷 상의 콘텐츠 제작자, 커뮤니티 참여자들에게 스마트하고 사회적인(social) 화페를 도입하기 위한 임무를 지원하는데 사용됩니다.
 
@@ -22,9 +22,9 @@ PoW 전용 가상 화폐와는 다르게 스팀에서 토큰은 고정 비율로
 
 2016년 12월을 기점으로 새로운 토큰은 연 9.5% 비율(rate) 로 만들어졌지만, 현재는 25만개의 블록당 0.01% 비율(연 0.5% 비율) 로 감소했습니다. 인플레이션이 이 속도(rate) 로 지속적으로 감소하면 약 20.5년 후에는 0.95%가 될 것입니다.
 
-매년 스팀 블록체인에 의해 생성된 새로운 토큰 공급량 중 75%는 "보상 풀"을 구성하는데 사용되며, 이들은 콘텐츠 제작자와 큐레이터에게 분배된다. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+매년 스팀 블록체인에 의해 생성된 새로운 토큰 공급량 중 75%는 "보상 풀"을 구성하는데 사용되며, 이들은 콘텐츠 제작자와 큐레이터에게 분배됩니다. 15%는 토큰 소유자(vested token holders) 에게 분배되며, 10%는 스팀의 DPoS 합의(consensus) 프로토콜에 협력하는 블록 생산자들("증인"이라고 부른다) 에게 분배됩니다.
 
-#### Rewards for Content Creators and Curators
+#### 콘텐츠 제작자와 큐레이터에 대한 보상
 
 The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 

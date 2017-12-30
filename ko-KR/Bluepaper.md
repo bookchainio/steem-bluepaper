@@ -22,7 +22,7 @@ PoW 전용 가상 화폐와는 다르게 스팀에서 토큰은 고정 비율로
 
 2016년 12월을 기점으로 새로운 토큰은 연 9.5% 비율(rate) 로 만들어졌지만, 현재는 25만개의 블록당 0.01% 비율(연 0.5% 비율) 로 감소했습니다. 인플레이션이 이 속도(rate) 로 지속적으로 감소하면 약 20.5년 후에는 0.95%가 될 것입니다.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+매년 스팀 블록체인에 의해 생성된 새로운 토큰 공급량 중 75%는 "보상 풀"을 구성하는데 사용되며, 이들은 콘텐츠 제작자와 큐레이터에게 분배된다. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

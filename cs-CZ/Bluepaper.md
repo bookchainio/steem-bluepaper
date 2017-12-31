@@ -72,17 +72,17 @@ Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ether
 
 Mnoho uživatelů má po představení krytpoměn potíže pochopit, jak mohou "kouzelné internetové mince" udělované v této platformě nést opravdovou hodnotu v reálném světě. Abychom vystavěli most mezi tradičnějšími fiat měnami, na které jsou běžní uživatelé zvyklí, a kryptoměnou, kterou jsou odměňování v rámci platformy, byla vytvořena nová měna nazvaná Steem Blockchain Dollar (SBD).
 
-Mince SBD jsou vytvořeny tak, aby byly úzce spjaty s jedním americkým dolarem. Uživatelé, kteří je získají, tak přibližně vědí, jakou mají mince hodnotu z hlediska "reálných dolarů". Mince SBD také nabízí relativně stabilní měnu pro uživatele, kteří chtějí uchovat hodnotu svého účtu spjatou s USD. Podrobnější technický popis lze najít v technické části Steem whitepaper.[^12]
+Mince SBD jsou vytvořeny tak, aby byly úzce spjaty s jedním americkým dolarem. Uživatelé, kteří je získají, tak přibližně vědí, jakou mají mince hodnotu z hlediska "reálných dolarů". Mince SBD také nabízí relativně stabilní měnu pro uživatele, kteří chtějí uchovat hodnotu svého účtu spjatou s USD. Podrobnější technický popis lze najít v technické části Steem Whitepaper.[^12]
 
 ### Decentralizovaná směnárna
 
-Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peert-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. Je zde také veřejně přístupná kniha příkazů a historie příkazů, pomocí kterých mohou uživatelé trh analyzovat. Uživatelé mohou komunikovat s exchange přímo blockchainy rozhraní API nebo pomocí GUI např. ten na Steemit.com. [^14]
+Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peer-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. Je zde také veřejně přístupná kniha příkazů a historie příkazů, pomocí kterých mohou uživatelé trh analyzovat. Uživatelé mohou směnárnu ovládat přímo přes API rozhraní blockchainu nebo pomocí GUI například na Steemit.com. [^14]
 
-### Platby prostřednictvím třetí strany
+### Platby s účastí třetí strany
 
-Nezvratnost blockchain transakcí je důležitým bezpečnostním prvkem. V mnoha případech však nemusí být uživateli příjemné poslat své mince jinému uživateli, aniž by měl možnost získat je zpět v případě, že druhá strana nedodrží svůj díl dohody. Steem blockchain nabízí uživatelům možnost poslat platbu jinému uživateli prostřednictvím třetí strany, takzvaný escrow service. Uživatel, který v kontraktu představuje escrow service, je schopen posoudit, zda podmínky dohody byly naplněny, a buďto uvolní platbu příjemci, nebo ji vrátí odesilateli.
+Nezvratnost blockchain transakcí je důležitým bezpečnostním prvkem. V mnoha případech však nemusí být uživateli příjemné poslat své mince jinému uživateli, aniž by měl možnost získat je zpět v případě, že druhá strana nedodrží svou část dohody. Steem blockchain nabízí uživatelům možnost poslat platbu jinému uživateli prostřednictvím třetí strany, takzvaný escrow service. Uživatel, který v kontraktu představuje escrow service, je schopen posoudit, zda podmínky dohody byly naplněny, a buďto uvolní platbu příjemci, nebo ji vrátí odesilateli.
 
-### Hierarchická systém privátních klíčů
+### Hierarchický systém privátních klíčů
 
 Steem jako první svého druhu využívá hierarchický systém privátních klíčů, aby usnadnil zpracování transakcí s nízkým a vysokým stupněm zabezpečení. Transakce s nízkým zabezpečením jsou spíše ty sociální, jako je publikování článků nebo komentářů. Transakce s vysokým zabezpečením jsou spíše převody prostředků a změny přístupových klíčů. To umožňuje uživatelům zavést si různé úrovně bezpečnostní opatření pro své klíče v závislosti na přístupu, který dotyčný klíč umožňuje.
 
@@ -142,7 +142,7 @@ Unikátní motivační program a systém odměn, které nabízí Steem blockchai
 
 [^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Graphene Documentation http://docs.bitshares.org/
+[^10]: Dokumentace Graphene http://docs.bitshares.org/
 
 [^11]: Rámcová složka Steem blockchainu, která je zodpovědná za transakce a rozdělování odměn.
 

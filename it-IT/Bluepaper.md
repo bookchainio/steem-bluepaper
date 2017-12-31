@@ -104,13 +104,13 @@ Gli Smart Media Token sono token nativi che possono essere costituiti sulla bloc
 
 ### Recupero Account Rubato
 
-Se l'account di un utente è compromesso, è possibile cambiare le proprie chiavi utilizzando la propria chiave Owner. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se l'account di un utente è compromesso, è possibile cambiare le proprie chiavi utilizzando la propria chiave Owner. Nel caso in cui il malintenzionato è in grado di compromettere la propria chiave Owner e cambiare la password dell'account, l'utente ha 30 giorni per sottomettere la precedente e funzionante chiave privata tramite il processo di recupero account offerto da Steem, e recuperare il controllo del proprio account. Questo può essere offerto da una persona o da un'azienda che offre servizi di registrazione su Steem. Non è obbligatorio per il fornitore di servizio di registrazione provvedere questo servizio di recupero account ai propri utenti, ma è un modo per aumentare l'esperienza utente dei propri utenti.
 
-### Security Through Time-Locks
+### Sicurezza Tramite Time-Locks
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Se la chiave Active o Owner di un utente è compromessa, il malintenzionato potrebbe avere accesso totale a tutti i fondi dell'account. Dato che le transazioni sulla blockchain sono irreversibili, l'utente non avrà modo di riavere i propri fondi indietro una volta rubati.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+La blockchain di Steem permette ai propri utenti di salvare i propri token STEEM e SBD in un account di risparmio, in modo tale che i fondi non possano essere prelevati fino al termine di un periodo di tempo di tre giorni. In più, gli STEEM che sono posseduti durante il periodo di vestizione di 13 settimane possono solamente essere prelevati con un tasso di 1/13 per settimana, dopo un periodo iniziale di pausa di sette giorni. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

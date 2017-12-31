@@ -62,11 +62,11 @@ Steem blockchain má dva cíle, slouží jako platební systémem digitální m�
 
 ### Základy vytvořené pro využívání obsahu
 
-Steem nabízí uživatelům unikátní možnost publikovat a uchovávat různé druhy obsahu ve formě prostého textu přímo a trvale v neměnném jádru blockchainu. Jakmile jsou data uložena v blochainu, stávají se veřejně přístupná a vývojáři je mohou získat. Vývojáři také mohou prostřednictvím API získávat a zpracovávat data přímo z blockchainu. Základní data, která mohou vývojáři získat, zahrnují třeba uživatelský jména, příspěvky, komentáře, hlasy a stavy účtů.
+Steem nabízí uživatelům unikátní možnost publikovat a uchovávat různé druhy obsahu ve formě prostého textu přímo a trvale v neměnném jádru blockchainu. Jakmile jsou data uložena v blockchainu, stávají se veřejně přístupná a vývojáři z nich mohou čerpat. Vývojáři mohou prostřednictvím dostupného API získávat a zpracovávat data přímo z blockchainu. Základní data, která mohou vývojáři z blockchainu získat, zahrnují třeba uživatelská jména, příspěvky, komentáře, hlasy a stavy účtů.
 
 ### Zabudovaný systém jmen
 
-Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ethereum jsou sestaveny z dlouhých sad náhodných písmen a číslic. Avšak tyto adresy peněženek činí transakce mezi jinými uživateli v kontextu běžných online sociálních médií obtížné, protože uživatelé si na dlouhé adresy těžko vzpomenou. Steem blockchain využívá jako adresy peněženek uživatelská jména jednotlivých účastníků, což zvyšuje pohodlí uživatelů, kteří zkouší poslat mince, protože se na adresu příjemce mohou snadno rozpomenout.
+Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ethereum jsou sestaveny z dlouhých sad náhodných písmen a číslic. Avšak tyto adresy peněženek činí transakce mezi uživateli v kontextu běžných online sociálních médií obtížné, protože uživatelé si na dlouhé adresy těžko vzpomenou. Steem blockchain využívá jako adresy peněženek uživatelská jména jednotlivých účastníků, což zvyšuje pohodlí uživatelů, kteří zkouší poslat mince, protože se na adresu příjemce mohou snadno rozpomenout.
 
 ### Steem Blockchain Dollars (SBD)
 

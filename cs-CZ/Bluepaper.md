@@ -88,7 +88,7 @@ Steem jako první svého druhu využívá hierarchický systém privátních kl�
 
 Soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč umožňuje skrze určitý účet publikovat články a komentáře, hlasovat, resteemovat texty[^15], přidat si ostatní mezi sledované nebo je ignorovat. Aktivní klíč je určen pro citlivější operace jako je převod prostředků, ukládání nebo vybírání Steem Power, směna SBD, volba svědků, obchodování ve směnárně a změna Publikačního klíče. Vlastnický klíč je určen jen pro nutné případy. Je to ten nejsilnější klíč, neboť může změnit jakýkoli jiný klíč k účtu včetně Vlastnického klíče. Může také prokázat vlastnictví účtu v procesu obnovy účtu. Nejlépe by měl být uchováván offline a měl by být využit jen tehdy, když musí být změněny ostatní klíče, nebo když má být obnoven ukradený účet.
 
-Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Hlavní heslo mohou uživatelé svěřit vybraným službám, aby nedocházelo k nevhodným přenosům klíčů napříč servery. To zlepšuje uživatelské prostředí a zachovává bezpečnost při správě klientských podpisů.
 
 ### Multi Sig Authorities
 
@@ -102,7 +102,7 @@ For any given post there may be a number of different people who have a financia
 
 Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
-### Stolen Account Recovery
+### Obnovení ukradeného účtu
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

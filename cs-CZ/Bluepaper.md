@@ -114,9 +114,9 @@ Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účt
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 
-Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. Jediným důvodem pro naúčtování poplatku je jeho využití k odrazení uživatelů od vytvářené neodůvodněného množství transakcí, které by potenciálně mohlo ovlivnit výkon blockchainu.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Aby byly nastaveny rozumné limity na využívání systému, každý uživatel má k dispozici omezený objem datového toku. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

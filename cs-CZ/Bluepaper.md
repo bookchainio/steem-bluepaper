@@ -70,7 +70,7 @@ Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ether
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Mnoho uživatelů má po představení krytpoměn potíže pochopit, jak mohou "kouzelné internetové mince" udělované v této platformě nést opravdovou hodnotu v reálném světě. Abychom vystavěli most mezi tradičnějšími fiat měnami, na které jsou běžní uživatelé zvyklí, a kryptoměnou, kterou jsou odměňování v rámci platformy, byla vytvořena nová měna nazvaná Steem Blockchain Dollar (SBD).
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 

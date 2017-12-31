@@ -98,13 +98,13 @@ La blockchain di Steem permette ad una autorità di essere suddivisa in multiple
 
 Per ogni post potrebbe esserci un numero differente di persone che hanno un interesse finanziario nella ricompensa. Questo include l'autore, il possibile co-autore, referenze, il provider dell'hosting, i blog che incorporano i commenti della blockchain, gli sviluppatori di tool. Qualunque sito web o strumento che viene utilizzato per costruire un post o un commento avrà l'abilità di impostare come la ricompensa derivata da quel post debba essere divisa tra le differenti parti. Questo consente varie forme di collaborazione, come anche un modo per varie piattaforme create sulla blockchain di Steem di ricevere una parte della ricompensa dai propri utenti.
 
-### Smart Media Tokens (SMT)
+### Smart Media Token (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Gli Smart Media Token sono token nativi che possono essere costituiti sulla blockchain di Steem. Lo STEEM è il primo SMT mai esistito, e il protocollo dello Smart Media Token ha come obiettivo quello di monetizzare i siti web e le applicazioni di contenuto su tutto il web permettendo alle persone di creare token che posseggono delle proprietà simili allo STEEM, ma customizzabili per adattarsi alla visione di qualsiasi community tramite l'incentivazione del comportamento, ed essenzialmente replicando il successo dello STEEM su ogni sito web o applicazione. Dettagli più specifici possono essere trovati all'interno della whitepaper relativa agli Smart Media Token [^17].
 
-### Stolen Account Recovery
+### Recupero Account Rubato
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Se l'account di un utente è compromesso, è possibile cambiare le proprie chiavi utilizzando la propria chiave Owner. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

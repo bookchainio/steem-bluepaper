@@ -52,9 +52,9 @@ ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphen
 
 ### AppBase
 
-AppBase je prvním krokem k vytvoření multi-chain struktury. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase je prvním krokem k vytvoření multi-chain struktury. AppBase umožňuje mnoha komponentům Steem blockchainu, aby byly samostatně modulovatelné, tím, že nabízí pro tyto účely vytvořené doplňky - nekonsensuální blockchainy. Tyto doplňky mohou být aktualizovány mnohem rychleji, protože nevyžadují opětovné načtení celého blockchainu. Následkem toho je správa a škálování steemd[^11] mnohem efektivnější a snazší.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+AppBase jednoduše řečeno umožňuje, aby různé části Steem blockchainu spravovala různá jádra nebo dokonce různé počítače. To je výrazně efektivnější, než když je vyžadováno, aby každé jádro a každý počítač v síti spravoval celý blockchain. Modularizace blochainu umožňuje plně využívat výhod modulárních vlastností počítačů. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 
 ## Steem’s Platform Features
 

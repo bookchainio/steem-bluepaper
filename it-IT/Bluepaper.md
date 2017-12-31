@@ -96,7 +96,7 @@ La blockchain di Steem permette ad una autorità di essere suddivisa in multiple
 
 ### Beneficiari di Ricompense Multiple
 
-Per ogni post potrebbe esserci un numero differente di persone che hanno un interesse finanziario nella ricompensa. Questo include l'autore, il possibile co-autore, referenze, il provider dell'hosting, i blog che incorporano i commenti della blockchain, gli sviluppatori di tool. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Per ogni post potrebbe esserci un numero differente di persone che hanno un interesse finanziario nella ricompensa. Questo include l'autore, il possibile co-autore, referenze, il provider dell'hosting, i blog che incorporano i commenti della blockchain, gli sviluppatori di tool. Qualunque sito web o strumento che viene utilizzato per costruire un post o un commento avrà l'abilità di impostare come la ricompensa derivata da quel post debba essere divisa tra le differenti parti. Questo consente varie forme di collaborazione, come anche un modo per varie piattaforme create sulla blockchain di Steem di ricevere una parte della ricompensa dai propri utenti.
 
 ### Smart Media Tokens (SMT)
 

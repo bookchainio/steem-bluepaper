@@ -8,9 +8,9 @@ Ve srovnání s jinými blockchainy je Steem první veřejně dostupná databáz
 
 Ve srovnání s jinými kryptoměnami jako je Bitcoin nebo Ethereum má STEEM unikátní vlastnosti, díky nimž je zároveň "chytrá" i "sociální". To vyplývá ze dvou nových vlastností této měny. První z nich je fond určený k motivačnímu odměňování za vytváření obsahu a kurátorství (pojmenovaný "rewards pool", "fond odměn"). Druhou vlastností je hlasovací systém, který k posouzení hodnoty obsahu a rozdělení odměn využívá kolektivní inteligenci uživatelů. Tyto dvě unikátní vlastnosti dohromady jsou nazývány jako Proof-of-Brain (Důkaz rozumem), což je slovní hříčka k Proof-of-Work (Důkaz prací)[^4], která má zdůraznit, že je k rozdělení měny do komunity uživatelů je třeba lidského úsilí. Proof-of-Brain staví STEEM do pozice nástroje vhodného k budování trvale rostoucí komunity, která skrze vestavěný systém odměn podněcuje své členy ke tvorbě hodnotného obsahu.
 
-Nad rámec těchto pokroků v oblasti blockchainu a technologie měny nabízí Steem jakožto systém další pokročilé funkce ke zvýšení uživatelské přívětivosti, jako je třeba obnova ukradených účtů[^5], platební systém, propagace uživatelského obsahu, reputační systém nebo spořící účty. To všechno je uživatelům dostupné spolu s třívteřinovým intervalem na potvrzení transakce a s nulovými transakčními poplatky. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Nad rámec těchto pokroků v oblasti blockchainu a technologie měny nabízí Steem jakožto systém další pokročilé funkce ke zvýšení uživatelské přívětivosti, jako je třeba obnova ukradených účtů[^5], platební systém, propagace uživatelského obsahu, reputační systém nebo spořící účty. To všechno je uživatelům dostupné spolu s třívteřinovým intervalem na potvrzení transakce a s nulovými transakčními poplatky. V konečném důsledku vše směřuje k cíli přinést chytrou a sociální měnu pro kreativce a budovatele komunit napříč celým internetem.
 
-## Proof of Brain: Smart and Social Tokens
+## Proof of Brain: Chytrá a sociální měna
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

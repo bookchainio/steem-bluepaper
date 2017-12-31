@@ -2,9 +2,9 @@
 
 ## Úvod
 
-Steem poskytuje škálovatelný blockchain protokol[^1] pro veřejně dostupný a neměnný obsah, a také pro digitální měnu (nazvanou STEEM)[^2], kterou je možné rychle a bez poplatků převádět. Steem umožňuje lidem vydělávat tuto měnu využíváním jejich rozumu (tento princip lze nazvat "Proof-of-Brain", tedy "Důkaz rozumem"). Dva základní stavební kameny tohoto protokolu, tedy blockchain a měna, jsou spolu pevně spjaty pokud jde o bezpečnost, neměnnost a dlouhodobost. Jsou proto nedílnou součástí jeden druhého. Steem již úspěšně funguje více než rok a v počtu zpracovaných transakcí právě předčil Bitcoin i Ethereum.[^3]
+Steem poskytuje škálovatelný blockchain protokol[^1] pro veřejně dostupný a neměnný obsah, a také pro digitální měnu (nazvanou STEEM)[^2], kterou je možné rychle a bez poplatků převádět. Steem umožňuje lidem vydělávat tuto měnu za využití jejich rozumu (tento princip lze nazvat "Proof-of-Brain", tedy "Důkaz rozumem"). Dva základní stavební kameny tohoto protokolu, tedy blockchain a měna, jsou spolu pevně spjaty pokud jde o bezpečnost, neměnnost a dlouhodobost. Jsou proto nedílnou součástí jeden druhého. Steem již úspěšně funguje více než rok a v počtu zpracovaných transakcí právě předčil Bitcoin i Ethereum.[^3]
 
-Ve srovnání s jinými blockchainy je Steem první veřejně dostupná databáze neměnného obsahu uloženého ve formě prostého textu. Vyniká také zabudovaným mechanismem motivačních odměn. To dělá ze Steemu veřejnou publikační platformu, ze které může každá internetová aplikace získat a sdílet data a odměňovat při tom ty, kteří vytváří ten nejhodnotnější obsah.
+Ve srovnání s jinými blockchainy vyčnívá Steem jako první veřejně dostupná databáze neměnného obsahu uloženého ve formě prostého textu, která má zároveň zabudovaný mechanismus motivačních odměn. To dělá ze Steemu veřejnou publikační platformu, ze které může každá internetová aplikace získat a sdílet data a odměňovat při tom ty, kteří vytváří ten nejhodnotnější obsah.
 
 Ve srovnání s jinými kryptoměnami jako je Bitcoin nebo Ethereum má STEEM unikátní vlastnosti, díky nimž je zároveň "chytrá" i "sociální". To vyplývá ze dvou nových vlastností této měny. První z nich je fond určený k motivačnímu odměňování za vytváření obsahu a kurátorství (pojmenovaný "rewards pool", "fond odměn"). Druhou vlastností je hlasovací systém, který k posouzení hodnoty obsahu a rozdělení odměn využívá kolektivní vědomosti uživatelů. Tyto dvě unikátní vlastnosti dohromady jsou nazývány jako Proof-of-Brain (Důkaz rozumem), což je slovní hříčka k Proof-of-Work (Důkaz prací)[^4], která má zdůraznit, že je k rozdělení měny do komunity uživatelů je třeba lidského úsilí. Proof-of-Brain staví STEEM do pozice nástroje vhodného k budování trvale rostoucí komunity, která skrze vestavěný systém odměn podněcuje své členy ke tvorbě hodnotného obsahu.
 
@@ -112,13 +112,13 @@ Je-li uživateli zcizen Aktivní nebo Vlastnický klíč, útočník získá pln
 
 Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účty, ze kterých nemohou být prostředky vybrány dříve než po tři a půl dne dlouhé čekací lhůtě. Kromě toho je STEEM investovaný do Steem Power vázán na 13 týdnů trvající cyklus a může být vybírán jen po 1/13 týdně od uplynutí prvních 7 dní. Tyto časové zámky brání útočníkovi získat okamžitou kontrolu nad všemi prostředky uživatele a dávají právoplatnému majiteli šanci získat zpět kontrolu nad účtem ještě před tím, než mohou být všechny prostředky vybrány.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Omezení datového toku pro bezplatné operace
 
 Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. Jediným důvodem pro naúčtování poplatku je jeho využití k odrazení uživatelů od vytvářené neodůvodněného množství transakcí, které by potenciálně mohlo ovlivnit výkon blockchainu.
 
 Aby byly nastaveny rozumné limity na využívání systému, každý uživatel má k dispozici omezený objem datového přenosu. Kdykoli uživatele provede nějakou blockchain operaci, jako je převod mincí, publikace obsahu a hlasování, využije k tomu určitou část dostupného přenosu dat. Když uživatel překročí povolené množství přenesených dat, musí s dalšími akcemi vyčkat, dokud se mu datový limit znovu neobnoví.
 
-Datová omezení se přizpůsobují v závislosti na využívání sítě, takže v době, kdy je využití sítě nízké, mají uživatelé vyšší datové limity. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Datová omezení se přizpůsobují v závislosti na využívání sítě, takže v době, kdy je využití sítě nízké, mají uživatelé vyšší datové limity. Velikost datového toku, který mají účty k dispozici, je přímo úměrný množství Steem Power, kterou má uživatel na svém kontě. Uživatelé tedy mohou vždy zvýšit množství dostupného datového toku získáním více Steem Power.
 
 ## Závěr
 

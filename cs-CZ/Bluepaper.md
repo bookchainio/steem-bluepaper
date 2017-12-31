@@ -26,11 +26,11 @@ Ze zásoby nových mincí, které na blockchainu Steemu každoročně vzniknou, 
 
 #### Odměny pro tvůrce obsahu a kurátory
 
-Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu do systému hodnotu. Tento obsah na platformu přivede nové uživatele, a zároveň udržuje stávající uživatele aktivní a bavící se. To pomáhá rozdělovat měnu mezi širší okruh uživatelů a zvyšuje efekt celého systému. Uživatelé, kteří věnují čas ohodnocení obsahu a hlasování o něm, hrají důležitou roli při rozdělování mincí mezi uživatele, kteří přidávají největší hodnotu. Blockchain odměňuje obě tyto činnosti poměrně k jejich hodnotě na základě kolektivního úsudku lidí, který je stanoven pomocí volebního systému s váženými hlasy.
+Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu do systému hodnotu. Tento obsah na platformu přivede nové uživatele, a zároveň udržuje stávající uživatele aktivní a bavící se. To pomáhá rozšiřovat měnu mezi větší okruh uživatelů a zvyšuje efektivitu celého systému. Uživatelé, kteří věnují čas ohodnocení obsahu a hlasování o něm, hrají důležitou roli při rozdělování mincí mezi uživatele, kteří přidávají největší hodnotu. Blockchain odměňuje obě tyto činnosti poměrně k jejich hodnotě na základě kolektivního úsudku lidí, který je stanoven pomocí volebního systému s váženými hlasy.
 
-#### Hlasování pomocí podílu mincí k určení rozdělení odměn
+#### Hlasování pomocí podílu mincí pro určení rozdělení odměn
 
-Steem pracuje se základním pravidlem jeden STEEM, jeden hlas. Díky tomuto nastavení mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Podíl mincí si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým podílem mincí má úplně stejný vliv jako dva účty se stejným součtem podílů mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj podíl mincí.
+Steem pracuje se základním pravidlem jeden STEEM = jeden hlas. Díky tomuto pravidlu mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Podíl mincí si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým podílem mincí má úplně stejný vliv jako dva účty se stejným součtem podílů mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj podíl mincí.
 
 Kromě toho Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Díky tomuto opatření jsou členové finančně motivování hlasovat způsobem, který z dlouhodobého hlediska maximalizuje hodnotu jejich STEEMu.
 

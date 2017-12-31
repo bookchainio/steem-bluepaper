@@ -88,7 +88,7 @@ Steem jako první svého druhu využívá hierarchický systém privátních kl�
 
 Soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč umožňuje skrze určitý účet publikovat články a komentáře, hlasovat, resteemovat texty[^15], přidat si ostatní mezi sledované nebo je ignorovat. Aktivní klíč je určen pro citlivější operace jako je převod prostředků, ukládání nebo vybírání Steem Power, směna SBD, volba svědků, obchodování ve směnárně a změna Publikačního klíče. Vlastnický klíč je určen jen pro nutné případy. Je to ten nejsilnější klíč, neboť může změnit jakýkoli jiný klíč k účtu včetně Vlastnického klíče. Může také prokázat vlastnictví účtu v procesu obnovy účtu. Nejlépe by měl být uchováván offline a měl by být využit jen tehdy, když musí být změněny ostatní klíče, nebo když má být obnoven ukradený účet.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
 ### Multi Sig Authorities
 
@@ -126,13 +126,13 @@ Unikátní motivační program a systém odměn, které nabízí Steem blockchai
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Abychom odlišili digitální minci od Steem blockchainu, je pojmenována velkými písmeny jakožto STEEM.
 
 [^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
 [^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Obnovení ukradeného účtu pro uživatele Steemit.com: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
 [^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
@@ -144,7 +144,7 @@ Unikátní motivační program a systém odměn, které nabízí Steem blockchai
 
 [^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: Rámcová složka Steem blockchainu, která je zodpovědná za transakce a rozdělování odměn.
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
@@ -152,7 +152,7 @@ Unikátní motivační program a systém odměn, které nabízí Steem blockchai
 
 [^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem" je slovo užívané v situaci, kdy uživatel v rámci Steem blockchainu sdílí obsah se svými odběrateli.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 

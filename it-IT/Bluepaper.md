@@ -32,13 +32,13 @@ Gli utenti che producono contenuti aggiungono valore al network, da un lato, cre
 
 Steem opera sulla base di uno STEEM, un voto. In base a questo modello, gli individui che hanno contribuito maggiormente alla piattaforma, informazione reperibile tramite il saldo del proprio account, hanno maggiore influenza sulla valutazione dei contributi. Le quote possono essere comprate o guadagnate. Gli utenti non possono acquisire maggiore influenza possedendo account multipli, dato che un singolo account con una data quantità di quote avrà la stessa influenza di due differenti account che condividono lo stesso numero di quote. L'unico modo per un utente di aumentare la propria influenza all'interno della piattaforma è di aumentare le proprie quote.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Inoltre, Steem consente ai membri di votare con gli STEEM solo quando è necessario, durante processo di vestizione di 13 settimane chiamato Steem Power. In base a questo modello, i membri hanno un incentivo finanziario per votare in un modo da massimizzare il valore a lungo termine dei loro STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Velocità e Scalabilità sulla Blockchain di Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+La blockchain di Steem è progettata per essere una delle più veloci ed efficienti blockchain esistenti, cosa necessaria per far si che possa supportare la quantità di traffico prevista per un social media più grande di Reddit. Steem ha già superato il Bitcoin in termini di numero di transazioni, ed è capace di scalare fino a supportare più di 10,000 transazioni al secondo.
 
-### Delegated Proof of Stake (DPoS)
+### Proof of Stake Delegata( DPos)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

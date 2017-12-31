@@ -54,11 +54,11 @@ ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphen
 
 AppBase je prvním krokem k vytvoření multi-chain struktury. AppBase umožňuje mnoha komponentům Steem blockchainu, aby byly samostatně modulovatelné, tím, že nabízí pro tyto účely vytvořené doplňky - nekonsensuální blockchainy. Tyto doplňky mohou být aktualizovány mnohem rychleji, protože nevyžadují opětovné načtení celého blockchainu. Následkem toho je správa a škálování steemd[^11] mnohem efektivnější a snazší.
 
-AppBase jednoduše řečeno umožňuje, aby různé části Steem blockchainu spravovala různá jádra nebo dokonce různé počítače. To je výrazně efektivnější, než když je vyžadováno, aby každé jádro a každý počítač v síti spravoval celý blockchain. Modularizace blochainu umožňuje plně využívat výhod modulárních vlastností počítačů. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+AppBase jednoduše řečeno umožňuje, aby různé části Steem blockchainu spravovala různá jádra nebo dokonce různé počítače. To je výrazně efektivnější, než když je vyžadováno, aby každé jádro a každý počítač v síti spravoval celý blockchain. Modularizace blochainu umožňuje plně využívat výhod modulárních vlastností počítačů. A je to nezbytný krok v dlouhodobém procesu vytváření kompletně paralelního a plně optimalizovaného blockchainu.
 
-## Steem’s Platform Features
+## Vlastnosti platformy Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain má dva cíle, slouží jako platební systémem digitální měny a zároveň jako platforma mainstreamové sociální sítě. Funkce, které blockchain nabízí, musí podporovat oba cíle a poskytovat uživatelům kvalitu na světové úrovni při využívání obou aspektů platformy.
 
 ### Primitives Designed for Content Applications
 

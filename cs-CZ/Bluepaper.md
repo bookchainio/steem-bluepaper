@@ -90,9 +90,9 @@ Soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč
 
 Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Hlavní heslo mohou uživatelé svěřit vybraným službám, aby nedocházelo k nevhodným přenosům klíčů napříč servery. To zlepšuje uživatelské prostředí a zachovává bezpečnost při správě klientských podpisů.
 
-### Multi Sig Authorities
+### Vícenásobné podpisy
 
-Steem blockchain umožňuje, aby pravomoc byla rozdělena mezi více subjektů tak, aby více uživatelů sdílelo stejnou pravomoc, nebo aby k ověření platnosti transakce byla třeba autorizace od více jednotlivců. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain umožňuje, aby autorizace byla rozdělena mezi více subjektů tak, aby více uživatelů sdílelo stejnou pravomoc, nebo aby k ověření platnosti transakce byla třeba autorizace od více jednotlivců. To probíhá stejným způsobem jako u Bitshares[^16], kde má každý pár soukromého a veřejného klíče přisouzenu svou váhu, a kde je autoritou stanovený práh. Aby byla transakce platná, musí ji podepsat dostatečný počet jedinců, jejichž součet váhy dosahuje nebo převyšuje tento práh.
 
 ### Multiple Reward Beneficiaries
 

@@ -26,7 +26,7 @@ Del totale dei nuovi token creati ogni anno dalla blockchain di Steem, il 75% de
 
 #### Ricompense per i Creatori e gli Editori di Contenuti
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Gli utenti che producono contenuti aggiungono valore al network, da un lato, creando del materiale che guiderà nuovi utenti all'utilizzo della piattaforma e, dall'altro, intrattenendo e coinvolgendo gli attuali utenti. Questo permette di distribuire la valuta verso un più ampio spettro di utenti e di aumentare l'effetto del network. Gli utenti che si prendono del tempo per valutare e votare un contenuto giocano un ruolo importante nel distribuire la valuta verso gli utenti che aggiungono maggior valore. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

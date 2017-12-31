@@ -86,7 +86,7 @@ Nezvratnost blockchain transakcí je důležitým bezpečnostním prvkem. V mnoh
 
 Steem jako první svého druhu využívá hierarchický systém privátních klíčů, aby usnadnil zpracování transakcí s nízkým a vysokým stupněm zabezpečení. Transakce s nízkým zabezpečením jsou spíše ty sociální, jako je publikování článků nebo komentářů. Transakce s vysokým zabezpečením jsou spíše převody prostředků a změny přístupových klíčů. To umožňuje uživatelům zavést si různé úrovně bezpečnostní opatření pro své klíče v závislosti na přístupu, který dotyčný klíč umožňuje.
 
-Soukromé klíče jsou Publikační, Aktivní a Vlastnický. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+Soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč umožňuje skrze určitý účet publikovat články a komentáře, hlasovat, resteemovat texty[^15], přidat si ostatní mezi sledované nebo je ignorovat. Aktivní klíč je určen pro citlivější operace jako je převod prostředků, ukládání nebo vybírání Steem Power, směna SBD, volba svědků, obchodování ve směnárně a změna Publikačního klíče. Vlastnický klíč je určen jen pro nutné případy. Je to ten nejsilnější klíč, neboť může změnit jakýkoli jiný klíč k účtu včetně Vlastnického klíče. Může také prokázat vlastnictví účtu v procesu obnovy účtu. Nejlépe by měl být uchováván offline a měl by být využit jen tehdy, když musí být změněny ostatní klíče, nebo když má být obnoven ukradený účet.
 
 Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
@@ -120,7 +120,7 @@ In order to place reasonable limits on the system use, each user is given a limi
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
-## Conclusion
+## Závěr
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

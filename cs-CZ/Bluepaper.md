@@ -72,11 +72,11 @@ Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ether
 
 Mnoho uživatelů má po představení krytpoměn potíže pochopit, jak mohou "kouzelné internetové mince" udělované v této platformě nést opravdovou hodnotu v reálném světě. Abychom vystavěli most mezi tradičnějšími fiat měnami, na které jsou běžní uživatelé zvyklí, a kryptoměnou, kterou jsou odměňování v rámci platformy, byla vytvořena nová měna nazvaná Steem Blockchain Dollar (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Mince SBD jsou vytvořeny tak, aby byly úzce spjaty s jedním americkým dolarem. Uživatelé, kteří je získají, tak přibližně vědí, jakou mají mince hodnotu z hlediska "reálných dolarů". Mince SBD také nabízí relativně stabilní měnu pro uživatele, kteří chtějí uchovat hodnotu svého účtu spjatou s USD. Podrobnější technický popis lze najít v technické části Steem whitepaper.[^12]
 
-### Decentralized Exchange
+### Decentralizovaná směnárna
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peert-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

@@ -44,11 +44,11 @@ Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefekti
 
 Díky DPoS je Steem blockchain schopen vygenerovat s minimálními nároky na výpočetní výkon každé tři vteřiny nový blok. To znamená, že blockhain je schopen provést více transakcí a uchovávat více informací včetně obsahu.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Při definování pravidel případných hard forků platí, že se svědci zvolení v rámci DPoS pravidel mohou rychle a efektivně rozhodnout, zda se k plánovanému hard forku připojí nebo nikoli. To umožňuje blochainu Steemu vyvíjet protokol rychleji než většině ostatních blockchainů. Steem blockchain již úspěšně podstoupil 18 forků [^8], a kdykoli došlo na hard fork, vždy byl zachován jen jeden řetězec.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphene [^10]. ChainBase rychleji načítá i ukončuje procesy, podporuje paralelní přístup do databáze a v porovnání se svým předchůdcem je odolnější vůči pádům systému. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

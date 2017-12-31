@@ -60,11 +60,11 @@ AppBase jednoduše řečeno umožňuje, aby různé části Steem blockchainu sp
 
 Steem blockchain má dva cíle, slouží jako platební systémem digitální měny a zároveň jako platforma mainstreamové sociální sítě. Funkce, které blockchain nabízí, musí podporovat oba cíle a poskytovat uživatelům kvalitu na světové úrovni při využívání obou aspektů platformy.
 
-### Primitives Designed for Content Applications
+### Základy vytvořené pro využívání obsahu
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem nabízí uživatelům unikátní možnost publikovat a uchovávat různé druhy obsahu ve formě prostého textu přímo a trvale v neměnném jádru blockchainu. Jakmile jsou data uložena v blochainu, stávají se veřejně přístupná a vývojáři je mohou získat. Vývojáři také mohou prostřednictvím API získávat a zpracovávat data přímo z blockchainu. Základní data, která mohou vývojáři získat, zahrnují třeba uživatelský jména, příspěvky, komentáře, hlasy a stavy účtů.
 
-### Native Name System
+### Zabudovaný systém jmen
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

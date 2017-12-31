@@ -30,7 +30,7 @@ Gli utenti che producono contenuti aggiungono valore al network, da un lato, cre
 
 #### Votare con gli Staked-Token per Determinare l'Allocazione delle Ricompense
 
-Steem opera sulla base di uno STEEM, un voto. In base a questo modello, gli individui che hanno contribuito maggiormente alla piattaforma, informazione reperibile tramite il saldo del proprio account, hanno maggiore influenza sulla valutazione dei contributi. La puntata può essere comprata o guadagnata. Gli utenti non possono acquisire maggiore influenza possedendo account multipli, dato che un singolo account con una data quantità di quote avrà la stessa influenza di due differenti account che condividono lo stesso numero di quote. L'unico modo per un utente di aumentare la propria influenza all'interno della piattaforma è di aumentare le proprie quote.
+Steem opera sulla base di uno STEEM, un voto. In base a questo modello, gli individui che hanno contribuito maggiormente alla piattaforma, informazione reperibile tramite il saldo del proprio account, hanno maggiore influenza sulla valutazione dei contributi. Le quote possono essere comprate o guadagnate. Gli utenti non possono acquisire maggiore influenza possedendo account multipli, dato che un singolo account con una data quantità di quote avrà la stessa influenza di due differenti account che condividono lo stesso numero di quote. L'unico modo per un utente di aumentare la propria influenza all'interno della piattaforma è di aumentare le proprie quote.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

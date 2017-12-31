@@ -104,7 +104,7 @@ Smart Media Tokens are native tokens that can be built on the Steem blockchain. 
 
 ### Obnovení ukradeného účtu
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s využitím Vlastnického klíče. V případě, že útočník je schopen získat také Vlastnický klíč a změnit heslo k účtu, má uživatel 30 dní na zaslání původně platného Vlastnického klíče skrze proces obnovení ukradených účtů, který Steem nabízí jako jediný v této branži, a obnovení kontroly kontroly nad svým účtem. Tento postup může navrhnout osoba nebo společnost, která registraci na Steem poskytuje. Pro registrátora není povinností tuto službu uživatelům nabídnout, ale je pro jeho uživatele dostupná jako přidaná hodnota.
 
 ### Security Through Time-Locks
 

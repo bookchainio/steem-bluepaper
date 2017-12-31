@@ -40,15 +40,15 @@ La blockchain di Steem è progettata per essere una delle più veloci ed efficie
 
 ### Proof of Stake Delegata( DPos)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Spesso limitate dalla Proof-of-Work (PoW) [^6], molte blockchain non possono scalare oltre alle tre transazioni al secondo, che è solo una minima parte del traffico finanziario nel mondo. Steem necessità di molta più scalabilità e velocità rispetto a quella offerta dalla classica PoW, e quindi di un meno conosciuto algoritmo chiamato Proof of Stake Delegato (DPoS)[^7] sfruttato per creare le fondamenta di una blockchain adatta per miliardi di utenti.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Grazie al DPoS, la blockchain di Steem è capace di generare un nuovo blocco ogni 3 secondi con un carico computazionale minimo. Questo significa che la blockchain può processare più transazioni ed ottenere più informazioni, inclusi i contenuti.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Definendo le regole per quando si verifica un HardFork, i testimoni eletti all'interno del framework del DPoS possono rapidamente ed efficientemente decidere se scegliere il l'hardfork proposto o meno, consentendo al protocollo della blockchain di Steem di evolversi più rapidamente della maggior parte degli atri protocolli. La blockchain di Steem è già stata sottoposta con successo a 18 fork [^8], e ogni volta che un Hardfork è avvenuto, solo un'unica catena è sopravvissuta al fork.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] è la porzione di database che ha sostituito Graphene[^10] nel 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

@@ -70,13 +70,13 @@ Gli indirizzi dei portafogli utilizzati da molte tecnologie blockchain, come il 
 
 ### I Dollari della Blockchain di Steem (SBD)
 
-Molti utenti appena introdotti alle criptovalute hanno difficoltà a comprendere come i "magici token di internet" ottenuti tramite la piattaforma possano avere un concreto valore nel mondo reale. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Molti utenti appena introdotti alle criptovalute hanno difficoltà a comprendere come i "magici token di internet" ottenuti tramite la piattaforma possano avere un concreto valore nel mondo reale. Per colmare questo gap tra il sistema di valute tradizionali, ai quali gli utenti mainstream sono abituati, e le cryptovalute che si guadagnano tramite la piattaforma, è stata creata una nuova valuta chiamata Steem Blockchain Dollars(SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+I token SBD sono progettati per essere ancorati strettamente al valore di un USD, così che gli utenti possono conoscere in modo approssimato quanto valore hanno acquisito in termini di "dollari reali". I token SBD offrono allo stesso tempo una relativamente stabile valuta per gli utenti che vogliono preservare il loro account ad un valore relativo agli USD. Una spiegazione più dettagliata può essere trovata all'interno della whitepaper tecnica di Steem.[^12]
 
-### Decentralized Exchange
+### Exchange Decentralizzato
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+La blockchain di Steem offre un exchange decentralizzato di token, simile a quello offerto da Bitshares. [^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

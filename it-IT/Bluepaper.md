@@ -12,11 +12,11 @@ Oltre a questi progressi con la tecnologia della blockchain e dei token, Il sist
 
 ## Proof-Of-Brain: Token Smart e Social
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Il sistema di token che ricompensa gli utenti che contribuiscono ad un sistema di community fondate sui token richiede meccanismi per stabilire e valutare il valore sociale dei contenuti: chiamiamo questo "Proof-of-Brain."
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Il Bacino delle Ricompense ("Da dove provengono i token?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Uno dei più innovativi (e più malcompresi) aspetti della blockchain di Steem è il "bacino delle ricompense" dal quale i token sono distribuiti ai creatori di contenuti di valore. Per capire cosa è il Bacino delle Ricompense, bisogna prima capire che nelle DPoS blockchain i token sono prodotti in modo differente rispetto alle PoW blochains. Nelle tradizionali PoW blockchains, i token sono prodotti in modo regolare e distribuiti in modo casuale alle persone le quali macchine svolgono il lavoro("miners").
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

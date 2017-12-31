@@ -100,15 +100,15 @@ Ke každému publikovanému příspěvku může existovat více různých lidí,
 
 ### Smart Media Token (SMT)
 
-Smart Media Token je měna, která může být vytvořena na Steem blockchainu. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Token je měna, která může být vytvořena na Steem blockchainu. STEEM je vůbec první existující SMT. Cílem Smart Media Token protokolu je finančně ohodnotit obsah webových stránek a aplikací napříč internetem a umožnit lidem, aby vytvářeli mince s podobnými vlastnostmi, jako má STEEM, jen přizpůsobené tak, aby pobízely k naplnění vizí jakékoli online komunity. V podstatě jde o přenesení úspěchu STEEMu na jakoukoli webovou stránku či aplikaci. Více technických podrobností lze najít ve Smart Media Tokens whitepaperu[^17].
 
 ### Obnovení ukradeného účtu
 
 Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s využitím Vlastnického klíče. V případě, že útočník je schopen získat také Vlastnický klíč a změnit heslo k účtu, má uživatel 30 dní na zaslání původně platného Vlastnického klíče skrze proces obnovení ukradených účtů, který Steem nabízí jako jediný v této branži, a obnovení kontroly kontroly nad svým účtem. Tento postup může navrhnout osoba nebo společnost, která registraci na Steem poskytuje. Pro registrátora není povinností tuto službu uživatelům nabídnout, ale je pro jeho uživatele dostupná jako přidaná hodnota.
 
-### Security Through Time-Locks
+### Zabezpečení pomocí časových zámků
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Je-li uživateli zcizen Aktivní nebo Vlastnický klíč, útočník získá plný přístup ke všem prostředkům jeho účtu. Transakce v blockchainu jsou nevratné, a proto nemá uživatel žádnou možnost získat své prostředky zpět po tom, co byly ukradeny.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

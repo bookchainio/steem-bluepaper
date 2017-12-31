@@ -32,13 +32,13 @@ Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu d
 
 Steem pracuje se základním pravidlem jeden STEEM, jeden hlas. Díky tomuto nastavení mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Podíl mincí si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým podílem mincí má úplně stejný vliv jako dva účty se stejným součtem podílů mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj podíl mincí.
 
-Kromě toho Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Kromě toho Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Díky tomuto opatření jsou členové finančně motivování hlasovat způsobem, který z dlouhodobého hlediska maximalizuje hodnotu jejich STEEMu.
 
-## Speed and Scale on the Steem Blockchain
+## Rychlost a škálování Steem blockchainu
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefektivnějších existujících blockchainů, což je nezbytné k tomu, aby mohl být páteří sociální sítě, jejíž předpokládaná velikost předčí Reddit. Steem již v počtu transakcí předstihl Bitcoin a je schopen realizovat i více než 10 000 transakcí za vteřinu.
 
-### Delegated Proof of Stake (DPoS)
+### Delegated Proof of Stake (DPoS - Delegovaný důkaz podílem)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

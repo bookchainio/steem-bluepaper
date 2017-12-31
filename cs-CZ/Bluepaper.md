@@ -94,9 +94,9 @@ Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři 
 
 Steem blockchain umožňuje, aby autorizace byla rozdělena mezi více subjektů tak, aby více uživatelů sdílelo stejnou pravomoc, nebo aby k ověření platnosti transakce byla třeba autorizace od více jednotlivců. To probíhá stejným způsobem jako u Bitshares[^16], kde má každý pár soukromého a veřejného klíče přisouzenu svou váhu, a kde je autoritou stanovený práh. Aby byla transakce platná, musí ji podepsat dostatečný počet jedinců, jejichž součet váhy dosahuje nebo převyšuje tento práh.
 
-### Multiple Reward Beneficiaries
+### Více příjemců odměny
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Ke každému publikovanému příspěvku může existovat více různých lidí, kteří mají nárok na finanční odměnu. Mezi ně patří autor, případní spoluautoři, lidé na článek odkazující, poskytovatelé hostingu, blogy s komentáři vloženými do blockchainu a vývojáři. Bez ohledu na to, jakou stránku a nástroj využijete ke tvorbě textu nebo komentáře, budete mít možnost nastavit, jakým způsobem bude odměna rozdělena mezi různé subjekty. To umožňuje různé formy spolupráce a nabízí platformám vystavěným na Steem blockchainu možnost sbírat část odměny od svých uživatelů.
 
 ### Smart Media Tokens (SMT)
 

@@ -122,7 +122,7 @@ Bandwidth limits adjust based on network use, so users have a higher bandwidth a
 
 ## Závěr
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Unikátní motivační program a systém odměn, které nabízí Steem blockchain a STEEM mince, jsou koncipovány tak, aby ze Steemu vytvořily dokonalý odrazový můstek pro běžné uživatele do světa kryptoměn. Výkonnost blockchainu je navržena s ohledem na masové přijetí měny i platformy. V kombinaci s bleskově rychlými a transakcemi bez poplatků směřuje Steem k tomu, aby se stal jednou z předních blockchain technologií, kterou využívají lidé z celého světa.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

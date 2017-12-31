@@ -116,9 +116,9 @@ Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účt
 
 Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. Jediným důvodem pro naúčtování poplatku je jeho využití k odrazení uživatelů od vytvářené neodůvodněného množství transakcí, které by potenciálně mohlo ovlivnit výkon blockchainu.
 
-Aby byly nastaveny rozumné limity na využívání systému, každý uživatel má k dispozici omezený objem datového přenosu. Kdykoli uživatele provede nějakou blockchain operaci, jako je převod mincí, publikace obsahu a hlasování, využije k tomu určitou část dostupného přenosu dat. Když uživatel překročí povolené množství přenesených dat, musí s dalšími akcemi vyčkat, dokud se mu datový limit znovu neobnoví.
+Aby byly nastaveny rozumné limity na využívání systému, každý uživatel má k dispozici omezený objem datového toku. Kdykoli uživatel provede nějakou operaci v blockchainu, jako je převod mincí, publikace obsahu a hlasování, využije k tomu určitou část dostupného datového toku. Když uživatel překročí povolené množství přenesených dat, musí s dalšími akcemi vyčkat, dokud se mu datový limit znovu neobnoví.
 
-Datová omezení se přizpůsobují v závislosti na využívání sítě, takže v době, kdy je využití sítě nízké, mají uživatelé vyšší datové limity. Velikost datového toku, který mají účty k dispozici, je přímo úměrný množství Steem Power, kterou má uživatel na svém kontě. Uživatelé tedy mohou vždy zvýšit množství dostupného datového toku získáním více Steem Power.
+Datová omezení se přizpůsobují v závislosti na využívání sítě, takže v době, kdy je využití sítě nízké, mají uživatelé vyšší datové limity. Velikost datového toku, který mají účty k dispozici, je přímo úměrný množství Steem Power, kterou má uživatel na svém kontě. Uživatelé tedy mohou vždy zvýšit objem dostupného datového toku získáním více Steem Power.
 
 ## Závěr
 

@@ -56,9 +56,9 @@ AppBase è il primo step nella creazione di una Fabric multi-chain. AppBase cons
 
 Praticamente, AppBase abilita dei core differenti, o addirittura computer differenti, per mantenere differenti parti della blockchain di Steem. Questo è significativamente molto più efficiente di richiedere ad ogni core, ed ogni computer nel network di mantenere l'intera blockchain. Modularizzando la blockchain consente di sfruttare i pieni vantaggi della natura modulare dei computer. Questo è uno step necessario nel processo di creazione di una totalmente parallela ed ottimizzata blockchain.
 
-## Steem’s Platform Features
+## Funzionalità della piattaforma Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+La blokchain di Steem serve un duplice scopo e cioè di essere, da un lato, un sistema di processo per token digitali, dall'altro, una piattaforma social media mainstream. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

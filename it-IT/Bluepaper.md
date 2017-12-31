@@ -118,11 +118,11 @@ Dato che i testimoni sono pagati interamente dalla generazione di nuovi token, n
 
 In modo da impostare un ragionevole limite all'utilizzo del sistema, ad ogni utente viene settato un limite di banda. Ogni volta che un utente attua delle operazioni sulla blockchain come un trasferimento di token, il post di un contenuto e una votazione, questo usa solo una porzione della banda disponibile. Se un utente supera la banda disponibile, è necessario aspettare per effettuare ulteriori azioni che la banda si ricarichi.
 
-I limiti di banda si aggiustano in base all'utilizzo del network, così gli utenti hanno un più alto accesso alla banda quando l'utilizzo del network è basso. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+I limiti di banda si aggiustano in base all'utilizzo del network, così gli utenti hanno un più alto accesso alla banda quando l'utilizzo del network è basso. La quantità di banda che un utente ha a disposizione è direttamente proporzionale alla quantità di Steem Power che l'utente ha, questo permette agli utenti di aumentare la propria disponibilità ottenendo dello Steem Power addizionale.
 
-## Conclusion
+## Conclusioni
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Il programma unico di ricompense ed incentivi offerto dalla blockchain e dai token di Steem è progettato per rendere Steem la massima rampa di accesso tra le criptovalute e gli utenti mainstream. Le performance della blockchain sono progettate con in mente l'idea di una diffusa adozione sia della valuta che della piattaforma. Combinando la fulminante velocità del tempo di processo con il costo zero delle transazioni Steem si candida per diventare una delle principali tecnologie blockchain usate in tutto il mondo.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

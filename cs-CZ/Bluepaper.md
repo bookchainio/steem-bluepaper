@@ -30,9 +30,9 @@ Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu d
 
 #### Hlasování pomocí podílu mincí k určení rozdělení odměn
 
-Steem pracuje se základním pravidlem jeden STEEM, jeden hlas. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem pracuje se základním pravidlem jeden STEEM, jeden hlas. Díky tomuto nastavení mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Podíl mincí si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým podílem mincí má úplně stejný vliv jako dva účty se stejným součtem podílů mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj podíl mincí.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Kromě toho Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

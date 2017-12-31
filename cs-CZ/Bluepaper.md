@@ -88,7 +88,7 @@ Steem jako první svého druhu využívá hierarchický systém privátních kl�
 
 Tyto soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč umožňuje skrze určitý účet publikovat články a komentáře, hlasovat, resteemovat texty[^15] a přidat ostatní účty mezi sledované nebo je ignorovat. Aktivní klíč je určen pro citlivější operace, jako je převod prostředků, ukládání nebo vybírání Steem Power, směna SBD, volba svědků, obchodování ve směnárně a změna Publikačního klíče. Vlastnický klíč je určen jen pro nutné případy. Je to ten nejsilnější klíč, neboť může změnit jakýkoli jiný klíč k účtu včetně Vlastnického klíče. Může také prokázat vlastnictví účtu v procesu obnovy účtu. Nejlépe by měl být uchováván offline a měl by být využit jen tehdy, když musí být změněny ostatní klíče, nebo když má být obnoven odcizený účet.
 
-Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Hlavní heslo mohou uživatelé svěřit vybraným službám, aby nedocházelo k nevhodným přenosům klíčů napříč servery. To zlepšuje uživatelské prostředí a zachovává bezpečnost při správě klientských podpisů.
+Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Hlavní heslo mohou uživatelé svěřit vybraným službám, aby nedocházelo k nevhodným přenosům klíčů napříč servery. To zkvalitňuje uživatelské prostředí a zachovává bezpečnost při správě klientských podpisů.
 
 ### Vícenásobné podpisy
 
@@ -96,7 +96,7 @@ Steem blockchain umožňuje, aby autorizace byla rozdělena mezi více subjektů
 
 ### Více příjemců odměny
 
-Ke každému publikovanému příspěvku může existovat více různých lidí, kteří mají nárok na finanční odměnu. Mezi ně patří autor, případní spoluautoři, lidé na článek odkazující, poskytovatelé hostingu, blogy s komentáři vloženými do blockchainu a vývojáři. Bez ohledu na to, jakou stránku a nástroj využijete ke tvorbě textu nebo komentáře, budete mít možnost nastavit, jakým způsobem bude odměna rozdělena mezi různé subjekty. To umožňuje různé formy spolupráce a nabízí platformám vystavěným na Steem blockchainu možnost sbírat část odměny od svých uživatelů.
+Ke každému publikovanému příspěvku může existovat více různých lidí, kteří mají zájem o finanční odměnu. Mezi ně patří autor, případní spoluautoři, lidé na článek odkazující, poskytovatelé hostingu, blogy s komentáři vloženými do blockchainu a vývojáři. Bez ohledu na to, jakou stránku a nástroj využijete ke tvorbě textu nebo komentáře, budete mít možnost nastavit, jakým způsobem bude odměna rozdělena mezi různé subjekty. To umožňuje různé formy spolupráce a nabízí platformám vystavěným na Steem blockchainu možnost sbírat část odměny od svých uživatelů.
 
 ### Smart Media Token (SMT)
 
@@ -104,7 +104,7 @@ Smart Media Token je měna, která může být vytvořena na Steem blockchainu. 
 
 ### Obnovení ukradeného účtu
 
-Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s využitím Vlastnického klíče. V případě, že útočník je schopen získat také Vlastnický klíč a změnit heslo k účtu, má uživatel 30 dní na zaslání původně platného Vlastnického klíče skrze proces obnovení ukradených účtů, který Steem nabízí jako jediný v této branži, a obnovení kontroly kontroly nad svým účtem. Tento postup může navrhnout osoba nebo společnost, která registraci na Steem poskytuje. Pro registrátora není povinností tuto službu uživatelům nabídnout, ale je pro jeho uživatele dostupná jako přidaná hodnota.
+Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s využitím Vlastnického klíče. V případě, že je útočník schopen získat také Vlastnický klíč a změnit heslo k účtu, má uživatel 30 dní na zaslání původně platného Vlastnického klíče skrze proces obnovení ukradených účtů, který Steem nabízí jako jediný v této branži, a obnovení kontroly kontroly nad svým účtem. Tento postup může navrhnout osoba nebo společnost, která registraci na Steem poskytuje. Pro registrátora není povinností tuto službu uživatelům nabídnout, ale pro jeho uživatele je dostupná jako přidaná hodnota.
 
 ### Zabezpečení pomocí časových zámků
 
@@ -122,7 +122,7 @@ Datová omezení se přizpůsobují v závislosti na využívání sítě, takž
 
 ## Závěr
 
-Unikátní motivační program a systém odměn, které nabízí Steem blockchain a STEEM mince, jsou koncipovány tak, aby ze Steemu vytvořily dokonalý odrazový můstek pro běžné uživatele do světa kryptoměn. Výkonnost blockchainu je navržena s ohledem na masové přijetí měny i platformy. V kombinaci s bleskově rychlými a transakcemi bez poplatků směřuje Steem k tomu, aby se stal jednou z předních blockchain technologií, kterou využívají lidé z celého světa.
+Unikátní motivační program a systém odměn, které nabízí Steem blockchain a STEEM mince, jsou koncipovány tak, aby ze Steemu vytvořily dokonalý odrazový můstek pro běžné uživatele do světa kryptoměn. Výkonnost blockchainu je navržena s ohledem na masové přijetí měny i platformy. V kombinaci s bleskově rychlými procesy a transakcemi bez poplatků směřuje Steem k tomu, aby se stal jednou z předních blockchain technologií, kterou využívají lidé z celého světa.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

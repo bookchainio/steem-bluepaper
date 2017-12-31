@@ -48,7 +48,7 @@ Při definování pravidel případných hard forků platí, že se svědci zvol
 
 ### ChainBase
 
-ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphene [^10]. ChainBase rychleji načítá i ukončuje procesy, podporuje paralelní přístup do databáze a v porovnání se svým předchůdcem je odolnější vůči pádům systému. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphene [^10]. ChainBase rychleji načítá i ukončuje procesy, podporuje paralelní přístup do databáze a v porovnání se svým předchůdcem je odolnější vůči pádům systému. Je také méně náchylná k poškození databáze, umožňuje okamžitý "snapshotting" celého stavu databáze a svede se stejnou pamětí obsluhovat více RPC žádostí.
 
 ### AppBase
 

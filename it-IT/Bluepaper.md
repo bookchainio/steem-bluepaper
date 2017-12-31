@@ -110,15 +110,15 @@ Se l'account di un utente è compromesso, è possibile cambiare le proprie chiav
 
 Se la chiave Active o Owner di un utente è compromessa, il malintenzionato potrebbe avere accesso totale a tutti i fondi dell'account. Dato che le transazioni sulla blockchain sono irreversibili, l'utente non avrà modo di riavere i propri fondi indietro una volta rubati.
 
-La blockchain di Steem permette ai propri utenti di salvare i propri token STEEM e SBD in un account di risparmio, in modo tale che i fondi non possano essere prelevati fino al termine di un periodo di tempo di tre giorni. In più, gli STEEM che sono posseduti durante il periodo di vestizione di 13 settimane possono solamente essere prelevati con un tasso di 1/13 per settimana, dopo un periodo iniziale di pausa di sette giorni. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+La blockchain di Steem permette ai propri utenti di salvare i propri token STEEM e SBD in un account di risparmio, in modo tale che i fondi non possano essere prelevati fino al termine di un periodo di tempo di tre giorni. In più, gli STEEM che sono posseduti durante il periodo di vestizione di 13 settimane possono solamente essere prelevati con un tasso di 1/13 per settimana, dopo un periodo iniziale di pausa di sette giorni. Questo periodo di blocco previene un malintenzionato dall'essere in grado di avere accesso alla totale porzione dei fondi dell'utente in modo immediato, ed in modo tale che il legittimo proprietario possa riottenere il controllo sul proprio account prima che tutti i suoi fondi possano essere prelevati.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Limite di Banda per le Operazioni Free-less
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Dato che i testimoni sono pagati interamente dalla generazione di nuovi token, non c'è necessità di caricare gli utenti di una fee per attivare la blockchain. L'unica ragione per caricare di una fee potrebbe essere quella di creare un deterrente in modo da prevenire uno spropositato numero di transazioni da parte degli utenti che possa potenzialmente impattare le performance della blockchain stessa.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+In modo da impostare un ragionevole limite all'utilizzo del sistema, ad ogni utente viene settato un limite di banda. Ogni volta che un utente attua delle operazioni sulla blockchain come un trasferimento di token, il post di un contenuto e una votazione, questo usa solo una porzione della banda disponibile. Se un utente supera la banda disponibile, è necessario aspettare per effettuare ulteriori azioni che la banda si ricarichi.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+I limiti di banda si aggiustano in base all'utilizzo del network, così gli utenti hanno un più alto accesso alla banda quando l'utilizzo del network è basso. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
 ## Conclusion
 

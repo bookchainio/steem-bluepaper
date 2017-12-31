@@ -76,11 +76,11 @@ Mince SBD jsou vytvořeny tak, aby byly úzce spjaty s jedním americkým dolare
 
 ### Decentralizovaná směnárna
 
-Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peert-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peert-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. Je zde také veřejně přístupná kniha příkazů a historie příkazů, pomocí kterých mohou uživatelé trh analyzovat. Uživatelé mohou komunikovat s exchange přímo blockchainy rozhraní API nebo pomocí GUI např. ten na Steemit.com. [^14]
 
-### Payments Through Escrow
+### Platby prostřednictvím třetí strany
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Nezvratnost blockchain transakcí je důležitým bezpečnostním prvkem. V mnoha případech však nemusí být uživateli příjemné poslat své mince jinému uživateli, aniž by měl možnost získat je zpět v případě, že druhá strana nedodrží svůj díl dohody. Steem blockchain nabízí uživatelům možnost poslat platbu jinému uživateli prostřednictvím třetí strany, takzvaný escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

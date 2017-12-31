@@ -28,21 +28,21 @@ Ze zásoby nových mincí, které na blockchainu Steemu každoročně vzniknou, 
 
 Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu do systému hodnotu. Tento obsah na platformu přivede nové uživatele, a zároveň udržuje stávající uživatele aktivní a bavící se. To pomáhá rozšiřovat měnu mezi větší okruh uživatelů a zvyšuje efektivitu celého systému. Uživatelé, kteří věnují čas ohodnocení obsahu a hlasování o něm, hrají důležitou roli při rozdělování mincí mezi uživatele, kteří přidávají největší hodnotu. Blockchain odměňuje obě tyto činnosti poměrně k jejich hodnotě na základě kolektivního úsudku lidí, který je stanoven pomocí volebního systému s váženými hlasy.
 
-#### Hlasování pomocí podílu mincí pro určení rozdělení odměn
+#### Hlasování pomocí počtu mincí pro určení rozdělení odměn
 
-Steem pracuje se základním pravidlem jeden STEEM = jeden hlas. Díky tomuto pravidlu mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Podíl mincí si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým podílem mincí má úplně stejný vliv jako dva účty se stejným součtem podílů mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj podíl mincí.
+Steem pracuje se základním pravidlem jeden STEEM = jeden hlas. Díky tomuto pravidlu mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Mince si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým počtem mincí má úplně stejný vliv jako dva účty se stejným součtem počtu mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj počet mincí.
 
-Kromě toho Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Díky tomuto opatření jsou členové finančně motivování hlasovat způsobem, který z dlouhodobého hlediska maximalizuje hodnotu jejich STEEMu.
+Nadto Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Díky tomuto opatření jsou členové finančně motivování hlasovat způsobem, který z dlouhodobého hlediska maximalizuje hodnotu jejich STEEMu.
 
 ## Rychlost a škálování Steem blockchainu
 
-Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefektivnějších existujících blockchainů, což je nezbytné k tomu, aby mohl být páteří sociální sítě, jejíž předpokládaná velikost předčí Reddit. Steem již v počtu transakcí předstihl Bitcoin a je schopen realizovat i více než 10 000 transakcí za vteřinu.
+Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefektivnějších existujících blockchainů, což je nezbytné k tomu, aby mohl být páteří sociální platformy, jejíž předpokládaná velikost předčí Reddit. Steem již v počtu transakcí předstihl Bitcoin a je schopen realizovat i více než 10 000 transakcí za vteřinu.
 
 ### Delegated Proof of Stake (DPoS - Delegovaný důkaz podílem)
 
-Častým úskalím Proof-of-Work (PoW, Důkaz prací)[^6] je, že mnoho blockchainů nelze škálovat na více než tři transakce za vteřinu, což je jen zlomek světových finančních operací. Steem potřeboval mnohem větší škálovatelnost a rychlost, než může poskytnout PoW, a proto byl jako vhodná hybná síla pro blockchain navržený pro miliardy uživatelů vybrán méně známy algoritmus nazývaný Delegated Proof of Stake (DPoS, Delegovaný důkaz podílem)[^7].
+Častým úskalím mnoha Proof-of-Work (PoW, Důkaz prací)[^6] blockchainů je, že je nelze škálovat na více než tři transakce za vteřinu, což je jen zlomek světových finančních operací. Steem potřeboval mnohem větší škálovatelnost a rychlost, než může poskytnout PoW, a proto byl jako vhodná hybná síla pro blockchain navržený pro miliardy uživatelů vybrán méně známy algoritmus nazývaný Delegated Proof of Stake (DPoS, Delegovaný důkaz podílem)[^7].
 
-Díky DPoS je Steem blockchain schopen vygenerovat s minimálními nároky na výpočetní výkon každé tři vteřiny nový blok. To znamená, že blockhain je schopen provést více transakcí a uchovávat více informací včetně obsahu.
+Díky DPoS je Steem blockchain schopen vygenerovat s minimálními nároky na výpočetní výkon každé tři vteřiny nový blok. To znamená, že blockchain je schopen provést více transakcí a uchovávat více informací včetně obsahu.
 
 Při definování pravidel případných hard forků platí, že se svědci zvolení v rámci DPoS pravidel mohou rychle a efektivně rozhodnout, zda se k plánovanému hard forku připojí nebo nikoli. To umožňuje blochainu Steemu vyvíjet protokol rychleji než většině ostatních blockchainů. Steem blockchain již úspěšně podstoupil 18 forků [^8], a kdykoli došlo na hard fork, vždy byl zachován jen jeden řetězec.
 

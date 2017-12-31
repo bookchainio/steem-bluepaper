@@ -92,7 +92,7 @@ Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři 
 
 ### Multi Sig Authorities
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain umožňuje, aby pravomoc byla rozdělena mezi více subjektů tak, aby více uživatelů sdílelo stejnou pravomoc, nebo aby k ověření platnosti transakce byla třeba autorizace od více jednotlivců. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

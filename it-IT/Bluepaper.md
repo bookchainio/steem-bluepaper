@@ -58,9 +58,9 @@ Praticamente, AppBase abilita dei core differenti, o addirittura computer differ
 
 ## Funzionalità della piattaforma Steem
 
-La blokchain di Steem serve un duplice scopo e cioè di essere, da un lato, un sistema di processo per token digitali, dall'altro, una piattaforma social media mainstream. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+La blokchain di Steem serve un duplice scopo e cioè di essere, da un lato, un sistema di processo per token digitali, dall'altro, una piattaforma social media mainstream. Le funzionalità offerte dalla blockchain devono sostenere entrambi gli scopi, ed offrire agli utenti un'esperienza di classe mondiale durante l'utilizzo di entrambi gli aspetti della piattaforma.
 
-### Primitives Designed for Content Applications
+### Primitivi Disegnati per Applicazioni di Contenuto
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

@@ -22,9 +22,9 @@ Differentemente rispetto alle cryptovlaute che usano solo la PoW, in Steem i tok
 
 La percentuale di generazione di nuovi token è stata impostata al 9.5% per anno partendo dal Dicembre 2016, percentuale che diminuirà dello 0.01% ogni 250,000 blocchi, o circa dello 0.5% annuo. L'inflazione continuerà a diminuire a questo tasso fino a che raggiunga lo 0.95%, dopo un periodo stimato di circa 20.5 anni.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Del totale dei nuovi token creati ogni anno dalla blockchain di Steem, il 75% dei token compongono il "bacino delle ricompense" che saranno distribuiti ai creatori e gli editori di contenuti. Il 15% dei token sarà distribuito ai detentori di token acquistati e il 10% sarà distribuito ai testimoni e ai creatori dei blocchi che collaborano all'interno del protocollo di consenso del DPos di Steem.
 
-#### Rewards for Content Creators and Curators
+#### Ricompense per i Creatori e gli Editori di Contenuti
 
 The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 

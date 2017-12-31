@@ -98,9 +98,9 @@ Steem blockchain umožňuje, aby autorizace byla rozdělena mezi více subjektů
 
 Ke každému publikovanému příspěvku může existovat více různých lidí, kteří mají nárok na finanční odměnu. Mezi ně patří autor, případní spoluautoři, lidé na článek odkazující, poskytovatelé hostingu, blogy s komentáři vloženými do blockchainu a vývojáři. Bez ohledu na to, jakou stránku a nástroj využijete ke tvorbě textu nebo komentáře, budete mít možnost nastavit, jakým způsobem bude odměna rozdělena mezi různé subjekty. To umožňuje různé formy spolupráce a nabízí platformám vystavěným na Steem blockchainu možnost sbírat část odměny od svých uživatelů.
 
-### Smart Media Tokens (SMT)
+### Smart Media Token (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Token je měna, která může být vytvořena na Steem blockchainu. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Obnovení ukradeného účtu
 

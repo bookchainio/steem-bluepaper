@@ -62,15 +62,15 @@ La blokchain di Steem serve un duplice scopo e cioè di essere, da un lato, un s
 
 ### Primitivi Disegnati per Applicazioni di Contenuto
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem offre la capacità unica di pubblicare ed archiviare differenti tipi di contenuto direttamente e permanentemente all'interno dell'immutabile libro contabile della blockchain come semplice testo. Una volta archiviati all'interno della blockchain, i dati diventano disponibili pubblicamente per gli sviluppatori per crearne qualcosa. Gli sviluppatori sono in grado di interagire con il contenuto direttamente sulla blockchain usando le API a disposizione. Molti degli sviluppatori di primitivi possono creare includendo i Nomi di Account, i Post, i Commenti, i Voti e il Saldo del proprio Account.
 
-### Native Name System
+### Sistema di Nomi Nativo
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Gli indirizzi dei portafogli utilizzati da molte tecnologie blockchain, come il Bitcoin e l'Ethereum, sono stati storicamente costituiti da stringhe di lettere e numeri casuali, tuttavia, questi indirizzi possono rendere difficile creare transazioni all'interno di un tipico contesto online-social-media perché gli utenti non sono solitamente in grado di ricordare a memoria indirizzi basati su lunghe stringhe. La blockchain di Steem usa l'username di ogni partecipante come indirizzo per il proprio portafoglio, il che rafforza l'esperienza utente dei partecipanti che tentano di invare token cercando di ricordare gli indirizzi a memoria.
 
-### Steem Blockchain Dollars (SBD)
+### I Dollari della Blockchain di Steem (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Molti utenti appena introdotti alle criptovalute hanno difficoltà a comprendere come i "magici token di internet" ottenuti tramite la piattaforma possano avere un concreto valore nel mondo reale. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 

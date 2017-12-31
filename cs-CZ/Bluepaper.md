@@ -110,11 +110,11 @@ Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s vyu
 
 Je-li uživateli zcizen Aktivní nebo Vlastnický klíč, útočník získá plný přístup ke všem prostředkům jeho účtu. Transakce v blockchainu jsou nevratné, a proto nemá uživatel žádnou možnost získat své prostředky zpět po tom, co byly ukradeny.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účty, ze kterých nemohou být prostředky vybrány dříve než po tři a půl dne dlouhé čekací lhůtě. Kromě toho je STEEM investovaný do Steem Power vázán na 13 týdnů trvající cyklus a může být vybírán jen po 1/13 týdně od uplynutí prvních 7 dní. Tyto časové zámky brání útočníkovi získat okamžitou kontrolu nad všemi prostředky uživatele a dávají právoplatnému majiteli šanci získat zpět kontrolu nad účtem ještě před tím, než mohou být všechny prostředky vybrány.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

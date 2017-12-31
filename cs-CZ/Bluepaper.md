@@ -110,7 +110,7 @@ Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s vyu
 
 Je-li uživateli zcizen Aktivní nebo Vlastnický klíč, útočník získá plný přístup ke všem prostředkům jeho účtu. Transakce v blockchainu jsou nevratné, a proto nemá uživatel žádnou možnost získat své prostředky zpět po tom, co byly ukradeny.
 
-Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účty, ze kterých nemohou být prostředky vybrány dříve než po tři a půl dne dlouhé čekací lhůtě. Kromě toho je STEEM investovaný do Steem Power vázán na 13 týdnů trvající cyklus a může být vybírán jen po 1/13 týdně od uplynutí prvních 7 dní. Tyto časové zámky brání útočníkovi získat okamžitou kontrolu nad všemi prostředky uživatele a dávají právoplatnému majiteli šanci získat zpět kontrolu nad účtem ještě před tím, než mohou být všechny prostředky vybrány.
+Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účty, ze kterých nemohou být prostředky vybrány dříve než po tři a půl dne dlouhé čekací lhůtě. Kromě toho je STEEM investovaný jako Steem Power vázán na 13 týdnů trvající cyklus a může být vybírán jen po 1/13 týdně od uplynutí prvních 7 dní. Tyto časové zámky brání útočníkovi získat okamžitou kontrolu nad všemi prostředky uživatele a dávají právoplatnému majiteli šanci získat zpět kontrolu nad účtem ještě před tím, než mohou být všechny prostředky vybrány.
 
 ### Omezení datového toku pro bezplatné operace
 

@@ -44,7 +44,7 @@ Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefekti
 
 Díky DPoS je Steem blockchain schopen vygenerovat s minimálními nároky na výpočetní výkon každé tři vteřiny nový blok. To znamená, že blockchain je schopen provést více transakcí a uchovávat více informací včetně obsahu.
 
-Při definování pravidel případných hard forků platí, že se svědci zvolení v rámci DPoS pravidel mohou rychle a efektivně rozhodnout, zda se k plánovanému hard forku připojí nebo nikoli. To umožňuje blochainu Steemu vyvíjet protokol rychleji než většině ostatních blockchainů. Steem blockchain již úspěšně podstoupil 18 forků [^8], a kdykoli došlo na hard fork, vždy byl zachován jen jeden řetězec.
+Pro případné hard forky platí pravidlo, že se svědci zvolení v rámci pravidel DPoS mohou rychle a efektivně rozhodnout, zda se k plánovanému hard forku připojí nebo nikoli. To umožňuje blockchainu Steemu vyvíjet protokol rychleji než většině ostatních blockchainů. Steem blockchain již úspěšně podstoupil 18 forků [^8], a kdykoli došlo na hard fork, vždy byl zachován jen jeden řetězec.
 
 ### ChainBase
 

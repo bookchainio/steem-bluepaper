@@ -16,13 +16,13 @@ Měnový systém, který odměňuje uživatele přispívající do komunity zalo
 
 ### Rewards Pool - Fond odměn ("Odkud se ty peníze berou?")
 
-Jedním z nejvíce inovativních (a nejčastěji nepochopených) aspektů Steem blockchainu je "Fond odměn", z něhož je měna tvůrcům hodnotného obsahu rozdělována. Aby bylo možné pochopit, co je Fond odměn, nejprve je nutné uvědomit si, že mince vznikají v DPoS blockchainech jinak než je tomu v PoW blockchainech. V tradičních PoW blockchainech jsou mince pravidelně, ale náhodně rozdělovány mezi ty, jejichž přístroje vykonávají práci (tedy mezi "těžaře").
+Jedním z nejvíce inovativních (a nejčastěji nepochopených) aspektů Steem blockchainu je "Fond odměn", z něhož jsou mince tvůrcům hodnotného obsahu rozdělovány. Aby bylo možné pochopit, co je Fond odměn, nejprve je nutné uvědomit si, že mince vznikají v DPoS blockchainech jinak než je tomu v PoW blockchainech. V tradičních PoW blockchainech jsou mince produkovány pravidelně, ale pak jsou náhodně rozdělovány mezi ty, jejichž přístroje vykonávají práci (tedy mezi "těžaře").
 
-Na rozdíl od čistě PoW kryptoměn jsou mince Steemu generovány v předem stanoveném množství v každém bloku každé tři vteřiny. Tyto mince jsou rozděleny mezi různé účastníky systému podle podmínek stanovených v blockchainu. Tito účastníci, jako jsou tvůrci obsahu, svědci a kurátoři, svádí o mince konkurenční boj ve specializovaných oblastech. V protikladu k tradičním způsobům PoW distribuce, kde si těžaři konkurují pouhým výpočetním výkonem, jsou u Steemu účastníci pobízeni konkurovat ostatním způsoby, které do systému přidávají hodnotu.
+Na rozdíl od čistě PoW kryptoměn jsou mince ve Steemu generovány v předem stanoveném množství v každém bloku každé tři vteřiny. Tyto mince jsou rozděleny mezi různé účastníky systému podle podmínek stanovených v blockchainu. Tito účastníci, jako jsou tvůrci obsahu, svědci a kurátoři, svádí o mince konkurenční boj ve specializovaných oblastech. V protikladu k tradičním způsobům PoW distribuce, kde si těžaři konkurují pouhým výpočetním výkonem, jsou u Steemu účastníci pobízeni konkurovat ostatním způsoby, které do systému přidávají hodnotu.
 
-Rychlost generování nových mincí byla nastavena na 9,5 % ročně počínaje prosincem 2016 a snižuje se o 0,01 % každých 250 000 bloků, tedy asi o 0,5 % ročně. Inflace se budou touto rychlostí snižovat, až zhruba po 20,5 letech dosáhne úrovně 0,95 %.
+Míra generování nových mincí byla nastavena na 9,5 % ročně počínaje prosincem 2016 a snižuje se o 0,01 % každých 250 000 bloků, tedy asi o 0,5 % ročně. Inflace se bude tímto tempem snižovat, až zhruba po 20,5 letech dosáhne úrovně 0,95 %.
 
-Ze zásoby nových mincí, které na blokchainu Steemu každoročně vzniknou, je 75 % určeno pro Fond odměn, odkud jsou mince rozdělovány mezi tvůrce obsahu a kurátory. 15 % mincí je rozděleno mezi majitele investovaných mincí a 10 % je rozděleno mezi svědky, kteří společně na základě obecného souhlasu produkují bloky v rámci DPoS Steemu.
+Ze zásoby nových mincí, které na blockchainu Steemu každoročně vzniknou, je 75 % určeno pro Fond odměn, odkud jsou mince rozdělovány mezi tvůrce obsahu a kurátory. 15 % mincí je rozděleno mezi majitele investovaných mincí a 10 % je rozděleno mezi svědky, kteří společně na základě obecného souhlasu produkují bloky v rámci DPoS protokolu Steemu.
 
 #### Odměny pro tvůrce obsahu a kurátory
 

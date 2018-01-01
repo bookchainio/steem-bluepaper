@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Introduction
+## تعارف
 
 سٹیم ایک بہت کشادہ بلاک چین پروٹوکول مہیا کرتی ہے [^1] اور اس کے اندر نہ ختم ہونے والا مواد ہوتا ہے جس تک ہر کوہی با آسانی رساھی حاصل کر سکتا ہے اور اس کے ساتھ ساتھ اس میں ایک تیز اور بغیر کسی فیس والا ڈیجیٹل ٹوکن بھی ہے جسے سٹیم کہا جاتا ہے [^2] اور یہ لوگوں کو دماغ استمال کر کے زر مبادلہ کمانے کا موقعح مہیا کرتا ہے ( جسے دماغ کا ثبوت کہا جاتا ہے). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 

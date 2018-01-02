@@ -40,9 +40,9 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 ### 위임된 지분 증명(DPoS)
 
-작업 증명(PoW)[^6]에서 발생하는 잦은 병목현상으로 인해 대부분의 블록체인은 초당 트랜잭션을 3회 이상으로 확장할 수 없습니다. 전세계 금융 트래픽에서는 3회 이상의 트랜잭션 처리가 가능합니다. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+작업 증명(PoW)[^6]에서 발생하는 잦은 병목현상으로 인해 대부분의 블록체인은 초당 트랜잭션을 3회 이상으로 확장할 수 없습니다. 전세계 금융 트래픽에서는 3회 이상의 트랜잭션 처리가 가능합니다. 스팀은 PoW가 제공했던 것보다 훨씬 확장성이 좋고 빠르길 원했고 수십 억 사용자에게 적합한 기반을 구축하기 위해 그다지 유명하지 않은 위임된 지분 증명(DPoS)[^7] 이라는 알고리즘을 사용했습니다.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+스팀 블록체인은 DPoS 덕분에 최소한의 계산 부하 환경(minimal computation load) 에서 3초당 새로운 블록 1개를 만들 수 있습니다. 이는 블록체인이 좀 더 많은 트랜잭션을 처리할 수 있고 콘텐츠를 포함한 보다 많은 정보를 유지할 수 있다는 것을 의미합니다.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

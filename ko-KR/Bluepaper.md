@@ -42,13 +42,13 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 작업 증명(PoW)[^6]에서 발생하는 잦은 병목현상으로 인해 대부분의 블록체인은 초당 트랜잭션을 3회 이상으로 확장할 수 없습니다. 전세계 금융 트래픽에서는 3회 이상의 트랜잭션 처리가 가능합니다. 스팀은 PoW가 제공했던 것보다 훨씬 확장성이 좋고 빠르길 원했고 수십 억 사용자에게 적합한 기반을 구축하기 위해 비교적 덜 알려진 위임된 지분 증명(DPoS)[^7] 이라는 알고리즘을 사용했습니다.
 
-스팀 블록체인은 DPoS 덕분에 최소한의 계산 부하 환경(minimal computation load) 에서 3초당 새로운 블록 1개를 만들 수 있습니다. 이는 블록체인이 좀 더 많은 트랜잭션을 처리할 수 있고 콘텐츠를 포함한 보다 많은 정보를 유지할 수 있다는 것을 의미합니다.
+스팀 블록체인은 DPoS 덕분에 최소한의 계산 부하 환경(minimal computation load) 에서 3초당 새로운 블록 1개를 만들 수 있습니다. 이는 블록체인이 좀 더 많은 트랜잭션을 처리할 수 있고 콘텐츠를 포함해 보다 많은 정보를 가질 수 있다는 것을 의미합니다.
 
 하드포코가 발생했을 때 정의된 규칙에 따르면, DPoS 프레임워크 내에서 증인(선출된) 은 제안된 하드포크에 대한 진행여부를 신속하고 효율적으로 결정할 수 있습니다. 이러한 방식은 스팀 블록체인 프로토콜이 다른 블록체인보다 빠르게 발전하게 된 이유이기도 합니다. 스팀 블록체인은 이미 18번의 포크[^8]를 성공적으로 마쳤으며, 하드포크가 발생할 때마다 포크 이후에 오직 1개의 체인만 유지하고 있습니다.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 부분이며 Graphene[^10]은 2016년에 ChainBase 로 대체되었습니다. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

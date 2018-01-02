@@ -28,17 +28,17 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 콘텐츠를 제작하는 사용자는 콘텐츠 제공을 통해 네트워크의 가치를 상승시키고 있습니다. 이렇게 만들어진 콘텐츠들은 기존 사용자들에게 즐거움을 선사하고, 이들이 지속적으로 플랫폼을 이용하게 만들며, 새로운 사용자를 플랫폼으로 유입시키는 역할을 합니다. 이로 인해 화폐는 보다 폭넓은 사용자들에게 분배되고, 네트워크 효과는 상승합니다. 콘텐츠를 충분히 평가한 후 투표하는 사용자들은 가장 가치있는 콘텐츠를 작성한 사용자에게 화폐가 분배될 수 있는 환경을 구축하는데 중요한 역할을 담당하고 있습니다. 콘텐츠 제작과 투표 활동에 대해 블록체인은 지분 가중치(stake-weighted) 투표 시스템을 통해 모아진 집단 지성(collective wisdom of the crowd) 에 기반한 가치에 따라 보상합니다.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### 스팀 파워 기반의 투표가 보상의 양을 결정한다.
 
-스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작합니다. 이 모델에서는, 플랫폼에 가장 공헌을 많이한 개인이 누구인지는 그들의 계정 잔고로 측정되며, 공헌실적이 높을수록 가장 큰 영향력을 갖습니다. 지분(Stake) 은 살 수도 있고 벌 수도 있습니다. 사용자는 여러 개의 계정을 소유하는 방법을 이용해 추가적인 영향력을 발휘할 수 없습니다. 하나의 계정에 있는 지분의 양과 같은 지분을 공유한 두 개의 다른 계정사이의 영향력은 같을 것입니다. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐입니다.
+스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작합니다. 이 모델에서는, 플랫폼에 가장 공헌을 많이한 개인이 누구인지는 그들의 계정 잔고로 측정되며, 공헌실적이 높을수록 큰 영향력을 갖습니다. 지분(Stake) 은 살 수도 있고 벌 수도 있습니다. 사용자는 여러 개의 계정을 소유하는 방법을 이용해 추가적인 영향력을 발휘할 수 없습니다. 하나의 계정에 있는 지분의 양과 같은 지분을 공유한 두 개의 다른 계정사이의 영향력은 같을 것입니다. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐입니다.
 
 뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능합니다. STEEM에 대해 13 주간의 vesting 일정을 마치면 스팀 파워를 얻을 수 있습니다. 이러한 모델 구조에서 커뮤니티 멤버들에게는 장기적으로 STEEM의 가치를 최대화 할 수 있는 방향으로 투표하게끔 하는 금전적인 인센티브가 존재합니다.
 
 ## 스팀 블록체인의 속도와 확장
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+스팀 블록체인은 현존하는 블록체인 중 가장 빠르고 효율적인 형태로 설계되었고, Reddit 의 트래픽 양보다 훨씬 더 많은 소셜 미디어 플랫폼 트래픽을 감당하기 위해서 이러한 설계는 필수적입니다. 스팀은 트랜잭션 수에서 이미 비트코인을 능가했으며, 초당 1만개 이상의 트랜잭션을 지원하도록 확장할 수 있습니다.
 
-### Delegated Proof of Stake (DPoS)
+### 위임된 지분 증명(DPoS)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

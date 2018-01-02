@@ -30,11 +30,11 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 
-스팀은 STEEM 1 개, 투표 한 번을 기준으로 동작한다. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐이다.
+스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작한다. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐이다.
 
-뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능하다. STEEM에 대해 13 주간의 vesting 일정을 마치면 스팀 파워를 얻을 수 있다. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능하다. STEEM에 대해 13 주간의 vesting 일정을 마치면 스팀 파워를 얻을 수 있다. 이러한 모델 구조에서 커뮤니티 멤버들에게는 장기적으로 STEEM의 가치를 최대화 할 수 있는 방향으로 투표하게끔 하는 금전적인 인센티브가 존재한다.
 
-## Speed and Scale on the Steem Blockchain
+## 스팀 블록체인의 속도와 확장
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

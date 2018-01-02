@@ -30,9 +30,9 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 
-스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작한다. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐이다.
+스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작합니다. 이 모델에서는, 플랫폼에 가장 공헌을 많이한 개인이 누구인지는 그들의 계정 잔고로 측정되며, 공헌실적이 높을수록 가장 큰 영향력을 갖습니다. 지분(Stake) 은 살 수도 있고 벌 수도 있습니다. 사용자는 여러 개의 계정을 소유하는 방법을 이용해 추가적인 영향력을 발휘할 수 없습니다. 하나의 계정에 있는 지분의 양과 같은 지분을 공유한 두 개의 다른 계정사이의 영향력은 같을 것입니다. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐입니다.
 
-뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능하다. STEEM에 대해 13 주간의 vesting 일정을 마치면 스팀 파워를 얻을 수 있다. 이러한 모델 구조에서 커뮤니티 멤버들에게는 장기적으로 STEEM의 가치를 최대화 할 수 있는 방향으로 투표하게끔 하는 금전적인 인센티브가 존재한다.
+뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능합니다. STEEM에 대해 13 주간의 vesting 일정을 마치면 스팀 파워를 얻을 수 있습니다. 이러한 모델 구조에서 커뮤니티 멤버들에게는 장기적으로 STEEM의 가치를 최대화 할 수 있는 방향으로 투표하게끔 하는 금전적인 인센티브가 존재합니다.
 
 ## 스팀 블록체인의 속도와 확장
 

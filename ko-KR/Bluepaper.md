@@ -40,7 +40,7 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 ### 위임된 지분 증명(DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+작업 증명(PoW)[^6]에서 발생하는 잦은 병목현상으로 인해 대부분의 블록체인은 초당 트랜잭션을 3회 이상으로 확장할 수 없습니다. 전세계 금융 트래픽에서는 3회 이상의 트랜잭션 처리가 가능합니다. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

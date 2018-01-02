@@ -48,7 +48,7 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 ### ChainBase
 
-ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 부분이며 Graphene[^10]은 2016년에 ChainBase 로 대체되었습니다. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 부분이며 Graphene[^10]은 2016년에 ChainBase 로 대체되었습니다. ChainBase 은 로드 및 종료 시간이 빠르고, 데이터베이스에 대한 병렬 접근을 지원하며 이전 버전이 Graphene에 비해 크래시 처리가 강화되었습니다. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

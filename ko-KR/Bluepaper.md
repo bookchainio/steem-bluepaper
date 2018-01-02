@@ -44,7 +44,7 @@ PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3�
 
 스팀 블록체인은 DPoS 덕분에 최소한의 계산 부하 환경(minimal computation load) 에서 3초당 새로운 블록 1개를 만들 수 있습니다. 이는 블록체인이 좀 더 많은 트랜잭션을 처리할 수 있고 콘텐츠를 포함한 보다 많은 정보를 유지할 수 있다는 것을 의미합니다.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+하드포코가 발생했을 때 정의된 규칙에 따르면, DPoS 프레임워크 내에서 증인(선출된) 은 제안된 하드포크에 대한 진행여부를 신속하고 효율적으로 결정할 수 있습니다. 이러한 방식은 스팀 블록체인 프로토콜이 다른 블록체인보다 빠르게 발전하게 된 이유이기도 합니다. 스팀 블록체인은 이미 18번의 포크[^8]를 성공적으로 마쳤으며, 하드포크가 발생할 때마다 포크 이후에 오직 1개의 체인만 유지하고 있습니다.
 
 ### ChainBase
 

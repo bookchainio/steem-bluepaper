@@ -126,15 +126,15 @@ Il programma unico di ricompense ed incentivi offerto dalla blockchain e dai tok
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Per differenziarlo dal termine inteso per la sua blockchain, il corretto spelling per il token digitale nativo di Steem è STEEM.
 
-[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Volume delle Transazioni: Report delle Transazioni Per Secondo. Utente e Testimone di Steem “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
 [^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Inizializzazione Processo di Recupero per Account Rubati per Utenti Steemit.com: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+[^6]: Problema di Scalabilità del Bitcoin https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
 [^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
@@ -144,7 +144,7 @@ Il programma unico di ricompense ed incentivi offerto dalla blockchain e dai tok
 
 [^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: Il componente della blockchain di Steem responsabile per il processo delle transazioni e la distribuzione delle ricompense
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
@@ -152,7 +152,7 @@ Il programma unico di ricompense ed incentivi offerto dalla blockchain e dai tok
 
 [^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem" è il termine utilizzato all'interno della blockchain di steem per quando un utente condivide un contenuto con i propri followers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 

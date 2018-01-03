@@ -2,53 +2,53 @@
 
 ## 소 개
 
-스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 빠르고 수수료가 없는 디지털 토큰(STEEM)[^1] 기반의 확장 가능한 블록체인 프로토콜[^2]을 제공한다. 사람들은 글쓰기나 큐레이팅 등의 창작 활동을 통해 화폐를 벌 수 있으며, 이를 "지능 증명" (Proof-of-Brain) 이라고 부른다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존하고 있기 때문에 서로 꼭 필요한 존재다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 능가하고 있다.[^3]
+스팀(Steem) 은 공개적으로 액세스할 수 있고 한번 생성하면 변경할 수 없는 콘텐츠를 지원하기 위해 빠르고 수수료가 없는 디지털 토큰(STEEM)[^2] 기반의 확장 가능한 블록체인 프로토콜[^1]을 제공합니다. 사람들은 글쓰기나 큐레이팅 등의 창작 활동을 통해 화폐를 벌 수 있으며, 이를 "지능 증명" (Proof-of-Brain) 이라고 부릅니다. 이 프로토콜의 구성요소인 블록체인과 토큰(token) 은 보안, 불변성, 장기 존속성(longevity) 을 위해 상호 의존하고 있기 때문에 서로 꼭 필요한 존재입니다. 스팀은 수 년간 성공적으로 운영되어 왔으며 현재는 트랜잭션 처리 수에서 비트코인과 이더리움을 넘어섰습니다.[^3]
 
-다른 블록체인과 비교했을때, 스팀은 자체적인 보상 체계를 가지고 있고, 평문 형태로 변경 불가능하게 저장된 콘텐츠에 공개적으로 접근할 수 있는 최초의 데이터베이스라는 점에서 특별하다. 이같은 특징은 스팀을 가장 가치있는 콘텐츠에 공헌하는 사람들에게 보상을 제공하면서 수많은 인터넷 애플리케이션이 참여하고 데이터를 공유하는 공개 출판 플랫폼으로 만들었다.
+다른 블록체인과 비교했을때, 스팀은 자체적인 보상 체계를 가지고 있고, 평문 형태로 변경 불가능하게 저장된 콘텐츠에 공개적으로 접근할 수 있는 최초의 데이터베이스라는 점에서 특별합니다. 이같은 특징 덕분에 스팀은 수많은 인터넷 애플리케이션이 참여하고 데이터를 공유하는 공개 출판 플랫폼이 되었으며, 스팀은 가장 가치있는 콘텐츠에 공헌하는 사람들에게 보상을 제공합니다.
 
-가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖는다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것이다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템이다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 한다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 멤버들이 커뮤니티의 가치를 상승시킬 수 있도록 동기를 부여한다.
+가상 화폐 영역에서 STEEM은 비트코인과 이더리움과 비교했을 때 "스마트", "소셜"이라는 고유의 특성을 갖고 있습니다. 이러한 특성은 두 가지 새로운 토큰 기능에서 비롯된 것입니다. 첫 번째 기능은 콘텐츠 창작과 큐레이션을 장려하는 토큰 풀(보상 풀이라고 부른다) 이고, 두 번째 기능은 콘텐츠의 가치를 평가하고 콘텐츠에 토큰을 분배하기 위해 집단 지성을 활용하는 투표(voting) 시스템입니다. 이 두 가지 고유한 특성들이 결합된 것을 지능 증명(Proof-of-Brain) 이라고 부르며, 이것은 커뮤니티 참여자에게 토큰을 분배하기 위해 사람들의 작업이 필요하다는 것을 강조하는 작업 증명(Proof-of-Work)[^4]을 기반으로 합니다. 지능 증명은 끊임없이 성장하는 커뮤니티를 구축하기 위한 도구로서 STEEM을 사용하며, STEEM에 내재된 보상 체계는 커뮤니티 가치를 상승시키는 방향으로 커뮤니티 멤버들이 활동할 수 있게 유도합니다.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+발전된 블록체인, 토큰 기술과 더불어, 스팀은 사용자 경험을 향상시키기 위해 도난 계정 복구[^5], 에스크로 서비스, 사용자 홍보 콘텐츠(promoted content), 평판 시스템, 예금 계정 등의 고급 기능들을 추가로 제공합니다. 이 기능들을 이용할때 사용자에게는 모든 트랜잭션에 대해 3 초의 확인 시간과 수수료 무료 혜택이 제공됩니다. 이 모든 것들은 인터넷 상의 콘텐츠 제작자, 커뮤니티 참여자들에게 스마트하고 사회적인(social) 화페를 도입하기 위한 임무를 지원하는데 사용됩니다.
 
-## Proof of Brain: Smart and Social Tokens
+## 지능 증명: 스마트, 소셜 토큰
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+사용자가 토큰 기반 커뮤니티 시스템에 공헌한 만큼 그들에게 보상하는 토큰 시스템은 콘텐츠의 사회적인 가치를 설정하고 평가하기 위한 방법(mechanisms)이 필요합니다: 우리는 이것을 "지능 증명"이라고 부릅니다.
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### 보상 풀("토큰은 어디에서 만들어지는가?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+스팀 블록체인의 가장 혁신적인(동시에 가장 오해받는) 특징 중의 하나는 "보상 풀"입니다. 보상 풀에서 나온 토큰은 가치있는 콘텐츠를 제작한 사람들에게 분배됩니다. 보상 풀이 무엇인지 이해하기 위해서는 우선, DPoS(위임된 지분 증명) 블록체인에서의 토큰 생산 방식이 PoW(작업 증명) 블록체인의 생산 방식과 다르다는 것을 이해해야 합니다. 전통적인 PoW 블록체인에서 토큰은 정기적으로 생산되지만 분배는 작업을 수행하는 머신을 이용해 토큰을 채굴하는 사람들("miner") 을 대상으로 무작위로 이루어집니다.
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+PoW 전용 가상 화폐와는 다르게 스팀은 토큰이 고정 비율로 3초마다 1개 블록씩 생성됩니다. 블록체인의 정의된 규칙에 기반한 시스템에서 이들 토큰은 다양한 액터(actors) 들에게 분배됩니다. 콘텐츠 제작자, 증인(witnesses), 큐레이터 등의 액터들은 토큰을 두고 전문화된 방법으로 경쟁합니다. 채굴자들이 원시 컴퓨팅 능력으로 경쟁하는 전통적인 PoW의 분배 수단과는 다르게, 스팀 네트워크의 액터들은 네트워크의 가치를 높이기 위해 경쟁합니다.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+2016년 12월을 기점으로 새로운 토큰은 연 9.5% 인플레이션율로 생성되었고, 이후 인플레이션율은 25만개의 블록당 0.01%(연 0.5%) 씩 감소합니다. 인플레이션이 이 비율로 지속적으로 감소하면 약 20.5년 후에는 0.95%가 될 것입니다.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+매년 스팀 블록체인에 의해 생성된 새로운 토큰 공급량 중 75%는 "보상 풀"을 구성하는데 사용되며, 이들은 콘텐츠 제작자와 큐레이터에게 분배됩니다. 15%는 스팀 파워 소유자(vested token holders) 에게 분배되며, 10%는 스팀의 DPoS 합의(consensus) 프로토콜에 협력하는 블록 생산자들("증인"이라고 부른다) 에게 분배됩니다.
 
-#### Rewards for Content Creators and Curators
+#### 콘텐츠 제작자와 큐레이터에 대한 보상
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+콘텐츠를 제작하는 사용자는 콘텐츠 제공을 통해 네트워크의 가치를 높입니다. 이렇게 만들어진 콘텐츠들은 기존 사용자들에게 즐거움을 선사하고, 이들이 지속적으로 플랫폼을 이용하게 만들며, 새로운 사용자를 플랫폼으로 유입시키는 역할을 합니다. 이로 인해 화폐는 보다 폭넓은 사용자들에게 분배되고, 네트워크 효과는 상승합니다. 콘텐츠를 충분히 평가한 후 투표하는 사용자들은 가장 가치있는 콘텐츠를 작성한 사용자에게 화폐가 분배될 수 있는 환경을 구축하는데 중요한 역할을 담당하고 있습니다. 콘텐츠 제작과 투표 활동에 대해 블록체인은 지분 가중치(stake-weighted) 투표 시스템을 통해 모아진 집단 지성(collective wisdom of the crowd) 에 기반한 가치에 따라 보상합니다.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### 스팀 파워 기반의 투표가 보상의 양을 결정한다.
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+스팀은 STEEM 1 개당 1 번의 투표를 기준으로 동작합니다. 이 모델에서는 플랫폼에 가장 공헌을 많이한 개인이 누구인지를 그들의 계정 잔고로 측정하며, 공헌실적이 높을수록 큰 영향력을 갖습니다. 지분(Stake) 은 살 수도 있고 벌 수도 있습니다. 사용자는 여러 개의 계정을 소유하는 방법을 이용해 추가적인 영향력을 발휘할 수 없습니다. 일정한 지분이 있는 하나의 계정과 이 계정과 같은 양의 지분을 공유한 두 개의 다른 계정들의 영향력은 같을 것입니다. 사용자가 플랫폼 안에서 영향력을 높일 수 있는 유일한 방법은 그들의 지분을 늘리는 것 뿐입니다.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+뿐만 아니라, 스팀에서 커뮤니티 멤버들은 스팀 파워를 통한 투표만 가능합니다. STEEM에 대해 13 주간의 귀속 일정(vesting schedule) 을 마치면 스팀 파워를 얻을 수 있습니다. 이러한 모델 구조에서 커뮤니티 멤버들에게는 장기적으로 STEEM의 가치를 최대화 할 수 있는 방향으로 투표하게끔 하는 금전적인 인센티브가 존재합니다.
 
-## Speed and Scale on the Steem Blockchain
+## 스팀 블록체인의 속도와 확장
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+스팀 블록체인은 현존하는 블록체인 중 가장 빠르고 효율적인 형태로 설계되었고, Reddit 의 트래픽 양보다 훨씬 더 많은 소셜 미디어 플랫폼 트래픽을 감당하기 위해서는 이러한 설계가 필수적입니다. 스팀은 트랜잭션 수에서 이미 비트코인을 능가했으며, 초당 1만개 이상의 트랜잭션을 지원하도록 확장할 수 있습니다.
 
-### Delegated Proof of Stake (DPoS)
+### 위임된 지분 증명(DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+작업 증명(PoW)[^6]에서 발생하는 잦은 병목현상으로 인해 대부분의 블록체인은 초당 트랜잭션을 3회 이상으로 확장할 수 없습니다. 전세계 금융 트래픽에서는 3회 이상의 트랜잭션 처리가 가능합니다. 스팀은 PoW가 제공했던 것보다 훨씬 확장성이 좋고 빠르길 원했고 수십 억 사용자에게 적합한 기반을 구축하기 위해 비교적 덜 알려진 위임된 지분 증명(DPoS)[^7] 이라는 알고리즘을 사용했습니다.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+스팀 블록체인은 DPoS 덕분에 최소한의 계산 부하 환경(minimal computation load) 에서 3초당 새로운 블록 1개를 만들 수 있습니다. 이는 블록체인이 좀 더 많은 트랜잭션을 처리할 수 있고 콘텐츠를 포함해 보다 많은 정보를 가질 수 있다는 것을 의미합니다.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+하드포코가 발생했을 때 정의된 규칙에 따르면, DPoS 프레임워크 내에서 증인(선출된) 은 제안된 하드포크에 대한 진행여부를 신속하고 효율적으로 결정할 수 있습니다. 이러한 방식은 스팀 블록체인 프로토콜이 다른 블록체인보다 빠르게 발전하게 된 이유이기도 합니다. 스팀 블록체인은 이미 18번의 포크[^8]를 성공적으로 마쳤으며, 하드포크가 발생할 때마다 포크 이후에 오직 1개의 체인만 유지하고 있습니다.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 부분이며 Graphene[^10]은 2016년에 ChainBase 로 대체되었습니다. ChainBase 는 로드 및 종료 시간이 빠르고, 데이터베이스에 대한 병렬 접근을 지원하며 이전 버전인 Graphene에 비해 크래시 대응이 강화되었습니다. 또한 데이터베이스 손상 빈도가 적고, 전체 데이터베이스 상태에 대한 인스턴트 "스냅샷"이 가능하며, 같은 메모리 환경에서 보다 많은 RPC 요청을 제공합니다.
 
 ### AppBase
 

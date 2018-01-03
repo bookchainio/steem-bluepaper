@@ -40,53 +40,53 @@ Le blockchain de Steem est conçu pour être l'un des blockchains les plus rapid
 
 ### Preuve de participation déléguée (DPoS)
 
-Souvent encombré par le Proof-of-Work (PoW / preuve de travail) [^6] beaucoup de Blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem à besoin d'une plus grande échelle et de vitesse que ce qui est offert par la PoW, et donc un algorithme moins connu appelé Delegated Proof of Stake (DPoS) [^7] à été un levier pour jeter les bases d'une blockchain adaptée à dzs milliards d'utilisateurs.
+Souvent encombré par le Preuve de travail (PoW) [^6] beaucoup de blockchains ne peuvent dépasser trois transactions par seconde, ce qui est une fraction du trafic financier dans le monde. Steem avait besoin de beaucoup plus d'ampleur et de vitesse que le PoW, et un algorithme moins connu appelé DPoS (Preuve de participation déléguée) [^7] a été utilisé pour jeter les bases d'un blockchain adaptée à des milliards d'utilisateurs.
 
-Grâce à DPoS, la blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que la blockchain peut traiter plusieurs transactions et contenir plus d’informations, y compris du contenu.
+Grâce à DPoS, le blockchain Steem est capable de générer un nouveau bloc toutes les 3 secondes avec une charge de calculs réduits. Cela signifie que le blockchain peut traiter plus de transactions et contenir plus d'informations, y compris du contenu.
 
-En définissant les règles pour lorsque se produit un Hardfork, les témoins, élus dans le cadre de la PoW peuvent rapidement et efficacement décider ou non d’aller de l’avant avec un projet hardfork, permettant au protocole de la blockchain Steem d’évoluer plus rapidement que la plupart d’autres. Le blockchain Steem a Forké déjà avec succès 18 fois [^8], et chaque fois qu’un Hardfork s’est produite, une seule chaîne a persisté après la fourche.
+En définissant les règles pour le cas où un « Hardfork » (embranchement) se produit, les témoins élus dans le cadre DPoS peuvent rapidement et efficacement décider d'aller de l'avant avec une proposition hardfork, permettant au protocole Steem blockchain d'évoluer plus rapidement que la plupart des autres. Le blockchain Steem a déjà embranché 18 fois [^8], et chaque fois qu'une Hardfork s'est produite, une seule chaîne a persisté après la fourche.
 
 ### ChainBase
 
-ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase est plus rapide à charger et possède un meilleur temps de sortie. De plus, il supporte les accès parallèles à la base de données et il est plus robuste contre les crash par rapport à son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des "snapshotting" instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
+ChainBase[^9] est la portion base de données de la pile blockchain et remplace Graphene[^10] en 2016. ChainBase a des temps de chargement et de sortie plus rapides, prend en charge l'accès parallèle à la base de données et est plus robuste contre les plantages que son prédécesseur. Finalement, il y a moins de corruption de la base de données, ce qui permet de faire des « snapshotting » instantés de l'état de la base de données entière et peu servir plus de requêtes RPC depuis la même mémoire.
 
 ### AppBase
 
-AppBase est la première étape dans la création d’une chaîne multiple FABRIC. AppBase permet de nombreuses composantes du blockchain Steem pour devenir modulaire en de nouveaux blockchains sans consensus comme plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
+AppBase est la première étape dans la création d’une chaîne multiple FABRIC. AppBase permet à de nombreux composants de la chaîne de blocs Steem de devenir modulaires en créant des chaînes de blocs non consensuelles supplémentaires en tant que plugins dédiés. Ces plugins peuvent être mis-à-jour beaucoup plus rapidement car ils ne nécessitent pas de relire l’ensemble du blockchain. Ce qui rend steemd [^11] beaucoup plus efficace et plus facile à maintenir et à mettre à l’échelle.
 
-Pratiquement parlant, AppBase permet différents coeurs, ou même différents ordinateurs, pour maintenir les différentes parties de la blockchain Steem. Ceci est nettement plus efficace que d’exiger de tous les cœurs et tous les ordinateurs dans le réseau de maintenir l’ensemble blockchain. La modularisation du blockchain lui permet de profiter pleinement de la nature modulaire des ordinateurs. Il s’agit d’une étape nécessaire dans le long processus de création d’une blockchain entièrement parallèle et entièrement optimisé.
+En pratique, AppBase permet à différents cœurs, ou même à différents ordinateurs, de maintenir différentes parties du blockchain Steem. Ceci est nettement plus efficace que d’exiger de tous les cœurs et tous les ordinateurs du réseau de maintenir l’ensemble du blockchain. La modularisation du blockchain lui permet de profiter pleinement de la nature modulaire des ordinateurs. Il s’agit d’une étape nécessaire dans le long processus de création d’un blockchain entièrement parallèle et entièrement optimisé.
 
 ## Fonctionnalités de la plateforme de STEEM
 
-La blockchain Steem à deux objectifs, d’être un système de jeton numérique, ainsi qu’une plate-forme de médias sociaux. Les fonctionnalités offertes par la blockchain doivent soutenir les deux objectifs et fournir aux utilisateurs une expérience de classe mondiale lors de l’utilisation de ces deux aspects de la plate-forme.
+Le blockchain Steem à deux objectifs, d’être un système de jeton numérique, ainsi qu’une plate-forme de médias sociaux. Les fonctionnalités offertes par le blockchain doivent soutenir les deux objectifs et fournir aux utilisateurs une expérience de classe mondiale lors de l’utilisation de ces deux aspects de la plate-forme.
 
 ### Primitives conçu pour les applications de contenu
 
-Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable de la blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans la blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
+Steem offre aux utilisateurs la capacité unique de publier et de stocker différents types de contenu directement et en permanence dans le livre immuable du blockchain en texte brut. Une fois stockés dans le blockchain, les données deviennent disponibles publiquement et permet aux développeurs de l'utiliser. Les développeurs sont en mesure d’interagir avec le contenu dans le blockchain directement à l’aide des APIs disponibles. Plusieurs des primitives de la blockchain qui permet aux développeurs de construire inclue les noms des comptes, messages, commentaires, votes et solde du compte.
 
 ### Système de nom natif
 
-Les adresses de portefeuille utilisés par beaucoup des technologies blockchain, telles que Bitcoin et Ethereum, consistait historiquement de longues chaînes aléatoire de lettres et de chiffres, toutefois, ces adresses de portefeuille peuvent rendre difficile à effectuer des transactions avec d’autres utilisateurs dans un contexte typique de médias sociaux en ligne parce que les utilisateurs sont incapables de se rappeler des adresses a longue chaîne de character en mémoire. La blockchain Steem utilise le nom d’utilisateur de chaque participant comme leur adresse de portefeuille, ce qui renforce l’expérience utilisateur pour les participants qui tentent d’envoyer les jetons parce qu’ils peuvent vérifier les adresses de leur propre mémoire.
+Les adresses de portefeuille utilisées par de nombreuses technologies blockchain, telles que Bitcoin et Ethereum, ont historiquement consisté en de longues chaînes de lettres et de chiffres aléatoires. Cependant, ces adresses de portefeuille peuvent rendre difficile la transaction avec d'autres utilisateurs dans un contexte typique de médias sociaux en ligne parce-que les utilisateurs ne peuvent pas rappeler des adresses de longue chaîne. Le blockchain Steem utilise le nom d’utilisateur de chaque participant comme leur adresse de portefeuille, ce qui renforce l’expérience utilisateur pour les participants qui tentent d’envoyer les jetons parce qu’ils peuvent vérifier les adresses de leur propre mémoire.
 
 ### STEEM Blockchain Dollars (SBD)
 
-Beaucoup d’utilisateurs qui découvrent la monnaie cryptographique ont du mal à comprendre comment les « jetons magique d'internet » attribués par la plate-forme peut effectivement avoir une valeur dans le monde réel. Afin de contribuer à combler la distance entre les systèmes de monnaie fiduciaire plus traditionnels dont les utilisateurs sont plus habitués et les jetons cryptographique dont ils gagnent par le biais de la plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars (SBD) a été créée.
+Beaucoup d’utilisateurs qui découvrent la crypto-monnaie ont du mal à comprendre comment les « jetons magique d'internet » attribués par la plate-forme peuvent effectivement avoir une valeur dans le monde réel. Afin de combler le fossé entre les systèmes de monnaie fiduciaire plus traditionnels auxquels les utilisateurs traditionnels sont habitués et les jetons de crypto-monnaie qui leur sont attribués via la plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars (SBD) a été créée.
 
-Les jetons de SBD sont conçus pour être liées étroitement à un USD, afin que les utilisateurs qui les reçoivent puissent savoir environ combien ils valent en « dollars réels ». Ceux-ci offrent également une monnaie relativement stable pour les utilisateurs qui veulent les garder, s'ils cherchent à préserver leur valeur du compte par rapport au USD. On trouvera une explication technique détaillée dans le livre blanc technique Steem. [^12]
+Les jetons de SBD sont conçus pour être liées étroitement à un USD, afin que les utilisateurs qui les reçoivent puissent savoir environ combien ils valent en « dollars réels ». Ceux-ci offrent également une monnaie relativement stable pour les utilisateurs qui veulent les garder s'ils cherchent à préserver leur valeur du compte par rapport au USD. On trouvera une explication technique détaillée dans le livre blanc technique Steem. [^12]
 
 ### Échange décentralisé
 
-Le blockchain Steem propose un échange symbolique décentralisé, semblable à l’échange de Bitshares. [^13] L’échange permet aux utilisateurs d’échanger leurs jetons STEEM et SBD grâce à un marché public de peer-to-peer décentralisé. Les utilisateurs peuvent placer leur achat et vente, et l'ordre est effectuée automatiquement par le blockchain. Il y a également un carnet de commandes accessible au public et l’historique des commandes qui permet aux utilisateurs d’analyser le marché. Les utilisateurs peuvent interagir avec l’échange directement à l’aide de l’API (de l'anglais, interface du programme d'application) du blockchain, ou utiliser une interface graphique comme celui sur Steemit.com. [^14]
+La blockchain Steem offre un échange de jetons décentralisé, similaire à l'échange Bitshares. [^13] L’échange permet aux utilisateurs d’échanger leurs jetons STEEM et SBD grâce à un marché public peer-to-peer décentralisé. Les utilisateurs peuvent placer des ordres d'achat et de vente, et l'appariement des ordres est effectué automatiquement par le blockchain. Il y a également un carnet de commandes accessible au public et l’historique des commandes qui permet aux utilisateurs d’analyser le marché. Les utilisateurs peuvent interagir directement avec l'échange en utilisant l'API du blockchain, ou utiliser une interface graphique telle que celle de Steemit.com. [^14]
 
-### Paiements par l’intermédiaire de tiers de confiance
+### Paiements par l'intermédiaire de l'entiercement
 
-Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. Le blockchain Steem offre un moyen aux utilisateurs d’envoyer des jetons l'un à l’autre avec une tierce partie désignée comme un service d’entiercement. L’utilisateur agissant comme le service d'entiercement est en mesure de déterminer si les termes de l’accord ont été respectées et libérer les fonds au récepteur ou retourné à l’expéditeur.
+Le caractère irréversible des transactions blockchain est un élément de sécurité important, bien qu’il existe de nombreux cas où les utilisateurs ne sont pas confortables en envoyant leurs jetons à une autre personne sans moyen de les retrouver si l’autre utilisateur ne tient pas son engagement. Le blockchain Steem offre un moyen aux utilisateurs d’envoyer des jetons l'un à l’autre avec une tierce partie désignée comme un service d’entiercement. L'utilisateur agissant comme le service d'entiercement est capable de déterminer si les termes de l'accord ont été respectés, et peut, soit autoriser les fonds à être remis au récepteur ou renvoyé à l'expéditeur.
 
-### Structure hiérarchique de clé privé
+### Structure de clé privée hiérarchique
 
 Steem utilise un système de clé privée hiérarchique unique en son genre pour faciliter les transactions à faible sécurité et haute sécurité. Les transactions à faible sécurité ont tendance à être sociales, comme la publication ou les commentaires. Les transactions de haute sécurité ont tendance à être des transferts et des changements clés. Cela permet aux utilisateurs d'implémenter différents niveaux de sécurité pour leurs clés, en fonction de l'accès autorisé par les clés.
 
-Ces clés privées sont la publication, active et propriétaire. La clé de publication permet aux comptes d'afficher, de commenter, de modifier, de voter, de resterem[^15] et de suivre / ignorer d'autres comptes. La clé active est destinée à des tâches plus délicates telles que le transfert de fonds, les transactions augmenté / descendre la puissance, la conversion de Steem Dollars, le vote de témoins, la passation d'ordres au marché et la réinitialisation de la clé de publication. La clé du propriétaire est uniquement destinée à être utilisé lorsque cela est nécessaire. C'est la clé la plus puissante car elle peut changer n'importe quelle clé d'un compte, y compris la clé du propriétaire, et prouver la propriété pendant une récupération de compte. Idéalement, il est destiné à être stocké hors ligne et utilisé uniquement lorsque les clés du compte doivent être modifiées ou pour récupérer un compte compromis.
+Ces clés privées sont la publication, active et propriétaire. La clé de publication permet aux comptes d'afficher, de commenter, de modifier, de voter, de resterem[^15] et de suivre / ignorer d'autres comptes. La clé active est destinée à des tâches plus délicates telles que le transfert de fonds, les transactions augmenté / descendre la puissance, la conversion de Steem Dollars, le vote de témoins, la passation d'ordres au marché et la réinitialisation de la clé de publication. La clé du propriétaire est uniquement destinée à être utilisé lorsque cela est nécessaire. C'est la clé la plus puissante car elle peut changer n'importe quelle clé d'un compte, y compris la clé du propriétaire, et prouver la propriété d'un compte lors d'une récupération. Idéalement, il est destiné à être stocké hors ligne et utilisé uniquement lorsque les clés du compte doivent être modifiées ou pour récupérer un compte compromis.
 
 Steem facilite également l’utilisation d’un mot de passe maître qui crypte toutes les trois clés. WebServices peut utiliser un mot de passe maître qui décrypte et signe avec la clé privée nécessaire. Le mots de passe maître peut permettre aux utilisateurs de faire confiance à certains services pour empêcher le transfert de clés inappropriées sur tous les serveurs, augmentant ainsi l'expérience utilisateur tout en maintenant un environnement de signature côté client sécurisé.
 
@@ -100,7 +100,7 @@ Pour une publication donnée, il peut y avoir un certain nombre de personnes dif
 
 ### Jetons médiatique intelligent (SMT)
 
-Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur la blockchain Steem. STEEM est le premier SMT à exister, et le protocole de jeton médiatique intelligent vise à monétiser les sites web et les applications de contenu sur le Web en permettant aux gens de créer des jetons possédant des propriétés similaires à STEEM, mais personnalisable pour s'adapter à la vision de toute communauté en ligne grâce à un comportement incitatif, reproduisant essentiellement le succès de STEEM sur n'importe quel site ou application. Plus de détails techniques peuvent être trouvés dans le livre blanc du jeton médiatique intelligent[^17] (disponnible en anglais seulement).
+Les jetons médiatiques intelligent sont des jetons natifs qui peuvent être créés sur le blockchain Steem. STEEM est le premier SMT à exister, et le protocole de jeton médiatique intelligent vise à monétiser les sites web et les applications de contenu sur le Web en permettant aux gens de créer des jetons possédant des propriétés similaires à STEEM, mais personnalisable pour s'adapter à la vision de toute communauté en ligne grâce à un comportement incitatif, reproduisant essentiellement le succès de STEEM sur n'importe quel site ou application. Plus de détails techniques peuvent être trouvés dans le livre blanc du jeton médiatique intelligent[^17] (disponnible en anglais seulement).
 
 ### Récupération de compte volé
 
@@ -110,9 +110,9 @@ Si le compte d'un utilisateur est compromis, il peut changer de clé en utilisan
 
 Si la clé active ou propriétaire d'un utilisateur est compromise, l'attaquant aura un accès complet à tous les fonds de son compte. Parce que les transactions blockchain sont irréversibles, les utilisateurs n'ont aucun moyen de récupérer leurs fonds après qu'ils ont été volés.
 
-La blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. En outre, STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
+Le blockchain Steem permet aux utilisateurs de stocker leurs jetons STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne peuvent être retirés qu'après une période d'attente de trois jours. De plus, les STEEM qui sont détenus dans le calendrier d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13 par semaine, après une période d'attente initiale de sept jours. Ces verrous temporels empêchent un attaquant d'accéder immédiatement à la totalité des fonds de l'utilisateur, de sorte que le propriétaire légitime ait le temps de reprendre le contrôle de son compte avant que tous ses fonds puissent être retirés.
 
-### Limitation du débit de bande passante pour les opérations sans frais
+### Limitation du débit de bande passante pour des opérations sans frais
 
 Parce que les témoins sont entièrement payés grâce à la génération de nouveaux jetons, il n'est pas nécessaire de facturer aux utilisateurs des frais pour alimenter le blockchain. La seule raison de facturer des frais aurait pour effet dissuasif d'empêcher les utilisateurs d'effectuer un nombre déraisonnable de transactions, ce qui pourrait avoir un impact sur la performance du blockchain.
 
@@ -122,38 +122,38 @@ Les limites de bande passante s'ajustent en fonction de l'utilisation du réseau
 
 ## Conclusion
 
-L'unique récompense et le programme incitatif offert par les jetons et la blockchain Steem sont conçus pour faire de Steem une voie d’accès aux cryptomonnaies pour les utilisateurs. La performance de la blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu’il est combiné avec la rapidité de la foudre en temps de traitement et sans frais de transactions, Steem est positionné pour devenir l’un de le blockchain des technologies de pointe utilisés par les gens du monde entier.
+Le programme unique de récompenses et d'incitations offert par le blockchain et le jeton Steem est conçu pour faire de Steem l'ultime passerelle de crypto-monnaie pour les utilisateurs ordinaires. La performance du blockchain est conçue en vue d'une adoption massive généralisée de la monnaie et de la plateforme. Lorsqu'il est combiné avec des temps de traitement ultra-rapides et des transactions sans frais, Steem est positionné pour devenir l'une des principales technologies de blockchain utilisées par les gens du monde entier.
 
-[^1]: Papier position Delegation PoS. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: Pour le différencier de l’expression de sa blockchain, est l’orthographe correcte du jeton digital native de Steem STEEM. M
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
 
-[^3]: Les Volumes de transactions : Rapport des transactions par seconde. Témoin de Steem et utilisateur « @roadscape ». https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
-[^4]: Preuve-de-travail. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-Work \_system
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Initiation de récupération de compte volé pour les utilisateurs de Steemit.com : 13/07/2017 https://steemit.com/recover \_account\_step\_1
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Problème d’évolutivité Bitcoin https://en.wikipedia.org/wiki/Bitcoin \_scalability\_problem
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
-[^7]: Whitepaper DPoS https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
 [^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
-[^9]: Communiqué de ChainBase https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Documumentation Graphène http://docs.bitshares.org/
+[^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: La composante du cadre Steem blockchain responsable du traitement des transactions et la distribution des récompenses.
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
 
-[^12]: Whitepaper Steem https://steem.io/SteemWhitePaper.pdf
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Échange décentralisé Bitshares http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com marché de la monnaie https://steemit.com/market
+[^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: « Resteem » est le terme utilisé dans la blockchain Steem pour quand un utilisateur partage du contenu avec leurs disciples.
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
 
-[^16]: Bitshares Gestion des identités Flexible http://docs.bitshares.org/ \_downloads/bitshares-general.pdf
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^17]: Livre blanc du Jetons médiatique intelligent (en anglais) https://smt.steem.io/smt-whitepaper.pdf
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

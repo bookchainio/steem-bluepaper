@@ -2,137 +2,137 @@
 
 ## Úvod
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem poskytuje škálovatelný blockchain protokol[^1] pro veřejně dostupný a neměnný obsah, a také pro digitální měnu (nazvanou STEEM)[^2], kterou je možné rychle a bez poplatků převádět. Steem umožňuje lidem vydělávat tuto měnu za využití jejich rozumu (tento princip lze nazvat "Proof-of-Brain", tedy "Důkaz rozumem"). Dva základní stavební kameny tohoto protokolu, tedy blockchain a měna, jsou spolu pevně spjaty pokud jde o bezpečnost, neměnnost a dlouhodobost. Jsou proto nedílnou součástí jeden druhého. Steem již úspěšně funguje více než rok a v počtu zpracovaných transakcí právě předčil Bitcoin i Ethereum.[^3]
 
-Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
+Ve srovnání s jinými blockchainy vyčnívá Steem jako první veřejně dostupná databáze neměnného obsahu uloženého ve formě prostého textu, která má zároveň zabudovaný mechanismus motivačních odměn. To dělá ze Steemu veřejnou publikační platformu, ze které může každá internetová aplikace získat a sdílet data a odměňovat při tom ty, kteří vytváří ten nejhodnotnější obsah.
 
-In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether. This stems from two new token features. The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”). The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it. These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^4], meant to emphasize the human work required to distribute tokens to community participants. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
+Ve srovnání s jinými kryptoměnami jako je Bitcoin nebo Ethereum má STEEM unikátní vlastnosti, díky nimž je zároveň "chytrý" i "sociální". To vyplývá ze dvou specifik této nové měny. První z nich je fond určený k motivačnímu odměňování za vytváření obsahu a kurátorství (pojmenovaný "rewards pool", "fond odměn"). Druhým specifikem je hlasovací systém, který k posouzení hodnoty obsahu a rozdělení odměn využívá kolektivní vědomosti uživatelů. Spojení těchto dvou unikátních specifik je nazýváno Proof-of-Brain (Důkaz rozumem), což je slovní hříčka k Proof-of-Work (Důkaz prací)[^4], která má zdůraznit, že k distribuci měny v rámci komunity uživatelů je třeba lidského úsilí. Proof-of-Brain staví STEEM do pozice nástroje vhodného k budování trvale rostoucích komunit, které skrze vestavěný systém odměn podněcují své členy ke tvorbě hodnotného obsahu.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Nad rámec těchto vylepšení v oblasti blockchainu a technologie měny nabízí Steem jakožto systém ke zvýšení uživatelské přívětivosti další pokročilé funkce, jako je třeba obnova ukradených účtů[^5], escrow servis, propagace uživatelského obsahu, reputační systém nebo spořící účty. To všechno je uživatelům dostupné spolu s třívteřinovým intervalem na potvrzení transakce a s nulovými poplatky u všech transakcí. V konečném důsledku vše směřuje k cíli přinést chytrou a sociální měnu pro kreativce a budovatele komunit napříč celým internetem.
 
-## Proof of Brain: Smart and Social Tokens
+## Proof of Brain: Chytrá a sociální měna
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Měnový systém, který odměňuje uživatele přispívající do komunity založené na této měně, vyžaduje mechanismus pro stanovení a ohodnocení sociální hodnoty obsahu. Ten nazýváme "Proof-of-Brain", Důkaz rozumem.
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Rewards Pool - Fond odměn ("Odkud se ty peníze berou?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Jedním z nejvíce inovativních (a nejčastěji nepochopených) aspektů Steem blockchainu je "Fond odměn", z něhož jsou mince tvůrcům hodnotného obsahu rozdělovány. Aby bylo možné pochopit, co je Fond odměn, nejprve je nutné uvědomit si, že mince vznikají v DPoS blockchainech jinak než je tomu v PoW blockchainech. V tradičních PoW blockchainech jsou mince produkovány pravidelně, ale pak jsou náhodně rozdělovány mezi ty, jejichž přístroje vykonávají práci (tedy mezi "těžaře").
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+Na rozdíl od čistě PoW kryptoměn jsou mince ve Steemu generovány v předem stanoveném množství v každém bloku každé tři vteřiny. Tyto mince jsou rozděleny mezi různé účastníky systému podle podmínek stanovených v blockchainu. Tito účastníci, jako jsou tvůrci obsahu, svědci a kurátoři, svádí o mince konkurenční boj ve specializovaných oblastech. V protikladu k tradičním způsobům PoW distribuce, kde si těžaři konkurují pouhým výpočetním výkonem, jsou u Steemu účastníci pobízeni konkurovat ostatním způsoby, které do systému přidávají hodnotu.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Míra generování nových mincí byla nastavena na 9,5 % ročně počínaje prosincem 2016 a snižuje se o 0,01 % každých 250 000 bloků, tedy asi o 0,5 % ročně. Inflace se bude tímto tempem snižovat, až zhruba po 20,5 letech dosáhne úrovně 0,95 %.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Ze zásoby nových mincí, které na blockchainu Steemu každoročně vzniknou, je 75 % určeno pro Fond odměn, odkud jsou mince rozdělovány mezi tvůrce obsahu a kurátory. 15 % mincí je rozděleno mezi majitele investovaných mincí a 10 % je rozděleno mezi svědky, kteří společně na základě obecného souhlasu produkují bloky v rámci DPoS protokolu Steemu.
 
-#### Rewards for Content Creators and Curators
+#### Odměny pro tvůrce obsahu a kurátory
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Uživatelé, kteří tvoří vlastí díla, přinášejí vytvářením obsahu do systému hodnotu. Tento obsah na platformu přivede nové uživatele, a zároveň udržuje stávající uživatele aktivní a bavící se. To pomáhá rozšiřovat měnu mezi větší okruh uživatelů a zvyšuje efektivitu celého systému. Uživatelé, kteří věnují čas ohodnocení obsahu a hlasování o něm, hrají důležitou roli při rozdělování mincí mezi uživatele, kteří přidávají největší hodnotu. Blockchain odměňuje obě tyto činnosti poměrně k jejich hodnotě na základě kolektivního úsudku lidí, který je stanoven pomocí volebního systému s váženými hlasy.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Hlasování pomocí počtu mincí pro určení rozdělení odměn
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem pracuje se základním pravidlem jeden STEEM = jeden hlas. Díky tomuto pravidlu mají jedinci, kteří celé platformě přispěli nejvíce (měřeno podle hodnoty jejich účtu), největší vliv na to, jaká hodnota je přiřknuta novému obsahu. Mince si lze koupit nebo vydělat. Uživatelé nemohou získat větší vliv vlastněním vícenásobných účtů, neboť jeden účet s určitým počtem mincí má úplně stejný vliv jako dva účty se stejným součtem počtu mincí. Jedinou možností, jak mohou uživatelé zvýšit svůj vliv na dění v platformě, je zvýšit svůj počet mincí.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Nadto Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tento STEEM je nazýván Steem Power. Díky tomuto opatření jsou členové finančně motivování hlasovat způsobem, který z dlouhodobého hlediska maximalizuje hodnotu jejich STEEMu.
 
-## Speed and Scale on the Steem Blockchain
+## Rychlost a škálování Steem blockchainu
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain je vytořen tak, aby byl jedním z nejrychlejších a nejefektivnějších existujících blockchainů, což je nezbytné k tomu, aby mohl být páteří sociální platformy, jejíž předpokládaná velikost předčí Reddit. Steem již v počtu transakcí předstihl Bitcoin a je schopen realizovat i více než 10 000 transakcí za vteřinu.
 
-### Delegated Proof of Stake (DPoS)
+### Delegated Proof of Stake (DPoS - Delegovaný důkaz podílem)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Častým úskalím mnoha Proof-of-Work (PoW, Důkaz prací)[^6] blockchainů je, že je nelze škálovat na více než tři transakce za vteřinu, což je jen zlomek světových finančních operací. Steem potřeboval mnohem větší škálovatelnost a rychlost, než může poskytnout PoW, a proto byl jako vhodná hybná síla pro blockchain navržený pro miliardy uživatelů vybrán méně známy algoritmus nazývaný Delegated Proof of Stake (DPoS, Delegovaný důkaz podílem)[^7].
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Díky DPoS je Steem blockchain schopen vygenerovat s minimálními nároky na výpočetní výkon každé tři vteřiny nový blok. To znamená, že blockchain je schopen provést více transakcí a uchovávat více informací včetně obsahu.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Pro případné hard forky platí pravidlo, že se svědci zvolení v rámci pravidel DPoS mohou rychle a efektivně rozhodnout, zda se k plánovanému hard forku připojí nebo nikoli. To umožňuje blockchainu Steemu vyvíjet protokol rychleji než většině ostatních blockchainů. Steem blockchain již úspěšně podstoupil 18 forků [^8], a kdykoli došlo na hard fork, vždy byl zachován jen jeden řetězec.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] je databázovou částí blockchainu, v roce 2016 nahradil Graphene [^10]. ChainBase rychleji načítá i ukončuje procesy, podporuje paralelní přístup do databáze a v porovnání se svým předchůdcem je odolnější vůči pádům systému. Je také méně náchylná k poškození databáze, umožňuje okamžitý "snapshotting" celého stavu databáze a svede se stejnou pamětí obsluhovat více RPC žádostí.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase je prvním krokem k vytvoření multi-chain struktury. AppBase umožňuje mnoha komponentům Steem blockchainu, aby byly samostatně modulovatelné, tím, že nabízí pro tyto účely vytvořené doplňky - nekonsensuální blockchainy. Tyto doplňky mohou být aktualizovány mnohem rychleji, protože nevyžadují opětovné načtení celého blockchainu. Následkem toho je správa a škálování steemd[^11] mnohem efektivnější a snazší.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+AppBase jednoduše řečeno umožňuje, aby různé části Steem blockchainu spravovala různá jádra nebo dokonce různé počítače. To je výrazně efektivnější, než když je vyžadováno, aby každé jádro a každý počítač v síti spravoval celý blockchain. Modularizace blochainu umožňuje plně využívat výhod modulárních vlastností počítačů. A je to nezbytný krok v dlouhodobém procesu vytváření kompletně paralelního a plně optimalizovaného blockchainu.
 
-## Steem’s Platform Features
+## Vlastnosti platformy Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain má dva cíle, slouží jako platební systémem digitální měny a zároveň jako platforma mainstreamové sociální sítě. Funkce, které blockchain nabízí, musí podporovat oba cíle a poskytovat uživatelům kvalitu na světové úrovni při využívání obou aspektů platformy.
 
-### Primitives Designed for Content Applications
+### Základy vytvořené pro využívání obsahu
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem nabízí uživatelům unikátní možnost publikovat a uchovávat různé druhy obsahu ve formě prostého textu přímo a trvale v neměnném jádru blockchainu. Jakmile jsou data uložena v blockchainu, stávají se veřejně přístupná a vývojáři z nich mohou čerpat. Vývojáři mohou prostřednictvím dostupného API získávat a zpracovávat data přímo z blockchainu. Základní data, která mohou vývojáři z blockchainu získat, zahrnují třeba uživatelská jména, příspěvky, komentáře, hlasy a stavy účtů.
 
-### Native Name System
+### Zabudovaný systém jmen
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Adresy peněženek mnoha blockchainových technologií jako jsou Bitcoin a Ethereum jsou sestaveny z dlouhých sad náhodných písmen a číslic. Avšak tyto adresy peněženek činí transakce mezi uživateli v kontextu běžných online sociálních médií obtížné, protože uživatelé si na dlouhé adresy těžko vzpomenou. Steem blockchain využívá jako adresy peněženek uživatelská jména jednotlivých účastníků, což zvyšuje pohodlí uživatelů, kteří zkouší poslat mince, protože se na adresu příjemce mohou snadno rozpomenout.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Mnoho uživatelů má po představení krytpoměn potíže pochopit, jak mohou "kouzelné internetové mince" udělované v této platformě nést opravdovou hodnotu v reálném světě. Abychom vystavěli most mezi tradičnějšími fiat měnami, na které jsou běžní uživatelé zvyklí, a kryptoměnou, kterou jsou odměňování v rámci platformy, byla vytvořena nová měna nazvaná Steem Blockchain Dollar (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Mince SBD jsou vytvořeny tak, aby byly úzce spjaty s jedním americkým dolarem. Uživatelé, kteří je získají, tak přibližně vědí, jakou mají mince hodnotu z hlediska "reálných dolarů". Mince SBD také nabízí relativně stabilní měnu pro uživatele, kteří chtějí uchovat hodnotu svého účtu spjatou s USD. Podrobnější technický popis lze najít v technické části Steem Whitepaper.[^12]
 
-### Decentralized Exchange
+### Decentralizovaná směnárna
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain nabízí decentralizovanou směnárnu mincí podobnou směnárně Bitshares.[^13] Směnárna umožňuje uživatelům obchodovat s jejich STEEM a SBD mincemi na veřejném decentralizovaném peer-to-peer tržišti. Uživatelé mají možnost podat nákupní a prodejní příkazy. Párování příkazů provádí blockchain automaticky. Je zde také veřejně přístupná kniha příkazů a historie příkazů, pomocí kterých mohou uživatelé trh analyzovat. Uživatelé mohou směnárnu ovládat přímo přes API rozhraní blockchainu nebo pomocí GUI například na Steemit.com. [^14]
 
-### Payments Through Escrow
+### Platby s účastí třetí strany
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Nezvratnost blockchain transakcí je důležitým bezpečnostním prvkem. V mnoha případech však nemusí být uživateli příjemné poslat své mince jinému uživateli, aniž by měl možnost získat je zpět v případě, že druhá strana nedodrží svou část dohody. Steem blockchain nabízí uživatelům možnost poslat platbu jinému uživateli prostřednictvím třetí strany, takzvaný escrow service. Uživatel, který v kontraktu představuje escrow service, je schopen posoudit, zda podmínky dohody byly naplněny, a buďto uvolní platbu příjemci, nebo ji vrátí odesilateli.
 
-### Hierarchical Private Key Structure
+### Hierarchický systém privátních klíčů
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem jako první svého druhu využívá hierarchický systém privátních klíčů, aby usnadnil zpracování transakcí s nízkým a vysokým stupněm zabezpečení. Transakce s nízkým zabezpečením jsou spíše ty sociální, jako je publikování článků nebo komentářů. Transakce s vysokým zabezpečením jsou převážně převody prostředků a změny přístupových klíčů. To umožňuje uživatelům zavést si pro své klíče různé úrovně zabezpečení v závislosti na přístupu, který dotyčný klíč umožňuje.
 
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+Tyto soukromé klíče jsou Publikační, Aktivní a Vlastnický. Publikační klíč umožňuje skrze určitý účet publikovat články a komentáře, hlasovat, resteemovat texty[^15] a přidat ostatní účty mezi sledované nebo je ignorovat. Aktivní klíč je určen pro citlivější operace, jako je převod prostředků, ukládání nebo vybírání Steem Power, směna SBD, volba svědků, obchodování ve směnárně a změna Publikačního klíče. Vlastnický klíč je určen jen pro nutné případy. Je to ten nejsilnější klíč, neboť může změnit jakýkoli jiný klíč k účtu včetně Vlastnického klíče. Může také prokázat vlastnictví účtu v procesu obnovy účtu. Nejlépe by měl být uchováván offline a měl by být využit jen tehdy, když musí být změněny ostatní klíče, nebo když má být obnoven odcizený účet.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem také usnadňuje použití hlavního hesla, které šifruje všechny tři klíče. Webové služby mohou využít hlavní heslo, které se dešifruje a podepíše nezbytným soukromým klíčem. Hlavní heslo mohou uživatelé svěřit vybraným službám, aby nedocházelo k nevhodným přenosům klíčů napříč servery. To zkvalitňuje uživatelské prostředí a zachovává bezpečnost při správě klientských podpisů.
 
-### Multi Sig Authorities
+### Vícenásobné podpisy
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain umožňuje, aby autorizace byla rozdělena mezi více subjektů tak, aby více uživatelů sdílelo stejnou pravomoc, nebo aby k ověření platnosti transakce byla třeba autorizace od více jednotlivců. To probíhá stejným způsobem jako u Bitshares[^16], kde má každý pár soukromého a veřejného klíče přisouzenu svou váhu, a kde je autoritou stanovený práh. Aby byla transakce platná, musí ji podepsat dostatečný počet jedinců, jejichž součet váhy dosahuje nebo převyšuje tento práh.
 
-### Multiple Reward Beneficiaries
+### Více příjemců odměny
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Ke každému publikovanému příspěvku může existovat více různých lidí, kteří mají zájem o finanční odměnu. Mezi ně patří autor, případní spoluautoři, lidé na článek odkazující, poskytovatelé hostingu, blogy s komentáři vloženými do blockchainu a vývojáři. Bez ohledu na to, jakou stránku a nástroj využijete ke tvorbě textu nebo komentáře, budete mít možnost nastavit, jakým způsobem bude odměna rozdělena mezi různé subjekty. To umožňuje různé formy spolupráce a nabízí platformám vystavěným na Steem blockchainu možnost sbírat část odměny od svých uživatelů.
 
-### Smart Media Tokens (SMT)
+### Smart Media Token (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Token je měna, která může být vytvořena na Steem blockchainu. STEEM je vůbec první existující SMT. Cílem Smart Media Token protokolu je finančně ohodnotit obsah webových stránek a aplikací napříč internetem a umožnit lidem, aby vytvářeli mince s podobnými vlastnostmi, jako má STEEM, jen přizpůsobené tak, aby pobízely k naplnění vizí jakékoli online komunity. V podstatě jde o přenesení úspěchu STEEMu na jakoukoli webovou stránku či aplikaci. Více technických podrobností lze najít ve Smart Media Tokens whitepaperu[^17].
 
-### Stolen Account Recovery
+### Obnovení ukradeného účtu
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Pokud je uživatelský účet ukraden, jeho majitel může změnit klíče s využitím Vlastnického klíče. V případě, že je útočník schopen získat také Vlastnický klíč a změnit heslo k účtu, má uživatel 30 dní na zaslání původně platného Vlastnického klíče skrze proces obnovení ukradených účtů, který Steem nabízí jako jediný v této branži, a obnovení kontroly kontroly nad svým účtem. Tento postup může navrhnout osoba nebo společnost, která registraci na Steem poskytuje. Pro registrátora není povinností tuto službu uživatelům nabídnout, ale pro jeho uživatele je dostupná jako přidaná hodnota.
 
-### Security Through Time-Locks
+### Zabezpečení pomocí časových zámků
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Je-li uživateli zcizen Aktivní nebo Vlastnický klíč, útočník získá plný přístup ke všem prostředkům jeho účtu. Transakce v blockchainu jsou nevratné, a proto nemá uživatel žádnou možnost získat své prostředky zpět po tom, co byly ukradeny.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain umožňuje uživatelům uložit STEEM a SBD na spořící účty, ze kterých nemohou být prostředky vybrány dříve než po tři a půl dne dlouhé čekací lhůtě. Kromě toho je STEEM investovaný jako Steem Power vázán na 13 týdnů trvající cyklus a může být vybírán jen po 1/13 týdně od uplynutí prvních 7 dní. Tyto časové zámky brání útočníkovi získat okamžitou kontrolu nad všemi prostředky uživatele a dávají právoplatnému majiteli šanci získat zpět kontrolu nad účtem ještě před tím, než mohou být všechny prostředky vybrány.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Omezení datového toku pro bezplatné operace
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Svědci jsou kompletně vypláceni nově vygenerovanými mincemi, a tak není třeba účtovat uživatelům poplatky na provoz blockchainu. Jediným důvodem pro naúčtování poplatku je jeho využití k odrazení uživatelů od vytvářené neodůvodněného množství transakcí, které by potenciálně mohlo ovlivnit výkon blockchainu.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Aby byly nastaveny rozumné limity na využívání systému, každý uživatel má k dispozici omezený objem datového toku. Kdykoli uživatel provede nějakou operaci v blockchainu, jako je převod mincí, publikace obsahu a hlasování, využije k tomu určitou část dostupného datového toku. Když uživatel překročí povolené množství přenesených dat, musí s dalšími akcemi vyčkat, dokud se mu datový limit znovu neobnoví.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Datová omezení se přizpůsobují v závislosti na využívání sítě, takže v době, kdy je využití sítě nízké, mají uživatelé vyšší datové limity. Velikost datového toku, který mají účty k dispozici, je přímo úměrný množství Steem Power, kterou má uživatel na svém kontě. Uživatelé tedy mohou vždy zvýšit objem dostupného datového toku získáním více Steem Power.
 
-## Conclusion
+## Závěr
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Unikátní motivační program a systém odměn, které nabízí Steem blockchain a STEEM mince, jsou koncipovány tak, aby ze Steemu vytvořily dokonalý odrazový můstek pro běžné uživatele do světa kryptoměn. Výkonnost blockchainu je navržena s ohledem na masové přijetí měny i platformy. V kombinaci s bleskově rychlými procesy a transakcemi bez poplatků směřuje Steem k tomu, aby se stal jednou z předních blockchain technologií, kterou využívají lidé z celého světa.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Abychom odlišili digitální minci od Steem blockchainu, je pojmenována velkými písmeny jakožto STEEM.
 
 [^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
 [^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Obnovení ukradeného účtu pro uživatele Steemit.com: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
 [^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
@@ -142,9 +142,9 @@ The unique rewards and incentive program offered by the Steem blockchain and tok
 
 [^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
-[^10]: Graphene Documentation http://docs.bitshares.org/
+[^10]: Dokumentace Graphene http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: Rámcová složka Steem blockchainu, která je zodpovědná za transakce a rozdělování odměn.
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
@@ -152,7 +152,7 @@ The unique rewards and incentive program offered by the Steem blockchain and tok
 
 [^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem" je slovo užívané v situaci, kdy uživatel v rámci Steem blockchainu sdílí obsah se svými odběrateli.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 

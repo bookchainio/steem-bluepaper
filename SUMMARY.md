@@ -10,6 +10,7 @@
 * [Deutsche](de-DE/Bluepaper.md)
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
 * [日本語](ja-JP/Bluepaper.md)
+* [Português](pt-PT/Bluepaper.md)
 * [Português (Brasil)](pt-BR/Bluepaper.md)
 * [Română](ro-RO/Bluepaper.md)
 * [Русский](ru-RU/Bluepaper.md)

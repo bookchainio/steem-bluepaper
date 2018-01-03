@@ -5,6 +5,8 @@
 * [বাংলা](bn-BD/Bluepaper.md)
 * [汉语](zh-CN/Bluepaper.md)
 * [Filipino](fil-PH/Bluepaper.md)
+* [Français](fr-FR/Bluepaper.md)
+* [Galego](gl-ES/Bluepaper.md)
 * [Deutsche](de-DE/Bluepaper.md)
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
 * [日本語](ja-JP/Bluepaper.md)

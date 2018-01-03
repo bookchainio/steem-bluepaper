@@ -11,6 +11,8 @@ Original Steem Bluepaper GitHub repository: https://github.com/steemit/bluepaper
 * [Bengali](bn-BD/Bluepaper.md) [@mrrifat1](https://steemit.com/@mrrifat1)
 * [Chinese Simplified](zh-CN/Bluepaper.md) [@stabilowl](https://steemit.com/@stabilowl), [@victory622](https://steemit.com/@victory622)
 * [Filipino](fil-PH/Bluepaper.md) [@ruah](https://steemit.com/@ruah)
+* [French](fr-FR/Bluepaper.md) [@melvin.etniopal](https://steemit.com/@melvin.etniopal)
+* [Galician](gl-ES/Bluepaper.md) [@accioncultural](https://steemit.com/@accioncultural), [@steembookx](https://steemit.com/@steembookx)
 * [German](de-DE/Bluepaper.md) [@jedigeiss](https://steemit.com/@jedigeiss), [@alexvan](https://steemit.com/@alexvan), [@theaustrianguy](https://steemit.com/@theaustrianguy) and [@afrog](https://steemit.com/@afrog)
 * [Indonesian](id-ID/Bluepaper.md) [@yandot](https://steemit.com/@yandot)
 * [Japanese](ja-JP/Bluepaper.md) [@inoue](https://steemit.com/japanese/@inoue/japanese-version-of-the-bluepaper)

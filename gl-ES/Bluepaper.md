@@ -106,7 +106,7 @@ Os Tokens Smart Media son tokens nativos que poden ser construidos na blockchain
 
 Se unha conta de usuaria fora comprometida, ela pode mudar súas chaves usando a chave privada da propietaria. No caso de que a atacante fora quen de comprometer a chave privada da propietaria e alterar a seña da conta, a usuaria ten 30 días para enviar unha chave anterior funcional a traverso do proceso innovador de recuperación de conta do Steem, e retomar o control da súa conta. Isto pode ser ofrecido por unha persoa ou compañía que forneza servizos de rexitro para o Steem. Non é obrigatorio que o rexistrador forneza este servizo ás usuarias, pero está dispoñible para mellorar a experiencia das usuarias de un rexitrador.
 
-### Srguridade a traverso de Bloqueos Temporais
+### Seguridade a traverso de Bloqueos Temporais
 
 Se as chaves activas ou de propietaria foran comprometidas, o atacante pode ter acceso total a todos os fundos na súa conta. Como as transaccións na blockchain son irreversibles, as usuarias non teñen xeito de recuperar seus fundos após de seren roubados.
 

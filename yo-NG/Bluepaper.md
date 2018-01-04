@@ -45,7 +45,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </h4>
 
 <p>
-  Awon asamulo ti n se Akoonu je iye afikun si netiwoki nipase sise awon ohun ti yoo sawari awon olumulo titun si ero yii, bakana toju awon olumulo ti o wa tele ti a npe ati se ere. Iranlowo yii n pin owo naa si egbe ti o po julo ti awon olumulo at mu ki ipa ip netiwoki po. Awon olumulo ti o mu akoko lati se Akojopo ati dibo lori akoonu n salaye ipa pataki ninu pinpin owo si awon olumulo ti o nfi iye julo se. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+  Awon asamulo ti n se Akoonu je iye afikun si netiwoki nipase sise awon ohun ti yoo sawari awon olumulo titun si ero yii, bakana toju awon olumulo ti o wa tele ti a npe ati se ere. Iranlowo yii n pin owo naa si egbe ti o po julo ti awon olumulo at mu ki ipa ip netiwoki po. Awon olumulo ti o mu akoko lati se Akojopo ati dibo lori akoonu n salaye ipa pataki ninu pinpin owo si awon olumulo ti o nfi iye julo se. Blockuchain n san gbogbo awon ise wonyi mejeeji ti o ni ibatan si iye awon ti o da lori ogbon ogbon ti awon enia ti agba nipase ona ipese ti o ni idiyele.
 </p>
 
 <h4>

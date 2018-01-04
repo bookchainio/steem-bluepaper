@@ -77,7 +77,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <p>
-  Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+  Nitori ti DPos, Steemu Blockuchain ni anfani lati se agbekale tuntun kan ni gbogbo awon aaya meta pelu isiro simenti ti o kere. Eyi tumo si pe Blockuchain le se itosana diee si ati ki o mu alaye siwaju sii, pelu akoonu.
 </p>
 
 <p>

@@ -73,7 +73,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </h3>
 
 <p>
-  Nigbagbogbo ti a fi oju si nipase imudaniloju-ti-ise (Pow), Opolopo awon Blockuchains ko le se iwonwon ju awon isowo meta lo fun keji, eyiti o je ida kan ninu ijabo owo agbaye meji. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.
+  Nigbagbogbo ti a fi oju si nipase imudaniloju-ti-ise (Pow), Opolopo awon Blockuchains ko le se iwonwon ju awon isowo meta lo fun keji, eyiti o je ida kan ninu ijabo owo agbaye meji. Steem nilo ilosiwaju pupo ati iyara ju eyiti a fi funni nipase PoW, ati pe algorithm ti o mo ju ti a pe ni Agbejade ti a finrase ti gig (DPoS) ni a gbe lati gbe ipile fun Blockuchain ti o baamu fun awon egbaagbeje awon olumulo.
 </p>
 
 <p>

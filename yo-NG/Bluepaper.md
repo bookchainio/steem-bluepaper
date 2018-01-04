@@ -57,11 +57,11 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <p>
-  Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+  Pelupelu, Steem nikan ngbanilaye awon omo egbe lati dibo pelu STEEM nigbati o ba se si ose ti iseto ti a npe ni Steem Power. Labe awose yi, awon omo egbe ni igbaradi owo lati dibo ni ona ti o mu iwon iye igba pipe ti STEEM won ga.
 </p>
 
 <h2>
-  Speed and Scale on the Steem Blockchain
+  Iyara ati Asekale lori Steemu Blockuchain
 </h2>
 
 <p>

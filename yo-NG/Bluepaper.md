@@ -65,7 +65,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </h2>
 
 <p>
-  The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+  Awon Steemu Blockuchain ti wa ni apere lati je okan ninu awon Blockuchains ti o ni kiakia ati daradara, eyiti o je dandan lati ni anfani lati se atileyin fun iye ti ijabo ti a reti lori aaye ayelujara ibaraenisoro ti o tobi ju titobi Reddit lo. Steem ti tele Bitcoin ti o poju ni awon nomba ti awon leko, o si le ni ipele lati se atileyin awon idunadura 10,000 tabi die sii fun aaya.
 </p>
 
 <h3>

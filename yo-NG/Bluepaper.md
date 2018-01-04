@@ -37,11 +37,11 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <p>
-  Ninu ipa ti wan fe gbe si ita ti wan se nipa Steemu bulookichain ni ododun, 75% awon ipa loni Won "ere gbogbo" ti won pin fun awon alarooko ati awon ounse. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+  Ninu ipa ti wan fe gbe si ita ti wan se nipa Steemu bulookichain ni ododun, 75% awon ipa loni Won "ere gbogbo" ti won pin fun awon alarooko ati awon ounse. 15% wa fun pin pin fun awon ton di tokini mu, ati 10% wa fun pin pin awon ton jeri, awon onisepo ti o n se itonisana ti o sakojopo inu Steemus DPoS Asanya isiro.
 </p>
 
 <h4>
-  Rewards for Content Creators and Curators
+  Ire Fun Awon Akoda Akoonu Ati Awon Onise
 </h4>
 
 <p>

@@ -69,7 +69,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <h3>
-  Delegated Proof of Stake (DPoS)
+  Eri ti a fi oja sile ti igi (DPoS)
 </h3>
 
 <p>

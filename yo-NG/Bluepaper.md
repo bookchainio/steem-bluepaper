@@ -33,11 +33,11 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <p>
-  Iye ti ipa titun fi n jade wa ni 9.5% lo dodun bere ni Ope 2016, oje wale ni iye 0.01% ni gbogbo 250,000 bulooki, abi bi 0.5% ni ododun. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+  Iye ti ipa titun fi n jade wa ni 9.5% lo dodun bere ni Ope 2016, oje wale ni iye 0.01% ni gbogbo 250,000 bulooki, abi bi 0.5% ni ododun. Afikun yi ma tesiwaju lati ma wale ni iye yi titi ti oma fide 0.95% leyin igba 20.5 years.
 </p>
 
 <p>
-  Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+  Ninu ipa ti wan fe gbe si ita ti wan se nipa Steemu bulookichain ni ododun, 75% awon ipa loni Won "ere gbogbo" ti won pin fun awon alarooko ati awon ounse. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 </p>
 
 <h4>

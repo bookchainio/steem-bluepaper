@@ -29,11 +29,11 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </p>
 
 <p>
-  Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+  Yato si PoW-nikan cryptocurrencies, ipa ninu Steemu nwa gbe jade ni aifowoyi igba ni bulooki kan ni iseju kan meta meta. Awon ipa yi ma n pin si orisi osheere ninu ibi yi gegebi ofin bulookichain. Awon Oseere yi, bi awon alarooko, eleri, ati awon ounse, ma n wako ni orisirisi ona fun ipa yi. Yato si Ibile PoW nipa pin pin, nibi to mainassi n di je lori agbara aiyi fifisi, awon oseere ninu netiworki Steemu ma n gba iwuri lati di je ni ona lati fi iwulo kun netiworki naa.
 </p>
 
 <p>
-  The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+  Iye ti ipa titun fi n jade wa ni 9.5% lo dodun bere ni Ope 2016, oje wale ni iye 0.01% ni gbogbo 250,000 bulooki, abi bi 0.5% ni ododun. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 </p>
 
 <p>

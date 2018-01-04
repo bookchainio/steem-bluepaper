@@ -73,7 +73,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </h3>
 
 <p>
-  Often bottlenecked by Proof-of-Work (PoW)<fnref target="6" />, many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.
+  Nigbagbogbo ti a fi oju si nipase imudaniloju-ti-ise (Pow), Opolopo awon Blockuchains ko le se iwonwon ju awon isowo meta lo fun keji, eyiti o je ida kan ninu ijabo owo agbaye meji. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.
 </p>
 
 <p>

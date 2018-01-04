@@ -53,7 +53,7 @@ Ni papa crypto-currencies, ai si iru STEEM je ki o ja fafa ati gb ode yato si aw
 </h4>
 
 <p>
-  Steemu n sise lori ipile okan - STEEM, okan-idibo. Labe awose yi, awon eni-kookan ti o ti se pataki julo si ipile, gegebi a se ayewo nipase iseduro isowo won, ni pa pupo julo lori bi a se awon idiwon. A le ra ile-igbimo tabi mina. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+  Steemu n sise lori ipile okan - STEEM, okan-idibo. Labe awose yi, awon eni-kookan ti o ti se pataki julo si ipile, gegebi a se ayewo nipase iseduro isowo won, ni pa pupo julo lori bi a se awon idiwon. A le ra ile-igbimo tabi mina. Awon olumulo ko le ni afikun ipa nipase nini awon akoole pupo, nitori pe okan iroyin pelu iye ti igi yoo ni ipa kanna gegebi awon iroyin orisirisi meji pinpin iye kanna ti igi. Ona kan soso fun awon olumulo lati mu ki ipa won wa ni aaye yii ni lati mu igi won po sii.
 </p>
 
 <p>

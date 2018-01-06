@@ -58,7 +58,7 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 ## 스팀의 플랫폼 기능
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+스팀 블록체인은 주류(mainstream) 소셜 미디어 플랫폼뿐만 아니라 디지털 토큰 처리 시스템 역할을 담당하고 있습니다. 블록체인에 의해 제공되는 기능들은 플랫폼, 디지털 토큰 시스템 역할을 지원하고, 플랫폼 및 디지털 토큰 시스템을 이용할 때 사용자에게 세계 최고의 경험을 제공하기 위해 필요합니다.
 
 ### Primitives Designed for Content Applications
 

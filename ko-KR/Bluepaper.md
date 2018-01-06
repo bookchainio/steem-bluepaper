@@ -62,7 +62,7 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 ### 콘텐츠 애플리케이션을 위해 고안된 프리미티브
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 리저(ledger) 로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -52,7 +52,7 @@ ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 �
 
 ### AppBase
 
-AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBase 은 전용 플러그인 역할을 하는 비합의(non-consensus) 블록체인을 추가 생성하여 스팀 블록체인의 많은 구성요소들을 모듈화할 수 있습니다. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

@@ -91,7 +91,7 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari rentetan huruf dan nombor rawak yang panjang, bagaimanapun, alamat dompet ini dapatmembuat kesulitan untuk berinteraksi dengan pengguna lain dalamkonteks sosial-media sosial yang biasa kerana pengguna tidakdapat mengingat alamat panjang dari memori. Rakaman Steem mengunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang melengkapi pengalaman pengguna untuk peserta yang cuba menghantar token kerana mereka boleh mengesahkan alamat dari memori mereka sendiri.
 </p>
 
 <h3>
@@ -99,7 +99,7 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 </p>
 
 <p>

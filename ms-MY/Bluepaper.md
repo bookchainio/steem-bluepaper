@@ -47,7 +47,7 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </p>
 
 <p>
-  By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih mengikut kerangka DPoS boleh dengan cepat dan cekap membuat keputusan mengenai Apa atau tidak untuk bergerak ke hadapan dengan cadangan yang diusulkan, membenarkan protokol blockchain Steem berkembang lebih cepat daripada kebanyakan orang lain- lain. Rantaian Steem telah berjaya mencetak 18 kali<fnref target="8" />, da setiapkali Hardfork telah berlaku, hanya rantai tunggal yang berterusan selepas garpu.
 </p>
 
 <h3>

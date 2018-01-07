@@ -83,11 +83,11 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+  Steem menawarkan pengguna keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secra langsung dan kekal ke dalam buku leher yang tidak berubah sebagai blockchain sebagai teks biasa. Sebaik sahaja disimpan di blockchain, data tersedia secara terbuka untuk pemaju untuk membina dari. Pemaju dapat berinteraksi dengan kandungan secara langsung di blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
 </p>
 
 <h3>
-  Native Name System
+  Sistem Nama Asli
 </h3>
 
 <p>

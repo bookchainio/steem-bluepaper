@@ -58,11 +58,11 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 ## 스팀의 플랫폼 기능
 
-주류(mainstream) 소셜 미디어 플랫폼뿐만 아니라 디지털 토큰 처리 시스템을 위해 스팀 블록체인을 사용합니다. 블록체인에 의해 제공되는 기능들은 플랫폼, 디지털 토큰 시스템 역할을 지원하고, 플랫폼 및 디지털 토큰 시스템을 이용할 때 사용자에게 세계 최고의 경험을 제공하기 위해 필요합니다.
+스팀 블록체인은 주류(mainstream) 소셜 미디어 플랫폼뿐만 아니라 디지털 토큰 처리 시스템 용도로도 사용합니다. 블록체인에 의해 제공되는 기능들은 플랫폼, 디지털 토큰 시스템 역할을 지원하고, 플랫폼 및 디지털 토큰 시스템을 이용할 때 사용자에게 세계 최고의 경험을 제공하기 위해 필요합니다.
 
 ### 콘텐츠 애플리케이션을 위해 고안된 프리미티브
 
-스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 리저(ledger) 로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 원장(ledger) 으로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

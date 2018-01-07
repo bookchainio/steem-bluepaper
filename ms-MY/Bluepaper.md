@@ -99,19 +99,19 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. Untuk membantu merapatkan jurang antara sistem wang flat yang lebih tradisional yang digunakan pengguna arus perdana, dan token cryptocurency yang mereka diberikan melalui platform, mata uang baru yang disebut Steem Blockchain Dollars (SBD) telah diwujudkan.
 </p>
 
 <p>
-  SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  Token SBD direka bentuk untuk dipatok rapat dengan satu USD, supaya pengguna yang menerima mereka dapat mengetahui lebih kurang berapa nilai mereka dalam istilah "dolar sejati. Token SBD juga menawarkan mata wang yang agak stabil bagi pengguna untuk memegang jika mereka ingin mengekalkan nilai akaun mereka berbanding dengan USD. Penjelasan teknikal yang lebih terperinci boleh didapati di dalam whitepaper teknikal Steem.<fnref target="12" />
 </p>
 
 <h3>
-  Decentralized Exchange
+  Bursa Desentralisasi
 </h3>
 
 <p>
-  The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
 </p>
 
 <h3>

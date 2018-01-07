@@ -111,7 +111,7 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
 </p>
 
 <h3>

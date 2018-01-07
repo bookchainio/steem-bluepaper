@@ -67,19 +67,19 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </p>
 
 <p>
-  Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. Ini jauh lebih cekap daripada memerlukan setiap inti, dan setiap komputer dalam rangkaian mengekalkan keseluruhan blok tersebut. Mengubah modul blok ini membolehkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah satu langkah yang perlu dalam proses yang panjang untuk mewujudkan blok block yang sepenuhnya selari, sepenuhnya dioptimumkan.
 </p>
 
 <h2>
-  Steem’s Platform Features
+  Ciri Platform Steem
 </h2>
 
 <p>
-  The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  Blockchain Steem menghidangkan dua tujuan untuk menjadi sistem pemprosesan token digital, serta platform mediasosial arus perdana. Ciri-ciri ditawarkan oleh blockchain perlu menyokong kedua-dua tujuan, dan memberikan pengguna pengalaman bertaraf dunia apabila menggunakan kedua-dua aspek platform.
 </p>
 
 <h3>
-  Primitives Designed for Content Applications
+  Primitif Direka untuk Aplikasi Kandungan
 </h3>
 
 <p>

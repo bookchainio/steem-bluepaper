@@ -63,11 +63,11 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  AppBase adalah langkah pertama dalammewujudkan FABRIK pelbagai rantaian. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  AppBase adalah langkah pertama dalammewujudkan FABRIK pelbagai rantaian. AppBase membolehkan banyak komponen blok block Steem untuk menjadi modular dengan mewujudkan tambahan blok konsensus bukan konsensus sebagai plugin yang berdedikasi. Plugin ini boleh dikemas kini dengan lebih cepat kerana merekatidak memerlukan ulangan keseluruhan blockchain. Ini menjadikan kedudukan<fnref target="11" /> jauh lebih cekap dan lebih mudah untuk mengekalkan denngan skala.
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 </p>
 
 <h2>

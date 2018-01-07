@@ -51,11 +51,11 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </p>
 
 <h3>
-  ChainBase
+  Chainbase
 </h3>
 
 <p>
-  ChainBase<fnref target="9" /> is the database portion of the blockchain stack and replaced Graphene<fnref target="10" /> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  ChainBase<fnref target="9" /> adalah bahagian pangkalan data timbunan blockchain dan menggantikan Graphene<fnref target="10" /> pada 2016. ChainBase mempunyai masa lebih cepat dan keluar, menyokong akses selari ke pangkalan data dan lebih kuat berbanding kemalangan daripada pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" keseluruhan keadaan pangkalan data serta boleh melayani lebih banyak permintaan RPC dari ingatan yang sama.
 </p>
 
 <h3>
@@ -63,7 +63,7 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  AppBase adalah langkah pertama dalammewujudkan FABRIK pelbagai rantaian. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
 </p>
 
 <p>

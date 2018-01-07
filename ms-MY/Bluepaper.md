@@ -40,10 +40,10 @@ Rantaian blok Steem direka untuk menjadi salah satu daripada rantaian blok yang 
 
 ### Bukti Oleh Kepentingan (DPoS)
 
-Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" class="footnote-ref"> 6 </ 0>, banyak blockchains tidak skala melebihi tiga pindah milik sesaat, yang merupakan sebahagian kecil dari trafik kewangan di dunia. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.</p> 
+Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" class="footnote-ref"> 6 </ 0>, banyak blockchains tidak skala melebihi tiga pindah milik sesaat, yang merupakan sebahagian kecil dari trafik kewangan di dunia. Steem diperlukan skala yang jauh lebih banyak dan pantas berbanding yang ditawarkan oleh PoW, dan jadi algoritma dikenali yang lebih kecil dikenali sebagai bukti rasa puas kepentingan (DPoS) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref"> 7 </ 0> adalah dimanfaatkan bagi penyediaan asas bagi blockchain yang sesuai untuk bernilion-bilion pengguna.</p> 
 
 <p>
-  Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+  Oleh kerana DPoS, Steem blockchain adalah mampu menghasilkan sebuah blok baru setiap 3 saat dengan yang pengiraannya minimal. Ini berarti bahawa blockchain yang bisa diimpor lebih banyak pindah milik dan maklumat lanjut termasuk kandungan.
 </p>
 
 <p>

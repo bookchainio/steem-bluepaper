@@ -85,11 +85,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Eto ipile
+  Chainbase
 </h3>
 
 <p>
-  Chain ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  Chain ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Chainbase ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
 </p>
 
 <h3>

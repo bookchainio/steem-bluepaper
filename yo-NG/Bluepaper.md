@@ -81,7 +81,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  Nipa se apejuwe awon ofin fun igba ti Hardfork ba waye, awon eleri ti a yan ninu ilana DPos le se ipinu kiakia ati daradara lori boya tabi so se lo siwaju pelu hardfork kan ti a pinnu, ti o je ki ilana Steemu Blockuchain naa dagbasoke ni kiakia ju opolopo awon miran lo. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 </p>
 
 <h3>

@@ -81,15 +81,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Nipa se apejuwe awon ofin fun igba ti Hardfork ba waye, awon eleri ti a yan ninu ilana DPos le se ipinu kiakia ati daradara lori boya tabi so se lo siwaju pelu hardfork kan ti a pinnu, ti o je ki ilana Steemu Blockuchain naa dagbasoke ni kiakia ju opolopo awon miran lo. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  Nipa se apejuwe awon ofin fun igba ti Hardfork ba waye, awon eleri ti a yan ninu ilana DPos le se ipinu kiakia ati daradara lori boya tabi so se lo siwaju pelu hardfork kan ti a pinnu, ti o je ki ilana Steemu Blockuchain naa dagbasoke ni kiakia ju opolopo awon miran lo. Awon Steemu Blockuchain ti saseuori ni isere ni igba 18, ati ni gbogbo igba ti Hardfork kan ti sele, Nikan kan pq ti tenisi lehin isita.
 </p>
 
 <h3>
-  ChainBase
+  Eto ipile
 </h3>
 
 <p>
-  ChainBase<fnref target="9" /> is the database portion of the blockchain stack and replaced Graphene<fnref target="10" /> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  Chain ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 </p>
 
 <h3>

@@ -125,7 +125,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  Awon adiresi apamowo ti opolopo awon imo-ero blockuchain ti a lo, bii Bitcoinu ati Ethereumu, ni itanje awon gbolohun oro ti awon leta ati awon nomba, sibesibe, awon adiresi apamowo wonyi le se kio soro lati se ajosepo pelu awon olumulo miiran ni asoju onlini-awujo-mediani nitori ti awon olumulo ko lagbaralati ranti awon adiresi gigun lati iranti. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 </p>
 
 <h3>

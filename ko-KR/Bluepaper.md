@@ -80,7 +80,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 에스크로를 통한 지불(payment)
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+다른 사람에게 보낸 토큰에 대해 상대방이 거래 약속을 지키지 않더라도 해당 토큰을 돌려받을 수 있는 방법이 없는 상황이라면 사용자가 다른 사람에게 토큰을 보내는 것을 선호하지 않을 수도 있지만, 블록체인 트랜잭션의 비가역적인(irreversible) 특성은 중요한 보안 기능입니다. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

@@ -62,9 +62,9 @@ De Steem blockchain dient een duaal doel van een digitaal token verwerkingssyste
 
 ### Primitieven Ontworpen voor Inhoudstoepassing
 
-Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content te publiceren en op te slaan, rechtstreeks en permanent op de onveranderlijke posten van de blockchain als tekst zonder opmaak. Wanneer opgeslagen in de blockchain wordt data publiekelijk beschikbaar voor ontwikkelaars om uit te bouwen. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content te publiceren en op te slaan, rechtstreeks en permanent op de onveranderlijke posten van de blockchain als tekst zonder opmaak. Wanneer opgeslagen in de blockchain wordt data publiekelijk beschikbaar voor ontwikkelaars om uit te bouwen. Ontwikkelaars hebben de mogelijkheid om direct met content te werken door de beschikbare API's. Een aantal van de blockchain primitieven waar ontwikkelaars van kunnen bouwen zijn Account namen, Berichten, Opmerkingen, Stemmen en Betalingsbalans.
 
-### Native Name System
+### Inheems Naam Systeem
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

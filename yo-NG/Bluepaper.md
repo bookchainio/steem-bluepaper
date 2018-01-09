@@ -113,7 +113,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Primitives Designed for Content Applications
+  Akokoti a se apere fun Awon ohun elo Inu
 </h3>
 
 <p>

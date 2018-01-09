@@ -6,7 +6,7 @@ Steem menyediakan protokol blockhain berskala[^1] bagi kandungan boleh diakses s
 
 Berbanding blockchains lain, Steem menonjol sebagai pangkalan data boleh diakses secara terbuka pertama kandungan ketahanan disimpan dalam bentuk teks, bersama-sama dengan satu mekanisme incentivization dibina. Ini menjadikan Steem platform penerbitan awam dari mana Internet mana-mana permohonan boleh tarik dan berkongsi data semasa memberi ganjaran kepada orang-orang yang menyumbang kandungan paling berharga.
 
-Dalam bidang crypto-matawang, sifat-sifat unit STEEM membuatnya "pintar" dan "sosial" berbanding dengan orang lain, seperti bitcoin dan eter. Ini berpunca daripada dua ciri token baru. Yang pertama ialah sekumpulan token yang khusus untuk incentivizing penciptaan kandungan dan curation (dipanggil "ganjaran Iuaran"). Kedua ialah sistem pengundian yang memanfaatkan kebijaksanaan orang ramai untuk menilainilai kandungan dan mengedar token kepadanya. Dua sifat unik ini apabila digabungkan akan dirujuk sebagai bukti otak, iaitu maksud lain bagi bukti pekerjaan [^4], bertujuan untuk menekankan kerja manusia yang diperlukan untuk mengedar token kepada komuniti peserta. Bukti otak meletakkan kedudukan bagi STEEM sebagai alat untuk membina komuniti yang terus menerus berkembang, yang menggalakkan ahli-ahli mereka untuk menambah nilai kepada komuniti melalui struktur ganjaran yang terbina di dalamnya.
+Dalam bidang crypto-matawang, sifat-sifat unit STEEM membuatnya "pintar" dan "sosial" berbanding dengan orang lain, seperti bitcoin dan eter. Ini berpunca daripada dua ciri token baru. Yang pertama ialah sekumpulan token yang khusus untuk incentivizing penciptaan kandungan dan curation (dipanggil "ganjaran Iuaran"). Kedua ialah sistem pengundian yang memanfaatkan kebijaksanaan orang ramai untuk menilainilai kandungan dan mengedar token kepadanya. Dua sifat unik ini apabila digabungkan akan dirujuk sebagai bukti otak, iaitu maksud lain bagi bukti pekerjaan [^4], bertujuan untuk menekankan kerja manusia diperlukan untuk mengedar token kepada masyarakat peserta. Bukti otak meletakkan kedudukan bagi STEEM sebagai alat untuk membina komuniti yang terus menerus berkembang, yang menggalakkan ahli-ahli mereka untuk menambah nilai kepada komuniti melalui struktur ganjaran yang terbina di dalamnya.
 
 Tambahan daripada kemajuan ini dalam rantaian blok dan teknologi token, Steem sebagai satu sistem menyediakan ciri-ciri lanjutan tambahan untuk meningkatkan pengalaman pengguna, seperti pemulihan akaun yang dicuri [^5], Perkhidmatan escrow, kandungan pengguna yang dipromosi, sistem reputasi, dan akaun simpanan. Kesemua ini dilakukan bersama dengan menyediakan pengguna dengan pengesahan tiga saat dan sifar yuran untuk semua transaksi. Semua ini membolehkan ia untuk menyokong misi membawa mata wang pintar dan sosial kepada penerbit dan pembina komuniti di seluruh Internet.
 
@@ -111,11 +111,11 @@ Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" 
 </h3>
 
 <p>
-  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. <fnref target="14" />
 </p>
 
 <h3>
-  Payments Through Escrow
+  Pembayaran melalui Escrow
 </h3>
 
 <p>

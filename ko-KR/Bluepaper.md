@@ -76,7 +76,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 분권화된 거래소
 
-스팀 블록체인은 비트쉐어 거래소[^13]와 유사한 분권화된 토큰 거래소를 제공합니다. 거래소에서 사용자들은 공개적으로 분권화된 개인 대 개인(peer-to-peer) 시장을 통해 STEEM과 SBD 토큰을 거래할 수 있습니다. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+스팀 블록체인은 비트쉐어 거래소[^13]와 유사한 분권화된 토큰 거래소를 제공합니다. 거래소에서 사용자들은 공개적으로 분권화된 개인 대 개인(peer-to-peer) 시장을 통해 STEEM과 SBD 토큰을 거래할 수 있습니다. 사용자들은 매수, 매도 주문을 할 수 있고 주문 체결은 블록체인에 의해 자동적으로 수행됩니다. 또한, 사용자들이 시장을 분석할 수 있도록 공개적으로 접근할 수 있는 주문 대장(order book) 과 주문 기록을 제공합니다. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

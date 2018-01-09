@@ -52,17 +52,17 @@ ChainBase[^9] 는 블록체인 스택에서 데이터베이스에 해당하는 �
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBase 은 전용 플러그인 역할을 하는 비합의(non-consensus) 블록체인을 추가 생성하여 스팀 블록체인의 많은 구성요소들을 모듈화할 수 있습니다. 이들 플러그인은 전체 블록체인을 리플레이(replaying) 하지 않기 때문에 좀 더 빠르게 업데이트할 수 있습니다. AppBase 덕분에 steemd[^11] 는 관리와 확장이 훨씬 쉬워졌고 효율성도 향상되었습니다.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+사실 AppBase 는 서로 다른 코어(core), 심지어 다른 컴퓨터에서 스팀 블록체인의 다른 부분들을 관리하는 것이 가능하다. 이같은 방식은 네트워크 안의 모든 코어와 모든 컴퓨터에서 전체 블록체인을 유지하는 것보다 훨씬 효율적이다. 블록체인을 모듈화하면 컴퓨터 모듈화와 관련된 특성을 모두 활용할 수 있습니다. 이것은 블록체인의 완전한 병렬화, 충분한 최적화를 달성하기 위한 긴 여정에서 반드시 필요한 단계입니다.
 
-## Steem’s Platform Features
+## 스팀의 플랫폼 기능
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+스팀 블록체인은 주류(mainstream) 소셜 미디어 플랫폼뿐만 아니라 디지털 토큰 처리 시스템 용도로도 사용합니다. 블록체인에 의해 제공되는 기능들은 플랫폼, 디지털 토큰 시스템 역할을 지원하고, 플랫폼 및 디지털 토큰 시스템을 이용할 때 사용자에게 세계 최고의 경험을 제공하기 위해 필요합니다.
 
-### Primitives Designed for Content Applications
+### 콘텐츠 애플리케이션을 위해 고안된 프리미티브
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 원장(ledger) 으로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

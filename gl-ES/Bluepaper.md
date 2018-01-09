@@ -106,7 +106,7 @@ Os Tokens Smart Media son tokens nativos que poden ser construidos na blockchain
 
 Se unha conta de usuaria fora comprometida, ela pode mudar súas chaves usando a chave privada da propietaria. No caso de que a atacante fora quen de comprometer a chave privada da propietaria e alterar a seña da conta, a usuaria ten 30 días para enviar unha chave anterior funcional a traverso do proceso innovador de recuperación de conta do Steem, e retomar o control da súa conta. Isto pode ser ofrecido por unha persoa ou compañía que forneza servizos de rexitro para o Steem. Non é obrigatorio que o rexistrador forneza este servizo ás usuarias, pero está dispoñible para mellorar a experiencia das usuarias de un rexitrador.
 
-### Srguridade a traverso de Bloqueos Temporais
+### Seguridade a traverso de Bloqueos Temporais
 
 Se as chaves activas ou de propietaria foran comprometidas, o atacante pode ter acceso total a todos os fundos na súa conta. Como as transaccións na blockchain son irreversibles, as usuarias non teñen xeito de recuperar seus fundos após de seren roubados.
 
@@ -126,34 +126,34 @@ O programa singular de recompensas e incentivos ofrecidos pola Blockchain de Ste
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Para diferenciar ete do termo da steem blockchain, a correcta grafía para o token nativo dixital é STEEM.
 
-[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+[^3]: Volume de Transacción: Reporte de Transaccións por segundo. Testemuña Steem e usuaria "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
 [^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
 
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+[^5]: Iniciación a Recuperación de Contas Roubadas para usuarias de Steemit.com: 07-13-2017 https://steemit.com/recover\_account\_step\_1
 
-[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+[^6]: Problemas de Escalabilidade do Bitcoin https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
 
 [^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
 
-[^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
+[^8]: Propoñendo o hardfork 0.20: Velocity https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
 
 [^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
 
 [^10]: Graphene Documentation http://docs.bitshares.org/
 
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+[^11]: Compoñente da Contorna de traballo da responsable do proceso das transaccións e distribución das recompensas.
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: Troco Descentralizado Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
-[^14]: Steemit.com Currency Market https://steemit.com/market
+[^14]: Mercado de Moedas Steemit.com https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: “Resteem” é o termo usado na Blockchain Steem para decir que unha usuaria partillou contido alleo coas súas seguidoras.
 
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^16]: Xestión Flexible da Identidade con Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdfParagraph text
 
 [^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

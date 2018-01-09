@@ -2,7 +2,7 @@
 
 ## Giriş
 
-Steem kamusal olarak erişilebilir ve sabit içerik için, insanların onu beyinlerini kullanarak edinmelerine olanak saglayan (“Proof-of-Brain” olarak adlandırılabilecek) hizli ve ücretsiz bir dijital token ile birlikte (STEEM adında))[^2] ölçeklendirilebilir bir blockchain protokolü[^1] saglar. Bu protokolün iki ana yapi tasi, blockchain ve token, sabitlik ve uzun ömürlülük icin birbirine bagimlidir ve bu yüzden de birbirlerinin varliginin ayrilmaz birer parcasidir. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır [^3]
+Steem, insanların ("Proof-of-Brain" olarak adlandırılabilecek yöntemle) zihinlerini kullanarak para kazanmalarına olanak sağlayan (STEEM olarak adlandırılan)[^2] hızlı ve ücretsiz bir dijital jetonun yanı sıra, kamuya açık ve susturulamayan içerik için ölçeklendirilebilir bir blockchain protokolü [^1] sağlar. Bu protokolün iki ana yapi tasi, blockchain ve token, sabitlik ve uzun ömürlülük icin birbirine bagimlidir ve bu yüzden de birbirlerinin varliginin ayrilmaz birer parcasidir. Steem bir yılı aşkın süredir faliyet halindedir ve şu an itibariyle, işlenen hareketlerin sayısı bakımından, hem Bitcoin'i hem de Ethereum'u geride bırakmıştır [^3]
 
 Steem, diger Blockchainler ile kıyaslandığında, yerleşik teşvik mekanizması ile birlikte; düz metin olarak sabit halde saklanan içerige yönelik kamusal olarak erişilebilir ilk veritabani olmasi yönüyle öne cikmaktadir. Bu Steem’i en değerli içeriklerle katkı yapanları ödüllendirirken; ayni zamanda herhangi bir internet uygulamasının kendisinden veri çekebileceği ve onu paylaşabileceği bir kamusal paylaşım platformu haline getirmektedir.
 
@@ -16,7 +16,7 @@ Kullanıcıları token temelli bir topluluk sistemine katkıda bulunduğu için 
 
 ### Ödül Havuzu ("Token'lar nereden gelir?")
 
-Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, kendisi sayesinde token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödül Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchaininde PoW blockchaininde olandan farklı bir sekilde üretildiğini anlamalıyız. Geleneksel PoW blockchain'inde, token'lar düzenli olarak üretilmekte, fakat, makinaları belirli isleri yapmakta olan insanlara ("madenciler") rastgele dağıtilmaktadir.
+Steem blok zincirinin en yenilikçi (ve en yanlış anlaşılan) özelliklerinden biri, kendisi sayesinde token'ların değerli içerik yaratıcılarına dağıtıldığı "Ödül Havuzu" dur. Ödül Havuzu'nun ne olduğunu anlamak için, önce token'ların DPoS blockchaininde PoW blockchaininde olandan farklı bir sekilde üretildiğini anlamalıyız. Geleneksel PoW blockchain'nde, token'lar düzenli olarak üretilmekte, fakat, makinaları belirli isleri yapmakta olan insanlara ("madenciler") rastgele dağıtilmaktadir.
 
 Sadece PoW'a dayanan kripto para birimlerinden farklı olarak, Steem'deki token'lar her üç saniyede bir blok seklinde sabit bir hızda üretilir. Bu token'ler, blockchainin tanımlanmış kurallarına dayanarak sistemdeki çeşitli aktörlere dağıtılır. İçerik yaratıcıları, witness'lar ve küratörler gibi bu aktörler tokenler için özel yollarla rekabet eder. Madencilerin ham bilgi işlem gücü üzerinden rekabet ettikleri geleneksel PoW paylasim yollarinin aksine, Steem ağındaki aktörler, ağa değer katan yollarla rekabet etme konusunda teşvik edilirler.
 

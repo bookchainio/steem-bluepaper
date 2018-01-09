@@ -60,9 +60,9 @@ Technisch gezien zorgt AppBase dat verschillende cores, of zelfs verschillende c
 
 De Steem blockchain dient een duaal doel van een digitaal token verwerkingssysteem als een mainstream sociaal media platform. De mogelijkheden van de blockchain moeten beide doeleinden ondersteunen, en gebruikers voorzien van een ervaring van wereld klasse bij het gebruik van beide aspecten van het platform.
 
-### Primitives Designed for Content Applications
+### Primitieven Ontworpen voor Inhoudstoepassing
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content te publiceren en op te slaan, rechtstreeks en permanent op de onveranderlijke posten van de blockchain als tekst zonder opmaak. Wanneer opgeslagen in de blockchain wordt data publiekelijk beschikbaar voor ontwikkelaars om uit te bouwen. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

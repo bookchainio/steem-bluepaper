@@ -101,11 +101,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. Eyi se pataki die sii ju ti nilo gbogbo ogbon, ati gbogbo komputa ni netwoki n setoju gbogbo blockuchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. Eyi se pataki die sii ju ti nilo gbogbo ogbon, ati gbogbo komputa ni netwoki n setoju gbogbo blockuchain. Apojuwon awon blockuchain faye gba o lati lo anfani kikun ti awon apojuwon iseda ti awon komputa. Eyi je igbese kan pataki ni ona pipe ti siseda ni kikun ni afiwe, ti o se agbeyewo blockuchain ni kikun.
 </p>
 
 <h2>
-  Steem’s Platform Features
+  Pepe Steemu Awon eya ara ero
 </h2>
 
 <p>

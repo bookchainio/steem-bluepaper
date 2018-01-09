@@ -66,13 +66,13 @@ Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content t
 
 ### Inheems Naam Systeem
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Portemonnee adressen die door veel blockchain technologieën, zoals Bitcoin en Ethereum, worden gebruikt, hebben historisch gezien meestal uit lange reeksen van willekeurige letters en cijfers bestaan. Deze portemonnee adressen maken het echter moeilijk om te handelen met andere gebruikers in een typische social media context omdat gebruikers hun lange adressen niet makkelijk kunnen onthouden. De Steem blockchain gebruikt de gebruikersnaam van elke deelnemer als hun portemonnee adres, wat de gebruikservaring voor deelnemers die tokens willen versturen versterkt, omdat ze gemakkelijk het adres kunnen controleren.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Veel gebruikers die kennis maken met cryptocurrency hebben moeite te begrijpen hoe ''magische internet tokens'' toegekend door het platform daadwerkelijk waarde kunnen hebben in de echte wereld. Om de kloof te overbruggen tussen meer traditioneel fiat geld wat mainstream gebruikers gewend zijn, en de cryptocurrencies tokens die door het platform worden toegekend, werd er een nieuwe munt, de "Steam Blockchain Dollar" (SBD) gemaakt.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokens zijn ontworpen om nauw gekoppeld te blijven aan een Amerikaanse dollar (USD), zodat de gebruikers die het ontvangen weten hoeveel ze ongeveer waard zijn in "echte" dollars. SBD tokens bieden ook een relatief stabiele valuta voor gebruikers om te houden als ze op zoek zijn naar een manier om hun accountwaarde te behouden ten opzichte van de USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

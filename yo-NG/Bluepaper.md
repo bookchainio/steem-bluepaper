@@ -85,19 +85,19 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Eto ipile
+  Pq mimo
 </h3>
 
 <p>
-  Eto ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Chainbase ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
+  Pq mimo je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Pq mimo ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
 </p>
 
 <h3>
-  AppBase
+  App mimo
 </h3>
 
 <p>
-  AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  App mimo je igbese akoko ni siseda eda FARIC pupo. App mimo se iranlowo fun opolopo awon irinse ti Steemu Blockuchain lati di modular nipase sise awon afikun Blockuchain ti kii se igbimo gegebi awon afikun afikun. Awon afikun wonyi wa ni imudojuiwon die sii sii nyara nitori won ko beere fun tunse gbogbo Blockuchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
 </p>
 
 <p>

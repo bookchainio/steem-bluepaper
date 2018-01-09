@@ -101,7 +101,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. Eyi se pataki die sii ju ti nilo gbogbo ogbon, ati gbogbo komputa ni netwoki n setoju gbogbo blockuchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 </p>
 
 <h2>

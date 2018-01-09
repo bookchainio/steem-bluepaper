@@ -8,13 +8,13 @@ In vergelijking met andere blockchains onderscheidt Steem zich als eerste openba
 
 Op het gebied van crypto-currencies (cryptomunten) maken de unieke eigenschappen van STEEM het "slim" en "sociaal" ten opzichte van andere currencies, zoals bitcoin en ether. Dit komt voort uit twee nieuwe token functies. De eerste is een poel van tokens gewijd aan de stimulering van content creation (het creëren van nieuwe inhoud) en de curatie hiervan. Deze poel wordt de "beloningen poel" genoemd. De tweede functie is een stem systeem wat gebruik maakt van de wijsheid van de menigte om de waarde van content te kunnen beoordelen hier tokens over te verdelen. Deze twee unieke eigenschappen, wanneer gecombineerd, worden aangeduid als Proof-of-Brain of Bewijs-van-Brein, een entendre gebaseerd op Proof-of-Work of Bewijs-van-Werk[^4], bedoeld om de menselijke arbeid vereis voor het distributeren van de tokens aan de deelnemers van de gemeenschap te benadrukken. Bewijs-van-Brein positioneert STEEM als hulpmiddel voor het maken van voortdurend groeiende gemeenschappen die hun leden aanmoedigen om hun waarde aan hun gemeenschap toe te voegen, door middel van de ingebouwde structuur van beloningen.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Naast deze vooruitgang in blokchain en token technologie, zorgt Steem als systeem ook voor aanvullende geavanceerde functies om de gebruikerservaring te verbeteren. Voorbeelden hiervan zijn de mogelijkheid om een gestolen account terug te krijgen[^5], de mogelijkheid om borg te krijgen, inhoud die door gebruikers worden gepromote, een reputatie systeem, en spaarrekeningen. Dit allemaal met maar drie seconden wachten op een bevestiging, en zonder transactiekosten op alle transacties. Al deze dingen samen geven de mogelijkheid om de missie, het brengen van slimme en sociale valuta aan uitgevers en gemeenschapsbouwers via het internet, waar te maken.
 
-## Proof of Brain: Smart and Social Tokens
+## Proof of Brain (Bewijs van Brein): Slimme en Sociale Tokens
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Token systemen die gebruikers belonen wanneer ze een bijdrage leveren aan een op tokens gebaseerd gemeenschapssysteem hebben mechanismes nodig om de sociale waarde van deze bijdragen te kunnen opzetten en inschatten. Deze mechanismes noemen we Proof-of-Brain of Bewijs van Brein.
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### De Beloningen Poel ("Waar komen de tokens vandaan?")
 
 One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 

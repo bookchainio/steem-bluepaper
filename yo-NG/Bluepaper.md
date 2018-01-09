@@ -133,11 +133,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Opolopo awon olumulo ti a se lati cyrptocurrency Ijakadi latini oye bi "awon asoju ayelujara idan tokini" ti a fun nipase awon pepe le gan gidi aye aye. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Opolopo awon olumulo ti a se lati cyrptocurrency Ijakadi latini oye bi "awon asoju ayelujara idan tokini" ti a fun nipase awon pepe le gan gidi aye aye. Lati se iranwo fun aago laarin awon eto isowo ilosiwaju ti o niise julo ti awon olumulo nlo si, ati awon aami ti a fi fun won ni ipamo, ori tokini tuntun kan ti a npe ni Steemu Blockuchain Dola (SBD).
 </p>
 
 <p>
-  SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  Tokini SBD ti se apere lati wa ni pekipeki si USD kan, ki awon olumulo ti o gba won le mo iye ti o dara ni "owo gidi" aago. Awon SBD nfun owo kan ti o ni irewon fun awon olumulo lati mu won ti won ba n wa lati se itoju owo won ni USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
 </p>
 
 <h3>

@@ -100,11 +100,11 @@ Voor elke willekeurige post kunnen er een aantal verschillende mensen zijn die e
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens zijn inheemse tokens die kunnen worden gemaakt op de Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens zijn inheemse tokens die kunnen worden gemaakt op de Steem blockchain. STEEM is de eerste SMT ooit, en het Smart Media Token protocol heeft als doel om geld te laten verdienen voor content websites en applicaties over het hele web door verschillende mensen de mogelijkheid te geven tokens te creëren die soortgelijke functies hebben als STEEM, maar aanpasbaar zijn aan de visie van welke online gemeenschap dan ook door gestimuleerd gedrag, in wezen STEEM's succes toe te passen op elke website of applicatie. Meer technische details kunnen worden gevonden in de Smart Media Tokens whitepaper[^17].
 
-### Stolen Account Recovery
+### Gestolen Account Herstellen
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Als een gebruikersaccount wordt aangetast kunnen ze hun sleutels wijzigen met behulp van hun privé eigenaarssleutel. In het geval dat de aanvaller in staat is aan de privé eigenaarssleutel te komen en het wachtwoord op het account te veranderen, heeft de gebruiker 30 dagen om een oude functionele privésleutel over te dragen aan Steem's gestolen rekening herstelproces, eerste van zijn soort, om eigenaarschap van het account terug te krijgen. Dit kan door een persoon of onderneming die registratie diensten aan Steem levert worden aangeboden. Het is niet verplicht voor de registrator om deze diensten aan zijn gebruikers te geven, maar het is beschikbaar om de ervaring van de gebruikers met de registrator te verbeteren.
 
 ### Security Through Time-Locks
 

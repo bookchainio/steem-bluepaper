@@ -109,7 +109,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h2>
 
 <p>
-  Awon Steemu blockuchain n se eto idi meji fun jije ilana itonisana onisowo kan, ati fun ipileja ibaraeniosro awujo. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  Awon Steemu blockuchain n se eto idi meji fun jije ilana itonisana onisowo kan, ati fun ipileja ibaraeniosro awujo. Eya ti a funni nipase blockuchain nilo lati se atileyin awon idi mejeji, ki o si pepe awon olumulo pelu iriri aye ni aye nigba lilo gbogbo awon aaye abayo.
 </p>
 
 <h3>

@@ -72,11 +72,11 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 플랫폼에서 “마법의 인터넷 토큰” 이 지급되는 방법에 대해 이해하기 위해 가상화폐 세계에 들어온 사람들은 가상화폐 세계에서 뿐만 아니라 실제 우리가 살고 있는 세상에서도 가치가 있는 토큰을 보유할 수 있습니다. 대부분의 사용자가 익숙한 좀 더 전통적인 실물 화폐 시스템과 플랫폼을 통해 지급되는 가상화폐 토큰 사이의 격차를 줄이기 위해 스팀 블록체인 달러 (SBD) 라고 불리는 새로운 화폐를 만들었습니다.
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD 를 받은 사용자들은 이들이 “실제 달러” 기준으로 얼마만큼의 가치가 있는지 대략적으로 알 수 있습니다. 또한, 그들의 계좌 가치를 USD와 연계해서 보존하고 싶어하는 사용자들에게 SBD 토큰은 상대적으로 안정적인 화폐입니다. 좀 더 상세한 기술적인 설명은 스팀 기술 백서[^12]를 확인하시길 바랍니다.
 
-### Decentralized Exchange
+### 분권화된 거래소
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+스팀 블록체인은 비트쉐어 거래소[^13]와 유사한 분권화된 토큰 거래소를 제공합니다. 거래소에서 사용자들은 공개적으로 분권화된 개인 대 개인(peer-to-peer) 시장을 통해 STEEM과 SBD 토큰을 거래할 수 있습니다. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

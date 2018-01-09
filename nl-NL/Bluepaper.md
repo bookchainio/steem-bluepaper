@@ -72,15 +72,15 @@ Portemonnee adressen die door veel blockchain technologieën, zoals Bitcoin en E
 
 Veel gebruikers die kennis maken met cryptocurrency hebben moeite te begrijpen hoe ''magische internet tokens'' toegekend door het platform daadwerkelijk waarde kunnen hebben in de echte wereld. Om de kloof te overbruggen tussen meer traditioneel fiat geld wat mainstream gebruikers gewend zijn, en de cryptocurrencies tokens die door het platform worden toegekend, werd er een nieuwe munt, de "Steam Blockchain Dollar" (SBD) gemaakt.
 
-SBD tokens zijn ontworpen om nauw gekoppeld te blijven aan een Amerikaanse dollar (USD), zodat de gebruikers die het ontvangen weten hoeveel ze ongeveer waard zijn in "echte" dollars. SBD tokens bieden ook een relatief stabiele valuta voor gebruikers om te houden als ze op zoek zijn naar een manier om hun accountwaarde te behouden ten opzichte van de USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokens zijn ontworpen om nauw gekoppeld te blijven aan een Amerikaanse dollar (USD), zodat de gebruikers die het ontvangen weten hoeveel ze ongeveer waard zijn in "echte" dollars. SBD tokens bieden ook een relatief stabiele valuta voor gebruikers om te houden als ze op zoek zijn naar een manier om hun accountwaarde te behouden ten opzichte van de USD. Een meer gedetailleerde, technische uitleg kan worden gevonden in de Steem technische whitepaper.[^12]
 
-### Decentralized Exchange
+### Gedecentraliseerde Wisselkoers
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+De Steem blockchain biedt een gedecentraliseerde token koers, vergelijkbaar met de Bitshares koers.[^13] De koers laat gebruikers hun STEEM en SBD tokens door middel van een openbare, gedecentraliseerde peer-to-peer mark verhandelen. Gebruikers zijn in staat koop en verkoop opdrachten te plaatsen, en opdracht koppeling wordt automatisch door de blockchain uitgevoerd. Er is ook een publiekelijk beschikbaar opdrachtenboek en opdracht geschiedenis wat gebruikers kunnen maken om de markt te analyseren. Gebruikers kunnen direct met de koers communiceren via de bloackchain API, of een GUI gebruiken zoals op Steemit.com.[^14]
 
-### Payments Through Escrow
+### Betalingen via Borg
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+De onomkeerbare aard van blockchain transacties is een belangrijke beveiligingsfunctie, hoewel er veel gevallen zijn waarin gebruikers niet comfortabel zijn hun tokens naar een andere individu te sturen zonder een manier om ze terug te krijgen wanneer de ander zich niet aan zijn kant van de afspraak houdt. De Steem blockchain zorgt voor een manier voor gebruikers om munten naar elkaar te sturen met een derde partij aangewezen als borg service. De gebruiker die als borg service dienst doet is in staat te zien of er aan de afspraken is voldaan, en kan de munten naar de ontvanger sturen of terugsturen naar de zender.
 
 ### Hierarchical Private Key Structure
 

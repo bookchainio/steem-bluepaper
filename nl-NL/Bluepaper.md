@@ -92,15 +92,15 @@ Steem maakt gebruik van een Master Wachtwoord dat alle drie de wachtwoorden vers
 
 ### Multi Sig Authorities
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+De Steem blockchain staat toe een authority (letterlijk, autoriteit) te splitten over meerdere entiteiten, zodat meerdere gebruikers dezelfde authority kunnen gebruiken, of zodat meerdere entiteiten een transactie moeten toestaan voordat deze valide wordt. Dit wordt op dezelfde manier gedaan als bij Bitshares[^16] waar elke publieke/privésleutel samen een zwaarte krijgen, en een grens wordt ingesteld voor de authority. Om een transactie toe te staan moeten voldoende entiteiten toestemming geven zodat hun gezamenlijke zwaarte de grens haalt of overschrijdt.
 
-### Multiple Reward Beneficiaries
+### Meerdere Begunstigden bij Beloningen
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Voor elke willekeurige post kunnen er een aantal verschillende mensen zijn die een financieel belang in de beloning hebben. Dit zijn onder andere de auteur van de post, mogelijke mede-auteurs, verwijzers, hostingproviders, blogs die die blockchain opmerkingen insluiten, en gereedschapsontwikkelaars. Welke website of tool wordt gebruikt om een post of reactie te maken heeft de mogelijkheid in te stellen hoe de beloningen van het bericht worden verdeeld over verschillende partijen. Dit zorgt voor verschillende vormen van samenwerking, alsmede een manier voor platformen die boven op de Steem blockchain worden gemaakt om een deel van de beloningen van hun gebruikers te krijgen.
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens zijn inheemse tokens die kunnen worden gemaakt op de Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

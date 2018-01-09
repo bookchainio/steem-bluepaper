@@ -97,11 +97,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  App mimo je igbese akoko ni siseda eda FARIC pupo. App mimo se iranlowo fun opolopo awon irinse ti Steemu Blockuchain lati di modular nipase sise awon afikun Blockuchain ti kii se igbimo gegebi awon afikun afikun. Awon afikun wonyi wa ni imudojuiwon die sii sii nyara nitori won ko beere fun tunse gbogbo Blockuchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  App mimo je igbese akoko ni siseda eda FARIC pupo. App mimo se iranlowo fun opolopo awon irinse ti Steemu Blockuchain lati di modular nipase sise awon afikun Blockuchain ti kii se igbimo gegebi awon afikun afikun. Awon afikun wonyi wa ni imudojuiwon die sii sii nyara nitori won ko beere fun tunse gbogbo Blockuchain. Eyi mu ki Steemd wa siwaju sii daradara ati rorun lati setoju ati lapapo.
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 </p>
 
 <h2>

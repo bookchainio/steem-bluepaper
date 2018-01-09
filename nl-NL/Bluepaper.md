@@ -118,11 +118,11 @@ Omdat de getuigen worden betaald door de generatie van nieuwe tokens is er geen 
 
 Om redelijke limieten te plaatsen op het systeemgebruik krijgt elke gebruiker een gelimiteerde bandbreedte. Wanneer gebruikers blockchain handelingen verrichten zoals tokens verplaatsen, content posten, en stemmen, gebruiken ze een deel van hun bandbreedte. Als een gebruiker zijn bandbreedte verbruikt moeten ze wachten met nieuwe handelingen uitvoeren tot hun bandbreedte is opgeladen.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Bandbreedte limieten worden bijgewerkt gebaseerd op netwerkgebruik, dus gebruikers hebben meer bandbreedte tot hun beschikking wanneer het netwerk weinig wordt gebruikt. Het aantal bandbreedte dat een account mag gebruiken is in proportie met het aantal Steem Power dat een gebruiker heeft, dus gebruikers kunnen hun totale bandbreedte altijd vergroten door meer Steem Power te krijgen.
 
-## Conclusion
+## Conclusie
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+De unieke beloningen en het aanmoedigingsprogramma dat de Steem blockchain en tokens bieden, zijn ontworpen om Steem de ultieme overbrugging naar cryptocurrency te maken voor mainstream gebruikers. Het presteren van de blockchain is ontworpen met wijdverspreide massa adoptie van de munt en het platform in gedachten. Wanneer je dit combineert met de bliksemsnelle verwerkingstijden en kosteloze transacties is Steem op weg om een van leidende blockchain technologieën wereldwijd te worden.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

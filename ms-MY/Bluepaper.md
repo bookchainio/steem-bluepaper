@@ -1,6 +1,6 @@
 ![](\headerimage.png)
 
-## Pendahuluan
+## Pengenalan
 
 Steem menawarkan rantaian blok (ataupun "blockchain" di dalam bahasa Inggeris) berskala bagi kandungan yang boleh diakses secara terbuka dan kekal, beserta dengan token digital (yang dipanggil STEEM) yang cepat dengan yuran rendah yang membolehkan orang menjana matawang dengan menggunakan otak mereka (apa yang boleh dipanggil sebagai bukti otak ataupun "Proof -of-Brain" di dalam bahasa Inggeris. Dua blok bangunan melalui protokol ini, kedua-dua rantaian blok dan token, bergantung antara satu sama lain untuk Keselamatan, kekekalan dan kepanjangan umur, dan oleh itu penting kepada kewujudan antara satu sama lain. Steem telah berjaya beroperasi untuk lebih dari setahun dan kini telah melebihi Bitcoin dan Ethereum dalam bilangan transaksi diproses. [^3]
 

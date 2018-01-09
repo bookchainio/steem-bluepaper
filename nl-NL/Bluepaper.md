@@ -44,15 +44,15 @@ Doordat veel blockchains bekneld worden door Bewijs van Werk (PoW)[^6] kunnen ve
 
 Dankzij DPoS is de Steem blockchain in staat om elke drie seconden een nieuw blok te genereren met minimale computerbelasting. Dit betekent dat de blockchain meer transacties kan verwerken en meer informatie kan opslaan, waaronder content.
 
-Door de regels vast te stellen voor wanneer een Harde Vork van het netwerk plaatsvindt, kunnen de getuigen binnen het DPoS framework snel en efficient beslissen of ze mee willen gaan met de voorgestelde harde vork, wat de Steem blockchain in staat stelt sneller te evolueren dan de meeste andere blockchains. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Door de regels vast te stellen voor wanneer een Hardfork van het netwerk plaatsvindt, kunnen de getuigen binnen het DPoS framework snel en efficient beslissen of ze mee willen gaan met de voorgestelde hardfork, wat de Steem blockchain in staat stelt sneller te evolueren dan de meeste andere blockchains. De Steem blockchain heeft al 18 keer[^8] succesvol geforked, en elke keer dat er een Hardfork heeft opgetreden is er slechts één chain overgebleven.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] is het gedeelte van de database van de blockchain en verving Graphene[^10] in 2016. ChainBase heeft sneller laden en afrit tijden, ondersteunt parallelle toegang tot de database en is robuuster tegen crashes dan zijn voorganger. Het heeft ook minder frequente databasebeschadiging, laat onmiddelijke "snapshotting" van de gehele database staat toe, en kan meer RPC-aanvragen van hetzelfde geheugen indienen.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase is de eerste stap in het creëren van een multi chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

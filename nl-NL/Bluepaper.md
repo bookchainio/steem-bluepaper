@@ -106,11 +106,11 @@ Smart Media Tokens zijn inheemse tokens die kunnen worden gemaakt op de Steem bl
 
 Als een gebruikersaccount wordt aangetast kunnen ze hun sleutels wijzigen met behulp van hun privé eigenaarssleutel. In het geval dat de aanvaller in staat is aan de privé eigenaarssleutel te komen en het wachtwoord op het account te veranderen, heeft de gebruiker 30 dagen om een oude functionele privésleutel over te dragen aan Steem's gestolen rekening herstelproces, eerste van zijn soort, om eigenaarschap van het account terug te krijgen. Dit kan door een persoon of onderneming die registratie diensten aan Steem levert worden aangeboden. Het is niet verplicht voor de registrator om deze diensten aan zijn gebruikers te geven, maar het is beschikbaar om de ervaring van de gebruikers met de registrator te verbeteren.
 
-### Security Through Time-Locks
+### Beveiliging via Tijdsloten
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Wanneer een gebruiker's actieve of eigenaarssleutel in handen van een verkeerde persoon komen, zou die toegang hebben tot alle fondsen in het account. Omdat blockchain transacties onomkeerbaar zijn hebben gebruikers geen enkele manier om hun fondsen terug te krijgen nadat ze zijn gestolen.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+De Steem blockchain laat gebruikers hun STEEM en SBD tokens op een eventuele spaarrekening zetten zodat ze fondsen niet kunnen worden ingetrokken tot na een wachttijd van drie dagen. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

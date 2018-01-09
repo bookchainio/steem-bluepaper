@@ -9,6 +9,7 @@
 * [Galego](gl-ES/Bluepaper.md)
 * [Deutsche](de-DE/Bluepaper.md)
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
+* [Italiano](it-IT/Bluepaper.md)
 * [日本語](ja-JP/Bluepaper.md)
 * [Português](pt-PT/Bluepaper.md)
 * [Português (Brasil)](pt-BR/Bluepaper.md)

@@ -58,7 +58,7 @@ Technisch gezien zorgt AppBase dat verschillende cores, of zelfs verschillende c
 
 ## Steem's Platform Functies
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+De Steem blockchain dient een duaal doel van een digitaal token verwerkingssysteem als een mainstream sociaal media platform. De mogelijkheden van de blockchain moeten beide doeleinden ondersteunen, en gebruikers voorzien van een ervaring van wereld klasse bij het gebruik van beide aspecten van het platform.
 
 ### Primitives Designed for Content Applications
 

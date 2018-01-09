@@ -137,7 +137,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Tokini SBD ti se apere lati wa ni pekipeki si USD kan, ki awon olumulo ti o gba won le mo iye ti o dara ni "owo gidi" aago. Awon SBD nfun owo kan ti o ni irewon fun awon olumulo lati mu won ti won ba n wa lati se itoju owo won ni USD. Alaye imoran alaye die sii ni a le rii ninu iwe imoran Pali funfun ti Steemu
+  Tokini SBD ti se apere lati wa ni pekipeki si USD kan, ki awon olumulo ti o gba won le mo iye ti o dara ni "owo gidi" aago. Awon SBD nfun owo kan ti o ni irewon fun awon olumulo lati mu won ti won ba n wa lati se itoju owo won ni USD. Alaye imoran alaye die sii ni a le rii ninu iwe imoran Pali funfun ti Steemu.
 </p>
 
 <h3>

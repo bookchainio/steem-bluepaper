@@ -117,7 +117,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+  Steemu nfun awon olumulo ni agbara pataki lati safihan ati toju orisirisi awon akoonu ti o taara ati ni pipe sinu asale alaise ti blockuchain bi oro ti o rorun. Logan ti o ti fipamo ni nu blockuchain, data yoo wa ni gbangba fun awon apere lati ko lati. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 </p>
 
 <h3>

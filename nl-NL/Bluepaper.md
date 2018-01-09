@@ -52,11 +52,11 @@ ChainBase[^9] is het gedeelte van de database van de blockchain en verving Graph
 
 ### AppBase
 
-AppBase is de eerste stap in het creëren van een multi chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase is de eerste stap in het creëren van een multi chain FABRIC. AppBase zorgt dat veel componenten van de Steem blockchain modulair kunnen worden door het maken van extra niet-overeenstemmende blockchains als speciale plugins. Deze plugins kunnen veel sneller bijwerken omdat ze niet de gehele blockchain hoeven te herhalen. Dit maakt steemd[^11] veel efficiënter en makkelijker om bij te houden en te vergroten.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Technisch gezien zorgt AppBase dat verschillende cores, of zelfs verschillende computers, de verschillende delen van de Steem blockchain kunnen onderhouden. Dit is aanzienlijk efficiënter dan om te eisen dat iedere core en iedere computer in het netwerk de hele blockchain moeten onderhouden. Door de blockchain te moduleren wordt het in staat gesteld optimaal gebruik te maken van de modulaire aard van computers. Dit is een van de benodigde stappen in het lange proces van het creëren van een volledig parallelle en geoptimaliseerde blockchain.
 
-## Steem’s Platform Features
+## Steem's Platform Functies
 
 The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 

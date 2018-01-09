@@ -2,7 +2,7 @@
 
 ## Pengenalan
 
-Steem menyediakan protokol blockhain berskala[^1] bagi kandungan boleh diakses secara terbuka dan tidak berubah-ubah, bersama-sama dengan cepat dan yuran-kurang digital token (dipanggil STEEM) [^2] yang membolehken orang untuk mendapatkan mata wang dengan menggunakan otak mereka (apa boleh dipanggi" Bukti-of-otak"). Dua blok bangunan melalui protokol ini, kedua-dua rantaian blok dan token, bergantung antara satu sama lain untuk Keselamatan, kekekalan dan kepanjangan umur, dan oleh itu penting kepada kewujudan antara satu sama lain. Steem telah berjaya beroperasi untuk lebih dari setahun dan kini telah melebihi Bitcoin dan Ethereum dalam bilangan transaksi diproses. [^3]
+Steem menyediakan protokol blockhain berskala[^1] bagi kandungan boleh diakses secara terbuka dan tidak berubah-ubah, bersama-sama dengan cepat dan yuran-kurang digital token (dipanggil STEEM) [^2] yang membolehken orang untuk mendapatkan mata wang dengan menggunakan otak mereka (apa boleh dipanggi" Bukti-of-otak"). Dua blok bangunan ini protokol, kedua-dua blockchain dan token, bergantung antara satu sama lain untuk Keselamatan, ketahanan dan panjang umur, dan oleh itu penting kepada kewujudan satu sama lain. Steem telah berjaya beroperasi untuk lebih dari setahun dan kini telah melebihi Bitcoin dan Ethereum dalam bilangan transaksi diproses. [^3]
 
 Berbanding blockchains lain, Steem menonjol sebagai pangkalan data boleh diakses secara terbuka pertama kandungan kekal yang disimpan dalam bentuk teks, bersama-sama dengan satu mekanisme dorongan yang terbina di dalamnya. Ini menjadikan Steem platform penerbitan awam dari mana mana aplikasi Internet boleh menarik dan berkongsi data sambil memberi ganjaran kepada orang-orang yang menyumbang kandungan paling berharga.
 

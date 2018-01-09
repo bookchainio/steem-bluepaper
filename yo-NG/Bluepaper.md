@@ -109,7 +109,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h2>
 
 <p>
-  The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  Awon Steemu blockuchain n se eto idi meji fun jije ilana itonisana onisowo kan, ati fun ipileja ibaraeniosro awujo. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 </p>
 
 <h3>

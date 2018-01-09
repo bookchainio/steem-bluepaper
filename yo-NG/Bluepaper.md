@@ -125,15 +125,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Awon adiresi apamowo ti opolopo awon imo-ero blockuchain ti a lo, bii Bitcoinu ati Ethereumu, ni itanje awon gbolohun oro ti awon leta ati awon nomba, sibesibe, awon adiresi apamowo wonyi le se kio soro lati se ajosepo pelu awon olumulo miiran ni asoju onlini-awujo-mediani nitori ti awon olumulo ko lagbaralati ranti awon adiresi gigun lati iranti. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  Awon adiresi apamowo ti opolopo awon imo-ero blockuchain ti a lo, bii Bitcoinu ati Ethereumu, ni itanje awon gbolohun oro ti awon leta ati awon nomba, sibesibe, awon adiresi apamowo wonyi le se kio soro lati se ajosepo pelu awon olumulo miiran ni asoju onlini-awujo-mediani nitori ti awon olumulo ko lagbaralati ranti awon adiresi gigun lati iranti. Awon steemu blockuchain nlo oruko olumulo kookan gegebi adiresi apamowo won, eyiti o mu awon olumulo sise fun awon olukopa ti o gbiyanju lati firanse awon tokini nitori won le sayewo awonadiresi lati irantiara won.
 </p>
 
 <h3>
-  Steem Blockchain Dollars (SBD)
+  Steemu Blockuchain Dola (SBD)
 </h3>
 
 <p>
-  Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Opolopo awon olumulo ti a se lati cyrptocurrency Ijakadi latini oye bi "awon asoju ayelujara idan tokini" ti a fun nipase awon pepe le gan gidi aye aye. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 </p>
 
 <p>

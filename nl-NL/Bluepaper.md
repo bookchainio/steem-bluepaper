@@ -38,13 +38,13 @@ Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokk
 
 De Steem Blockchain is ontworpen om een van de snelste en meest efficiënte blockchains ooit te zijn, wat nodig is om het verkeer op een social media platform groter dan Reddit te kunnen ondersteunen. Steem heeft Bitcoin al ingehaald in aantal transacties, en heeft de mogelijkheid om op te schalen om 10.000 of meer transacties per seconde te ondersteunen.
 
-### Gedelegeerd Bewijs van Inzet (Delegated Proof of Stake or DPoS)
+### Gedelegeerd Bewijs van Inzet (Delegated Proof of Stake of DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Doordat veel blockchains bekneld worden door Bewijs van Werk (PoW)[^6] kunnen veel blockchains niet verder schalen dan drie transacties per seconde, wat maar een fractie is van 's werelds financiële verkeer. Steem had een veel grotere onvang en snelheid nodig dan PoW kon bieden, en dus werd een minder bekend algoritme genaamd Gedelegeerd Bewijs van Inzet (Delegated Proof of Stake oftewel DPoS)[^7] gebruikt om de basis te leggen voor een blockchain geschikt voor miljarden gebruikers.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Dankzij DPoS is de Steem blockchain in staat om elke drie seconden een nieuw blok te genereren met minimale computerbelasting. Dit betekent dat de blockchain meer transacties kan verwerken en meer informatie kan opslaan, waaronder content.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Door de regels vast te stellen voor wanneer een Harde Vork van het netwerk plaatsvindt, kunnen de getuigen binnen het DPoS framework snel en efficient beslissen of ze mee willen gaan met de voorgestelde harde vork, wat de Steem blockchain in staat stelt sneller te evolueren dan de meeste andere blockchains. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

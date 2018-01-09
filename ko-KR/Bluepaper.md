@@ -80,9 +80,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 에스크로를 통한 지불(payment)
 
-다른 사람에게 보낸 토큰에 대해 상대방이 거래 약속을 지키지 않더라도 해당 토큰을 돌려받을 수 있는 방법이 없는 상황이라면 사용자가 다른 사람에게 토큰을 보내는 것을 선호하지 않을 수도 있지만, 블록체인 트랜잭션의 비가역적인(irreversible) 특성은 중요한 보안 기능입니다. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+다른 사람에게 보낸 토큰에 대해 상대방이 거래 약속을 지키지 않더라도 해당 토큰을 돌려받을 수 있는 방법이 없는 상황이라면 사용자가 다른 사람에게 토큰을 보내는 것을 선호하지 않을 수도 있지만, 블록체인 트랜잭션의 비가역적인(irreversible) 특성은 중요한 보안 기능입니다. 스팀 블록체인은 에스크로 서비스처럼 지정된 제 3자와 함께 거래 당사자간의 코인을 교환하는 방법을 제공합니다. 에스크로 서비스처럼 행동하는 사용자는 계약 조건이 충족되었는지 확인하여 수취인이 자금을 받을 수 있도록 허락하거나 송금자에게 다시 자금을 돌려보낼 수 있습니다.
 
-### Hierarchical Private Key Structure
+### 계층적인 개인 키 구조
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

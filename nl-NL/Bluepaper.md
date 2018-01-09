@@ -28,17 +28,17 @@ Van de levering van de nieuwe tokens die jaarlijks worden gemaakt door de Steem 
 
 De gebruikers die content produceren voegen waarde toe aan het netwerk door materiaal te maken dat nieuwe gebruikers naar het platform zal leiden, en tegelijkertijd de bestaande gebruikers bezighoudt en vermaakt. Dit helpt bij de distributie van de munt aan een grotere groep gebruikers en vergroot het effect van het netwerk. De gebruikers die de tijd nemen om content te evalueren en er over te stemmen spelen een belangrijke rol voor de distributie van de munt naar de gebruikers die de meeste waarde toevoegen. De blockchain beloont allebei deze activiteiten op basis van hun waarde voor de collectieve wijsheid van de menigte door middel van het inzet-gewogen stemsysteem.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Stemmen met Inzet van Tokens om de Toewijzing van Beloningen te Bepalen
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening balans, het meeste invloed op de manier waarop bijdragen worden gescoord. Inzet kan worden gekocht of verdiend. Gebruikers kunnen niet meer inzet krijgen door meerdere accounts te nemen doordat een account met een bepaalde inzet dezelfde invloed kan uitoefenen als twee verschillende accounts met dezelfde inzet. De enige manier voor gebruikers om hun invloed op het platform te vergroten is door hun inzet te verhogen.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokkene zich toewijd aan een 13 week durend vestigingsschema, genaamd Steem Power. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier dat de lange termijn waarde van hun STEEM maximaliseert.
 
-## Speed and Scale on the Steem Blockchain
+## Snelheid en Schaal van de Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+De Steem Blockchain is ontworpen om een van de snelste en meest efficiënte blockchains ooit te zijn, wat nodig is om het verkeer op een social media platform groter dan Reddit te kunnen ondersteunen. Steem heeft Bitcoin al ingehaald in aantal transacties, en heeft de mogelijkheid om op te schalen om 10.000 of meer transacties per seconde te ondersteunen.
 
-### Delegated Proof of Stake (DPoS)
+### Gedelegeerd Bewijs van Inzet (Delegated Proof of Stake or DPoS)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

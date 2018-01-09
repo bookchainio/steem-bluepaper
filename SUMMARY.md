@@ -4,6 +4,7 @@
 * [اللغة العربية](ar-SA/Bluepaper.md)
 * [বাংলা](bn-BD/Bluepaper.md)
 * [汉语](zh-CN/Bluepaper.md)
+* [Čeština](cs-CZ/Bluepaper.md)
 * [Filipino](fil-PH/Bluepaper.md)
 * [Français](fr-FR/Bluepaper.md)
 * [Galego](gl-ES/Bluepaper.md)

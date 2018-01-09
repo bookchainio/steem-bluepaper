@@ -64,7 +64,7 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 원장(ledger) 으로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. 블록체인 기본 기능(blockchain primitives) 개발자들은 계정 이름, 포스트, 코멘트, 투표, 계정 잔고 등의 기능을 만들었습니다.
 
-### Native Name System
+### 고유(native) 이름 시스템
 
 비트코인이나 이더리움 같은 많은 블록체인 기술에서 사용하고 있는 지갑 주소는 임의의 문자와 숫자를 조합한 긴 문자열로 구성됩니다. 하지만, 사용자들이 이렇게 긴 지갑 주소를 기억하기 어렵기 때문에 일반적인 온라인 소셜 미디어 환경에서 다른 사람과 거래할 때 매우 불편합니다. 스팀 블록체인은 각 참가자의 사용자 이름을 지갑 주소로 사용하며 이러한 방식을 이용하면 거래 참가자들이 자신의 기억 속에서 해당 지갑 주소를 확인할 수 있기 때문에 토큰을 거래하는 참가자들의 사용자 경험을 강화시킵니다.
 
@@ -76,9 +76,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 분권화된 거래소
 
-스팀 블록체인은 비트쉐어 거래소[^13]와 유사한 분권화된 토큰 거래소를 제공합니다. 거래소에서 사용자들은 공개적으로 분권화된 개인 대 개인(peer-to-peer) 시장을 통해 STEEM과 SBD 토큰을 거래할 수 있습니다. 사용자들은 매수, 매도 주문을 할 수 있고 주문 체결은 블록체인에 의해 자동적으로 수행됩니다. 또한, 사용자들이 시장을 분석할 수 있도록 공개적으로 접근할 수 있는 주문 대장(order book) 과 주문 기록을 제공합니다. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+스팀 블록체인은 비트쉐어 거래소[^13]와 유사한 분권화된 토큰 거래소를 제공합니다. 거래소에서 사용자들은 공개적으로 분권화된 개인 대 개인(peer-to-peer) 시장을 통해 STEEM과 SBD 토큰을 거래할 수 있습니다. 사용자들은 매수, 매도 주문을 할 수 있고 주문 체결은 블록체인에 의해 자동적으로 수행됩니다. 또한, 사용자들이 시장을 분석할 수 있도록 공개적으로 접근할 수 있는 주문 대장(order book) 과 주문 기록을 제공합니다. 사용자들은 블록체인 API를 이용해 직접 거래소와 상호작용을 할 수 있으며, Steemit.com[^14]에서 제공하는 GUI를 통해 거래소를 이용할 수 있습니다.
 
-### Payments Through Escrow
+### 에스크로를 통한 지불(payment)
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

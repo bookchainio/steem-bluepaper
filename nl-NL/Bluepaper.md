@@ -110,7 +110,7 @@ Als een gebruikersaccount wordt aangetast kunnen ze hun sleutels wijzigen met be
 
 Wanneer een gebruiker's actieve of eigenaarssleutel in handen van een verkeerde persoon komen, zou die toegang hebben tot alle fondsen in het account. Omdat blockchain transacties onomkeerbaar zijn hebben gebruikers geen enkele manier om hun fondsen terug te krijgen nadat ze zijn gestolen.
 
-De Steem blockchain laat gebruikers hun STEEM en SBD tokens op een eventuele spaarrekening zetten zodat ze fondsen niet kunnen worden ingetrokken tot na een wachttijd van drie dagen. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+De Steem blockchain laat gebruikers hun STEEM en SBD tokens op een eventuele spaarrekening zetten zodat ze fondsen niet kunnen worden opgenomen tot na een wachttijd van drie dagen. Daarnaast is het zo dat STEEM die in het 13 weeks vesting schema slechts met een snelheid van 1/13 per week kunnen worden opgenomen, na een eerste wachttijd van zeven dagen. Deze tijdsloten voorkomen dat een aanvaller toegang kan krijgen tot iemands volledige fondsen, zodat de rechtmatige eigenaar de tijd heeft om de controle over het account terug te krijgen voordat alle fondsen kunnen worden opgenomen.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

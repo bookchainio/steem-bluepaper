@@ -117,11 +117,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Steemu nfun awon olumulo ni agbara pataki lati safihan ati toju orisirisi awon akoonu ti o taara ati ni pipe sinu asale alaise ti blockuchain bi oro ti o rorun. Logan ti o ti fipamo ni nu blockuchain, data yoo wa ni gbangba fun awon apere lati ko lati. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+  Steemu nfun awon olumulo ni agbara pataki lati safihan ati toju orisirisi awon akoonu ti o taara ati ni pipe sinu asale alaise ti blockuchain bi oro ti o rorun. Logan ti o ti fipamo ni nu blockuchain, data yoo wa ni gbangba fun awon apere lati ko lati. Awon alabasepo ni anfani lati se pelu awon akoonu taara ni blockuchain nipa lilo awon API to wa. Opolopo awon olupin ile-ise blockuchain atijo le ko lati inu oruko ile-ise, ipo, le, idibo, ati iroyi iwontunwonsi.
 </p>
 
 <h3>
-  Native Name System
+  Oruko Abinibi Eto
 </h3>
 
 <p>

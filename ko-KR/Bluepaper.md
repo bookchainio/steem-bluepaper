@@ -66,9 +66,9 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 ### Native Name System
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+비트코인이나 이더리움 같은 많은 블록체인 기술에서 사용하고 있는 지갑 주소는 임의의 문자와 숫자를 조합한 긴 문자열로 구성됩니다. 하지만, 사용자들이 이렇게 긴 지갑 주소를 기억하기 어렵기 때문에 일반적인 온라인 소셜 미디어 환경에서 다른 사람과 거래할 때 매우 불편합니다. 스팀 블록체인은 각 참가자의 사용자 이름을 지갑 주소로 사용하며 이러한 방식을 이용하면 거래 참가자들이 자신의 기억 속에서 해당 지갑 주소를 확인할 수 있기 때문에 토큰을 거래하는 참가자들의 사용자 경험을 강화시킵니다.
 
-### Steem Blockchain Dollars (SBD)
+### 스팀 블록체인 달러 (SBD)
 
 Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 

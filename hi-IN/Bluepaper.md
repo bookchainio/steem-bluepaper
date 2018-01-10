@@ -33,7 +33,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  PoW Cryptocurrencies से अलग, Steem में टोकन हर ब्लॉक एक निश्चित दर से तीन सेकंड में उत्पन्न होता हैं । These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+  PoW Cryptocurrencies से अलग, Steem में टोकन हर ब्लॉक एक निश्चित दर से तीन सेकंड में उत्पन्न होता हैं । ये टोकन ब्लॉकचैन के निर्धारित नियमों के आधार पर सिस्टम में विभिन्न अभिनेताओं को वितरित किए जाते हैं । ये अभिनेता, जैसे सामग्री रचनाकारों, गवाहों, और क्यूरेटर, टोकन के लिए विशेष तरीके से प्रतिस्पर्धा करते हैं । Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 </p>
 
 <p>

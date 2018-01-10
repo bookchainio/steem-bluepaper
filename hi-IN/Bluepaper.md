@@ -2,7 +2,7 @@
 
 ## परिचय
 
-Steem (स्टीम) सार्वजनिक रूप से उपलब्ध और स्थिर सामग्री के लिए ऐक मापनीय ब्लॉकचैन मुल पत्र[^1] प्रदान करता है, जो ऐक तेज और नि:शुल्क डिजिटल टोकन (जिससे Steem कहा जाता है)[^2] के ज़रिये लोगों को उनकी बुद्धि का उपयोग करके धन कमाने का अवसर देता हैं (जिस्को "Proof-of-Brain" कहा जास्कता है) | The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem (स्टीम) सार्वजनिक रूप से उपलब्ध और स्थिर सामग्री के लिए ऐक मापनीय ब्लॉकचैन मुल पत्र[^1] प्रदान करता है, जो ऐक तेज और नि:शुल्क डिजिटल टोकन (जिससे Steem कहा जाता है)[^2] के ज़रिये लोगों को उनकी बुद्धि का उपयोग करके धन कमाने का अवसर देता हैं (जिस्को "Proof-of-Brain" कहा जास्कता है) | इस मुल पत्र के दो मुलभुत अंग, ब्लॉकचैन और टोकन, सुरक्षा, अचल स्थिति और लंबी उंर के लिए एक दूसरे पर निर्भर है, और इसलिए एक दूसरे के अस्तित्व का अभिंन अंग हैं । Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

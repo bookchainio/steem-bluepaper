@@ -13,7 +13,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery<fnref target="5" />, escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+  ब्लॉकचैन और टोकन प्रौद्योगिकी मैं प्रगति के अलावा, एक प्रणाली के रूप में स्टीम (Steem) अतिरिक्त सुविधाएं प्रदान करता है ताकि उपयोगकर्ता अनुभव को बढ़ाया जाये, जैसे कि Stolen Account Recovery<fnref target="5" />, निलंब संपत्ति सेवा, प्रोत्साहित सामग्री, एक प्रतिष्ठा प्रणाली, और बचत खाता । This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
 </p>
 
 <h2>

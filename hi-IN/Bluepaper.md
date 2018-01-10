@@ -41,7 +41,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+  स्टीम (Steem) ब्लॉकचैन हर साल नये टोकन मै से ७५% टोकन "पुरस्कार पूल" मै डालता है, जो सामग्री रचनाकारों और सामग्री के क्यूरेटर के लिए वितरित किया जात हैं । 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 </p>
 
 <h4>

@@ -29,7 +29,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+  सबसे नवीन पहलुअों मै (और इसके बारे मै सबसे ज़्यादा गलतफहमी है)ऐक स्टीम (Steem) ब्लॉकचैन का "पुरस्कार पूल" है, जो टोकन से बहुमूल्य सामग्री रचनाकारों को वितरित कर रहे हैं । In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 </p>
 
 <p>

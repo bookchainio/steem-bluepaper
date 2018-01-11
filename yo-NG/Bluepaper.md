@@ -153,11 +153,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Eti ai le yi pada owo bulookichain je pataki eya idabobo, amo oo awon isele mi wa ti awon eyan o nifesi lati ma ran ipa wan si elo miran laisi ona ti wan ma fi gba pada ti eyan yen o ba shey ipa ti e. Bulookichain Steemu pese fun ona ti awon eyan male ran ipa wan ranse si eyan mi pelu eyan keta ti a mo si savisi Escrow. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  Eti ai le yi pada owo bulookichain je pataki eya idabobo, amo oo awon isele mi wa ti awon eyan o nifesi lati ma ran ipa wan si elo miran laisi ona ti wan ma fi gba pada ti eyan yen o ba shey ipa ti e. Bulookichain Steemu pese fun ona ti awon eyan male ran ipa wan ranse si eyan mi pelu eyan keta ti a mo si safisi Escrow. Eyan to se ise safisi escrow lo ma mo ti eto ati ilana agriimentii ti ba, ati boya ki o je ki owo lo si odo eni to ma gba tabi ko da pada si odo eni to fi jise.
 </p>
 
 <h3>
-  Hierarchical Private Key Structure
+  Titen tele kokoro fipamo siruture
 </h3>
 
 <p>

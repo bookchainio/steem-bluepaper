@@ -141,11 +141,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Decentralized Exchange
+  Pipawoda Aisi Lojukan
 </h3>
 
 <p>
-  The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
 </p>
 
 <h3>

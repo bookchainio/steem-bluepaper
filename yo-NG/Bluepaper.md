@@ -145,11 +145,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. Iwe odaa ti o je ti gbogbo eniyan ati odaa to ti pe ti awon eyan le fi se agbeyewo oja. Awon eyan le ta kuroso pelu pipawoda nipa lilo bulookichain API, tabi GUI bi iru eyi ti o wa ni Steemit.com.<fnref target="14" />
 </p>
 
 <h3>
-  Payments Through Escrow
+  Sisan wo ni pase Escrow
 </h3>
 
 <p>

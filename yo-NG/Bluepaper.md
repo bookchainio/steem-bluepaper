@@ -145,7 +145,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. Iwe odaa ti o je ti gbogbo eniyan ati odaa to ti pe ti awon eyan le fi se agbeyewo oja. Awon eyan le ta kuroso pelu pipawoda nipa lilo bulookichain API, tabi GUI bi iru eyi ti o wa ni Steemit.com.<fnref target="14" />
+  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi. Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. Iwe odaa ti o je ti gbogbo eniyan ati odaa to ti pe ti awon eyan le fi se agbeyewo oja. Awon eyan le ta kuroso pelu pipawoda nipa lilo bulookichain API, tabi GUI bi iru eyi ti o wa ni Steemit.com.<fnref target="14" />
 </p>
 
 <h3>
@@ -153,7 +153,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  Eti ai le yi pada owo bulookichain je pataki eya idabobo, amo oo awon isele mi wa ti awon eyan o nifesi lati ma ran ipa wan si elo miran laisi ona ti wan ma fi gba pada ti eyan yen o ba shey ipa ti e. Bulookichain Steemu pese fun ona ti awon eyan male ran ipa wan ranse si eyan mi pelu eyan keta ti a mo si savisi Escrow. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 </p>
 
 <h3>

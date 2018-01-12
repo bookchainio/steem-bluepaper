@@ -70,7 +70,7 @@ Steem им овозможува на корисниците уникатна с�
 
 ### Steem Blockchain Долари (SBD)
 
-Многу корисници кои се запознаени со криптовалентна борба се обидуваат да сфатат како "магичните интернет токени" доделени од платформата, всушност, можат да имаат реална светска вредност. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Многу корисници кои се запознаени со криптовалентна борба се обидуваат да сфатат како "магичните интернет токени" доделени од платформата, всушност, можат да имаат реална светска вредност. Со цел да се помогне во премостувањето на јазот помеѓу потрадиционалните системи на fiat пари кои главните корисници на потокот ги користат и криптовалутанските токени што ги добиваат преку платформата, беше формирана нова валута наречена Steem Blockchain Dollars (SBD).
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
@@ -78,7 +78,7 @@ SBD tokens are designed to be pegged closely to one USD, so that users who recei
 
 The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
-### Payments Through Escrow
+### Исплати преку депонирање
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

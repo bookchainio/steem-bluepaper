@@ -165,7 +165,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Awon kokoro fifipamo yen ni Kiko, Activu ati Ti olohun. Kokoro kiko fun akkant laye lati ko, fi esi, se atunse, dibo, tun ko fun awon eyan<fnref target="15" />, ati titele/pa ohun akkant miran. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+  Awon kokoro fifipamo yen ni Kiko, Activu ati Ti olohun. Kokoro kiko fun akkant laye lati ko, fi esi, se atunse, dibo, tun ko fun awon eyan<fnref target="15" />, ati titele/pa ohun akkant miran. Kokoro Activu wa fun ise to gbege bi ka fi owo ranse, gbe agbara so ke, gbe agbara sile, ka yi Steemu dolla, dibo fun awon eleri, gbigbe oja odaa, ati yiyi pada kokoro kiko. Kokoro ti olohun wa fun lilo ti oba se koko nikan. Ohun ni kokoro to lagbara ju to tipe ole yi eyi keyi kokoro akkant, pelu kokoro olohun, ati lati jeri pe iwo loni akkant nigba ti aba fe ba e gba akkant e pada. Lotitoo o ye ki a fi pamo ni oofulini, ati ki a lo ni gba ti aba fe yi kokoro akkant pada tabi lati gba akkant ti alkama ti wo.
 </p>
 
 <p>

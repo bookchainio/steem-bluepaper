@@ -197,15 +197,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Irapada Akkant ti wan ji
+  Irapada Akaant ti wan ji
 </h3>
 
 <p>
-  Ti akkanti eyan ba wa ni cumporomisi. wan le paro kokoro wan ni pa lilo kokoro pamo activu. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  Ti akkanti eyan ba wa ni cumporomisi. wan le paro kokoro wan ni pa lilo kokoro pamo activu. Ni isele ti ataka ba cumporomisi kokoro pamo ti eni to ni akaant ati piparo pasiwodi to wan ni akaanti, eyan yen ni ogbon ojo lati fi kokoro pamo eyi ti o ti sise ri nipa Steemu industiri akoko irapada akaanti wan ji, ati gbigba akaanti wan pada. Eleyi le wa lati owo eni tabi compini ti o n gba eyan wole si Steemu. Ko pon dandan ki eni to gba yan wole lati pelo safisi yi fun awon eyan ti wan lo, sugbon o wa lati fikun iyi eyan to gba yan wole iriri eyan.
 </p>
 
 <h3>
-  Security Through Time-Locks
+  Abo ni pa se titi akoko
 </h3>
 
 <p>

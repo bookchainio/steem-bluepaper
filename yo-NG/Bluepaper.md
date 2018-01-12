@@ -233,11 +233,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h2>
-  Conclusion
+  Ipari
 </h2>
 
 <p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+  Eri to je airu iru re yi ati purogamu fifun ni nkan ti bulookichain ati ipa wa fun lati je ki Steemu ni kokari onu-rampu sinu cryptocurrency fun awon eyan ti wan lo. Ise bulookichain wa jeki lilo owo yen ati pulatifomu yen kakiri aye lokan. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 </p>
 
 <footnotes>

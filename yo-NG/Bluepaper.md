@@ -177,11 +177,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Bulookichain steemu fun otoriti pin larin aimoye nkan, to jepe aimoye eyan le pin otoriti kan na, tabi aimoye nkan nilo lati otorisi katakara ko o to le ku oju osuwon. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  Bulookichain steemu fun otoriti pin larin aimoye nkan, to jepe aimoye eyan le pin otoriti kan na, tabi aimoye nkan nilo lati otorisi katakara ko o to le ku oju osuwon. Eleyi je bi wan shey nse ni Bitshares<fnref target="16" />nibi ti ikan gbogbogbo/kokoro pamo ni ibeji ti afun ni weti, ati tresihodi kan ti a n pe fun otority. Ki kata kara to le je gidi, nkan to po ni lati bu wo lu ki iye weti wan ba tabi ko poju tresihodi.
 </p>
 
 <h3>
-  Multiple Reward Beneficiaries
+  Ere to po fun awon elere
 </h3>
 
 <p>

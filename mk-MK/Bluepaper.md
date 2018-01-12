@@ -8,9 +8,9 @@ Steem обезбедува скалабилен протокол на blockchain
 
 Во областа на крипто-валути, уникатните својства на STEEM го прават тоа и "паметно" и "социјално" во споредба со другите, како што се биткоин и етер. Овa произлегува од две нови карактеристики на токенот. The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”). Вториот е систем за гласање кој ја користи мудроста на толпата за да ја процени вредноста на содржината и да ги дистрибуира токените на неа. Овие две уникатни својства кога се комбинираат се нарекува "Доказ за мозокот", кој е вметнат врз основа на Доказ за работа[^4], со цел да се нагласи човековата работа која е потребна за да се дистрибуираат токените на учесниците во заедницата. Докази на мозочни позиции е STEEM како алатка за градење на постојано растечките заедници, кои ги охрабруваат своите членови да додадат вредност на заедницата преку вградената награда на структура.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Во прилог на овие достигнувања во blockchain и токен технологија, Steem како систем обезбедува дополнителни напредни функции за подобрување на корисничкото искуство, како што е Украдената Сметка за Наплата[^5], escrow услуги, корисничка промовирана содржина, систем на репутација, и штедни сметки. Сето тоа е направено додека им се овозможува на корисниците три секундно веменско потврдувања и нула надоместоци за сите трансакции. Сето ова овозможува да ја поддржи мисијата за донесување на паметна и социјална валута за издавачите и градителите на заедниците преку Интернет.
 
-## Proof of Brain: Smart and Social Tokens
+## Доказ за мозокот: Паметни и Социјални Токени
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

@@ -62,11 +62,11 @@ Steem blockchain служи двојна цел, да биде систем за
 
 ### Примитиви дизајнирани за апликации со содржина
 
-Steem им овозможува на корисниците уникатна способност за директно и трајно да објавуваат и складираат различни видови на содржина во непроменливата книга на blockchain како обичен текст. Откако ќе се зачуваат во blockchain, податоците се достапни јавно за програмерите од кои можат да се изградат. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem им овозможува на корисниците уникатна способност за директно и трајно да објавуваат и складираат различни видови на содржина во непроменливата книга на blockchain како обичен текст. Откако ќе се зачуваат во blockchain, податоците се достапни јавно за програмерите од кои можат да се изградат. Програмерите се во можност да комуницираат со содржината директно во blockchain користејќи ги достапните API-и. Неколку од програмерите на примитива на blockchain можат да се изградат од вклучувањата на Имињата на профилите, објавите, коментарите, гласовите и билансот на сметката.
 
-### Native Name System
+### Систем на природно име
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Адресарите на Wallet што се користат од многу blockchain технологии, како што се Bitcoin и Ethereum, историски се состојат од долги низи на случајни букви и броеви, но овие адреси на wallet може да ја отежнат трансакцијата со други корисници во еден типичен контекст на интернет-социјални медиуми, бидејќи корисниците не можат да се повикаат на долгите адреси од меморијата. Steem blockchain го користи корисничкото име на секој учесник како адреса за wallet, што го зајакнува корисничкото искуство за учесниците кои се обидуваат да испратат токени бидејќи можат да ги потврдат адресите од нивната сопствена меморија.
 
 ### Steem Blockchain Dollars (SBD)
 

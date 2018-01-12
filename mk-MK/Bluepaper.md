@@ -28,13 +28,13 @@ Steem обезбедува скалабилен протокол на blockchain
 
 Корисниците кои произведуваат содржини додаваат вредност на мрежата преку создавање на материјал со кој ќе привлат нови корисници на платформата, како и да ги задржи постојните корисници кои се ангажирани и забавувани. Ова помага во распределбата на валутата на поширок сет на корисници и го зголемува мрежниот ефект. Корисниците кои имаат време да ги оценуваат и да гласаат за содржините игра важна улога во дистрибуцијата на валутата на корисниците кои додаваат најмногу вредност. Blockchain ги наградува и двете од овие активности во однос на нивната вредност, заснована на колективната мудрост на толпата собрана преку системот за гласање на пондериран удел.
 
-#### Гласање со Складирани-токени за да се утврди распределбата на награди
+#### Гласање со вложени-токени за да се утврди распределбата на награди
 
-Steem работи врз основа на еден STEEM, едно гласање. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem работи врз основа на еден STEEM, едно гласање. Според овој модел, поединците кои најмногу придонеле за платформата, мерено според нивниот биланс на сметката, имаат најголемо влијние врз тоа како се постигнати придонесите. Уделот може да се купи или заработи. Корисниците не можат да стекнат дополнително влијание со поседување на повеќе сметки, бидејќи една единствена сметка со износот на удел ќе има исто влијание како две различни сметки кои го делат истиот износ на удел. Единствениот начин корисниците да го зголемат своето влијание во платформата е да го зголемат својот удел.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Покрај тоа, Steem само им овозможува на членовите да гласаат со STEEM кога е посветена на 13-неделен даден распоред наречен Steem Power. Според овој модел, членовите имаат финансиски поттик да гласаат на начин кој ја максимизира долгорочната вредност на нивниот STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Брзина и скала на Steem Blockchain
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

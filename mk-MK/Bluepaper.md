@@ -14,13 +14,13 @@ Steem обезбедува скалабилен протокол на blockchain
 
 Системите на токени кои ги наградуваат корисниците, како и што придонесуваат за заеднички систем базиран на токен, бараат механизми за утврдување и проценка на општествената вредност на содржината: ние го нарекуваме "Доказ за мозокот."
 
-### Наградениот базен ("Од каде доаѓаат токените?")
+### Rewards Pool ("Од каде доаѓаат токените?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Еден од најиновативните (и најразновидните) аспекти на Steem blockchain е "Rewards Pool" од кој токените се дистрибуираат до вредни креатори на содржини. Со цел да се разбере што е Rewards Pool, прво треба да се разбере дека токените се произведуваат поинаку во DPoS blockchains отколку што се во PoW blockchains. Во традиционалните PoW blockchains, токените се произведуваат редовно, но случајно се дистрибуираат до луѓето чии машини вршат работа ("рудари").
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+Различни од крипто валутите, кои се само PoW, токените во Steem се генерираат со фиксна стапка од еден блок на секои три секунди. Овие токени се дистрибуираат до различни актери во системот врз основа на дефинираните правила на blockchain. Овие актери, како што се создавачи на содржини, сведоци и куратори, се натпреваруваат на специјализирани начини за токени. За разлика од традиционалните PoW средства за дистрибуција, каде што рударите се натпреваруваат во врска со суровата компјутерска моќ, актерите во Steem мрежата се поттикнуваат да се натпреваруваат на начини кои ја зголемуваат вредноста на мрежата.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Стапката на генерирање на нови токени беше поставена на 9,5% годишно почнувајќи од декември 2016 година и се намалува со стапка од 0,01% на секои 250.000 блокови, или околу 0,5% годишно. Инфлацијата ќе продолжи да се намалува со оваа стапка се додека не достигне 0,95%, по период од околу 20,5 години.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

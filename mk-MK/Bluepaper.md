@@ -76,7 +76,7 @@ SBD токените се дизајнирани да бидат врзани з
 
 ### Децентрализирана размена
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain нуди децентрализирана размена на токен, слична на Bitshares размена. [^13] Размената им овозможува на корисниците да ги продаваат своите STEEM и SBD токени преку јавен, децентрализиран peer-to-peer пазар. Корисниците можат да ги пласираат нарачките за купување и продавање, а поредокот на редоследот се врши автоматски од страна на blockchain. Исто така постои и јавна достапна книга за нарачки и историја на нарачки кои корисниците можат да ги користат за анализа на пазарот. Корисниците можат да комуницираат со размената директно со користење на blockchain API, или да користат GUI како што е оној на Steemit.com.[^14]
 
 ### Исплати преку депонирање
 

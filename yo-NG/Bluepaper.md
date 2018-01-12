@@ -169,15 +169,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Steemu gba aye fun lilo pasiwordu ti oga to ma fi kokoro meteta pamo. Webusafisi le lo pasiwordu ti oga to ma pamo ati fi onte lu pelu kokoro pamo to se koko. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+  Steemu gba aye fun lilo pasiwordu ti oga to ma fi kokoro meteta pamo. Webusafisi le lo pasiwordu ti oga to ma pamo ati fi onte lu pelu kokoro pamo to se koko. Pasiwordu ti oga le gba eyan laye lati fi okan te safisi kankan lati toju kokoro aito lati fi ranse kakiri savar. to fi kun iriri eyan bi wan se toju eliyenti to nipon fi onte lu agbegbe.
 </p>
 
 <h3>
-  Multi Sig Authorities
+  Otoriti orisirisi Sig
 </h3>
 
 <p>
-  The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  Bulookichain steemu fun otoriti pin larin aimoye nkan, to jepe aimoye eyan le pin otoriti kan na, tabi aimoye nkan nilo lati otorisi katakara ko o to le ku oju osuwon. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 </p>
 
 <h3>

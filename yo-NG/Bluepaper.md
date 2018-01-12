@@ -193,15 +193,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Ipa to jafafa ti imo midia STEEM je ipa ti ile yi ti a le ko lori bulookichain Steemu. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Ipa to jafafa ti imo midia STEEM je ipa ti ile yi ti a le ko lori bulookichain Steemu. STEEM, ni akoko SMT ti o wa ri, at Ipa to ja fafa ti imo midia purotocol wa fun lati so webusitii di owo ati appilicatoni kakiri webu nipa gbi gba awon eyan laye lati pese ipa to ni eya to jo tabi farape STEEM, sugbon ti o se tunse lati tele ilana agbegbe ti afefe nipa iwa fun ni lowo, ni pataki tun se aseyori STEEMs si webusitii tabi appilicatoni. A le ri won alaye to she ni lanfanii die si ni inu iwe funfun ipa to jafafa ti imo midia <fnref target="17" />.
 </p>
 
 <h3>
-  Stolen Account Recovery
+  Irapada Akkant ti wan ji
 </h3>
 
 <p>
-  If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  Ti akkanti eyan ba wa ni cumporomisi. wan le paro kokoro wan ni pa lilo kokoro pamo activu. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 </p>
 
 <h3>

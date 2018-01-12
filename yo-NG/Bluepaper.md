@@ -89,7 +89,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Pq mimo je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Pq mimo ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
+  Eto ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Pq mimo ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
 </p>
 
 <h3>

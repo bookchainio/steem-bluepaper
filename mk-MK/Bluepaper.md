@@ -58,11 +58,11 @@ AppBase е првиот чекор на креирање на мулти-син�
 
 ## Функции на платформата Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain служи двојна цел, да биде систем за обработка на дигитален токен, како и главен поток на платформата за социјалните медиуми. Карактеристиките понудени од blockchain треба да ги поддржат двете цели, и им овозможуваат на корисниците искуство од светска класа кога ги користат двата аспекти на платформата.
 
-### Primitives Designed for Content Applications
+### Примитиви дизајнирани за апликации со содржина
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem им овозможува на корисниците уникатна способност за директно и трајно да објавуваат и складираат различни видови на содржина во непроменливата книга на blockchain како обичен текст. Откако ќе се зачуваат во blockchain, податоците се достапни јавно за програмерите од кои можат да се изградат. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -36,9 +36,9 @@ Steem работи врз основа на еден STEEM, едно гласа�
 
 ## Брзина и скала на Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain е дизајниран да биде еден од најбрзите и најефикасните постоечки blockchains, што е неопходно за да може да го поддржи износот на прометот што се очекува на платформата на социјалните медиуми да е поголема од големината на Reddit. Steem веќе го надмина Биткоин во бројот на трансакции и е способен да поддржува 10.000 или повеќе трансакции во секунда.
 
-### Delegated Proof of Stake (DPoS)
+### Делегиран доказ за влог (DPoS)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

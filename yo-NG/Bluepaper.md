@@ -237,7 +237,7 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h2>
 
 <p>
-  Eri to je airu iru re yi ati purogamu fifun ni nkan ti bulookichain ati ipa wa fun lati je ki Steemu ni kokari onu-rampu sinu cryptocurrency fun awon eyan ti wan lo. Ise bulookichain wa jeki lilo owo yen ati pulatifomu yen kakiri aye lokan. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+  Eri to je airu iru re yi ati purogamu fifun ni nkan ti bulookichain ati ipa wa fun lati je ki Steemu ni kokari onu-rampu sinu cryptocurrency fun awon eyan ti wan lo. Ise bulookichain wa jeki lilo owo yen ati pulatifomu yen kakiri aye lokan. Ti aba mu po pelu yiyara bi asa purosesin asiko, ati ai gba owo katakara, Steemu wa lati je ikan ninu olori bulookichain tekinologi ti awon eyan ma lo laye.
 </p>
 
 <footnotes>

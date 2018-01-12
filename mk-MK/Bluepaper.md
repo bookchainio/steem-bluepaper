@@ -44,11 +44,11 @@ Steem blockchain е дизајниран да биде еден од најбр�
 
 Поради DPoS, Steem blockchain може да генерира нов блок секои 3 секунди со минимално пресметувачко оптоварување. Ова значи дека blockchain може да обработи повеќе трансакции и да содржи повеќе информации, вклучувајќи ја содржината.
 
-Со дефинирање на правилата за тоа кога се случува Hardfork, сведоците избрани во рамките на DPoS можат брзо и ефикасно да одлучуваат дали да се движат напред со предложениот hardfork, дозволувајќи протоколот на Steem blockchain да се развива побрзо од повеќето други. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Со дефинирање на правилата за тоа кога се случува Hardfork, сведоците избрани во рамките на DPoS можат брзо и ефикасно да одлучуваат дали да се движат напред со предложениот hardfork, дозволувајќи протоколот на Steem blockchain да се развива побрзо од повеќето други. Steem blockchain веќе успешно се раздвоил 18 пати[^8], и секогаш кога Hardfork се појавува, само еден синџир опстојува после крстопатот.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] е дел од базата на податоци на blockchain магацинот и го заменува Graphene[^10] во 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

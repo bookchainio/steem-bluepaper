@@ -213,19 +213,19 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Bulookichain Steemu gba eyan laye lati fi STEEM ati ipa SBD wan pamo si akaanti safin, leyi to je wipe wan ni le gba afi leyin diduro ojo meta. Ni afikun, STEEM to wa ninu ose metala festi sikedule le yo ni ratii eyo kan ni ose metala, leyin diduro ojo meje. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  Bulookichain Steemu gba eyan laye lati fi STEEM ati ipa SBD wan pamo si akaanti safin, leyi to je wipe wan ni le gba afi leyin diduro ojo meta. Ni afikun, STEEM to wa ninu ose metala festi sikedule le yo ni ratii eyo kan ni ose metala, leyin diduro ojo meje. Awon titi-akokoko gba ki ataka ni agbara lori gbogbo fundi eyan lese kese, eleyi fun eni to nikan gangan ni asiko lati ni agbara lori akaant ki o to dipe gbogbo fundi ma yo tan.
 </p>
 
 <h3>
-  Bandwidth Rate Limiting for Fee-less Operations
+  Rati Bandiwiti fi idaduro si aisi owo opirationi
 </h3>
 
 <p>
-  Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+  Nitoripe awon a ma san owo fun awon eleri nipase ipa tuntun, ko si iwulo ninu ki a gba owo lowo awon eyan fun fifun agbara fun bulookichain. Nkan ti o le je ki a gba owo ni pe, ki o je ijiya lati dekun eyan lati ma pari kata kara ti o poju, ti o le pa ise bulookichain lara.
 </p>
 
 <p>
-  In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  Nipa fifun idaduro to da lori sistemu lilo, eyan kankan ma ni bandiwiti idaduro. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 </p>
 
 <p>

@@ -185,15 +185,15 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  Fun arooko eyi keyi orisirisi eyan lo le ni intiresti owo ninu ere. Eleyi pelu eni ti oko arooko, eni ti o ba ko aroko, eni to mu eyan wa, awon to shagba teru, buloogi to ni esi bulookichain, ati irinse fun awon defelopa. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+  Fun arooko eyi keyi orisirisi eyan lo le ni intiresti owo ninu ere. Eleyi pelu eni ti oko arooko, eni ti o ba ko aroko, eni to mu eyan wa, awon to shagba teru, buloogi to ni esi bulookichain, ati irinse fun awon defelopa. Eyikeyi webusitii tabi irinse ti a lo lati pese arooko abi fe si mani gbara lati so bi ere esi na shey ma je pinpin larin opo eniyan. Eleyi gba aye fun orisirisi ibalo, ati ona fun pulatiform ti a ko lori bulookichain Steemu lati gba die ninu ere lowo awon eyan ti wan lo.
 </p>
 
 <h3>
-  Smart Media Tokens (SMT)
+  Ipa to jafafa ti imo midia (SMT)
 </h3>
 
 <p>
-  Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Ipa to jafafa ti imo midia STEEM je ipa ti ile yi ti a le ko lori bulookichain Steemu. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
 </p>
 
 <h3>

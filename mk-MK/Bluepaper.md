@@ -88,11 +88,11 @@ Steem employs a first of its kind hierarchical private key system to facilitate 
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. Активниот клуч е наменет за почувствителни задачи како што се трансфер на средства, трансакции на моќ/надолу, конвертирање на Steem долари, гласање за сведоци, поставување на нарачки на пазарот и ресетирање на клучот за објавување. Клучот на сопственикот е наменет само за користење кога е потребно. Тој е најмоќниот клуч, бидејќи може да го промени било кој клуч од сметката, вклучувајќи го клучот на сопственикот, и да ја докаже сопственоста за време на Обноваување на сметката. Идеално, тоа треба да биде сместено надвор од мрежата и да се користи само кога клучевите на сметката треба да се сменат или да се врати компромитирана сметка.
 
-Steem, исто така, го олеснува користењето на Master Password што ги шифрира сите три клучеви. Веб сервисите може да користат Master Password кој дешифрира и знаци со потребниот приватен клуч. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem, исто така, го олеснува користењето на Master Password што ги шифрира сите три клучеви. Веб сервисите може да користат Master Password кој дешифрира и знаци со потребниот приватен клуч. Master Passwords може да им дозволат на корисниците да им веруваат на одредени услуги за да ги задржат несоодветните клучеви од пренос на било кој сервер, со што се зголемува корисничкото искуство додека се одржува безбедна клиентска страна за потпишување.
 
-### Multi Sig Authorities
+### Multi Sig Власти
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain овозможува авторитетот да биде поделен на повеќе субјекти, така што повеќе корисници можат да го делат истиот авторитет или од повеќе субјекти се бара да ја овластат трансакцијата со цел таа да биде валидна. Ова е направено на ист начин како Bitshares[^16]каде што секој јавен/приватен клуч е назначен за тежина, а прагот е дефиниран за авторитетот. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

@@ -92,7 +92,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### Multi Sig Authorities
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. 이것은 각각의 공개키/개인키에 가중치를 부여하고 권한을 위해 임계값을 정의하는 비트쉐어[^16]의 방식과 같은 방법으로 수행됩니다. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. 이것은 각각의 공개키/개인키에 가중치를 부여하고 권한을 위해 임계값을 정의하는 비트쉐어[^16]의 방식과 같은 방법으로 수행됩니다. 유효한 트랜잭션이 되기 위해서는 엔티티들의 가중치 합이 임계값을 충족하거나 초과하기 위해 충분한 엔티티들이 서명해야 합니다.
 
 ### Multiple Reward Beneficiaries
 

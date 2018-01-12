@@ -225,11 +225,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <p>
-  Nipa fifun idaduro to da lori sistemu lilo, eyan kankan ma ni bandiwiti idaduro. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  Nipa fifun idaduro to da lori sistemu lilo, eyan kankan ma ni bandiwiti idaduro. Igba kigba ti eyan ba se nkan lori bulookichain, bi ipa fifi ranse, kiko arooko ati di di ibo, o man din lo lara bandiwiti wan. Ti eyan ba lo koja bandiwiti ti a fun wan, wan gbodo duro lati se awon nkan titi ti igba ti bandiwiti wan ma tun pada.
 </p>
 
 <p>
-  Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+  Bandiwiti idaduro se yi gegebi netiwooki lilo, awon eyan ma ni bandiwiti to ga to po nigbati netiwoki lilo ba kere. Iye bandiwiti ti akaant le ni wa gegebi agbara Steemu ti eyan ni, nitorina eyan le fiku bandiwiti wan nipa nini agbara Steemu lafikun.
 </p>
 
 <h2>

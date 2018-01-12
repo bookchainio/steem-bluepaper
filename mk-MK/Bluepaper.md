@@ -92,15 +92,15 @@ Steem, исто така, го олеснува користењето на Mast
 
 ### Multi Sig Власти
 
-Steem blockchain овозможува авторитетот да биде поделен на повеќе субјекти, така што повеќе корисници можат да го делат истиот авторитет или од повеќе субјекти се бара да ја овластат трансакцијата со цел таа да биде валидна. Ова е направено на ист начин како Bitshares[^16]каде што секој јавен/приватен клуч е назначен за тежина, а прагот е дефиниран за авторитетот. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain овозможува авторитетот да биде поделен на повеќе субјекти, така што повеќе корисници можат да го делат истиот авторитет или од повеќе субјекти се бара да ја овластат трансакцијата со цел таа да биде валидна. Ова е направено на ист начин како Bitshares[^16]каде што секој јавен/приватен клуч е назначен за тежина, а прагот е дефиниран за авторитетот. За да може трансакцијата да биде валидна, доволно субјекти мора да потпишат, така што збирот на нивните тежини го исполнува или надминува прагот.
 
-### Multiple Reward Beneficiaries
+### Повеќекратни корисници на награди
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+За секој даден пост може да има голем број на различни луѓе кои имаат финансиски интерес во наградувањето. Ова ги вклучува авторот, можните ко-автори, реферери, хостинг провајдери, блогови во кои се вградени blockchain коментари и развивачи на алатки. Без оглед на веб-сајтот или алатката која се користи за изградба на пост или коментар ќе се имаа можност да се утврдат како наградите од тој коментар се поделени меѓу различни партии. Ова овозможува разни форми на соработка, како и начин за платформи кои се изградени на врвот на Steem blockchain за да соберат дел од наградите од нивните корисници.
 
-### Smart Media Tokens (SMT)
+### Паметни медиумски токени (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Паметните медиумски токени се природни токени кои можат да се изградат на Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

@@ -44,7 +44,7 @@ Steem blockchain е дизајниран да биде еден од најбр�
 
 Поради DPoS, Steem blockchain може да генерира нов блок секои 3 секунди со минимално пресметувачко оптоварување. Ова значи дека blockchain може да обработи повеќе трансакции и да содржи повеќе информации, вклучувајќи ја содржината.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Со дефинирање на правилата за тоа кога се случува Hardfork, сведоците избрани во рамките на DPoS можат брзо и ефикасно да одлучуваат дали да се движат напред со предложениот hardfork, дозволувајќи протоколот на Steem blockchain да се развива побрзо од повеќето други. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

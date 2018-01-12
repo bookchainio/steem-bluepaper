@@ -209,11 +209,11 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </h3>
 
 <p>
-  If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+  Ti kokoro activu tabi ti eyan to ni bawa cumporomisi, ataka yen ma ni gbogbo aye ati agbara lati ri gbogbo fundi akaant. Nitoripe katakara bulookichain o she da pada, eyan o ni ona lati gba fundi wan pada ti wan ba ti ji.
 </p>
 
 <p>
-  The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  Bulookichain Steemu gba eyan laye lati fi STEEM ati ipa SBD wan pamo si akaanti safin, leyi to je wipe wan ni le gba afi leyin diduro ojo meta. Ni afikun, STEEM to wa ninu ose metala festi sikedule le yo ni ratii eyo kan ni ose metala, leyin diduro ojo meje. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 </p>
 
 <h3>

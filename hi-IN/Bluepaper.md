@@ -49,7 +49,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h4>
 
 <p>
-  The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+  उपयोगकर्ता जो सामग्री का उत्पादन करते है वो स्टीम्ट का मूल्य बडाते है जिसे नए उपयोगकर्ताओं इस मंच की तरफ़ आकर्षित होते है, और साथी मौजूदा उपयोगकर्ताओं को मनोरंजत और वेस्त रखते है। This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 </p>
 
 <h4>

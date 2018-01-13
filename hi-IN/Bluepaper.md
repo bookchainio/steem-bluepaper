@@ -81,7 +81,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+  DPoS की वजह से स्टीम 3 सेकंड मै ऐक नया बुलाक बनाता है वो बी बोहत कम लोड मै | This means that the blockchain can process more transactions and hold more information, including content.
 </p>
 
 <p>

@@ -57,7 +57,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h4>
 
 <p>
-  स्टीम (Steem) एक-स्टीम (Steem), एक-वोट के आधार पर संचालित होता है । Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+  स्टीम (Steem) एक-स्टीम (Steem), एक-वोट के आधार पर संचालित होता है । इस मॉडल के हिसाब से, जिस व्यक्ती ने इस मंच के लिए सबसे अधिक योगदान दिया है उसका मतदान मै सबसे अधिक प्रभाव होता है, और इसका हिसाब उसके अपने खाते की शेष राशि से लगाया जाता हैं। स्टेक (दांव) खरीदा या कमाया जा सकता है । Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 </p>
 
 <p>

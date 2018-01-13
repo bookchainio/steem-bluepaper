@@ -61,7 +61,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+  इसके अलावा, स्टीम (Steem) केवल अपने सदस्यों को स्टीम (Steem) के साथ वोट करने की अनुमति देता है जब यह एक 13 सप्ताह की अनुसूची के लिए प्रतिबद्ध किया जाता है जिसको स्टीम पावर (Steem Power) कहा जाता हैं। Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 </p>
 
 <h2>

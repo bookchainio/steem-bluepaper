@@ -69,15 +69,15 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h2>
 
 <p>
-  स्टीम (Steem) ब्लॉकचैन को सबसे तेज और अस्तित्व में सबसे कुशल ब्लॉकचैन है, जो एक सामाजिक मीडिया मंच पर रेडिट (Reddit) के आकार से भी बडे यातायात को स्थिर बनाए रखता हैं । Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+  स्टीम (Steem) ब्लॉकचैन को सबसे तेज और अस्तित्व में सबसे कुशल ब्लॉकचैन है, जो एक सामाजिक मीडिया मंच पर रेडिट (Reddit) के आकार से भी बडे यातायात को स्थिर बनाए रखता हैं । स्टीम (Steem) पहले से ही लेनदेन की संख्या में Bitcoin को पार कर गया है, और प्रति सेकंड १०,००० या अधिक लेनदेन करने में सक्षम है ।
 </p>
 
 <h3>
-  Delegated Proof of Stake (DPoS)
+  हिस्सेदारी(Stake) का प्रत्यायोजित प्रमाण (DPoS)
 </h3>
 
 <p>
-  Often bottlenecked by Proof-of-Work (PoW)<fnref target="6" />, many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.
+  अक्सर PoW(Proof-of-Work) की अड़चन से <fnref target="6" />, कई ब्लॉकचैन प्रति सेकंड तीन लेनदेन से अधिक नहीं कर सकता है, जो दुनिया के वित्तीय यातायात का सिर्फ़ एक अंश है । Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.
 </p>
 
 <p>

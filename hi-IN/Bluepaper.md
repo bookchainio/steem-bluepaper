@@ -85,7 +85,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+  हाडफ़ोर्क होने केलिये जो नियम है वो गवह (witness) चुनते है जो DPoS मै चुने जाते है, गवह तेज़ी और कुशल तरीके से तय करते है कि कब हाडफ़ोर्क करना उचित रहेगा ताकि स्टीम ब्लॉकचेन तेज़ी से और व्किस्त होजाए | The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 </p>
 
 <h3>

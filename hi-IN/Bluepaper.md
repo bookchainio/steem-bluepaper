@@ -93,7 +93,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  ChainBase<fnref target="9" /> is the database portion of the blockchain stack and replaced Graphene<fnref target="10" /> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  चेन बेस<fnref target="9" />ब्लॉकचेन के डेटाबेस का हिससा है और उसने ग्राफीन<fnref target="10" />की जगह २०१६ मै पकड़ ली| ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 </p>
 
 <h3>

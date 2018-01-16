@@ -64,7 +64,7 @@ AppBase 는 멀티 체인 FABRIC 을 만드는 첫 번째 단계입니다. AppBa
 
 스팀은 직접적이면서도 영구적으로 다양한 종류의 콘텐츠를 블록체인의 변경 불가능한 원장(ledger) 으로 평문처럼 저장하고 출판할 수 있는 고유한 기능을 사용자에게 제공합니다. 블록체인에 일단 저장되면 개발자들이 이 데이터를 공개적으로 이용할 수 있게 됩니다. 개발자는 제공된 API를 통해 블록체인 안에 있는 콘텐츠를 이용할 수 있습니다. 블록체인 기본 기능(blockchain primitives) 개발자들은 계정 이름, 포스트, 코멘트, 투표, 계정 잔고 등의 기능을 만들었습니다.
 
-### 고유(native) 이름 시스템
+### 네이티브 이름 시스템
 
 비트코인이나 이더리움 같은 많은 블록체인 기술에서 사용하고 있는 지갑 주소는 임의의 문자와 숫자를 조합한 긴 문자열로 구성됩니다. 하지만, 사용자들이 이렇게 긴 지갑 주소를 기억하기 어렵기 때문에 일반적인 온라인 소셜 미디어 환경에서 다른 사람과 거래할 때 매우 불편합니다. 스팀 블록체인은 각 참가자의 사용자 이름을 지갑 주소로 사용하며 이러한 방식을 이용하면 거래 참가자들이 자신의 기억 속에서 해당 지갑 주소를 확인할 수 있기 때문에 토큰을 거래하는 참가자들의 사용자 경험을 강화시킵니다.
 
@@ -100,7 +100,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 스마트 미디어 토큰 (SMT)
 
-스마트 미디어 스팀 블록체인 위에 구축할 수 있는 네이티브 토큰입니다. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+스마트 미디어 토큰은 스팀 블록체인 기반으로 구축할 수 있는 네이티브 토큰입니다. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

@@ -96,9 +96,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 여러 명의 보상 수혜자들
 
-포스팅에 대한 보상은 여러 사람들과 관련될 수 있습니다. 저자, 공동 저자, 참조자(referrer), 호스팅 제공업체, 블록체인 코멘트가 내장된 블로그, 도구 개발자 등이 포스팅 보상과 관련된 사람들입니다. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+포스팅에 대한 보상은 여러 사람들과 관련될 수 있습니다. 저자, 공동 저자, 참조자(referrer), 호스팅 제공업체, 블록체인 코멘트가 내장된 블로그, 도구 개발자 등이 포스팅 보상과 관련된 사람들입니다. 포스트나 코멘트를 작성하기 위해 이용하는 모든 웹사이트, 도구에서는 코멘트로부터 발생한 보상을 다양한 당사자들에게 어떻게 분배할지 설정할 수 있습니다. 이러한 기능 덕분에 스팀 블록체인 기반의 플랫폼을 이용해 사용자로부터 보상의 일부를 모을 수 있을 뿐만 아니라 다양한 형태의 협력이 가능하게 되었습니다.
 
-### Smart Media Tokens (SMT)
+### 스마트 미디어 토큰 (SMT)
 
 Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 

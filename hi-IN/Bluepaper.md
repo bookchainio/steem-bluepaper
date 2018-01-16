@@ -93,7 +93,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  चेन बेस<fnref target="9" />ब्लॉकचेन के डेटाबेस का हिससा है और उसने ग्राफीन<fnref target="10" />की जगह २०१६ मै पकड़ ली| ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  चेन बेस<fnref target="9" />ब्लॉकचेन के डेटाबेस का हिससा है और उसने ग्राफीन<fnref target="10" />की जगह २०१६ मै पकड़ ली| चेनबेस तेज़ी से लोड और खारिज होता है, डेटाबेस का समान्तर उपयोग से समर्थन करता है और अपने बाक़ी साथियों के मुकाबले मै कम ख़राब होता हैं | It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 </p>
 
 <h3>

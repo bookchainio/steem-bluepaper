@@ -94,9 +94,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 스팀 블록체인은 다수의 사용자가 동일한 권한을 공유하거나 다수의 엔티티가 유효한 트랜잭션인지 확인할 수 있도록 다수의 엔티티(entities) 에게 권한을 나눠줄 수 있습니다. 이것은 각각의 공개키/개인키에 가중치를 부여하고 권한을 위해 임계값(threshold) 을 정의하는 비트쉐어[^16]의 방식과 같은 방법으로 수행됩니다. 유효한 트랜잭션이 되기 위해서는 엔티티들의 가중치 합이 임계값을 충족하거나 초과하기 위해 충분한 엔티티들이 서명해야 합니다.
 
-### Multiple Reward Beneficiaries
+### 여러 명의 보상 수혜자들
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+포스팅에 대한 보상은 여러 사람들과 관련될 수 있습니다. 저자, 공동 저자, 참조자(referrer), 호스팅 제공업체, 블록체인 코멘트가 내장된 블로그, 도구 개발자 등이 포스팅 보상과 관련된 사람들입니다. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

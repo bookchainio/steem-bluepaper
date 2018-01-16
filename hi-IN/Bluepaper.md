@@ -101,7 +101,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  एप बेस मलटी चेन FABRIC बनाने की तरफ़ पेहला कदम हैं | AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  एप बेस मलटी चेन FABRIC बनाने की तरफ़ पेहला कदम हैं | एप बेस स्टेम ब्लॉकचेन के कई हिस्सों को गेर सहमति ब्लॉकचेन मै समर्पित plugins प्रमापीय बनाता हैं | इन plugins को तेज़ी से सूधारा जासकता है वोह बी बिना पूरी ब्लॉकचेन को बदले हुए | This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
 </p>
 
 <p>

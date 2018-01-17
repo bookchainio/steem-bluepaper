@@ -112,13 +112,13 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 스팀 블록체인에서는 사용자가 자신들이 보유한 STEEM, SBD 토큰을 안전 금고(savings account) 에 보관할 수 있으며 여기에 보관된 자금을 인출하기 위해서는 자금 인출 요청 후 3일 동안 기다려야 합니다. 또한, STEEM 은 13 주간의 귀속 일정을 가지고 있기 때문에 7일간의 최초 대기 기간 이후에는 1주일당 1/13 비율로만 인출할 수 있습니다. 이러한 기간 제한 기능은 해커가 사용자의 모든 자금에 바로 접근할 수 있는 기회를 차단하기 때문에, 실제 계정 소유자는 자신의 자금이 모두 도난당하기 전에 계정을 복구할 수 있는 시간을 확보할 수 있습니다.
 
-### 수수료 없는 연산(operation) 을 위한 대역폭 비율 제한
+### 수수료 없는 연산(operation) 을 위한 대역폭(Bandwidth) 비율 제한
 
 증인들이 새로운 토큰 생성과 관련된 비용을 모두 부담하기 때문에 블록체인을 이용하기 위해 사용자가 지불해야 할 수수료는 없습니다. 다만, 블록체인 성능에 잠재적으로 영향을 줄 수 있는 지나친 양의 트랜잭션을 수행하는 사용자들을 막기 위한 제지 조치의 일환으로 수수료가 부과되기도 합니다.
 
-시스템 이용을 적당한 선에서 제한하기 위해, 각 사용자에게는 제한된 대역폭이 주어집니다. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+시스템 이용을 적당한 선에서 제한하기 위해, 각 사용자에게는 제한된 대역폭이 주어집니다. 사용자가 토큰 송금, 콘텐츠 포스팅, 보팅 등과 같은 블록체인 연산을 수행할때마다 그들이 대역폭 중 일부가 사용됩니다. 사용자가 자신에게 허락된 대역폭 한계를 초과한 경우, 자신의 대역폭이 다시 채워질 때까지는 추가적인 행동을 수행할 수 없습니다.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+대역폭 제한은 네트워크 사용에 기반해 조정되기 때문에, 네트워트 사용량이 낮을 경우 사용자는 좀 더 높은 대역폭을 확보할 수 있습니다. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
 ## Conclusion
 

@@ -114,9 +114,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 수수료 없는 연산(operation) 을 위한 대역폭 비율 제한
 
-증인들이 새로운 토큰 생성과 관련된 비용을 모두 부담하기 때문에 블록체인을 이용하기 위해 사용자가 지불해야 할 수수료는 없습니다. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+증인들이 새로운 토큰 생성과 관련된 비용을 모두 부담하기 때문에 블록체인을 이용하기 위해 사용자가 지불해야 할 수수료는 없습니다. 다만, 블록체인 성능에 잠재적으로 영향을 줄 수 있는 지나친 양의 트랜잭션을 수행하는 사용자들을 막기 위한 제지 조치의 일환으로 수수료가 부과되기도 합니다.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+시스템 이용을 적당한 선에서 제한하기 위해, 각 사용자에게는 제한된 대역폭이 주어집니다. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

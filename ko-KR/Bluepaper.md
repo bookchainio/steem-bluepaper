@@ -118,9 +118,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 시스템 이용을 적당한 선에서 제한하기 위해, 각 사용자에게는 제한된 대역폭이 주어집니다. 사용자가 토큰 송금, 콘텐츠 포스팅, 보팅 등과 같은 블록체인 연산을 수행할때마다 그들이 대역폭 중 일부가 사용됩니다. 사용자가 자신에게 허락된 대역폭 한계를 초과한 경우, 자신의 대역폭이 다시 채워질 때까지는 추가적인 행동을 수행할 수 없습니다.
 
-대역폭 제한은 네트워크 사용에 기반해 조정되기 때문에, 네트워트 사용량이 낮을 경우 사용자는 좀 더 높은 대역폭을 확보할 수 있습니다. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+대역폭 제한은 네트워크 사용에 기반해 조정되기 때문에, 네트워트 사용량이 낮을 경우 사용자는 좀 더 높은 대역폭을 확보할 수 있습니다. 사용자에게 허락된 대역폭 양은 사용자가 가진 스팀 파워의 양과 정비례 관계에 있습니다. 때문에 사용자들은 추가적인 스팀 파워를 획득하여 그들의 대역폭을 늘릴 수 있습니다.
 
-## Conclusion
+## 결 론
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

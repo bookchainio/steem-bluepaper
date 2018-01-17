@@ -104,7 +104,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 도난 계정 복구
 
-사용자의 계정에 문제가 발생하면 사용자들은 개인 소유자 키를 이용해 키를 변경할 수 있습니다. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+사용자의 계정에 문제가 발생하면 사용자들은 개인 소유자 키를 이용해 키를 변경할 수 있습니다. 악의적인 사용자에 의해 개인 소유자 키가 손상될 수 있으며 계정 패스워드도 변경될 수 있습니다. 계정 침해 사례가 발생한 사용자는 스팀에서 업계 최초로 제공하는 계정 복구 프로세스를 통해 30일 안에 기존 개인 키를 제출하면 계정을 복구할 수 있습니다. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

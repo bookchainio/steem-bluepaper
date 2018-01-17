@@ -20,15 +20,15 @@ Jeden z najbardziej innowacyjnych (i najbardziej niezrozumianych) aspektów bloc
 
 W przeciwieństwie do kryptowalut opartych tylko na PoW, tokeny Steem generowane są w stałej ilości jednego bloku na trzy sekundy. Te tokeny rozprowadzane są do różnych działaczy systemu w oparciu o określone zasady blockchainu. Ci działacze, tacy jak twórcy kontentu, świadkowie (and. witness) i kuratorzy, rywalizują o tokeny na specjalne sposoby. W przeciwieństwie do tradycyjnych sposobów dystrybucji PoW, gdzie kopacze rywalizują przez czystą moc obliczeniową, działacze w sieci Steem są zachęcani do rywalizacji w sposoby, które nadają sieci wartość.
 
-Prędkość, z jaką nowe tokeny są generowane została ustawiona na 9.5% co rok, zaczynając w Grudniu 2016 i zmniejsza się o 0.01% co 250,000 bloków, czyli około 0.5% co rok. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Prędkość, z jaką nowe tokeny są generowane została ustawiona na 9.5% co rok, zaczynając w Grudniu 2016 i zmniejsza się o 0.01% co 250,000 bloków, czyli około 0.5% co rok. Inflacja będzie kontynuować swój spadek w takim tempie aż dotrze do 0.95% po około 20.5 latach.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Z wszystkich nowych tokenów produkowanych przez blockchain co roku, 75% tych tokenów należy do "puli nagród", która rozprowadzona jest między twórców kontentu i jego kuratorów. 15% rozprowadzone jest między posiadaczy nabytych tokenów, a 10% do Świadków, czyli twórców bloków współpracujących wewnątrz Steemowego protokołu zgody DPoS.
 
-#### Rewards for Content Creators and Curators
+#### Nagrody dla Twórców Kontentu i Kuratorów
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Użytkownicy, którzy tworzą kontent dodają wartość sieci tworząc materiał, który zachęci nowych użytkowników do dołączenia do platformy oraz sprawiają, że obecni użytkownicy są zaangażowani i zabawieni. Pomaga to w dystrybucji waluty do szerszego grona użytkowników i zwiększa działanie sieci. Użytkownicy którzy spędzają czas na ocenie i głosowaniu na kontent grają istotną rolę w rozprowadzeniu waluty do użytkowników, którzy dodają sieci największą wartość. Blockchain nagradza obie z tych czynności w zależności od ich wartości w oparciu o wspólną mądrość tłumu ocenianą dzięki ważonemu systemowi głosowania.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Głosowanie Zamrożonymi Tokenami by ocenić Rozprowadzenie Nagród
 
 Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 

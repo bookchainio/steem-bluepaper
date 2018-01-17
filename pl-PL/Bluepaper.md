@@ -30,9 +30,9 @@ Użytkownicy, którzy tworzą kontent dodają wartość sieci tworząc materiał
 
 #### Głosowanie Zamrożonymi Tokenami by ocenić Rozprowadzenie Nagród
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem operuje na zasadzie - jeden STEEM, jeden głos. Dzięki temu modelowi osoby, które przyczyniły się do platformy najbardziej, co oceniane jest po balansie ich konta, mają największy wpływ na ocenę kontrybucji innych użytkowników. Zamrożone Tokeny mogą być kupione lub zdobyte. Użytkownicy nie mogą zdobyć przewagi tworząc wiele kont, bo jedno konto z daną ilością zamrożonych tokenów będzie mieć taki sam wpływ, jak dwa konta dzielące te samą ilość tokenów. Jedyny sposób na zwiększenie wpływu danego użytkownika to zwiększenie ilości posiadanych tokenów.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Ponadto, Steem pozwala użytkownikom jedynie na głosowanie przy użyciu STEEM gdy jest on zamrożony na okres 13 tygodni w zamrożonym tokenie nazwanym Steem Power. Dzięki temu modelowi, użytkownicy są finansowo zachęceni do głosowania w sposób, który zwiększa długoterminową wartość ich STEEMu.
 
 ## Speed and Scale on the Steem Blockchain
 

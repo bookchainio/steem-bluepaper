@@ -100,11 +100,11 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ### 스마트 미디어 토큰 (SMT)
 
-스마트 미디어 토큰은 스팀 블록체인 기반으로 구축할 수 있는 네이티브 토큰입니다. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+스마트 미디어 토큰은 스팀 블록체인 기반으로 구축할 수 있는 네이티브 토큰입니다. STEEM 은 첫 번째 SMT 입니다. 스마트 미디어 토큰 프로토콜을 지원하는 콘텐츠 웹사이트, 웹 기반 애플리케이션에서는 STEEM과 유사한 형태의 토큰을 자체 생산할 수 있으며, 특정 행동에 인센티브를 부여해서 온라인 커뮤니티의 비전에 맞게 커스터마이징할 수 있습니다. STEEM 의 성공 요소들을 그대로 웹 사이트, 애플리케이션에 적용하는 것이기 때문에 SMT 프로토콜을 도입하면 콘텐츠 기반의 수익 모델 구축이 가능합니다. 좀 더 상세한 기술적인 설명은 스마트 미디어 토큰 백서[^17]를 확인하시길 바랍니다.
 
-### Stolen Account Recovery
+### 도난 계정 복구
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+사용자의 계정에 문제가 발생하면 사용자들은 개인 소유자 키를 이용해 키를 변경할 수 있습니다. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

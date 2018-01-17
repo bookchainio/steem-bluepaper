@@ -28,17 +28,17 @@ Z wszystkich nowych tokenów produkowanych przez blockchain co roku, 75% tych to
 
 Użytkownicy, którzy tworzą kontent dodają wartość sieci tworząc materiał, który zachęci nowych użytkowników do dołączenia do platformy oraz sprawiają, że obecni użytkownicy są zaangażowani i zabawieni. Pomaga to w dystrybucji waluty do szerszego grona użytkowników i zwiększa działanie sieci. Użytkownicy którzy spędzają czas na ocenie i głosowaniu na kontent grają istotną rolę w rozprowadzeniu waluty do użytkowników, którzy dodają sieci największą wartość. Blockchain nagradza obie z tych czynności w zależności od ich wartości w oparciu o wspólną mądrość tłumu ocenianą dzięki ważonemu systemowi głosowania.
 
-#### Głosowanie Zamrożonymi Tokenami by ocenić Rozprowadzenie Nagród
+#### Głosowanie Udziałami by ocenić Rozprowadzenie Nagród
 
-Steem operuje na zasadzie - jeden STEEM, jeden głos. Dzięki temu modelowi osoby, które przyczyniły się do platformy najbardziej, co oceniane jest po balansie ich konta, mają największy wpływ na ocenę kontrybucji innych użytkowników. Zamrożone Tokeny mogą być kupione lub zdobyte. Użytkownicy nie mogą zdobyć przewagi tworząc wiele kont, bo jedno konto z daną ilością zamrożonych tokenów będzie mieć taki sam wpływ, jak dwa konta dzielące te samą ilość tokenów. Jedyny sposób na zwiększenie wpływu danego użytkownika to zwiększenie ilości posiadanych tokenów.
+Steem operuje na zasadzie - jeden STEEM, jeden głos. Dzięki temu modelowi osoby, które przyczyniły się do platformy najbardziej, co oceniane jest po balansie ich konta, mają największy wpływ na ocenę kontrybucji innych użytkowników. Udziały mogą być kupione lub zdobyte. Użytkownicy nie mogą zdobyć przewagi tworząc wiele kont, bo jedno konto z daną ilością udziałów będzie mieć taki sam wpływ, jak dwa konta dzielące te samą ilość udziału. Jedyny sposób na zwiększenie wpływu danego użytkownika to zwiększenie ilości posiadanych tokenów.
 
 Ponadto, Steem pozwala użytkownikom jedynie na głosowanie przy użyciu STEEM gdy jest on zamrożony na okres 13 tygodni w zamrożonym tokenie nazwanym Steem Power. Dzięki temu modelowi, użytkownicy są finansowo zachęceni do głosowania w sposób, który zwiększa długoterminową wartość ich STEEMu.
 
-## Speed and Scale on the Steem Blockchain
+## Prędkość i Skalowalność Blockchainu Steem
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Blockchain Steem został stworzony z myślą o byciu jednym z najszybszych i najbardziej wydajnych blockchainów w historii, co jest konieczne by mógł wspierać ilość ruchu oczekiwanego od platformy socjalnej o wielkości większej niż Reddit. Steem przekroczył już ilość transakcji dokonancyh przez Bitcoin i jest w stanie skalować się do ponad 10,000 lub więcej transakcji na sekundę.
 
-### Delegated Proof of Stake (DPoS)
+### Zdelegowany Dowód Udziału (DPoS)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

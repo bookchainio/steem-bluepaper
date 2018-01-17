@@ -106,11 +106,11 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 사용자의 계정에 문제가 발생하면 사용자들은 개인 소유자 키를 이용해 키를 변경할 수 있습니다. 해커에 의해 개인 소유자 키가 손상될 수 있으며 계정 패스워드도 변경될 수 있습니다. 계정 침해 사례가 발생한 사용자는 스팀에서 업계 최초로 제공하는 계정 복구 프로세스를 통해 30일 안에 기존 개인 키를 제출하면 계정을 복구할 수 있습니다. 이 서비스는 개인 또는 스팀에 대한 등록 서비스를 제공한 회사가 이용할 수 있습니다. 스팀에 대한 등록 서비스를 제공하는 회사가 자신들의 서비스를 이용한 사용자에게 계정 복구 서비스를 제공하는 것이 의무사항은 아니지만 계정 복구 서비스를 제공함으로써 사용자 경험 가치를 높일 수 있을 것입니다.
 
-### 기간 제한을 통한 보안
+### 기간 제한(Time-Locks) 을 통한 보안
 
-해커에 의해 사용자의 액티브 또는 소유자 키가 손상되면, 해당 사용자가 보유한 모든 자산에 대한 통제권이 해커에게 넘어가게 됩니다. 블록체인 트랜잭션은 되돌릴 수 없는 특성이 있기 때문에, 사용자는 도난 당한 자신들의 자금을 찾을 수 있는 방법이 없습니다.
+해커에 의해 사용자의 액티브 또는 소유자 키가 손상되면, 해당 사용자가 보유한 모든 자산에 대한 통제권이 해커에게 넘어가게 됩니다. 블록체인 트랜잭션은 되돌릴 수 없기 때문에, 사용자는 도난 당한 자신들의 자금을 찾을 수 있는 방법이 없습니다.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+스팀 블록체인에서는 사용자가 자신들이 보유한 STEEM, SBD 토큰을 안전 금고(savings account) 에 보관할 수 있으며 여기에 보관된 자금을 인출하기 위해서는 자금 인출 요청 후 3일 동안 기다려야 합니다. 또한, STEEM 은 13 주간의 귀속 일정을 가지고 있기 때문에 7일간의 최초 대기 기간 이후에는 1주일당 1/13 비율로만 인출할 수 있습니다. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

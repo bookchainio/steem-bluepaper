@@ -122,7 +122,7 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 ## 결 론
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+스팀 블록체인에서 제공하는 고유한 보상 및 인센티브 프로그램, 토큰은 주류 사용자들이 스팀을 통해 가상화폐 세계로 유입되는 것을 돕기 위해 고안되었습니다. 블록체인의 성능은 화폐와 플랫폼에서 광범위하게 사용될 것을 염두에 두고 설계되었습니다. 빠른 처리 시간과 수수료 없는 트랜잭션이 결합된 스팀은 전세계 사람들이 사용하는 선도적인 블록체인 기술 중 하나가 될 것입니다.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

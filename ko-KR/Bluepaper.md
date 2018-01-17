@@ -110,9 +110,9 @@ SBD 토큰은 1 USD와 가깝게 페그되도록 고안되었기 때문에 SBD �
 
 해커에 의해 사용자의 액티브 또는 소유자 키가 손상되면, 해당 사용자가 보유한 모든 자산에 대한 통제권이 해커에게 넘어가게 됩니다. 블록체인 트랜잭션은 되돌릴 수 없기 때문에, 사용자는 도난 당한 자신들의 자금을 찾을 수 있는 방법이 없습니다.
 
-스팀 블록체인에서는 사용자가 자신들이 보유한 STEEM, SBD 토큰을 안전 금고(savings account) 에 보관할 수 있으며 여기에 보관된 자금을 인출하기 위해서는 자금 인출 요청 후 3일 동안 기다려야 합니다. 또한, STEEM 은 13 주간의 귀속 일정을 가지고 있기 때문에 7일간의 최초 대기 기간 이후에는 1주일당 1/13 비율로만 인출할 수 있습니다. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+스팀 블록체인에서는 사용자가 자신들이 보유한 STEEM, SBD 토큰을 안전 금고(savings account) 에 보관할 수 있으며 여기에 보관된 자금을 인출하기 위해서는 자금 인출 요청 후 3일 동안 기다려야 합니다. 또한, STEEM 은 13 주간의 귀속 일정을 가지고 있기 때문에 7일간의 최초 대기 기간 이후에는 1주일당 1/13 비율로만 인출할 수 있습니다. 이러한 기간 제한 기능은 해커가 사용자의 모든 자금에 바로 접근할 수 있는 기회를 차단하기 때문에, 실제 계정 소유자는 자신의 자금이 모두 도난당하기 전에 계정을 복구할 수 있는 시간을 확보할 수 있습니다.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### 수수료 없는 연산(operation) 을 위한 대역폭 비율 제한
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

@@ -44,7 +44,7 @@ Nieraz ograniczany przez Dowód Pracy (PoW) [^6], wiele blockchainów nie jest w
 
 Dzięki DPoS, blockchain Steem może generować nowy blok co 3 sekundy z minimalnym obiążeniem systemu obliczeniowego. To oznacza, że blockchain jest w stanie przetworzyć o wiele więcej transakcji i przetrzymywać więcej informacji, w tym kontentu.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Poprzez zdefiniowanie zasad na wypadek wystąpienia Hardfork'a, świadkowie wybrani poprzez DPoS mogą szybko i sprawnie zdecydować czy wprowadzić zaproponowany hardfork, pozwalają protokołowi Blockchainu Steem na znacznie szybsze ewoluowanie niż większość innych. Blockchain Steem już obecnie został zforkowany 18 razy z powodzeniem[^8] i za każdym razem gdy Hardfork wystąpił tylko jeden chain pozostał po forku.
 
 ### ChainBase
 

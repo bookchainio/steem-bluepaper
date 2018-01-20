@@ -100,15 +100,15 @@ Dla każdego posta może być wiele różnych ludzi, którzy mają interes finan
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens są natywnimi żetonami, które mogą zostać stworzonie na blockchain'ie Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens są natywnimi żetonami, które mogą zostać stworzonie na blockchain'ie Steem. STEEM jest pierwszym SMT jaki kiedykolwiek istniał i protokół Smart Media Token ma na celu monetyzację zawartości stron i aplikacji w całej sieci poprzez pozwolenie ludziom tworzenia żetonów, które posiadają właściwości podobne do STEEM, ale konfigurowalne aby pasowały do wizji każdej społeczności online poprzez motywowane zachowanie, właściwie powtarzając sukces STEEM do dowolnej strony lub aplikacji. Więcej technicznych szczegółów może zostać znalezionych w Smart Media Tokens whitepaper[^17].
 
-### Stolen Account Recovery
+### Odzyskiwanie Skradzionego Konta
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Jeżeli konto użytkownika zostanie skradzione, może on zmienić swoje klucze używając prywatnego klucza właściciela. Na wypadek gdyby złodziej był w stanie zdobyć prywatny klucz właściciela i zmienić hasło konta, użytkownik ma 30 dni aby wysłać poprzednio działający prywatny klucz przez pierwszy w branży proces odzyskiwania skradzionego konta Steem i odzyskać kontrole nad jego kontem. To może zostać zaoferowana przez osobę lub firmę, która zapewnia usługę rejestracji do Steem. Nie jest wymagane aby rejestrator zapewniał tą usługę dla jego użytkowników, ale dostępne aby zwiększyć wartość doświadczenia użytkowników rejestratora.
 
-### Security Through Time-Locks
+### Bezpieczeństwo Poprzez Blokady Czasowe
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Jeżeli klucz aktywności lub właściciela użytkownika zostanie skradziony, złodziej miałby pełny dostęp do wszystkich funduszy na jego koncie. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

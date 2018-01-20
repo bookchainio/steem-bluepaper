@@ -54,11 +54,11 @@ ChainBase[^9] to baza danych będąca cześcią blockchain stack i zastąpiła G
 
 AppBase jest pierwszym krokiem w tworzeniu wielo-chain'owego FABRIC'a. AppBase pozwala wielu częściom blockchainu Steem na stanie się modułowym poprzez stworzenie dodatkowych nie potrzebujących zgody blockchainów jako dedykowane wtyczki. Te wtyczki mogą zostać zaktualizowane zdecydowanie szybciej, ponieważ nie muszą powtarzać całego blockchain'u. Dzięki temu steem[^11] jest bardziej wydajny i łatwiejszy w utrzymaniu i skalowaniu.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym komputerom, utrzymywać rózne części blockchain'u Steem. Jest to zdecydowanie bardziej wydajne, niż wymaganie, żeby każdy rdzeń i każdy komputer w sieci utrzymywał cały blockchain. Dzielenie blockchain'u na moduły pozwala mu zmaksymalizować korzyści z modułowej natury komputerów. Jest to jeden konieczny krok w długim procesie tworzenia całkowicie równoległego, w pełni zoptymalizowanego blockchain'u.
 
-## Steem’s Platform Features
+## Funkcje Platformy Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Blockchain Steem pełni podwójny cel bycia systemem przetwarzania cyfrowego żetonu oraz powszechnej platformy mediów społecznościowych. Funkcje oferowane przez blockchain muszą wspierać oba cele i dawać użytkownikom najlepsze możliwe doświadczenie podczas używania obu aspektów platformy.
 
 ### Primitives Designed for Content Applications
 

@@ -118,11 +118,11 @@ Ponieważ świadkowie są płaceni całkowicie poprzez tworzenie nowych żetonó
 
 W celu stworzenia sensownego limitu na użytkowaniu systemu, każdy użytkownik dostaje dane ograniczenie przepustowości. Kiedy użytkownik wykonuje operacje blockchain'owe takie jak transfer żetonów, postowanie zawartości i głosowanie używa część swojej przepustowości. Jeżeli użytkownik przekroczy swoją dozwoloną przepustowość, musi poczekać żeby wykonać dodatkowe operacja aż jego przepustowość się odnowi.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Limity przepustowości dopasowywują się w zależności od użycia sieci, więc użytkownicy mają większą dozwoloną przepustowość, gdy użycie sieci jest niskie. Ilość przepustowości jaka jest dozwolona na koncie jest bezpośrednio proporcjonalna do ilości Steem Power jaką ma użytkownik, więc użytkownicy zawsze mogą zwiększyć ich dopuszczalną przepustowość poprzez zdobycie dodatkowego Steem Power.
 
-## Conclusion
+## Podsumowanie
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Unikalne nagrody i program motywacyjny oferowany przez blockchain Steem oraz żetony są zaprojektowane aby Steem stał się ostatecznym wejściem w kryptowalutę dla powszechnych użytkowników. Wydajność blockchain'u jest zaprojektowana z powszechną adopcją waluty i platformy na uwadze. Kiedy połączona z błyskawicznie szybkim czasami przetwarzania oraz bezopłatowych transakcji, Steem jest na dobrej drodze do zostania jedną z wiodących technologii używanych przez ludzi na całym świecie.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

@@ -113,7 +113,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h2>
 
 <p>
-  The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  स्टीम ब्लॉकचैन एक डिजिटल टोकन होने के साथ साथ ऐक सामाजिक मीडिया मंच का दोहरा कार्य करता हैं| The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 </p>
 
 <h3>

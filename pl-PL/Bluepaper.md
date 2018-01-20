@@ -90,9 +90,9 @@ Te prywatne klucze to Postowanie, Aktywność oraz Właściciel. Klucz postowani
 
 Steem także ułatwia używanie Hasła Master, który koduje wszystkie trzy klucze. Serwisy internetowe mogą używać Hasła Master, który odkodowuje i podpisuje używając potrzebnego prywatnego klucza. Hasło Master może pozwolić użytkownikom polegać na konkretnych usługach aby trzymać niewłaściwe klucze od zostania przesłanymi przez jakikolwiek serwer, powodując zwiększenie dośwadczenia użytkownika jednocześnie utrzymując bezpieczne środowisko logowania interpretowane po stronie klienta.
 
-### Multi Sig Authorities
+### Administracja Wielopodpisowa
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Blockchain Steem pozwala administracji być podzieloną między wiele podmiotów, tak że wiele użytkowników może dzielić tą samą administracje lub wiele podmiotów jest potrzebnych aby zaautoryzować transakcje, żeby była ważna. Jest to robione w ten sam sposób jak Bitshares[^16] gdzie każda publiczna/prywatna para kluczy ma przypisaną wagę i próg jest zdefiniowany przez administrację. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

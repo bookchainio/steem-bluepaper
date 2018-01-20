@@ -92,15 +92,15 @@ Steem także ułatwia używanie Hasła Master, który koduje wszystkie trzy kluc
 
 ### Administracja Wielopodpisowa
 
-Blockchain Steem pozwala administracji być podzieloną między wiele podmiotów, tak że wiele użytkowników może dzielić tą samą administracje lub wiele podmiotów jest potrzebnych aby zaautoryzować transakcje, żeby była ważna. Jest to robione w ten sam sposób jak Bitshares[^16] gdzie każda publiczna/prywatna para kluczy ma przypisaną wagę i próg jest zdefiniowany przez administrację. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Blockchain Steem pozwala administracji być podzieloną między wiele podmiotów, tak że wiele użytkowników może dzielić tą samą administracje lub wiele podmiotów jest potrzebnych aby zaautoryzować transakcje, żeby była ważna. Jest to robione w ten sam sposób jak Bitshares[^16] gdzie każda publiczna/prywatna para kluczy ma przypisaną wagę i próg jest zdefiniowany przez administrację. Aby transakcja była ważna, wiele podmiotów musi podpisać ją tak aby suma ich wag była równa lub większa od progu.
 
-### Multiple Reward Beneficiaries
+### Wielu Beneficjantów Nagrody
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Dla każdego posta może być wiele różnych ludzi, którzy mają interes finansowy w nagrodzie. Zalicza to autora, możliwych współautorów, polecający, dostawcy hostingu, blog, o którym osadzony blockchain komentuje i narzędzia deweloperskie. Jakakolwiek strona lub narzędzie, które jest używane do stworzenia posta lub komentarza będzie miało możliwość ustawienia jak nagrody za ten komentarz będą podzielone między wiele grup. Pozwala to na rózne formy współpracy jak również możliwość dla platform, które są zbudowane na blockchain'ie Steem aby zebrać część nagród od ich użytkowników.
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens są natywnimi żetonami, które mogą zostać stworzonie na blockchain'ie Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

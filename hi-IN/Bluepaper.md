@@ -141,7 +141,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  SBD टोकन का मुल्क एक अमरीकी डालर ते किए गया हैं, ताकि उपयोगकर्ताओं को, जो उंहें प्राप्त करते है, पता लगे कि वे"असली डॉलर" में मूल्य पता कर सकते हैं । SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
 </p>
 
 <h3>

@@ -60,11 +60,11 @@ Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym kom
 
 Blockchain Steem pełni podwójny cel bycia systemem przetwarzania cyfrowego żetonu oraz powszechnej platformy mediów społecznościowych. Funkcje oferowane przez blockchain muszą wspierać oba cele i dawać użytkownikom najlepsze możliwe doświadczenie podczas używania obu aspektów platformy.
 
-### Podstawe informacje przeznaczone dla aplikacji z zawartością
+### Podstawe Informacje Przeznaczone dla Aplikacji z Zawartością
 
 Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania róznych typów zawartości bezposrednio i trwale w niezmiennym rejestrze blockchain'u jako zwykły tekst. Dane raz zapisane w blockchain'ie stają sie publicznie dostępne dla deweloperów do użycia. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain'ie używając dostępnych API. Parę podstawowych informacji blockchain'u, z których deweloperzy mogą tworzyć zawierają nazwy kont, posty, komentarze, głosy i stan konta.
 
-### Natywny system nazw
+### Natywny System Nazw
 
 Adresy portfeli używanych przez wiele technologii blockchain'owych, takich jak Bitcoin i Ethereum, historycznie sładały się z długich linijek losowych liter i liczb, jednak te adresy portfeli mogą powodować trudności z dokonywaniem transakcji z innymi użytkownikami w typowym kontekscie internetowego medium społecznościowego, ponieważ użytkownicy nie są w stanie przypomnieć sobie długich adresów z pamięci. Blockchain Steem używa nazwy użytkownika każdego uczestnika jako jego adres portfela, co wzmacnia doświadczenie użytkownika dla uczestników, którzy próbują wysłać żetony, ponieważ mogą zweryfikować adresy z własnej pamięci.
 
@@ -74,15 +74,15 @@ Wielu użytkownikówm którzy są wprowadzani do kryptowaluty ma problem ze zroz
 
 Żetony SBD są stworzone aby dokladnie odwzorowywały jednego dolara, aby użytkownicy, którzy je otrzymują mogli wiedzieć ile w przybliżeniu są warci w odniesieniu do "prawdziwych dolarów". Żetony SBD również oferują relatywnie stabilną walutę dla użytkowników do przetrzymywania jeżeli chcą utrzymać wartość ich konta w stosunku do dolara. Bardziej szczegółowe techniczne wyjaśnienie może zostać znalezione w Steem technical whitepaper.[^12]
 
-### Zdecentralizowana giełda
+### Zdecentralizowana Giełda
 
-Blockchain Steem oferuję zdecentralizowaną giełdę żetonów, podobną do giełdy Bitshares.[^13] Giełda ta pozwala użytkownikom wymieniać ich żetony STEEM oraz SBD poprzez publiczną zdecentralizowaną giełdę peer-to-peer. Użytkownicy są w stanie składać oferty kupna i sprzedaży i znajdowanie transakcji jest wykonywane automatycznie poprzez blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Blockchain Steem oferuję zdecentralizowaną giełdę żetonów, podobną do giełdy Bitshares.[^13] Giełda ta pozwala użytkownikom wymieniać ich żetony STEEM oraz SBD poprzez publiczną zdecentralizowaną giełdę peer-to-peer. Użytkownicy są w stanie składać oferty kupna i sprzedaży i znajdowanie transakcji jest wykonywane automatycznie poprzez blockchain. Istnieje również publicznie dostępna lista zamówień oraz historia zamówień, których użytkownicy mogą używać do analizy rynku. Użytkownicy mogą wchodzić w interakcje z giełdą bezpośrednio używając API blockchain'u lub używając GUI takich jak ten na Steemit.com.[^14]
 
-### Payments Through Escrow
+### Płatności Poprzez Depozyt
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Nieodwracalna natura transakcji blockchain'owych jest ważną funkcją bezpieczeństwa, mimo że istnieje wiele przypadków, kiedy użytkownicy mogą nie być spokojni wysyłając ich żetony do innej osoby bez możliwości odzyskania ich gdyby inny użytkownik nie wywiązał się z jego strony umowy. Blockchain Steem oferuje możliwości dla uzytkowników aby wysyłać pieniądze do siebie z pośrednikiem wyznaczonym jako usługę depozytu. Użytkownicy działający jako usługa depozytu są w stanie określić czy warunki umowy zostały spełnione i pozwolić albo na uwolnienie funduszy dla otrzymującego albo na zwrot do wysyłającego.
 
-### Hierarchical Private Key Structure
+### Hierarchiczna Struktura Prywatnych Kluczy
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

@@ -44,7 +44,7 @@ Seringkali disekati oleh Bukti Pekerjaan (PoW)[^6], banyak rantaian blok tidak m
 
 Oleh kerana DPoS, rantaian blok Steem mampu untuk menghasilkan sebuah blok baru setiap 3 saat dengan beban pengiraan yang minima. Ini bererti bahawa rantaian blok ini boleh memproseskan lebih banyak transaksi dan mengandungi lebih banyak maklumat, termasuklah kandungan.
 
-Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih dalam kerangka DPoS boleh dengan cepat dan cekap membuat keputusan untuk sama ada bergerak ke hadapan cadangan Hardfork yang diusulkan atau tidak, membenarkan protokol rantaian blok Steem berkembang dengan lebih cepat daripada yang lain. Rantaian Steem telah berjaya mencetak 18 kali[^8], da setiapkali Hardfork telah berlaku, hanya rantai tunggal yang berterusan selepas garpu.
+Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih dalam kerangka DPoS boleh dengan cepat dan cekap membuat keputusan untuk sama ada bergerak ke hadapan cadangan Hardfork yang diusulkan atau tidak, membenarkan protokol rantaian blok Steem berkembang dengan lebih cepat daripada yang lain. Rantaian blok Steem telah berjaya mencabang (ataupun "forked") sebanyak 18 kali[^8], dan setiap kali Hardfork berlaku, hanya rantai tunggal berterusan selepas cabang (ataupun "fork") tersebut.
 
 ### Chainbase
 

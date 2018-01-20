@@ -105,7 +105,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  व्यावहारिक रूप से, AppBase विभिंन कंप्यूटरों को Steem ब्लॉकचैन के विभिंय भागों को बनाए रखने में सक्षम बनाता हैं | यह नेटवर्क मै ब्लॉकचैन को बनाए रखने मै हर कोर और हर कंप्यूटर की आवश्यकता से काफी अधिक कुशल हैं । Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 </p>
 
 <h2>

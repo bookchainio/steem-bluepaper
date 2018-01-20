@@ -108,15 +108,15 @@ Jeżeli konto użytkownika zostanie skradzione, może on zmienić swoje klucze u
 
 ### Bezpieczeństwo Poprzez Blokady Czasowe
 
-Jeżeli klucz aktywności lub właściciela użytkownika zostanie skradziony, złodziej miałby pełny dostęp do wszystkich funduszy na jego koncie. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Jeżeli klucz aktywności lub właściciela użytkownika zostanie skradziony, złodziej miałby pełny dostęp do wszystkich funduszy na jego koncie. Ponieważ transakcje blockchain są nieodwracalne, użytkownicy nie mają możliwości odzyskania funduszy po tym jak zostaną skradzione.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Blockchain Steem pozwala użytkownikom przechowywać ich żetony STEEM i SBD w kontach oszczędnościowych, żeby ich fundusze nie mogły zostać wypłacone bez trzydniowego okresu czekania. W dodatku, STEEM, który jest trzymany w 13 tygodniowym harmonogramie nabywania uprawnień może zostać wypłacony tylko w tempie 1/13 na tydzień, po pierwotnym siedmiodniowym okresie czekania. Te blokady czasowe zapobiegają złodzieja przed natychmiastowym dostępem do całej części funduszy użytkownika, tak że prawdziwy właściciel ma czas na odzyskanie kontroli nad jego kontem przed tym jak wszystkie jego fundusze mogą zostać wypłacone.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ograniczanie Przepustowości dla Bezopłatowych Operacji
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Ponieważ świadkowie są płaceni całkowicie poprzez tworzenie nowych żetonów, nie ma potrzeby obciążania użytkowników opłatami za zasilanie blockchain'u. Jedyny powód, dla którego obciążanie opłatami miałoby sens, byłoby zapobieganie użytkowników przed wykonywaniem nierozsądnie dużą ilość transakcji, które potencjalnie mogłyby wpłynąć na wydajność blockchain'u.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+W celu stworzenia sensownego limitu na użytkowaniu systemu, każdy użytkownik dostaje dane ograniczenie przepustowości. Kiedy użytkownik wykonuje operacje blockchain'owe takie jak transfer żetonów, postowanie zawartości i głosowanie używa część swojej przepustowości. Jeżeli użytkownik przekroczy swoją dozwoloną przepustowość, musi poczekać żeby wykonać dodatkowe operacja aż jego przepustowość się odnowi.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

@@ -40,272 +40,120 @@ Rantaian blok Steem direka untuk menjadi salah satu rantaian blok yang terpantas
 
 ### Bukti Ekuiti Saham yang Dideligasikan (DPoS)
 
-Seringkali disekati oleh Bukti Pekerjaan (PoW)[^6], banyak rantaian blok tidak mampu untuk berskala melebihi tiga transaksi sesaat, yang merupakan satu pecahan kecil daripada trafik kewangan dunia. Steem diperlukan skala yang jauh lebih banyak dan pantas berbanding yang ditawarkan oleh PoW, dan jadi algoritma dikenali yang lebih kecil dikenali sebagai bukti rasa puas kepentingan (DPoS) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref"> 7 </ 0> adalah dimanfaatkan bagi penyediaan asas bagi blockchain yang sesuai untuk bernilion-bilion pengguna.</p> 
+Seringkali disekati oleh Bukti Pekerjaan (PoW)[^6], banyak rantaian blok tidak mampu untuk berskala melebihi tiga transaksi sesaat, yang merupakan satu pecahan kecil daripada trafik kewangan dunia. Steem memerlukan skala dan kelajuan yang jauh lebih banyak dan pantas berbanding dengan yang ditawarkan oleh PoW, oleh yang demikian algoritma kurang diketahui yang dikenali sebagai Bukti Ekuiti Saham yang Dideligasikan (DPoS)[^7] telah dimanfaatkan untuk membina asas bagi rantaian blok yang sesuai untuk berbilion-bilion pengguna.
 
-<p>
-  Oleh kerana DPoS, Steem blockchain adalah mampu menghasilkan sebuah blok baru setiap 3 saat dengan yang pengiraannya minimal. Ini berarti bahawa blockchain yang bisa diimpor lebih banyak pindah milik dan maklumat lanjut termasuk kandungan.
-</p>
+Oleh kerana DPoS, rantaian blok Steem mampu untuk menghasilkan sebuah blok baru setiap 3 saat dengan beban pengiraan yang minima. Ini bererti bahawa rantaian blok ini boleh memproseskan lebih banyak transaksi dan mengandungi lebih banyak maklumat, termasuklah kandungan.
 
-<p>
-  Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih mengikut kerangka DPoS boleh dengan cepat dan cekap membuat keputusan mengenai Apa atau tidak untuk bergerak ke hadapan dengan cadangan yang diusulkan, membenarkan protokol blockchain Steem berkembang lebih cepat daripada kebanyakan orang lain- lain. Rantaian Steem telah berjaya mencetak 18 kali<fnref target="8" />, da setiapkali Hardfork telah berlaku, hanya rantai tunggal yang berterusan selepas garpu.
-</p>
+Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih dalam kerangka DPoS boleh dengan cepat dan cekap membuat keputusan untuk sama ada bergerak ke hadapan cadangan Hardfork yang diusulkan atau tidak, membenarkan protokol rantaian blok Steem berkembang dengan lebih cepat daripada yang lain. Rantaian Steem telah berjaya mencetak 18 kali[^8], da setiapkali Hardfork telah berlaku, hanya rantai tunggal yang berterusan selepas garpu.
 
-<h3>
-  Chainbase
-</h3>
+### Chainbase
 
-<p>
-  ChainBase<fnref target="9" /> adalah bahagian pangkalan data timbunan blockchain dan menggantikan Graphene<fnref target="10" /> pada 2016. ChainBase mempunyai masa lebih cepat dan keluar, menyokong akses selari ke pangkalan data dan lebih kuat berbanding kemalangan daripada pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" keseluruhan keadaan pangkalan data serta boleh melayani lebih banyak permintaan RPC dari ingatan yang sama.
-</p>
+ChainBase[^9] adalah bahagian pangkalan data timbunan blockchain dan menggantikan Graphene[^10] pada 2016. ChainBase mempunyai masa lebih cepat dan keluar, menyokong akses selari ke pangkalan data dan lebih kuat berbanding kemalangan daripada pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" keseluruhan keadaan pangkalan data serta boleh melayani lebih banyak permintaan RPC dari ingatan yang sama.
 
-<h3>
-  AppBase
-</h3>
+### AppBase
 
-<p>
-  AppBase adalah langkah pertama dalammewujudkan FABRIK pelbagai rantaian. AppBase membolehkan banyak komponen blok block Steem untuk menjadi modular dengan mewujudkan tambahan blok konsensus bukan konsensus sebagai plugin yang berdedikasi. Plugin ini boleh dikemas kini dengan lebih cepat kerana merekatidak memerlukan ulangan keseluruhan blockchain. Ini menjadikan kedudukan<fnref target="11" /> jauh lebih cekap dan lebih mudah untuk mengekalkan denngan skala.
-</p>
+AppBase adalah langkah pertama dalammewujudkan FABRIK pelbagai rantaian. AppBase membolehkan banyak komponen blok block Steem untuk menjadi modular dengan mewujudkan tambahan blok konsensus bukan konsensus sebagai plugin yang berdedikasi. Plugin ini boleh dikemas kini dengan lebih cepat kerana merekatidak memerlukan ulangan keseluruhan blockchain. Ini menjadikan kedudukan[^11] jauh lebih cekap dan lebih mudah untuk mengekalkan denngan skala.
 
-<p>
-  Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. Ini jauh lebih cekap daripada memerlukan setiap inti, dan setiap komputer dalam rangkaian mengekalkan keseluruhan blok tersebut. Mengubah modul blok ini membolehkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah satu langkah yang perlu dalam proses yang panjang untuk mewujudkan blok block yang sepenuhnya selari, sepenuhnya dioptimumkan.
-</p>
+Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. Ini jauh lebih cekap daripada memerlukan setiap inti, dan setiap komputer dalam rangkaian mengekalkan keseluruhan blok tersebut. Mengubah modul blok ini membolehkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah satu langkah yang perlu dalam proses yang panjang untuk mewujudkan blok block yang sepenuhnya selari, sepenuhnya dioptimumkan.
 
-<h2>
-  Ciri Platform Steem
-</h2>
+## Ciri Platform Steem
 
-<p>
-  Blockchain Steem menghidangkan dua tujuan untuk menjadi sistem pemprosesan token digital, serta platform mediasosial arus perdana. Ciri-ciri ditawarkan oleh blockchain perlu menyokong kedua-dua tujuan, dan memberikan pengguna pengalaman bertaraf dunia apabila menggunakan kedua-dua aspek platform.
-</p>
+Blockchain Steem menghidangkan dua tujuan untuk menjadi sistem pemprosesan token digital, serta platform mediasosial arus perdana. Ciri-ciri ditawarkan oleh blockchain perlu menyokong kedua-dua tujuan, dan memberikan pengguna pengalaman bertaraf dunia apabila menggunakan kedua-dua aspek platform.
 
-<h3>
-  Primitif Direka untuk Aplikasi Kandungan
-</h3>
+### Primitif Direka untuk Aplikasi Kandungan
 
-<p>
-  Steem menawarkan pengguna keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secra langsung dan kekal ke dalam buku leher yang tidak berubah sebagai blockchain sebagai teks biasa. Sebaik sahaja disimpan di blockchain, data tersedia secara terbuka untuk pemaju untuk membina dari. Pemaju dapat berinteraksi dengan kandungan secara langsung di blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
-</p>
+Steem menawarkan pengguna keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secra langsung dan kekal ke dalam buku leher yang tidak berubah sebagai blockchain sebagai teks biasa. Sebaik sahaja disimpan di blockchain, data tersedia secara terbuka untuk pemaju untuk membina dari. Pemaju dapat berinteraksi dengan kandungan secara langsung di blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
 
-<h3>
-  Sistem Nama Asli
-</h3>
+### Sistem Nama Asli
 
-<p>
-  Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari rentetan huruf dan nombor rawak yang panjang, bagaimanapun, alamat dompet ini dapatmembuat kesulitan untuk berinteraksi dengan pengguna lain dalamkonteks sosial-media sosial yang biasa kerana pengguna tidakdapat mengingat alamat panjang dari memori. Rakaman Steem mengunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang melengkapi pengalaman pengguna untuk peserta yang cuba menghantar token kerana mereka boleh mengesahkan alamat dari memori mereka sendiri.
-</p>
+Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari rentetan huruf dan nombor rawak yang panjang, bagaimanapun, alamat dompet ini dapatmembuat kesulitan untuk berinteraksi dengan pengguna lain dalamkonteks sosial-media sosial yang biasa kerana pengguna tidakdapat mengingat alamat panjang dari memori. Rakaman Steem mengunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang melengkapi pengalaman pengguna untuk peserta yang cuba menghantar token kerana mereka boleh mengesahkan alamat dari memori mereka sendiri.
 
-<h3>
-  Steem Blockchain Dollars (SBD)
-</h3>
+### Steem Blockchain Dollars (SBD)
 
-<p>
-  Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. Untuk membantu merapatkan jurang antara sistem wang flat yang lebih tradisional yang digunakan pengguna arus perdana, dan token cryptocurency yang mereka diberikan melalui platform, mata uang baru yang disebut Steem Blockchain Dollars (SBD) telah diwujudkan.
-</p>
+Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. Untuk membantu merapatkan jurang antara sistem wang flat yang lebih tradisional yang digunakan pengguna arus perdana, dan token cryptocurency yang mereka diberikan melalui platform, mata uang baru yang disebut Steem Blockchain Dollars (SBD) telah diwujudkan.
 
-<p>
-  Token SBD direka bentuk untuk dipatok rapat dengan satu USD, supaya pengguna yang menerima mereka dapat mengetahui lebih kurang berapa nilai mereka dalam istilah "dolar sejati. Token SBD juga menawarkan mata wang yang agak stabil bagi pengguna untuk memegang jika mereka ingin mengekalkan nilai akaun mereka berbanding dengan USD. Penjelasan teknikal yang lebih terperinci boleh didapati di dalam whitepaper teknikal Steem.<fnref target="12" />
-</p>
+Token SBD direka bentuk untuk dipatok rapat dengan satu USD, supaya pengguna yang menerima mereka dapat mengetahui lebih kurang berapa nilai mereka dalam istilah "dolar sejati. Token SBD juga menawarkan mata wang yang agak stabil bagi pengguna untuk memegang jika mereka ingin mengekalkan nilai akaun mereka berbanding dengan USD. Penjelasan teknikal yang lebih terperinci boleh didapati di dalam whitepaper teknikal Steem.[^12]
 
-<h3>
-  Bursa Desentralisasi
-</h3>
+### Bursa Desentralisasi
 
-<p>
-  Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.<fnref target="13" /> Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. <fnref target="14" />
-</p>
+Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.[^13] Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. [^14]
 
-<h3>
-  Pembayaran melalui Escrow
-</h3>
+### Pembayaran melalui Escrow
 
-<p>
-  Jenis urus niaga blockchain tidak boleh merupakan satu ciri keselematan yang penting, walaupun terdapat banyak kes dimana pengguna tidak boleh selesa menghantar token mereka kepada satu lagi individu tanpa cara untuk mendapatkan mereka kembali jika pengguna lain tidak memegang sehingga akhir mereka Perjanjian. Steem blockchain menyediakan cara bagi pengguna untuk menghantar wang syiling antara satu sama lain dengan pihak ketiga ditetapkan sebagai satu perkhidmatan escrow. Pengguna yang bertindak sebagai Perkhidmatan escrow ini adalah dapat menentukan jika terma-terma perjanjian ini telah dipenuhi, dan sama ada membenarkan dana-dana yang di keluarkan kepada penerima atau dikembalikan kepada pengirim.
-</p>
+Jenis urus niaga blockchain tidak boleh merupakan satu ciri keselematan yang penting, walaupun terdapat banyak kes dimana pengguna tidak boleh selesa menghantar token mereka kepada satu lagi individu tanpa cara untuk mendapatkan mereka kembali jika pengguna lain tidak memegang sehingga akhir mereka Perjanjian. Steem blockchain menyediakan cara bagi pengguna untuk menghantar wang syiling antara satu sama lain dengan pihak ketiga ditetapkan sebagai satu perkhidmatan escrow. Pengguna yang bertindak sebagai Perkhidmatan escrow ini adalah dapat menentukan jika terma-terma perjanjian ini telah dipenuhi, dan sama ada membenarkan dana-dana yang di keluarkan kepada penerima atau dikembalikan kepada pengirim.
 
-<h3>
-  Hierarchical Private Key Structure
-</h3>
+### Hierarchical Private Key Structure
 
-<p>
-  Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
-</p>
+Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 
-<p>
-  These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem<fnref target="15" />, and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
-</p>
+These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 
-<p>
-  Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
-</p>
+Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
-<h3>
-  Multi Sig Authorities
-</h3>
+### Multi Sig Authorities
 
-<p>
-  The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
-</p>
+The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
-<h3>
-  Multiple Reward Beneficiaries
-</h3>
+### Multiple Reward Beneficiaries
 
-<p>
-  For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
-</p>
+For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
-<h3>
-  Smart Media Tokens (SMT)
-</h3>
+### Smart Media Tokens (SMT)
 
-<p>
-  Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
-</p>
+Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
-<h3>
-  Stolen Account Recovery
-</h3>
+### Stolen Account Recovery
 
-<p>
-  If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
-</p>
+If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
-<h3>
-  Security Through Time-Locks
-</h3>
+### Security Through Time-Locks
 
-<p>
-  If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
-</p>
+If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 
-<p>
-  The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
-</p>
+The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
-<h3>
-  Bandwidth Rate Limiting for Fee-less Operations
-</h3>
+### Bandwidth Rate Limiting for Fee-less Operations
 
-<p>
-  Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
-</p>
+Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 
-<p>
-  In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
-</p>
+In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
-<p>
-  Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
-</p>
+Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 
-<h2>
-  Conclusion
-</h2>
+## Conclusion
 
-<p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
-</p>
+The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
-<footnotes>
-  <fn name="1">
-    <p>
-      Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
-    </p>
-  </fn>
-  
-  <fn name="2">
-    <p>
-      To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
-    </p>
-  </fn>
-  
-  <fn name="3">
-    <p>
-      Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
-    </p>
-  </fn>
-  
-  <fn name="4">
-    <p>
-      Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
-    </p>
-  </fn>
-  
-  <fn name="5">
-    <p>
-      Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
-    </p>
-  </fn>
-  
-  <fn name="6">
-    <p>
-      Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
-    </p>
-  </fn>
-  
-  <fn name="7">
-    <p>
-      DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
-    </p>
-  </fn>
-  
-  <fn name="8">
-    <p>
-      https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
-    </p>
-  </fn>
-  
-  <fn name="9">
-    <p>
-      ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
-    </p>
-  </fn>
-  
-  <fn name="10">
-    <p>
-      Graphene Documentation http://docs.bitshares.org/
-    </p>
-  </fn>
-  
-  <fn name="11">
-    <p>
-      The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
-    </p>
-  </fn>
-  
-  <fn name="12">
-    <p>
-      Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
-    </p>
-  </fn>
-  
-  <fn name="13">
-    <p>
-      Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-    </p>
-  </fn>
-  
-  <fn name="14">
-    <p>
-      Steemit.com Currency Market https://steemit.com/market
-    </p>
-  </fn>
-  
-  <fn name="15">
-    <p>
-      “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
-    </p>
-  </fn>
-  
-  <fn name="16">
-    <p>
-      Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-    </p>
-  </fn>
-  
-  <fn name="17">
-    <p>
-      Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
-    </p>
-  </fn>
-</footnotes>
+[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+
+[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+
+[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+
+[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+
+[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+
+[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+
+[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+
+[^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
+
+[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+
+[^10]: Graphene Documentation http://docs.bitshares.org/
+
+[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+
+[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+
+[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^14]: Steemit.com Currency Market https://steemit.com/market
+
+[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+
+[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+
+[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf

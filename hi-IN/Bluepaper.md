@@ -141,15 +141,15 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  SBD टोकन का मुल्क एक अमरीकी डालर ते किए गया हैं, ताकि उपयोगकर्ताओं को, जो उंहें प्राप्त करते है, पता लगे कि वे"असली डॉलर" में मूल्य पता कर सकते हैं । SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  SBD टोकन का मुल्क एक अमरीकी डालर ते किए गया हैं, ताकि उपयोगकर्ताओं को, जो उंहें प्राप्त करते है, पता लगे कि वे"असली डॉलर" में मूल्य पता कर सकते हैं । SBD टोकन उपयोगकर्ताअों को ऐक स्थिर मुद्रा का विकल्प भी है, जो अपने खाते का मुल्य USD के सापेक्ष बनाए रखता हैं | अधिक विस्तृत तकनीकी विवरण स्टीम तकनीकी श्वेतपत्र में पाया जा सकता है । <fnref target="12" />
 </p>
 
 <h3>
-  Decentralized Exchange
+  विकेन्द्रीकृत एक्सचेंज
 </h3>
 
 <p>
-  The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  स्टीम ब्लॉकचैन एक विकेंद्रीकृत टोकन एक्सचेंज, बिटशेर एक्सचेंज के समान प्रदान करता है । <fnref target="13" /> येह एक्सचेंज उपयोगकर्ताओं को एक सार्वजनिक विकेंद्रीकृत सहकर्मी-सहकर्मी बाजार के माध्यम से अपने स्टीम और SBD टोकन व्यापार करने मै सक्षम है । Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
 </p>
 
 <h3>

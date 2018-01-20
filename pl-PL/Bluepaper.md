@@ -60,11 +60,11 @@ Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym kom
 
 Blockchain Steem pełni podwójny cel bycia systemem przetwarzania cyfrowego żetonu oraz powszechnej platformy mediów społecznościowych. Funkcje oferowane przez blockchain muszą wspierać oba cele i dawać użytkownikom najlepsze możliwe doświadczenie podczas używania obu aspektów platformy.
 
-### Primitives Designed for Content Applications
+### Podstawe informacje przeznaczone dla aplikacji z zawartością
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania róznych typów zawartości bezposrednio i trwale w niezmiennym rejestrze blockchain'u jako zwykły tekst. Dane raz zapisane w blockchain'ie stają sie publicznie dostępne dla deweloperów do użycia. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain'ie używając dostępnych API. Parę podstawowych informacji blockchain'u, z których deweloperzy mogą tworzyć zawierają nazwy kont, posty, komentarze, głosy i stan konta.
 
-### Native Name System
+### Natywny system nazw
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

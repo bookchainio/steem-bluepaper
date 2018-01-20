@@ -129,7 +129,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  कई ब्लॉकचैन, जैसे Bitcoin और Ethereum, द्वारा इस्तेमाल वेल्ट-पते ऐतिहासिक रूप से शब्दों और संख्याओं की लंबी कतार शामिल किरते है, हालांकि, इन वेल्ट-पते एक ठेठ में अन्य उपयोगकर्ताओं के साथ लेनदेन करने के लिए ऑनलाइन-सामाजिक-मीडिया मुश्किल बना सकते हैं क्योंकि उपयोगकर्ता स्मृति से लंब्बे पते को याद करने में असमर्थ हैं । The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 </p>
 
 <h3>

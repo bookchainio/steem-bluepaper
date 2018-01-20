@@ -2,7 +2,7 @@
 
 ## Pengenalan
 
-Steem menawarkan rantaian blok (ataupun "blockchain" di dalam bahasa Inggeris) berskala bagi kandungan yang boleh diakses secara terbuka dan kekal, beserta dengan token digital (yang dipanggil STEEM) yang cepat dengan yuran rendah yang membolehkan orang menjana matawang dengan menggunakan otak mereka (apa yang boleh dipanggil sebagai bukti otak ataupun "Proof -of-Brain" di dalam bahasa Inggeris. Dua blok bangunan melalui protokol ini, kedua-dua rantaian blok dan token, bergantung antara satu sama lain untuk Keselamatan, kekekalan dan kepanjangan umur, dan oleh itu penting kepada kewujudan antara satu sama lain. Steem telah berjaya beroperasi untuk lebih dari setahun dan kini telah melebihi Bitcoin dan Ethereum dalam bilangan transaksi diproses. [^3]
+Steem menawarkan rantaian blok (ataupun "blockchain") berskala [^1] bagi kandungan yang boleh diakses secara terbuka dan kekal, beserta dengan token digital (yang dipanggil STEEM)[^2] yang cepat dengan yuran rendah yang membolehkan orang menjana matawang dengan menggunakan otak mereka (yang boleh dipanggil sebagai Bukti Otak ataupun "Proof-of-Brain"). Dua blok bangunan melalui protokol ini, kedua-dua rantaian blok dan token, bergantung antara satu sama lain untuk Keselamatan, kekekalan dan kepanjangan umur, dan oleh itu penting kepada kewujudan antara satu sama lain. Steem telah berjaya beroperasi untuk lebih dari setahun dan kini telah melebihi Bitcoin dan Ethereum dalam bilangan transaksi diproses. [^3]
 
 Berbanding dengan rantaian blok lain, Steem menonjol sebagai pangkalan data boleh diakses secara terbuka pertama untuk kandungan ketahanan disimpan dalam bentuk teks, bersama-sama dengan satu mekanisme insentif yang terbina di dalamnya. Ini menjadikan Steem satu platform penerbitan awam di mana sebarang aplikasi Internet boleh menarik dan berkongsi data sambil memberi ganjaran kepada mereka yang menyumbangkan kandungan yang paling berharga.
 
@@ -32,15 +32,15 @@ Pengguna yang menghasilkan kandungan akan menambah nilai kepada rangkaian dengan
 
 Steem beroperasi berdasarkan satu-STEEM, satu undi. Di bawah model ini, individu-individu yang telah menyumbang paling banyak kepada platform, seperti yang diukur melalui baki akaun mereka, mempunyai pengaruh yang paling banyak terhadap bagaimana sumbangan diambil kira. Saham ini boleh dibeli atau diperolehi. Pengguna tidak boleh mendapat pengaruh tambahan dengan memiliki beberapa akaun, kerana satu akaun dengan suatu jumlah pegangan saham akan mempunyai pengaruh yang sama sebagaimana dua akaun berbeza yang berkongsi suatu jumlah pegangan saham yang sama. Satu-satunya cara bagi pengguna untuk memperluaskan pengaruh mereka di platform adalah dengan meningkatkan pegangan ekuiti saham mereka.
 
-Selain itu, Steem hanya membenarkan ahli untuk mengundi dengan STEEM apabila ia komited kepada jadual peletakan hak 13 minggu yang dipanggil kuasa Steem. Di bawah model ini, ahli-ahli mempunyai satu ganjaran kewangan untuk mengundi dengan cara yang memaksimakan nilai jangka panjang STEEM mereka.
+Selain itu, Steem hanya membenarkan ahli untuk mengundi dengan STEEM apabila ia komited kepada jadual peletakan hak 13 minggu yang dipanggil sebagai Kuasa Steem. Di bawah model ini, ahli-ahli mempunyai satu ganjaran kewangan untuk mengundi dengan cara yang memaksimakan nilai jangka panjang STEEM mereka.
 
-## Kelajuan dan skala pada rantaian blok Steem
+## Kelajuan dan skala pada Rantaian Blok Steem
 
-Rantaian blok Steem direka untuk menjadi salah satu daripada rantaian blok yang terpantas dan paling berkesan yang pernah wujud di mana boleh menyokong jumlah trafik yang dijangka pada platform media sosial yang lebih besar daripada saiz Reddit. Steem sudah melepasi Bitcoin dalam jumlah transaksi, dan boleh mencapai skala sokongan 10,000 atau lebih transaksi sesaat.
+Rantaian blok Steem direka untuk menjadi salah satu rantaian blok yang terpantas dan paling berkesan daripada yang lain, di mana ia diperlukan untuk berupaya menyokong jumlah trafik yang dijangka pada platform media sosial yang lebih besar daripada saiz Reddit. Steem sudah melepasi Bitcoin dalam jumlah transaksi, dan boleh mencapai skala untuk menyokong 10,000 atau lebih transaksi sesaat.
 
-### Bukti Oleh Kepentingan (DPoS)
+### Bukti Ekuiti Saham yang Dideligasikan (DPoS)
 
-Sering bottlenecked oleh bukti pekerjaan (PoW)<sup id="fnref:6"><a href="#fn:6" class="footnote-ref"> 6 </ 0>, banyak blockchains tidak skala melebihi tiga pindah milik sesaat, yang merupakan sebahagian kecil dari trafik kewangan di dunia. Steem diperlukan skala yang jauh lebih banyak dan pantas berbanding yang ditawarkan oleh PoW, dan jadi algoritma dikenali yang lebih kecil dikenali sebagai bukti rasa puas kepentingan (DPoS) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref"> 7 </ 0> adalah dimanfaatkan bagi penyediaan asas bagi blockchain yang sesuai untuk bernilion-bilion pengguna.</p> 
+Seringkali disekati oleh Bukti Pekerjaan (PoW)[^6], banyak rantaian blok tidak mampu untuk berskala melebihi tiga transaksi sesaat, yang merupakan satu pecahan kecil daripada trafik kewangan dunia. Steem diperlukan skala yang jauh lebih banyak dan pantas berbanding yang ditawarkan oleh PoW, dan jadi algoritma dikenali yang lebih kecil dikenali sebagai bukti rasa puas kepentingan (DPoS) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref"> 7 </ 0> adalah dimanfaatkan bagi penyediaan asas bagi blockchain yang sesuai untuk bernilion-bilion pengguna.</p> 
 
 <p>
   Oleh kerana DPoS, Steem blockchain adalah mampu menghasilkan sebuah blok baru setiap 3 saat dengan yang pengiraannya minimal. Ini berarti bahawa blockchain yang bisa diimpor lebih banyak pindah milik dan maklumat lanjut termasuk kandungan.

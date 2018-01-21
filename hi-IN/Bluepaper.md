@@ -241,7 +241,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h2>
 
 <p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. जब बिजली की तेजी से प्रसंस्करण समय और शुल्क-कम लेनदेन के साथ संयुक्त, स्टीम विश्व भर के लोगों द्वारा उपयोग की जाने वाली प्रमुख ब्लॉकचैन प्रौद्योगिकियों में से एक बनने के लिए तैनात है।
 </p>
 
 <footnotes>

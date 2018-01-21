@@ -173,7 +173,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </p>
 
 <p>
-  Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+  स्टीम एक मास्टर पासवर्ड के उपयोग की सुविधा भी देता है जिसे सभी तीन कुंजीयां लिखी हा बदली जासकती हैं । वेब-साइट्स मास्टर पासवर्ड का उपयोग निजी कुंजी को डीक्रिप्ट और अंदर आने मै कर सकते हैं । Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 </p>
 
 <h3>

@@ -181,7 +181,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  स्टीम ब्लॉकचैन ऐक प्राधिकारी को बृहत् हिस्सों मै त्कसीम करता है ताकि बृहत् उपयोगकर्ता ऐक ही प्राधिकारी साझा कर सकें, या बृहत् हिस्से ऐक लेनदेन को सफल बनाने मै काम आये । This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 </p>
 
 <h3>

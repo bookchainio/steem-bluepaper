@@ -76,7 +76,7 @@ SBD tokens zijn ontworpen om nauw gekoppeld te blijven aan een Amerikaanse dolla
 
 ### Gedecentraliseerde Wisselkoers
 
-De Steem blockchain biedt een gedecentraliseerde token koers, vergelijkbaar met de Bitshares koers.[^13] De koers laat gebruikers hun STEEM en SBD tokens door middel van een openbare, gedecentraliseerde peer-to-peer mark verhandelen. Gebruikers zijn in staat koop en verkoop opdrachten te plaatsen, en opdracht koppeling wordt automatisch door de blockchain uitgevoerd. Er is ook een publiekelijk beschikbaar opdrachtenboek en opdracht geschiedenis wat gebruikers kunnen maken om de markt te analyseren. Gebruikers kunnen direct met de koers communiceren via de bloackchain API, of een GUI gebruiken zoals op Steemit.com.[^14]
+De Steem blockchain biedt een gedecentraliseerde token koers, vergelijkbaar met de Bitshares koers.[^13] De koers laat gebruikers hun STEEM en SBD tokens door middel van een openbare, gedecentraliseerde peer-to-peer mark verhandelen. Gebruikers zijn in staat koop en verkoop opdrachten te plaatsen, en opdracht koppeling wordt automatisch door de blockchain uitgevoerd. Er is ook publiekelijk beschikbare opdracht geschiedenis en een opdrachtenboek wat gebruikers kunnen gebruiken om de markt te analyseren. Gebruikers kunnen direct met de koers communiceren via de bloackchain API, of een GUI gebruiken zoals op Steemit.com.[^14]
 
 ### Betalingen via Borg
 
@@ -84,7 +84,7 @@ De onomkeerbare aard van blockchain transacties is een belangrijke beveiligingsf
 
 ### Hiërarchische Privésleutel Structuur
 
-Steem maakt gebruik van een eerste in zijn soort hiërarchisch privésleutel systeem om lage veiligheid en hoge veiligheid transacties te kunnen faciliteren. Lage veiligheid transacties zijn over het algemeen sociaal, zoals een bericht plaatsen, of reageren. Hoge veiligheid transacties zijn meestal overdrachten en sleutel wijzigingen. Dit stelt gebruikers in staat om verschillende levels van beveiliging in te stellen voor hun sleutels, afhankelijk van het soort toegang dat de sleutel toestaat.
+Steem maakt gebruik van een eerste in zijn soort hiërarchisch privésleutel systeem om zowel licht beveiligde als zwaar beveiligde transacties te kunnen faciliteren. Licht beveiligde transacties zijn over het algemeen sociaal, zoals een bericht plaatsen, of reageren. Hoge veiligheid transacties zijn meestal overdrachten en sleutel wijzigingen. Dit stelt gebruikers in staat om verschillende levels van beveiliging in te stellen voor hun sleutels, afhankelijk van het soort toegang dat de sleutel toestaat.
 
 Deze privésleutels zijn Posten, Actief en Eigenaar. De post sleutel staat accounts toe om te posten, reageren, wijzigen, stemmen, resteem[^15]en, en andere accounts te volgen of dempen. De actieve sleutel is bedoeld voor gevoeligere taken zoals het overdragen van fondsen, transacties power up of power down te maken, Steem Dollars te converteren, voor getuigen te stemmen, markt bestellingen te plaatsen, en de post sleutel te resetten. De eigenaarssleutel moet alleen gebruikt worden wanneer echt nodig. Het is de meest krachtige sleutel omdat hij in staat is de sleutel van een account, waaronder de eigenaarssleutel, te veranderen, en is nodig om eigenaarschap van een account te bewijzen bij Account Herstel. Idealiter wordt hij offline opgeslagen en alleen gebruikt wanneer de sleutels van het account moeten worden veranderd, of wanneer er een aangetast account moet worden hersteld.
 

@@ -157,7 +157,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  ब्लॉकचैन लेनदेन की अपरिवर्तनीय प्रकृति एक महत्वपूर्ण सुरक्षा सुविधा है, हालांकि कई मामलों में उपयोगकर्ता इस प्रक्रिया से सहज नहीं है एक क्योंकि अगर अंय उपयोगकर्ता समझाैते से मूकर गया तो टोकन भेजने वाला अपना टोकन वाप्स नहीं पा सकता हैं । The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 </p>
 
 <h3>

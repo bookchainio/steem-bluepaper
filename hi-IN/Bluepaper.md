@@ -165,7 +165,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+  स्टीम कम सुरक्षा और उच्च सुरक्षा लेनदेन की सुविधा दैने कैलीये वर्गीकृत निजी कुंजी प्रणाली का उपयोग करने वाला पहला प्लेटफार्म हैं | कम सुरक्षा वाले लेन-देन सामाजिक होते हैं, जैसे पोस्टिंग या टिप्पणी करना. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 </p>
 
 <p>

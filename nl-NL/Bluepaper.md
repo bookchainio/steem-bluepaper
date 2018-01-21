@@ -26,13 +26,13 @@ Van de levering van de nieuwe tokens die jaarlijks worden gemaakt door de Steem 
 
 #### Beloningen voor Content Makers en Curatoren
 
-De gebruikers die content produceren voegen waarde toe aan het netwerk door materiaal te maken dat nieuwe gebruikers naar het platform zal leiden, en tegelijkertijd de bestaande gebruikers bezighoudt en vermaakt. Dit helpt bij de distributie van de munt aan een grotere groep gebruikers en vergroot het effect van het netwerk. De gebruikers die de tijd nemen om content te evalueren en er over te stemmen spelen een belangrijke rol voor de distributie van de munt naar de gebruikers die de meeste waarde toevoegen. De blockchain beloont allebei deze activiteiten op basis van hun waarde voor de collectieve wijsheid van de menigte door middel van het inzet-gewogen stemsysteem.
+De gebruikers die content produceren voegen waarde toe aan het netwerk door materiaal te maken dat nieuwe gebruikers naar het platform zal leiden, en tegelijkertijd de bestaande gebruikers bezighoudt en vermaakt. Dit helpt bij de distributie van de munt aan een grotere groep gebruikers en vergroot het effect van het netwerk. De gebruikers die de tijd nemen om content te evalueren en er over te stemmen spelen een belangrijke rol in de distributie van de munt naar de gebruikers die de meeste waarde toevoegen. De blockchain beloont allebei deze activiteiten op basis van hun waarde voor de collectieve wijsheid van de menigte door middel van het inzet-gewogen stemsysteem.
 
 #### Stemmen met Inzet van Tokens om de Toewijzing van Beloningen te Bepalen
 
-Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening balans, het meeste invloed op de manier waarop bijdragen worden gescoord. Inzet kan worden gekocht of verdiend. Gebruikers kunnen niet meer inzet krijgen door meerdere accounts te nemen doordat een account met een bepaalde inzet dezelfde invloed kan uitoefenen als twee verschillende accounts met dezelfde inzet. De enige manier voor gebruikers om hun invloed op het platform te vergroten is door hun inzet te verhogen.
+Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening, het meeste invloed op de manier waarop bijdragen worden gescoord. Inzet kan worden gekocht of verdiend. Gebruikers kunnen niet meer inzet krijgen door meerdere accounts te nemen doordat een account met een bepaalde inzet dezelfde invloed kan uitoefenen als twee verschillende accounts met dezelfde inzet. De enige manier voor gebruikers om hun invloed op het platform te vergroten is door hun inzet te verhogen.
 
-Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokkene zich toewijd aan een 13 week durend vestigingsschema, genaamd Steem Power. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier dat de lange termijn waarde van hun STEEM maximaliseert.
+Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokkene zich toewijd aan een 13 week durend vestigingsschema, genaamd Steem Power. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier die de lange termijn waarde van hun STEEM maximaliseert.
 
 ## Snelheid en Schaal van de Steem Blockchain
 
@@ -44,11 +44,11 @@ Doordat veel blockchains bekneld worden door Bewijs van Werk (PoW)[^6] kunnen ve
 
 Dankzij DPoS is de Steem blockchain in staat om elke drie seconden een nieuw blok te genereren met minimale computerbelasting. Dit betekent dat de blockchain meer transacties kan verwerken en meer informatie kan opslaan, waaronder content.
 
-Door de regels vast te stellen voor wanneer een Hardfork van het netwerk plaatsvindt, kunnen de getuigen binnen het DPoS framework snel en efficient beslissen of ze mee willen gaan met de voorgestelde hardfork, wat de Steem blockchain in staat stelt sneller te evolueren dan de meeste andere blockchains. De Steem blockchain heeft al 18 keer[^8] succesvol geforked, en elke keer dat er een Hardfork heeft opgetreden is er slechts één chain overgebleven.
+Door de regels vast te stellen voor wanneer een Hardfork van het netwerk plaatsvindt, kunnen de getuigen binnen het DPoS framework snel en efficiënt beslissen of ze mee willen gaan met de voorgestelde hardfork, wat de Steem blockchain in staat stelt sneller te evolueren dan de meeste andere blockchains. De Steem blockchain heeft al 18 keer[^8] succesvol geforked, en elke keer dat er een Hardfork heeft opgetreden is er slechts één chain overgebleven.
 
 ### ChainBase
 
-ChainBase[^9] is het gedeelte van de database van de blockchain en verving Graphene[^10] in 2016. ChainBase heeft sneller laden en afrit tijden, ondersteunt parallelle toegang tot de database en is robuuster tegen crashes dan zijn voorganger. Het heeft ook minder frequente databasebeschadiging, laat onmiddelijke "snapshotting" van de gehele database staat toe, en kan meer RPC-aanvragen van hetzelfde geheugen indienen.
+ChainBase[^9] is het database gedeelte van de blockchain en verving Graphene[^10] in 2016. ChainBase heeft snellere laad en afsluit tijden, ondersteunt parallelle toegang tot de database en is robuuster tegen crashes dan haar voorganger. Het heeft ook minder frequente databasebeschadiging, laat onmiddellijke "snapshotting" van de gehele database-staat toe, en kan meer RPC-aanvragen indienen met hetzelfde geheugen.
 
 ### AppBase
 
@@ -62,7 +62,7 @@ De Steem blockchain dient een duaal doel van een digitaal token verwerkingssyste
 
 ### Primitieven Ontworpen voor Inhoudstoepassing
 
-Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content te publiceren en op te slaan, rechtstreeks en permanent op de onveranderlijke posten van de blockchain als tekst zonder opmaak. Wanneer opgeslagen in de blockchain wordt data publiekelijk beschikbaar voor ontwikkelaars om uit te bouwen. Ontwikkelaars hebben de mogelijkheid om direct met content te werken door de beschikbare API's. Een aantal van de blockchain primitieven waar ontwikkelaars van kunnen bouwen zijn Account namen, Berichten, Opmerkingen, Stemmen en Betalingsbalans.
+Steem biedt gebruikers de unieke mogelijkheid om verschillende soorten content te publiceren en op te slaan, rechtstreeks en permanent op de onveranderlijke ledger van de blockchain als tekst zonder opmaak. Wanneer opgeslagen in de blockchain wordt data publiekelijk beschikbaar voor ontwikkelaars om vanuit te bouwen. Ontwikkelaars hebben de mogelijkheid om direct met content te werken door de beschikbare API's. Een aantal van de blockchain primitieven waar ontwikkelaars van kunnen bouwen zijn Account namen, Berichten, Opmerkingen, Stemmen en Betalingsbalans.
 
 ### Inheems Naam Systeem
 

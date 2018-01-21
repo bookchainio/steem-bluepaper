@@ -116,17 +116,17 @@ De Steem blockchain laat gebruikers hun STEEM en SBD tokens op een eventuele spa
 
 Omdat de getuigen worden betaald door de generatie van nieuwe tokens is er geen reden om gebruikers kosten in rekening te brengen voor het aandrijven van de blockchain. De enige reden om kosten in rekening te brengen zou zijn om gebruikers af te schrikken van het maken van een onredelijk aantal transacties, wat mogelijk de prestaties van de blockchain zou kunnen beïnvloeden.
 
-Om redelijke limieten te plaatsen op het systeemgebruik krijgt elke gebruiker een gelimiteerde bandbreedte. Wanneer gebruikers blockchain handelingen verrichten zoals tokens verplaatsen, content posten, en stemmen, gebruiken ze een deel van hun bandbreedte. Als een gebruiker zijn bandbreedte verbruikt moeten ze wachten met nieuwe handelingen uitvoeren tot hun bandbreedte is opgeladen.
+Om redelijke limieten te plaatsen op het systeemgebruik krijgt elke gebruiker een gelimiteerde bandbreedte. Wanneer gebruikers blockchain handelingen verrichten zoals tokens verplaatsen, content posten, en stemmen, gebruiken ze een deel van hun bandbreedte. Wanneer gebruikers hun bandbreedte verbruikt hebben moeten ze wachten met nieuwe handelingen uitvoeren tot hun bandbreedte is opgeladen.
 
 Bandbreedte limieten worden bijgewerkt gebaseerd op netwerkgebruik, dus gebruikers hebben meer bandbreedte tot hun beschikking wanneer het netwerk weinig wordt gebruikt. Het aantal bandbreedte dat een account mag gebruiken is in proportie met het aantal Steem Power dat een gebruiker heeft, dus gebruikers kunnen hun totale bandbreedte altijd vergroten door meer Steem Power te krijgen.
 
 ## Conclusie
 
-De unieke beloningen en het aanmoedigingsprogramma dat de Steem blockchain en tokens bieden, zijn ontworpen om Steem de ultieme overbrugging naar cryptocurrency te maken voor mainstream gebruikers. Het presteren van de blockchain is ontworpen met wijdverspreide massa adoptie van de munt en het platform in gedachten. Wanneer je dit combineert met de bliksemsnelle verwerkingstijden en kosteloze transacties is Steem op weg om een van leidende blockchain technologieën wereldwijd te worden.
+De unieke beloningen en het aanmoedigingsprogramma dat de Steem blockchain en tokens bieden, zijn ontworpen om Steem de ultieme overbrugging naar cryptocurrency te maken voor mainstream gebruikers. Het presteren van de blockchain is ontworpen met wijdverspreide massa adoptie van de munt en het platform in gedachten. Wanneer je dit combineert met de bliksemsnelle verwerkingstijden en kosteloze transacties is Steem op weg om een van de leidende blockchain technologieën wereldwijd te worden.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+[^2]: Om het verschil tussen Steem's inheemse digitale token en de naam voor de blockchain te weergeven, krijgt de token de spelling STEEM.
 
 [^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
 
@@ -152,7 +152,7 @@ De unieke beloningen en het aanmoedigingsprogramma dat de Steem blockchain en to
 
 [^14]: Steemit.com Currency Market https://steemit.com/market
 
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+[^15]: "Resteem" is de term die gebruikt wordt op de Steem blockchain voor wanneer een gebruiker content deelt met zijn volgers.
 
 [^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 

@@ -44,11 +44,11 @@ Nieraz ograniczany przez Dowód Pracy (PoW) [^6], wiele blockchainów nie jest w
 
 Dzięki DPoS, blockchain Steem może generować nowy blok co 3 sekundy z minimalnym obiążeniem systemu obliczeniowego. To oznacza, że blockchain jest w stanie przetworzyć o wiele więcej transakcji i przetrzymywać więcej informacji, w tym kontentu.
 
-Poprzez zdefiniowanie zasad na wypadek wystąpienia Hardfork'a, świadkowie wybrani poprzez DPoS mogą szybko i sprawnie zdecydować czy wprowadzić zaproponowany hardfork, pozwalają protokołowi Blockchainu Steem na znacznie szybsze ewoluowanie niż większość innych. Blockchain Steem już obecnie został zforkowany 18 razy z powodzeniem[^8] i za każdym razem gdy Hardfork wystąpił tylko jeden chain pozostał po forku.
+Poprzez zdefiniowanie zasad dla sytuacji, gdy wystąpi Hardfork, świadkowie wybrani przez DPoS mogą szybko i sprawnie zdecydować, czy wprowadzić zaproponowany hardfork, co pozwala na znacznie szybszą, w porównaniu do większości innych, ewolucję blockchainu Steem. Blockchain Steem został już z powodzeniem zforkowany 18 razy[^8] i za każdym razem gdy wystąpił Hardfork, po zakończeniu forka pozostał zaledwie jeden chain.
 
 ### ChainBase
 
-ChainBase[^9] to baza danych będąca cześcią blockchain stack i zastąpiła Graphene[^10] w 2016 roku. ChainBase posiada szybsze czasy ładowania oraz zamykania, wspierając równoległy dostęp do bazy danych i jest mniej podatny na awarie niż jego poprzednik. Także rzadziej doświadcza błędów w bazie danych, pozwala na natychmiastowe "zrzucanie" całego stanu bazy danych i może obsłużyć więcej zapytań RPC z tej samej pamięci.
+ChainBase[^9] to część blockchain stacku będąca bazą danych, zastąpiła Graphene[^10] w 2016 roku. ChainBase posiada szybsze czasy ładowania oraz zamykania, wspierając równoległy dostęp do bazy danych i jest mniej podatny na awarie niż jego poprzednik. Także rzadziej doświadcza błędów w bazie danych, pozwala na natychmiastowe "zrzucanie" całego stanu bazy danych i może obsłużyć więcej zapytań RPC z tej samej pamięci.
 
 ### AppBase
 

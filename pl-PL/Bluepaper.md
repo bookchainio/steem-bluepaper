@@ -62,7 +62,7 @@ Blockchain Steem pełni podwójny cel bycia systemem przetwarzania cyfrowego tok
 
 ### Podstawe Informacje Przeznaczone dla Aplikacji z Zawartością
 
-Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania róznych typów zawartości bezposrednio i trwale w niezmiennym rejestrze blockchain'u jako zwykły tekst. Dane raz zapisane w blockchain'ie stają sie publicznie dostępne dla deweloperów do użycia. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain'ie używając dostępnych API. Parę podstawowych informacji blockchain'u, z których deweloperzy mogą tworzyć zawierają nazwy kont, posty, komentarze, głosy i stan konta.
+Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania róznych typów zawartości bezposrednio i trwale w niezmiennym rejestrze blockchain'u w formie zwykłego tekstu. Dane raz zapisane w blockchain'ie stają sie publicznie dostępne dla deweloperów do dalszego wykorzystywania. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain'ie używając dostępnych API. Parę podstawowych informacji blockchain'u, z których deweloperzy mogą korzystać, zawierają: Nazwy Kont, Posty, Komentarze, Głosy i Stan Konta.
 
 ### Natywny System Nazw
 

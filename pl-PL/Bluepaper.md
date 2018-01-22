@@ -48,7 +48,7 @@ Poprzez zdefiniowanie zasad dla sytuacji, gdy wystąpi Hardfork, świadkowie wyb
 
 ### ChainBase
 
-ChainBase[^9] to część blockchain stacku będąca bazą danych, zastąpiła Graphene[^10] w 2016 roku. ChainBase posiada szybsze czasy ładowania oraz zamykania, wspierając równoległy dostęp do bazy danych i jest mniej podatny na awarie niż jego poprzednik. Także rzadziej doświadcza błędów w bazie danych, pozwala na natychmiastowe "zrzucanie" całego stanu bazy danych i może obsłużyć więcej zapytań RPC z tej samej pamięci.
+ChainBase[^9] to część blockchain stacku będąca bazą danych, zastąpiła Graphene[^10] w 2016 roku. ChainBase posiada szybsze czasy ładowania oraz zamykania, wspiera równoległy dostęp do bazy danych i jest bardziej podatny na awarie niż jego poprzednik. Także rzadziej doświadcza błędów w bazie danych, pozwala na natychmiastowe "zrzucanie" całego stanu bazy danych i może obsłużyć więcej zapytań RPC z tej samej pamięci.
 
 ### AppBase
 

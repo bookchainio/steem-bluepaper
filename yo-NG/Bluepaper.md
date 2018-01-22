@@ -85,159 +85,159 @@ Ni papa crypto-currencies, ai si iru STEEMU je ki o ja fafa ati gbode yato si aw
 </p>
 
 <h3>
-  Chainbase
+  Pq mimo
 </h3>
 
 <p>
-  Chain ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Chainbase ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
+  Eto ipile je ibi-ipamo data ti akopo Blockuchain o si ropo Ghraphene ni 2016. Pq mimo ni fifuye yarayara ati awon igba jade, atileyin ona asoro deede si ibi ipamo data ati pe o je die logan lodi si awon ijamba awon oniwe-saju. O tun ni idibaje igbasile ti o ko ni igbagbogbo, o funni ni aaye "ipamo foto" ti gbogbo ibi ipamo data, o si le se afikun awon ibeere RPC lati iranti kanna.
 </p>
 
 <h3>
-  AppBase
+  App mimo
 </h3>
 
 <p>
-  AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  App mimo je igbese akoko ni siseda eda FARIC pupo. App mimo se iranlowo fun opolopo awon irinse ti Steemu Blockuchain lati di modular nipase sise awon afikun Blockuchain ti kii se igbimo gegebi awon afikun afikun. Awon afikun wonyi wa ni imudojuiwon die sii sii nyara nitori won ko beere fun tunse gbogbo Blockuchain. Eyi mu ki Steemd wa siwaju sii daradara ati rorun lati setoju ati lapapo.
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  Ibaraenisoro deede, App mimo fowosi awon awo, tabi paapa awon komputa orisirisi, lati setoju awon eya orisirisi ti Steemu Blockuchain. Eyi se pataki die sii ju ti nilo gbogbo ogbon, ati gbogbo komputa ni netwoki n setoju gbogbo blockuchain. Apojuwon awon blockuchain faye gba o lati lo anfani kikun ti awon apojuwon iseda ti awon komputa. Eyi je igbese kan pataki ni ona pipe ti siseda ni kikun ni afiwe, ti o se agbeyewo blockuchain ni kikun.
 </p>
 
 <h2>
-  Steem’s Platform Features
+  Pepe Steemu Awon eya ara ero
 </h2>
 
 <p>
-  The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+  Awon Steemu blockuchain n se eto idi meji fun jije ilana itonisana onisowo kan, ati fun ipileja ibaraeniosro awujo. Eya ti a funni nipase blockuchain nilo lati se atileyin awon idi mejeji, ki o si pepe awon olumulo pelu iriri aye ni aye nigba lilo gbogbo awon aaye abayo.
 </p>
 
 <h3>
-  Primitives Designed for Content Applications
+  Akokoti a se apere fun Awon ohun elo Inu
 </h3>
 
 <p>
-  Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+  Steemu nfun awon olumulo ni agbara pataki lati safihan ati toju orisirisi awon akoonu ti o taara ati ni pipe sinu asale alaise ti blockuchain bi oro ti o rorun. Logan ti o ti fipamo ni nu blockuchain, data yoo wa ni gbangba fun awon apere lati ko lati. Awon alabasepo ni anfani lati se pelu awon akoonu taara ni blockuchain nipa lilo awon API to wa. Opolopo awon olupin ile-ise blockuchain atijo le ko lati inu oruko ile-ise, ipo, le, idibo, ati iroyi iwontunwonsi.
 </p>
 
 <h3>
-  Native Name System
+  Oruko Abinibi Eto
 </h3>
 
 <p>
-  Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+  Awon adiresi apamowo ti opolopo awon imo-ero blockuchain ti a lo, bii Bitcoinu ati Ethereumu, ni itanje awon gbolohun oro ti awon leta ati awon nomba, sibesibe, awon adiresi apamowo wonyi le se kio soro lati se ajosepo pelu awon olumulo miiran ni asoju onlini-awujo-mediani nitori ti awon olumulo ko lagbaralati ranti awon adiresi gigun lati iranti. Awon steemu blockuchain nlo oruko olumulo kookan gegebi adiresi apamowo won, eyiti o mu awon olumulo sise fun awon olukopa ti o gbiyanju lati firanse awon tokini nitori won le sayewo awonadiresi lati irantiara won.
 </p>
 
 <h3>
-  Steem Blockchain Dollars (SBD)
+  Steemu Blockuchain Dola (SBD)
 </h3>
 
 <p>
-  Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+  Opolopo awon olumulo ti a se lati cyrptocurrency Ijakadi latini oye bi "awon asoju ayelujara idan tokini" ti a fun nipase awon pepe le gan gidi aye aye. Lati se iranwo fun aago laarin awon eto isowo ilosiwaju ti o niise julo ti awon olumulo nlo si, ati awon aami ti a fi fun won ni ipamo, ori tokini tuntun kan ti a npe ni Steemu Blockuchain Dola (SBD).
 </p>
 
 <p>
-  SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+  Tokini SBD ti se apere lati wa ni pekipeki si USD kan, ki awon olumulo ti o gba won le mo iye ti o dara ni "owo gidi" aago. Awon SBD nfun owo kan ti o ni irewon fun awon olumulo lati mu won ti won ba n wa lati se itoju owo won ni USD. Alaye imoran alaye die sii ni a le rii ninu iwe imoran Pali funfun ti Steemu.
 </p>
 
 <h3>
-  Decentralized Exchange
+  Pipawoda Aisi Lojukan
 </h3>
 
 <p>
-  The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+  Bulookichain Steemu fun ipa pipawoda aisi lojukan, leyi to jo ti pipawoda Bitshares.<fnref target="13" /> Pipawoda yi je ki awon eyan ta ati ra STEEM ati SBD ipa nipase aisi lojukan gbagede oja eleya meya, emi si emi. Awon eyan tun le ra ati ta odassi, ati odassi to jemo n se otomaticalli nipa bulookichain. Iwe odaa ti o je ti gbogbo eniyan ati odaa to ti pe ti awon eyan le fi se agbeyewo oja. Awon eyan le ta kuroso pelu pipawoda nipa lilo bulookichain API, tabi GUI bi iru eyi ti o wa ni Steemit.com.<fnref target="14" />
 </p>
 
 <h3>
-  Payments Through Escrow
+  Sisan wo ni pase Escrow
 </h3>
 
 <p>
-  The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+  Eti ai le yi pada owo bulookichain je pataki eya idabobo, amo oo awon isele mi wa ti awon eyan o nifesi lati ma ran ipa wan si elo miran laisi ona ti wan ma fi gba pada ti eyan yen o ba shey ipa ti e. Bulookichain Steemu pese fun ona ti awon eyan male ran ipa wan ranse si eyan mi pelu eyan keta ti a mo si safisi Escrow. Eyan to se ise safisi escrow lo ma mo ti eto ati ilana agriimentii ti ba, ati boya ki o je ki owo lo si odo eni to ma gba tabi ko da pada si odo eni to fi jise.
 </p>
 
 <h3>
-  Hierarchical Private Key Structure
+  Titen tele kokoro fipamo siruture
 </h3>
 
 <p>
-  Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+  Steemu gba ikan ninu aimoye sise n tele kokoro fifipamo lati fi ran abo kekeere ati abo nla kata kara lowo. Kata kara abo kekere ma n fa ra pe gbode, bi kiko tabi fi fi esi. Abo nla fun kata kara ma n fara pe fifi nkan ranse tabi pi paro kokoro. Eleyi je ki awon eyan le lo orisirisi ipo abo fun kokoro wan gegebi eyi keyi shisi ti kokoro yen gba.
 </p>
 
 <p>
-  These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem<fnref target="15" />, and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+  Awon kokoro fifipamo yen ni Kiko, Activu ati Ti olohun. Kokoro kiko fun akkant laye lati ko, fi esi, se atunse, dibo, tun ko fun awon eyan<fnref target="15" />, ati titele/pa ohun akkant miran. Kokoro Activu wa fun ise to gbege bi ka fi owo ranse, gbe agbara so ke, gbe agbara sile, ka yi Steemu dolla, dibo fun awon eleri, gbigbe oja odaa, ati yiyi pada kokoro kiko. Kokoro ti olohun wa fun lilo ti oba se koko nikan. Ohun ni kokoro to lagbara ju to tipe ole yi eyi keyi kokoro akkant, pelu kokoro olohun, ati lati jeri pe iwo loni akkant nigba ti aba fe ba e gba akkant e pada. Lotitoo o ye ki a fi pamo ni oofulini, ati ki a lo ni gba ti aba fe yi kokoro akkant pada tabi lati gba akkant ti alkama ti wo.
 </p>
 
 <p>
-  Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+  Steemu gba aye fun lilo pasiwordu ti oga to ma fi kokoro meteta pamo. Webusafisi le lo pasiwordu ti oga to ma pamo ati fi onte lu pelu kokoro pamo to se koko. Pasiwordu ti oga le gba eyan laye lati fi okan te safisi kankan lati toju kokoro aito lati fi ranse kakiri savar. to fi kun iriri eyan bi wan se toju eliyenti to nipon fi onte lu agbegbe.
 </p>
 
 <h3>
-  Multi Sig Authorities
+  Otoriti orisirisi Sig
 </h3>
 
 <p>
-  The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  Bulookichain steemu fun otoriti pin larin aimoye nkan, to jepe aimoye eyan le pin otoriti kan na, tabi aimoye nkan nilo lati otorisi katakara ko o to le ku oju osuwon. Eleyi je bi wan shey nse ni Bitshares<fnref target="16" />nibi ti ikan gbogbogbo/kokoro pamo ni ibeji ti afun ni weti, ati tresihodi kan ti a n pe fun otority. Ki kata kara to le je gidi, nkan to po ni lati bu wo lu ki iye weti wan ba tabi ko poju tresihodi.
 </p>
 
 <h3>
-  Multiple Reward Beneficiaries
+  Ere to po fun awon elere
 </h3>
 
 <p>
-  For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+  Fun arooko eyi keyi orisirisi eyan lo le ni intiresti owo ninu ere. Eleyi pelu eni ti oko arooko, eni ti o ba ko aroko, eni to mu eyan wa, awon to shagba teru, buloogi to ni esi bulookichain, ati irinse fun awon defelopa. Eyikeyi webusitii tabi irinse ti a lo lati pese arooko abi fe si mani gbara lati so bi ere esi na shey ma je pinpin larin opo eniyan. Eleyi gba aye fun orisirisi ibalo, ati ona fun pulatiform ti a ko lori bulookichain Steemu lati gba die ninu ere lowo awon eyan ti wan lo.
 </p>
 
 <h3>
-  Smart Media Tokens (SMT)
+  Ipa to jafafa ti imo midia (SMT)
 </h3>
 
 <p>
-  Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Ipa to jafafa ti imo midia STEEM je ipa ti ile yi ti a le ko lori bulookichain Steemu. STEEM, ni akoko SMT ti o wa ri, at Ipa to ja fafa ti imo midia purotocol wa fun lati so webusitii di owo ati appilicatoni kakiri webu nipa gbi gba awon eyan laye lati pese ipa to ni eya to jo tabi farape STEEM, sugbon ti o se tunse lati tele ilana agbegbe ti afefe nipa iwa fun ni lowo, ni pataki tun se aseyori STEEMs si webusitii tabi appilicatoni. A le ri won alaye to she ni lanfanii die si ni inu iwe funfun ipa to jafafa ti imo midia <fnref target="17" />.
 </p>
 
 <h3>
-  Stolen Account Recovery
+  Irapada Akaant ti wan ji
 </h3>
 
 <p>
-  If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  Ti akkanti eyan ba wa ni cumporomisi. wan le paro kokoro wan ni pa lilo kokoro pamo activu. Ni isele ti ataka ba cumporomisi kokoro pamo ti eni to ni akaant ati piparo pasiwodi to wan ni akaanti, eyan yen ni ogbon ojo lati fi kokoro pamo eyi ti o ti sise ri nipa Steemu industiri akoko irapada akaanti wan ji, ati gbigba akaanti wan pada. Eleyi le wa lati owo eni tabi compini ti o n gba eyan wole si Steemu. Ko pon dandan ki eni to gba yan wole lati pelo safisi yi fun awon eyan ti wan lo, sugbon o wa lati fikun iyi eyan to gba yan wole iriri eyan.
 </p>
 
 <h3>
-  Security Through Time-Locks
+  Abo ni pa se titi akoko
 </h3>
 
 <p>
-  If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+  Ti kokoro activu tabi ti eyan to ni bawa cumporomisi, ataka yen ma ni gbogbo aye ati agbara lati ri gbogbo fundi akaant. Nitoripe katakara bulookichain o she da pada, eyan o ni ona lati gba fundi wan pada ti wan ba ti ji.
 </p>
 
 <p>
-  The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  Bulookichain Steemu gba eyan laye lati fi STEEM ati ipa SBD wan pamo si akaanti safin, leyi to je wipe wan ni le gba afi leyin diduro ojo meta. Ni afikun, STEEM to wa ninu ose metala festi sikedule le yo ni ratii eyo kan ni ose metala, leyin diduro ojo meje. Awon titi-akokoko gba ki ataka ni agbara lori gbogbo fundi eyan lese kese, eleyi fun eni to nikan gangan ni asiko lati ni agbara lori akaant ki o to dipe gbogbo fundi ma yo tan.
 </p>
 
 <h3>
-  Bandwidth Rate Limiting for Fee-less Operations
+  Rati Bandiwiti fi idaduro si aisi owo opirationi
 </h3>
 
 <p>
-  Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+  Nitoripe awon a ma san owo fun awon eleri nipase ipa tuntun, ko si iwulo ninu ki a gba owo lowo awon eyan fun fifun agbara fun bulookichain. Nkan ti o le je ki a gba owo ni pe, ki o je ijiya lati dekun eyan lati ma pari kata kara ti o poju, ti o le pa ise bulookichain lara.
 </p>
 
 <p>
-  In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  Nipa fifun idaduro to da lori sistemu lilo, eyan kankan ma ni bandiwiti idaduro. Igba kigba ti eyan ba se nkan lori bulookichain, bi ipa fifi ranse, kiko arooko ati di di ibo, o man din lo lara bandiwiti wan. Ti eyan ba lo koja bandiwiti ti a fun wan, wan gbodo duro lati se awon nkan titi ti igba ti bandiwiti wan ma tun pada.
 </p>
 
 <p>
-  Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+  Bandiwiti idaduro se yi gegebi netiwooki lilo, awon eyan ma ni bandiwiti to ga to po nigbati netiwoki lilo ba kere. Iye bandiwiti ti akaant le ni wa gegebi agbara Steemu ti eyan ni, nitorina eyan le fiku bandiwiti wan nipa nini agbara Steemu lafikun.
 </p>
 
 <h2>
-  Conclusion
+  Ipari
 </h2>
 
 <p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+  Eri to je airu iru re yi ati purogamu fifun ni nkan ti bulookichain ati ipa wa fun lati je ki Steemu ni kokari onu-rampu sinu cryptocurrency fun awon eyan ti wan lo. Ise bulookichain wa jeki lilo owo yen ati pulatifomu yen kakiri aye lokan. Ti aba mu po pelu yiyara bi asa purosesin asiko, ati ai gba owo katakara, Steemu wa lati je ikan ninu olori bulookichain tekinologi ti awon eyan ma lo laye.
 </p>
 
 <footnotes>

@@ -76,7 +76,7 @@ Token SBD direka bentuk untuk disamakan rapat dengan satu USD, supaya pengguna y
 
 ### Bursa Terpencar
 
-Rantaian blok Steem menawarkan suatu bursa token yang terpencar, sama seperti bursa Bitshares.[^13] Bursa ini membolehkan penggunanya untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran rakan-ke-rakan awam yang terpencar. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. [^14]
+Rantaian blok Steem menawarkan suatu bursa token yang terpencar, sama seperti bursa Bitshares.[^13] Bursa ini membolehkan penggunanya untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran rakan-ke-rakan awam yang terpencar. Pengguna dapat meletakkan pesanan beli serta jual, dan pesanan berpadanan dilakukan secara automatik oleh rantaian blok. Terdapat juga buku pesanan dan sejarah pesanan yang boleh diakses secara terbuka di mana pengguna boleh menggunakannya untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam bursa yang secara langsung menggunakan API rantaian blok, atau menggunakan GUI seperti yang digunakan di Steemit.com.[^14]
 
 ### Pembayaran melalui Escrow
 

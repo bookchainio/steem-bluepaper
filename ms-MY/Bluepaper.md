@@ -58,11 +58,11 @@ Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yan
 
 ## Ciri Platform Steem
 
-Blockchain Steem menghidangkan dua tujuan untuk menjadi sistem pemprosesan token digital, serta platform mediasosial arus perdana. Ciri-ciri ditawarkan oleh blockchain perlu menyokong kedua-dua tujuan, dan memberikan pengguna pengalaman bertaraf dunia apabila menggunakan kedua-dua aspek platform.
+Rantaian blok Steem berkhidmat sebagai dua tujuan untuk menjadi sistem pemprosesan token digital, serta platform media sosial arus perdana. Ciri-ciri yang ditawarkan oleh rantaian blok perlu menyokong kedua-dua tujuannya, dan memberikan pengguna pengalaman bertaraf dunia apabila menggunakan kedua-dua aspek platform tersebut.
 
-### Primitif Direka untuk Aplikasi Kandungan
+### Primitif yang Direka untuk Aplikasi Kandungan
 
-Steem menawarkan pengguna keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secra langsung dan kekal ke dalam buku leher yang tidak berubah sebagai blockchain sebagai teks biasa. Sebaik sahaja disimpan di blockchain, data tersedia secara terbuka untuk pemaju untuk membina dari. Pemaju dapat berinteraksi dengan kandungan secara langsung di blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
+Steem menawarkan penggunanya keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secara langsung dan berkekalan ke dalam buku lejar yang tidak berubah dalam rantaian blok sebagai teks biasa. Sebaik sahaja disimpan di dalam rantaian blok, data tersedia secara terbuka untuk pemaju untuk membina daripadanya. Pemaju dapat berinteraksi dengan kandungan secara langsung di dalam rantaian blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
 
 ### Sistem Nama Asli
 

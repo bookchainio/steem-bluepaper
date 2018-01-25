@@ -70,13 +70,13 @@ Alamat dompet telah digunakan oleh banyak teknologi rantaian blok, seperti Bitco
 
 ### Dolar Rantaian Blok Steem (ataupun "Steem Blockchain Dollar" SBD)
 
-Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. Untuk membantu merapatkan jurang antara sistem wang flat yang lebih tradisional yang digunakan pengguna arus perdana, dan token cryptocurency yang mereka diberikan melalui platform, mata uang baru yang disebut Steem Blockchain Dollars (SBD) telah diwujudkan.
+Ramai pengguna yang diperkenalkan dengan matawang kripto menghadapi masalah untuk memahami bagaimana "token internet sihir" yang dianugerahi oleh platform sebenarnya boleh mempunyai nilai dunia yang benar. Untuk membantu merapatkan jurang antara sistem wang fiat yang lebih tradisional yang digunakan oleh pengguna arus perdana, dan token matawang kripto yang dianugerahi melalui platform, matawang baru yang dikenali sebagai Dolar Rantaian Blok Steem (SBD) telah diwujudkan.
 
-Token SBD direka bentuk untuk dipatok rapat dengan satu USD, supaya pengguna yang menerima mereka dapat mengetahui lebih kurang berapa nilai mereka dalam istilah "dolar sejati. Token SBD juga menawarkan mata wang yang agak stabil bagi pengguna untuk memegang jika mereka ingin mengekalkan nilai akaun mereka berbanding dengan USD. Penjelasan teknikal yang lebih terperinci boleh didapati di dalam whitepaper teknikal Steem.[^12]
+Token SBD direka bentuk untuk disamakan rapat dengan satu USD, supaya pengguna yang menerima mereka dapat mengetahui lebih kurang berapa nilai mereka dalam istilah "dolar benar". Token SBD juga menawarkan matawang yang stabil secara relatif bagi pengguna untuk dipegang jika mereka ingin mengekalkan nilai akaun mereka relatif dalam USD. Penjelasan teknikal yang lebih terperinci boleh didapati di dalam whitepaper teknikal Steem.[^12]
 
-### Bursa Desentralisasi
+### Bursa Terpencar
 
-Rantaian Steem menawarkan pertukaran token yang terdesentralisasi, sama dengan pertukaran Bitshares.[^13] Pertukaran ini membolehkan pengguna untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran peer-topeer yang terdesentralisasi awam. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. [^14]
+Rantaian blok Steem menawarkan suatu bursa token yang terpencar, sama seperti bursa Bitshares.[^13] Bursa ini membolehkan penggunanya untuk memperdagangkan token STEEM dan SBD mereka melalui pasaran rakan-ke-rakan awam yang terpencar. Pengguna dapat meletakkan pesanan beli dan menjual, dan pesanan pesanan dilakukan secara automatik oleh blockchain. Terdapat juga buku tempahan dan sejarah tempahan yang dapat diakses pengguna yang boleh digunakan untuk menganalisis pasaran. Pengguna boleh berinteraksi dalam pertukaran yang terus menggunakan blockchain API, atau menggunakan GUI seperti yang di Steemit.com. [^14]
 
 ### Pembayaran melalui Escrow
 

@@ -48,13 +48,13 @@ Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saks
 
 ### ChainBase
 
-ChainBase[^9] merupakan bahagian pangkalan data bagi timbunan rentetan blok dan menggantikan Graphene[^10] pada tahun 2016. ChainBase mempunyai masa muat dan keluar yang lebih cepat, menyokong akses selari ke dalam pangkalan data dan lebih kuat berhadapan keruntuhan berbanding dengan pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" segera kepada keseluruhan keadaan pangkalan data, serta boleh melayani lebih banyak permintaan RPC daripada memori sama.
+ChainBase[^9] merupakan bahagian pangkalan data bagi timbunan rantaian blok dan menggantikan Graphene[^10] pada tahun 2016. ChainBase mempunyai masa muat dan keluar yang lebih cepat, menyokong akses selari ke dalam pangkalan data dan lebih kuat berhadapan keruntuhan berbanding dengan pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" segera kepada keseluruhan keadaan pangkalan data, serta boleh melayani lebih banyak permintaan RPC daripada memori sama.
 
 ### AppBase
 
-AppBase merupakan langkah pertama dalam mewujudkan FABRIC berbilang rantaian. AppBase membolehkan banyak komponen blok block Steem untuk menjadi modular dengan mewujudkan tambahan blok konsensus bukan konsensus sebagai plugin yang berdedikasi. Plugin ini boleh dikemas kini dengan lebih cepat kerana merekatidak memerlukan ulangan keseluruhan blockchain. Ini menjadikan kedudukan[^11] jauh lebih cekap dan lebih mudah untuk mengekalkan denngan skala.
+AppBase merupakan langkah pertama dalam mewujudkan FABRIC berbilang rantaian. AppBase membolehkan banyak komponen rantaian Steem untuk menjadi modular dengan mewujudkan rantaian blok bukan konsensus tambahan sebagai plugin yang berdedikasi. Plugin ini boleh dikemas kini dengan lebih cepat kerana mereka tidak perlu untuk mengulangi seluruh raintaian blok. Ini menjadikan steemd[^11] jauh lebih cekap dan lebih mudah untuk dikekalkan dan diskalakan.
 
-Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dari blockSteem. Ini jauh lebih cekap daripada memerlukan setiap inti, dan setiap komputer dalam rangkaian mengekalkan keseluruhan blok tersebut. Mengubah modul blok ini membolehkannya memanfaatkan sepenuhnya sifat modular komputer. Ini adalah satu langkah yang perlu dalam proses yang panjang untuk mewujudkan blok block yang sepenuhnya selari, sepenuhnya dioptimumkan.
+Secara praktikalnya, AppBase membolehkan teras yang berlainan, atau komputer yang berbeza, untuk mengekalkan bahagian-bahagian yang berbeza dalam rantaian blok Steem. Ini jauh lebih cekap daripada memerlukan setiap teras, dan setiap komputer dalam rangkaian untuk mengekalkan seluruh rantaian blok tersebut. Mengubah modul rantaian blok ini membolehkannya memanfaatkan sepenuhnya sifat modular komputer. Ini merupakan suatu langkah yang diperlukan dalam proses panjang untuk mewujudkan rantaian blok selari, yang dioptimumkan sepenuhnya.
 
 ## Ciri Platform Steem
 

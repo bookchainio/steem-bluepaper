@@ -62,13 +62,13 @@ Rantaian blok Steem berkhidmat sebagai dua tujuan untuk menjadi sistem pemproses
 
 ### Primitif yang Direka untuk Aplikasi Kandungan
 
-Steem menawarkan penggunanya keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secara langsung dan berkekalan ke dalam buku lejar yang tidak berubah dalam rantaian blok sebagai teks biasa. Sebaik sahaja disimpan di dalam rantaian blok, data tersedia secara terbuka untuk pemaju untuk membina daripadanya. Pemaju dapat berinteraksi dengan kandungan secara langsung di dalam rantaian blok yang menggunakan API yang tersedia. Beberapa pembangun primitif blockchain boleh membina dari termasuk Nama Akaun, Pos, Komen, Undian dan Imbangan Akaun.
+Steem menawarkan penggunanya keupayaan unik untuk menerbitkan dan menyimpan pelbagai jenis kandungan secara langsung dan berkekalan ke dalam buku lejar yang tidak berubah dalam rantaian blok sebagai teks biasa. Sebaik sahaja disimpan di dalam rantaian blok, data tersedia secara terbuka untuk pemaju untuk membina daripadanya. Pemaju dapat berinteraksi dengan kandungan secara langsung di dalam rantaian blok yang menggunakan API yang tersedia. Beberapa pemaju primitif rantaian blok boleh membina daripada termasuklah Nama Akaun, Hantaran, Komen, Undian dan Imbangan Akaun.
 
 ### Sistem Nama Asli
 
-Alamat dompet yang digunakan oleh banyak teknologi blockchain, seperti Bitcoin dan Ethereum, secara historis terdiri dari rentetan huruf dan nombor rawak yang panjang, bagaimanapun, alamat dompet ini dapatmembuat kesulitan untuk berinteraksi dengan pengguna lain dalamkonteks sosial-media sosial yang biasa kerana pengguna tidakdapat mengingat alamat panjang dari memori. Rakaman Steem mengunakan nama pengguna setiap peserta sebagai alamat dompet mereka, yang melengkapi pengalaman pengguna untuk peserta yang cuba menghantar token kerana mereka boleh mengesahkan alamat dari memori mereka sendiri.
+Alamat dompet telah digunakan oleh banyak teknologi rantaian blok, seperti Bitcoin dan Ethereum, dalam sejarah terdiri daripada rentetan huruf dan nombor rawak yang panjang, bagaimanapun, alamat dompet ini boleh membuatnya sukar untuk mengurus niaga dengan pengguna lain dalam konteks sosial media dalam talian yang biasa kerana pengguna tidak dapat mengingatkan alamat rentetan panjang daripada memori. Pengguna rantaian blok Steem mengunakan nama pengguna bagi setiap peserta sebagai alamat dompet mereka, yang meningkatkan pengalaman pengguna untuk peserta yang cuba menghantar token kerana mereka boleh mengesahkan alamat daripada memori mereka sendiri.
 
-### Steem Blockchain Dollars (SBD)
+### Dolar Rantaian Blok Steem (ataupun "Steem Blockchain Dollar" SBD)
 
 Ramai pengguna yang diperkenalkan dengan perjuangan cryptocurency untuk memahami bagaimana "token internet sihir" yang dianugerahkan oleh platform sebenarnya boleh mempunyai nilai dunia sebenarnya. Untuk membantu merapatkan jurang antara sistem wang flat yang lebih tradisional yang digunakan pengguna arus perdana, dan token cryptocurency yang mereka diberikan melalui platform, mata uang baru yang disebut Steem Blockchain Dollars (SBD) telah diwujudkan.
 

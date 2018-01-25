@@ -46,7 +46,7 @@ Oleh kerana DPoS, rantaian blok Steem mampu untuk menghasilkan sebuah blok baru 
 
 Dengan menetapkan peraturan-peraturan untuk apabila Hardfork berlaku, saksi-saksi yang dipilih dalam kerangka DPoS boleh dengan cepat dan cekap membuat keputusan untuk sama ada bergerak ke hadapan cadangan Hardfork yang diusulkan atau tidak, membenarkan protokol rantaian blok Steem berkembang dengan lebih cepat daripada yang lain. Rantaian blok Steem telah berjaya mencabang (ataupun "forked") sebanyak 18 kali[^8], dan setiap kali Hardfork berlaku, hanya rantai tunggal berterusan selepas cabang (ataupun "fork") tersebut.
 
-### Chainbase
+### ChainBase
 
 ChainBase[^9] adalah bahagian pangkalan data timbunan blockchain dan menggantikan Graphene[^10] pada 2016. ChainBase mempunyai masa lebih cepat dan keluar, menyokong akses selari ke pangkalan data dan lebih kuat berbanding kemalangan daripada pendahulunya. Ia juga mempunyai korupsi pangkalan data yang kurang kerap, membolehkan "snapshotting" keseluruhan keadaan pangkalan data serta boleh melayani lebih banyak permintaan RPC dari ingatan yang sama.
 

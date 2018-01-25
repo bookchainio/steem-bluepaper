@@ -90,9 +90,9 @@ Kekunci peribadi ini adalah Hantaran, Aktif dan Pemilik. Kekunci hantaran membol
 
 Steem juga memudahkan penggunaan suatu Kata Laluan Induk yang menyulitkan ketiga-tiga kekunci. Servis web (ataupun "Webservices") boleh menggunakan suatu Kata Laluan Induk untuk menyahsulitkan dan menandatangani kekunci peribadi yang diperlukan. Kata Laluan Induk dapat membolehkan pengguna untuk mempercayai servis tertentu untuk mengelakkan kekunci daripada dipindahkan secara tidak wajar merentasi mana-mana pelayan, yang turut meningkatkan pengalaman pengguna sementara mengekalkan persekitangan tandatangan pihak klien yang selamat.
 
-### Tandatangan Pelbagai Pihak Berkuasa (ataupun Multi Sig Authorities)
+### Tandatangan Berbilang Pihak Berkuasa (ataupun Multi Sig Authorities)
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Rantaian blok Steem membolehkan suatu pihak berkuasa dibahagikan merentasi beberapa entiti, supaya berbilang pengguna boleh berkongsikan suatu pihak berkuasa yang sama, atau beberapa entiti akan diperlukan untuk membenarkan sesuatu urus niaga untuk mengesahkannya. Ini dilaksanakan dalam cara yang sama seperti Bitshares[^16] di mana setiap pasangan kekunci awam/peribadi telah dibagikan suatu keberatan, dan satu ambangan telah ditentukan bagi pihak berkuasa tersebut. Untuk menjadikan urus niaga tersebut sesuatu yang sah, mesti terdapat entiti yang cukup untuk menandatangani supaya jumlah keberatan tersebut mencukupi atau melebihi nilai ambangan itu.
 
 ### Multiple Reward Beneficiaries
 

@@ -13,6 +13,7 @@
 * [Bahasa Indonesia](id-ID/Bluepaper.md)
 * [Italiano](it-IT/Bluepaper.md)
 * [日本語](ja-JP/Bluepaper.md)
+* [한국어](ko-KR/Bluepaper.md)
 * [Português](pt-PT/Bluepaper.md)
 * [Português (Brasil)](pt-BR/Bluepaper.md)
 * [Română](ro-RO/Bluepaper.md)

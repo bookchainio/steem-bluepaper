@@ -94,9 +94,9 @@ Steem juga memudahkan penggunaan suatu Kata Laluan Induk yang menyulitkan ketiga
 
 Rantaian blok Steem membolehkan suatu pihak berkuasa dibahagikan merentasi beberapa entiti, supaya berbilang pengguna boleh berkongsikan suatu pihak berkuasa yang sama, atau beberapa entiti akan diperlukan untuk membenarkan sesuatu urus niaga untuk mengesahkannya. Ini dilaksanakan dalam cara yang sama seperti Bitshares[^16] di mana setiap pasangan kekunci awam/peribadi telah dibagikan suatu keberatan, dan satu ambangan telah ditentukan bagi pihak berkuasa tersebut. Untuk menjadikan urus niaga tersebut sesuatu yang sah, mesti terdapat entiti yang cukup untuk menandatangani supaya jumlah keberatan tersebut mencukupi atau melebihi nilai ambangan itu.
 
-### Multiple Reward Beneficiaries
+### Benefisiari Ganjaran Berbilang
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Bagi mana-mana hantaran yang diberikan mungkin terdapat sesetengah orang yang mempunyai kepentingan kewangan dalam ganjaran. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

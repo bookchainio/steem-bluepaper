@@ -110,9 +110,9 @@ Jika akaun seseorang pengguna dikompromi, mereka boleh menukarkan kekunci mereka
 
 Jika kekunci aktif atau pemilik bagi sesuatu pengguna dikompromikan, penyerang akan mempunyai akses penuh kepada semua dana dalam akaun mereka. Ini kerana urus niaga rantaian blok tidak boleh dibalikkan, pengguna tidak mempunyai cara untuk mendapatkan dana mereka semula selepas mereka telah dicuri.
 
-Rantaian blok Steem membolehkan penggunanya untuk menyimpan token STEEM dan SBD mereka di dalam suatu akaun simpanan, supaya dana tidak boleh dikeluarkan sehingga selepas tempoh menunggu yang selama tiga hari. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Rantaian blok Steem membolehkan penggunanya untuk menyimpan token STEEM dan SBD mereka di dalam suatu akaun simpanan, supaya dana tidak boleh dikeluarkan sehingga selepas tempoh menunggu yang selama tiga hari. Tambahan pula, STEEM yang dipegangkan dalam jadual peletakhakan selama 13 minggu hanya boleh dikeluarkan pada kadar 1/13 setiap minggu, selepas tempoh menunggu permulaan yang selama tujuh hari. Kunci-masa tersebut dapat mengelakkan seseorang penyerang untuk dapat mengakses kepada bahagian penuh dana seseorang pengguna dengan serta-merta, supaya pemilik yang sebenarnya mempunyai masa untuk mengambil alihkan kawalan semula ke atas akaun mereka sebelum semua dana telah dikeluarkan.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Pengehadan Kadar Lebar Jalur untuk Operasi Tanpa Yuran
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

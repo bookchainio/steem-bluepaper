@@ -96,7 +96,7 @@ Rantaian blok Steem membolehkan suatu pihak berkuasa dibahagikan merentasi beber
 
 ### Benefisiari Ganjaran Berbilang
 
-Bagi mana-mana hantaran yang diberikan mungkin terdapat sesetengah orang yang mempunyai kepentingan kewangan dalam ganjaran. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Bagi mana-mana hantaran yang diberikan mungkin terdapat sesetengah orang yang mempunyai kepentingan kewangan dalam ganjaran. Ini termasuklah pengarang, pengarang bersama, perujuk, pembekal hos, blog yang membenamkan komen rantaian blok, dan alat pemaju. Mana-mana laman web atau alat yang digunakan untuk membina sesuatu hantaran atau komen akan mempunyai keupayaan untuk menetapkan bagaimana ganjaran daripada komen tersebut akan dibahagikan di antara pelbagai pihak. Ini membolehkan pelbagai jenis bentuk kerjasama, dan juga suatu cara untuk platform yang dibina di atas rantaian blok Steem untuk mengutip sebahagian ganjaran daripada pengguna mereka.
 
 ### Smart Media Tokens (SMT)
 

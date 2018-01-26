@@ -98,9 +98,9 @@ Rantaian blok Steem membolehkan suatu pihak berkuasa dibahagikan merentasi beber
 
 Bagi mana-mana hantaran yang diberikan mungkin terdapat sesetengah orang yang mempunyai kepentingan kewangan dalam ganjaran. Ini termasuklah pengarang, pengarang bersama, perujuk, pembekal hos, blog yang membenamkan komen rantaian blok, dan alat pemaju. Mana-mana laman web atau alat yang digunakan untuk membina sesuatu hantaran atau komen akan mempunyai keupayaan untuk menetapkan bagaimana ganjaran daripada komen tersebut akan dibahagikan di antara pelbagai pihak. Ini membolehkan pelbagai jenis bentuk kerjasama, dan juga suatu cara untuk platform yang dibina di atas rantaian blok Steem untuk mengutip sebahagian ganjaran daripada pengguna mereka.
 
-### Smart Media Tokens (SMT)
+### Token Media Pintar (ataupun Smart Media Token "SMT")
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Token Media Pintar merupakan token natif yang boleh dibina di atas rantaian blok Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
 
 ### Stolen Account Recovery
 

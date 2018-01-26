@@ -114,7 +114,7 @@ Rantaian blok Steem membolehkan penggunanya untuk menyimpan token STEEM dan SBD 
 
 ### Pengehadan Kadar Lebar Jalur untuk Operasi Tanpa Yuran
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Kerana saksi-saksi telah dibayar sepenuhnya melalui penjanaan token yang baru, maka tidak perlu untuk mengenakan bayaran kepada pengguna untuk menjanakan kuasa bagi rantaian blok. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

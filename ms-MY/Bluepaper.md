@@ -104,13 +104,13 @@ Token Media Pintar merupakan token natif yang boleh dibina di atas rantaian blok
 
 ### Pemulihan Akaun yang Dicuri
 
-Jika akaun seseorang pengguna dikompromi, mereka boleh menukarkan kekunci mereka menggunakan kekunci peribadi pemilik. Sekiranya berlaku di mana penyerang tersebut dapat mengkompromikan kekunci peribadi pemilik dan menukarkan kata laluan akaun tersebut, pengguna mempunyai 30 hari untuk menghantarkan kekunci peribadi yang boleh digunakan sebelum ini melalui proses pemulihan akaun dicuri yang merupakan pertama dalam industri oleh Steem, dan mengembalikan kawalan ke atas akaun mereka semula. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Jika akaun seseorang pengguna dikompromi, mereka boleh menukarkan kekunci mereka menggunakan kekunci peribadi pemilik. Sekiranya berlaku di mana penyerang tersebut dapat mengkompromikan kekunci peribadi pemilik dan menukarkan kata laluan akaun tersebut, pengguna mempunyai 30 hari untuk menghantarkan kekunci peribadi yang boleh digunakan sebelum ini melalui proses pemulihan akaun dicuri yang merupakan pertama dalam industri oleh Steem, dan mengembalikan kawalan ke atas akaun mereka semula. Ini boleh ditawarkan oleh seseorang atau sesuatu syarikat yang menyediakan perkhidmatan pendaftaran ke Steem. Ia bukanlah mandatori bagi pendaftar untuk menyediakan perkhidmatan ini kepada penggunanya, tetapi ia tersedia untuk meningkatkan nilai pengalaman pengguna bagi sesuatu pendaftar.
 
-### Security Through Time-Locks
+### Keselamatan Melalui Kunci-Masa (ataupun Time-Locks)
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Jika kekunci aktif atau pemilik bagi sesuatu pengguna dikompromikan, penyerang akan mempunyai akses penuh kepada semua dana dalam akaun mereka. Ini kerana urus niaga rantaian blok tidak boleh dibalikkan, pengguna tidak mempunyai cara untuk mendapatkan dana mereka semula selepas mereka telah dicuri.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Rantaian blok Steem membolehkan penggunanya untuk menyimpan token STEEM dan SBD mereka di dalam suatu akaun simpanan, supaya dana tidak boleh dikeluarkan sehingga selepas tempoh menunggu yang selama tiga hari. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

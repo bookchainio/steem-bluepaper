@@ -100,11 +100,11 @@ Bagi mana-mana hantaran yang diberikan mungkin terdapat sesetengah orang yang me
 
 ### Token Media Pintar (ataupun Smart Media Token "SMT")
 
-Token Media Pintar merupakan token natif yang boleh dibina di atas rantaian blok Steem. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Token Media Pintar merupakan token natif yang boleh dibina di atas rantaian blok Steem. Steem merupakan SMT pertama yang wujud, dan protokol Token Media Pintar bertujuan untuk mengewangkan kandungan laman web dan aplikasi di seluruh web dengan membenarkan orang ramai untuk mencipta token yang mempunyai harta menyerupai STEEM, tetapi boleh disuaikan supaya sesuai dengan visi mana-mana komuniti dalam talian melalui kelakuan yang memberi insentif, pada asasnya mereplika kejayaan STEEM kepada mana-mana laman web atau aplikasi. Butiran teknikal yang lebih terperinci boleh didapati di dalam whitepaper Token Media Pintar[^17].
 
-### Stolen Account Recovery
+### Pemulihan Akaun yang Dicuri
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Jika akaun seseorang pengguna dikompromi, mereka boleh menukarkan kekunci mereka menggunakan kekunci peribadi pemilik. Sekiranya berlaku di mana penyerang tersebut dapat mengkompromikan kekunci peribadi pemilik dan menukarkan kata laluan akaun tersebut, pengguna mempunyai 30 hari untuk menghantarkan kekunci peribadi yang boleh digunakan sebelum ini melalui proses pemulihan akaun dicuri yang merupakan pertama dalam industri oleh Steem, dan mengembalikan kawalan ke atas akaun mereka semula. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 
 ### Security Through Time-Locks
 

@@ -118,11 +118,11 @@ Kerana saksi-saksi telah dibayar sepenuhnya melalui penjanaan token yang baru, m
 
 Untuk meletakkan had yang munasabah pada penggunaan sistem, setiap pengguna diberikan lebar jalur yang terhad. Jikalau pengguna melakukan operasi rantaian blok seperti pemindahan token, membuat hantaran kandungan, dan mengundi, ia akan menggunakan sebahagian daripada lebar jalur mereka. Jika seseorang pengguna itu melebihi pemberian lebar jalur mereka, mereka mestilah tunggu untuk melakukan tindakan tambahan sehingga lebar jalur mereka dicaskan semula.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Had lebar jalur dilaraskan berdasarkan penggunaan rangkaian, oleh itu pengguna akan mendapat pemberian lebar jalur yang lebih tinggi semasa penggunaan rangkaian rendah. Jumlah lebar jalur yang dibenarkan kepada sesuatu akaun adalah berkadar secara langsung kepada jumlah Kuasa Steem yang dimiliki oleh seseorang pengguna, oleh itu pengguna boleh menambahkan pemberian lebar jalur mereka dengan mendapatkan Kuasa Steem tambahan.
 
-## Conclusion
+## Kesimpulan
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Program ganjaran dan insentif unik yang ditawarkan oleh rantaian blok Steem dan tokennya direka bentuk untuk membuatkan Steem media utama yang menjadi matawang kripto bagi pengguna arus perdana. Prestasi rantaian blok ini direka bentuk dengan mengambil kira penerimaan orang ramai yang meluas kepada matawang dan platform tersebut. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

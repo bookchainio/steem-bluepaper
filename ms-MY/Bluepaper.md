@@ -114,9 +114,9 @@ Rantaian blok Steem membolehkan penggunanya untuk menyimpan token STEEM dan SBD 
 
 ### Pengehadan Kadar Lebar Jalur untuk Operasi Tanpa Yuran
 
-Kerana saksi-saksi telah dibayar sepenuhnya melalui penjanaan token yang baru, maka tidak perlu untuk mengenakan bayaran kepada pengguna untuk menjanakan kuasa bagi rantaian blok. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Kerana saksi-saksi telah dibayar sepenuhnya melalui penjanaan token yang baru, maka tidak perlu untuk mengenakan bayaran kepada pengguna untuk menjanakan kuasa bagi rantaian blok. Alasan tunggal untuk mengenakan bayaran adalah untuk bertindak sebagai penghalang untuk mengelakkan pengguna daripada melaksanakan bilang urus niaga yang tidak munasabah, yang akan berpotensi untuk memberi impak kepada prestasi rantaian blok.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Untuk meletakkan had yang munasabah pada penggunaan sistem, setiap pengguna diberikan lebar jalur yang terhad. Jikalau pengguna melakukan operasi rantaian blok seperti pemindahan token, membuat hantaran kandungan, dan mengundi, ia akan menggunakan sebahagian daripada lebar jalur mereka. Jika seseorang pengguna itu melebihi pemberian lebar jalur mereka, mereka mestilah tunggu untuk melakukan tindakan tambahan sehingga lebar jalur mereka dicaskan semula.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

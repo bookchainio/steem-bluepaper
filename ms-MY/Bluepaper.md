@@ -122,7 +122,7 @@ Had lebar jalur dilaraskan berdasarkan penggunaan rangkaian, oleh itu pengguna a
 
 ## Kesimpulan
 
-Program ganjaran dan insentif unik yang ditawarkan oleh rantaian blok Steem dan tokennya direka bentuk untuk membuatkan Steem media utama yang menjadi matawang kripto bagi pengguna arus perdana. Prestasi rantaian blok ini direka bentuk dengan mengambil kira penerimaan orang ramai yang meluas kepada matawang dan platform tersebut. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Program ganjaran dan insentif unik yang ditawarkan oleh rantaian blok Steem dan tokennya direka bentuk untuk membuatkan Steem media utama yang menjadi matawang kripto bagi pengguna arus perdana. Prestasi rantaian blok ini direka bentuk dengan mengambil kira penerimaan orang ramai yang meluas kepada matawang dan platform tersebut. Apabila digabungkan dengan masa pemprosesan yang pantas kilat dan urus niaga tanpa yuran, Steem diposisikan untuk menjadi salah satu teknologi rantaian blok utama yang digunakan oleh orang ramai di seluruh dunia.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

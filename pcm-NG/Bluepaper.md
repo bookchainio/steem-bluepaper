@@ -12,11 +12,11 @@ In addition to dis advancements for blockchain and token technology, Steem like 
 
 ## Proof of Brain: Smart and Social Tokens
 
-Token systems wey reward users as dem dey contribute to wan token-based community system nid mechanisms for establishing and evaluating content's social value: we dey call am "Proof-of-Brain."
+Token systems wey dey reward users as dem dey contribute to a token-based community system need mechanisms wey dem go take establish and evaluate content's social value: we dey call am "Proof-of-Brain."
 
-### De Rewards Pool ("Where De tokens dey come from?")
+### De Rewards Pool ("Where De tokens from dey come?")
 
-Wan of de most innovative (and most misunderstood) area of the steem blockchain na de "Rewards Pool" from were token dey distribute to valuable content creators. In oda understand watin de Rewards Pool be, person first nid to understand say tokens dey produced differently for DPoS blockchains pass if dem dey PoW blockchains. For traditional PoW blockchains, tokens dey produced regularly but dey randomly distribut to de people wey machines dey perform dia work ("miners").
+One of de most innovative (and wey dem misunderstood pass) area of the steem blockchain na de "Rewards Pool" from were token dey distribute to valuable content creators. In oda understand watin de Rewards Pool be, person first nid to understand say tokens dey produced differently for DPoS blockchains pass if dem dey PoW blockchains. For traditional PoW blockchains, tokens dey produced regularly but dey randomly distribut to de people wey machines dey perform dia work ("miners").
 
 Different from PoW-only cryptocurrencies, tokens for Steem dey generate for fixed rate of one block for every three seconds. These tokens go distribute to different actors for de system based on de defined rules of de blockchain. These actors, like content creators, witnesses, and curators, compete in specialized ways for de tokens. Unlike de traditional Pow means of distribution, where miners dem competing over raw computing power, de actors for de Steem network dem incentivized to compete in ways wey add value to de network.
 

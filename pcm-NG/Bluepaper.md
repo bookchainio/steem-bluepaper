@@ -30,21 +30,21 @@ De users wey produce content wey add value to de network by creating materials w
 
 #### Voting wit Staked-Token to Determine Allocation of Rewards
 
-Steem operates on de basis of one-STEEM, one-vote. Unda dis model, person wey contribute pass for de platform, as dem measure am by dia account balance, get de most influence over how contributions dem scored. Dem go it buy stake or earn am. Users no go gain anoda influence if dem get plenty accounts, since wan single account wit an amount of stake go get de same influence as two different accounts sharing de same amount of stake. De only way for users go fit increase dia influence in de platform na to increase dia stake.
+Steem operates on de basis of one-STEEM, one-vote. Unda dis model, person wey contribute pass for de platform, as dem measure am by dia account balance, get plenty influence ontop how contributions dem scored. Dem go fit buy stake or earn am. Users no go gain anoda influence if dem get plenty accounts, since wan single account wit an amount of stake go get de same influence as two different accounts sharing de same amount of stake. De only way for users go fit increase dia influence in de platform na to increase dia stake.
 
-As e come be, Steem go only allow members to vote wit STEEM wen e go committed to a 13 week vesting schedule dem call am Steem Power. Unda dis model, members get wan financial incentive to vote for wan way wey increase the long term value of dia STEEM.
+As e come be, Steem go only allow members to vote wit STEEM wen e go committed to a 13 week vesting schedule dem call am Steem Power. Unda dis model, members get wan financial incentive to vote for wan wey increase the long term value of dia STEEM.
 
 ## Speed and Scale for de Steem Blockchain
 
-De Steem blockchain get design we be wan of de fastest and plenty efficient blockchains for existence, wey dey necessary for dem to support de amount wey traffic expect or wan social media platform wey big pass the size of Reddit. Steem don already pass Bitcoin for plenty transactions, and e fit scale to support 10,000 or plenty transaction for one second.
+De Steem blockchain get design wey be wan of de fastest and plenty efficient blockchains for existence, wey dey necessary for dem to support de amount wey traffic expect or wan social media platform wey big pass the size of Reddit. Steem don already pass Bitcoin for plenty transactions, and e fit scale to support 10,000 or plenty transaction for one second.
 
 ### Delegated Proof of Stake (DPoS)
 
-Meny times bottlenecked wey Proof-of-Work (PoW)[^6], plenty blockchains no fit scale pass three transaction for wan second, wey be fraction of de world's financial traffic. Steem need plenty more scale and speen pass de offered wey PoW, and less known algorithm wey dem call Delegated Proof of State (DPoS)[^7] dem leverage am to lay de foundation wey blockchain complete for billions of users.
+Meny times bottlenecked wey Proof-of-Work (PoW)[^6], plenty blockchains no fit scale pass three transaction for wan second, wey be fraction of de world's financial traffic. Steem need plenty more scale and speed pass de offered wey PoW, and less known algorithm wey dem call Delegated Proof of State (DPoS)[^7] dem leverage am to lay de foundation wey blockchain complete for billions of users.
 
 Because of DPoS, de Steem blockchain don dey generate wan new block every 3 seconds wit small computational load. Dis mean sey de blockchain fit process plenty transactions and hold plenty information, including content.
 
-By finding the rules for wen wan Hardfork happen, the witnesses elected inside de DPoS framework fit quickly and efficiently decide if or not dem go move forward wit wan proposed hardfork, allowing de Steem blockchain protocol to evolved plenty rapidly dan plenty odas. De Steem blockchain don already successfully forked 18 times[^8], and each time wan hardfork don happen, only wan single chain don continue after de fork.
+By finding the rules for wen wan Hardfork happen, de witnesses elected inside de DPoS framework fit quickly and efficiently decide if or not dem go move forward wit wan proposed hardfork, allowing de Steem blockchain protocol to evolved more rapidly dan plenty odas. De Steem blockchain don already successfully forked 18 times[^8], and each time wey hardfork don happen, only wan single chain don continue after de fork.
 
 ### ChainBase
 

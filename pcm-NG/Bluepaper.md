@@ -80,7 +80,7 @@ De Steem blockchain dey offer decentralized token exchange, we resemble Bitshare
 
 ### Payments Through Escrow
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+De irreversible nature of blockchain transactions get important security feature, but for plenty cases were users fit no dey comfortable sending their tokens to another user without any way to take get am back if de other uers no want hold up to him end of de agreement. De Steem blockchain dey provide a way make users take send coins to each other with a third part designated as escrow service. De user acting like de escrow service go fit determine if de terms of de agreement don reach, and either allow de funds to release to the receiver or return to de sender.
 
 ### Hierarchical Private Key Structure
 

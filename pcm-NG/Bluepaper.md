@@ -76,7 +76,7 @@ Dem design SBD tokens to pegge closely to one USD, so dat user wey receive dem g
 
 ### Decentralized Exchange
 
-De Steem blockchain dey offer decentralized token exchange, we resemble Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+De Steem blockchain dey offer decentralized token exchange, we resemble Bitshares exchange.[^13] De exchange dey allow users trade their STEEM and SBD token throuhg a public decentralized peer-to-peer market. Users go fit place buy and sell orders, and order matching dey perform automatic by de blockchain. Publicly accessible still dey for order book and order history wey users fit use to analyze de market. Users fit interact with de exchange one on one using de blockchain API, or dem fit use GUI like de one wey dey Steemit.com.[^14]
 
 ### Payments Through Escrow
 

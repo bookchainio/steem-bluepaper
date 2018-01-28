@@ -88,7 +88,7 @@ Steem dey employ first of its kind hierarchical private key system take facilita
 
 Dis private keys na de Posting, Active and Owner. De posting key dey allow accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. De active key dey for plenty sensitive tasks like transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting de posting key. De owner key dey for use only wen necessary. Na the most powerful key becus e fit change any key of account, including de owner key, and to show ownership during an Account Recovery. Ideally dem do am to keep offline, and only use am wen de account keys need to change or to recover de compromised account.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem don facilitates de use of Master Password wey encrypts all de three keys. Webservices fit use Master Password wey decrpts and signs wit de necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
 
 ### Multi Sig Authorities
 

@@ -58,11 +58,11 @@ For practical, AppBase go fit make different cores, or even different computers,
 
 ## Steems's Platform Features
 
-De Steem blockchain dey serve as dual purpose were wan digital token processing system, and as maistreem social medial platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+De Steem blockchain dey serve as dual purpose were wan digital token processing system, and as maistreem social medial platform. De features wey blockchain offer need to support both purpose, and give users wan world class experience wen dem use both aspects of de platform.
 
 ### Primitives Designed for Content Applications
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem dey offer useres de unique power to publish and keep different types of content directly and permanently inside de immutable ledger of de blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

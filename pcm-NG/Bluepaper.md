@@ -54,11 +54,11 @@ ChainBase[^9] na de database portion wey de blockchain stack and replaced Graphe
 
 AppBase na de first step for creating plenty-chain FABRIC. AppBase dey make plenty components of de Steem blockchain to become modular if dem create anoda non-consensus blockchains as dedicated plugins. These plugins fit dey updated many more rapidly becus dem no dey ask replaying de whole blockchain. Dis na him make steemd[^11] get plenty efficient and dey easy to mentain and scale.
 
-For practical, AppBase go fit make different cores, or even different computers, to mentain different parts of de Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+For practical, AppBase go fit make different cores, or even different computers, to mentain different parts of de Steem blockchain. Dis wan dey important pass plenty efficient dem dey ask every core, and every computer wey dey de network mentain de whole blockchain. Modularizing de blockchain go make am to take full advantage of de modular nature of computers. Dis wan na one neccessary step for de long process to take create wan full parallel, full optimized blockchain.
 
-## Steem’s Platform Features
+## Steems's Platform Features
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+De Steem blockchain dey serve as dual purpose were wan digital token processing system, and as maistreem social medial platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

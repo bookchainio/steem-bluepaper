@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Steem dey provide a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (them dey cal am STEEM)[^2] wey fit make people earn the currency by using dia brain (waiting dem fit call "proof-of-brain"). The two building blocks wey this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral for each others' existence. Steem don dey successfully operate for more than a year now, and don dey pass both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem dey provide a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (them dey cal am STEEM)[^2] wey fit make people earn the currency by using dia brain (waiting dem fit call "proof-of-brain"). De two building blocks wey this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral for each others' existence. Steem don dey successfully operate for more than a year now, and don dey pass both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to other blockchains, Steem don stand out as the first publicly accessible database wey immutably stored content in the form of plain text along with an in-built incentivization mechanism. This don make Steem a public publishing platform from which any internet application fit pull and share data while rewarding those wey contribute the most valuable content.
 
@@ -26,7 +26,7 @@ Of the supply of new tokens wey create by the Steem blockchain every year, 75% o
 
 #### Rewards for Content Creators and Curators
 
-The users who produce content wey add value to the network by creating materials wey go drive new users to the platform, as well as keep the existing users occupy and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+The users who produce content wey add value to the network by creating materials wey go drive new users to the platform, as well as keep the existing users occupy and entertained. This go help to distributing the currency to plenty set of users and increases the network effect. De users wey take time take evaluate and vote on content dey play important role to dey distribute de currency to de users wey dey add de value wey big pass. De blockchain rewards together wit dis activities relative to dia value ontop de collective wisdom of de crowd wey dem collect tru de stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

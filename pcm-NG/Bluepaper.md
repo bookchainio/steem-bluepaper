@@ -26,11 +26,11 @@ Of the supply of new tokens wey create by the Steem blockchain every year, 75% o
 
 #### Rewards for Content Creators and Curators
 
-The users who produce content wey add value to the network by creating materials wey go drive new users to the platform, as well as keep the existing users occupy and entertained. This go help to distributing the currency to plenty set of users and increases the network effect. De users wey take time take evaluate and vote on content dey play important role to dey distribute de currency to de users wey dey add de value wey big pass. De blockchain rewards together wit dis activities relative to dia value ontop de collective wisdom of de crowd wey dem collect tru de stake-weighted voting system.
+De users wey produce content wey add value to de network by creating materials wey go drive new users to the platform, as well as keep the existing users occupy and entertained. Dis go help to distributing de currency to plenty set of users and increases de network effect. De users wey take time take evaluate and vote on content dey play important role to dey distribute de currency to de users wey dey add de value wey big pass. De blockchain rewards together wit dis activities relative to dia value ontop de collective wisdom of de crowd wey dem collect tru de stake-weighted voting system.
 
 #### Voting wit Staked-Token to Determine Allocation of Rewards
 
-Steem operates on de basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem operates on de basis of one-STEEM, one-vote. Unda dis model, person wey contribute pass for de platform, as dem measure am by dia account balance, get de most influence over how contributions dem scored. Dem go it buy stake or earn am. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

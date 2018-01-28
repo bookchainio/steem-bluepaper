@@ -62,7 +62,7 @@ De Steem blockchain dey serve as dual purpose were wan digital token processing 
 
 ### Primitives Designed for Content Applications
 
-Steem dey offer useres de unique power to publish and keep different types of content directly and permanently inside de immutable ledger of de blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem dey offer useres de unique power to publish and keep different types of content directly and permanently inside de immutable ledger of de blockchain as plain text. Once e store inside de blockchain, data go com dey available publically for developers to build from. Developers go fit interact wit de content directly inside blockchain de available APIs. Different blockchain primitives developers go fit build from include Account Name, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

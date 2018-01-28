@@ -84,7 +84,7 @@ De irreversible nature of blockchain transactions get important security feature
 
 ### Hierarchical Private Key Structure
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem dey employ first of its kind hierarchical private key system take facilitate low-security and high-security transactions. Low-security transactions fit be social, like posting or commenting. High-security transaction fit be transfer and key exchanges. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 

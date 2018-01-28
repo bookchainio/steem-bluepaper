@@ -72,11 +72,11 @@ Wallet addresses wey blockchain technologies use, like Bitcoin and Ethereum, get
 
 Plenty users wey dem introduced to cryptocurrency struggle to understand how "magic internet token" awarded by de platform fit actually get real world value. In order to help bridge de gap between plenty traditional fiat money systems which mainstream users dem use to, and de crytpcurrency tokens which dem be awarded through de platform, a new currency wey dem call Steem Blockchain DOllars (SBD) been create.
 
-Dem design SBD tokens to pegge closely to one USD, so dat user wey receive dem go know sey approximately how many dem worth in "real dollar" terms. SBD tokens dey also offer a relatively stable currency for users wey hold am if dem want preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Dem design SBD tokens to pegge closely to one USD, so dat user wey receive dem go know sey approximately how many dem worth in "real dollar" terms. SBD tokens dey also offer a relatively stable currency for users wey hold am if dem want preserve their account value relative to USD. Plenty detail technical explanation dey inside Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+De Steem blockchain dey offer decentralized token exchange, we resemble Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

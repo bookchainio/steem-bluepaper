@@ -22,11 +22,11 @@ Different from PoW-only cryptocurrencies, dem dey generate tokens for Steem for 
 
 Dem set de rate wey new tokens take dey generate at to 9.5% per year starting in December 2016, and reduce to de rate of 0.01% every 250,000 blocks, or about 0.5% per year. De inflation go continue to dey reduce for dis rate until e reach 0.95% after some period of about 20.5 years.
 
-Of de supply of new tokens wey create by the Steem blockchain every year, 75% of those tokens compose de "rewards pool" come dey distribute to content creators and content curators. 15% wey distribute to vested holders, and 10% wey distribute to Witnesses, de block producers cooperating inside Steem's DPoS concensus protocol.
+Of de supply of new tokens wey de Steem blockchain dey create every year, 75% of those tokens compose de "rewards pool" wey dem come dey distribute to content creators and content curators. Dem dey distribute 15% to vested token holders, and dem dey distribute 10% to Witnesses, de block producers cooperating inside Steem's DPoS concensus protocol.
 
 #### Rewards for Content Creators and Curators
 
-De users wey produce content wey add value to de network by creating materials wey go drive new users to de platform, as well as keep de existing users occupy and entertained. Dis go help to distributing de currency to plenty set of users and increases de network effect. De users wey take time take evaluate and vote on content dey play important role to dey distribute de currency to de users wey dey add de value wey big pass. De blockchain rewards together wit dis activities relative to dia value ontop de collective wisdom of de crowd wey dem collect tru de stake-weighted voting system.
+De users wey produce content wey add value to de network by creating materials wey go drive new users to de platform, as well as keep de existing users occupy and entertained. Dis go help to dey distribute de currency to plenty set of users and increases de network effect. De users wey take time take evaluate and vote on content dey play important role to dey distribute de currency to de users wey dey add de value wey big pass. De blockchain rewards together wit dis activities relative to dia value ontop de collective wisdom of de crowd wey dem collect tru de stake-weighted voting system.
 
 #### Voting wit Staked-Token to Determine Allocation of Rewards
 

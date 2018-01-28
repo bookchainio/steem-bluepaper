@@ -30,9 +30,9 @@ De users wey produce content wey add value to de network by creating materials w
 
 #### Voting wit Staked-Token to Determine Allocation of Rewards
 
-Steem operates on de basis of one-STEEM, one-vote. Unda dis model, person wey contribute pass for de platform, as dem measure am by dia account balance, get de most influence over how contributions dem scored. Dem go it buy stake or earn am. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem operates on de basis of one-STEEM, one-vote. Unda dis model, person wey contribute pass for de platform, as dem measure am by dia account balance, get de most influence over how contributions dem scored. Dem go it buy stake or earn am. Users no go gain anoda influence if dem get plenty accounts, since wan single account wit an amount of stake go get de same influence as two different accounts sharing de same amount of stake. De only way for users go fit increase dia influence in de platform na to increase dia stake.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+As e come be, Steem go only allow members to vote wit STEEM wen e go committed to a 13 week vesting schedule dem call am Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

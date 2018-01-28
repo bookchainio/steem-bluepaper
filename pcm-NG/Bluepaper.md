@@ -92,7 +92,7 @@ Steem don facilitates de use of Master Password wey encrypts all de three keys. 
 
 ### Multi Sig Authorities
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+De Steem blockchain dey allow authority make dem split among different entities, so that different users fit share de same authority, or different entities go need authority to do transaction for am to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

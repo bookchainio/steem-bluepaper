@@ -52,9 +52,9 @@ ChainBase[^9] na de database portion wey de blockchain stack and replaced Graphe
 
 ### AppBase
 
-AppBase na de first step for creating plenty-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase na de first step for creating plenty-chain FABRIC. AppBase dey make plenty components of de Steem blockchain to become modular if dem create anoda non-consensus blockchains as dedicated plugins. These plugins fit dey updated many more rapidly becus dem no dey ask replaying de whole blockchain. Dis na him make steemd[^11] get plenty efficient and dey easy to mentain and scale.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+For practical, AppBase go fit make different cores, or even different computers, to mentain different parts of de Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 
 ## Steem’s Platform Features
 

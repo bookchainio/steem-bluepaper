@@ -16,7 +16,7 @@ Token systems wey reward users as dem dey contribute to wan token-based communit
 
 ### De Rewards Pool ("Where De tokens dey come from?")
 
-Wan of the most innovative (and most misunderstood) area of the steem blockchain na the "Rewards Pool" from were token dey distribute to valuable content creators. In order to understand waiting the Rewards Pool be, person first needs to understand say tokens dey produced differently for DPoS blockchains pass if them dey PoW blockchains. For traditional PoW blockchains, tokens dey produced regularly but randomly distributed to the people wey machines dey perform work ("miners"). 
+Wan of de most innovative (and most misunderstood) area of the steem blockchain na de "Rewards Pool" from were token dey distribute to valuable content creators. In order to understand waiting the Rewards Pool be, person first needs to understand say tokens dey produced differently for DPoS blockchains pass if them dey PoW blockchains. For traditional PoW blockchains, tokens dey produced regularly but randomly distributed to the people wey machines dey perform work ("miners"). 
 
 Different from PoW-only cryptocurrencies, tokens for Steem dey generate for fixed rate of one block for every three seconds. These tokens go distribute to various actors for the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional Pow means of distribution, where miners them competing over raw computing power, the actors for the Steem network them incentivized to compete in ways wey add value to the network.
 

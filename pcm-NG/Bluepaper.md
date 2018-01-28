@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Steem dey provide wan scalable blockchain protocol[^1] for publicly accessible and immutable content, along wit wan fast and fee-less digital token (dem dey call am STEEM)[^2] wey fit make people earn de currency by using dia brain (dem fit call am "proof-of-brain"). De two building blocks wey dis protocol, both blockchain and token, depend on each oda for security, immutability and longevity, and diafor integral for each odas' existence. Steem don dey successfully operate for more than a year now, and don dey pass both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem dey provide a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (wey dem dey call STEEM)[^2] wey fit make people get de currency by using dia brain (wey dem fit call "proof-of-brain"). De two building blocks wey dey dis protocol, both blockchain and token, depend on each other for security, immutability and longevity, and and so integral for each others' existence. Steem don dey successfully operate for more dan one year now, and don pass both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to oda blockchains, Steem don stand out as de first publicly accessible database wey immutably keep content inside de form of plain text along wit in-built incentivization mechanism. This don make Steem a public publishing platform from which any internet application fit pull and share data while rewarding those wey contribute the most valuable content.
 

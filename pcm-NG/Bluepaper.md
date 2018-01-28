@@ -22,7 +22,7 @@ Different from PoW-only cryptocurrencies, tokens for Steem dey generate for fixe
 
 The rate wey new tokens dey generate them set am to 9.5% per year starting in December 2016, and reduce to the rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation go continue to dey reduce for this rate until e reach 0.95% after some period of about 20.5 years.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Of the supply of new tokens wey create by the Steem blockchain every year, 75% of those tokens compose the "rewards pool" come dey distribute to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

@@ -116,9 +116,9 @@ De Steem blockchain dey allow users to keep their STEEM and SBD tokens for savin
 
 Becus de witnesses dem pay am entierly through the generation of new tokens, no need to charge de users any fee for powering de blockchain. De only reason wey dem go charge any fee as deterrent na to prevent users from completing unreasonable amount of transactions, wey fit potentially impact de performance of de blockchain.
 
-In order to replace better limits on the system use, each user go give limited bandwidth. Wenever users perform blockchain operations like token transfer, posting content, and voting, e dey use portion of their bandwidth. If user pass their bandwidth allowance, dem must wait to do another actions until their bandwidth recharges.
+In order make dem place better limits on the system use, dem go give each user limited bandwidth. Anytime users perform blockchain operations like token transfer, posting content, and voting, e dey use portion of dia bandwidth. If user pass their bandwidth allowance, dem must wait to do another actions until their bandwidth recharges.
 
-Bandwidth limits adjust becus of network use, so users get higher bandwidth allowance wen de network usage don low. De amount wey badwidth account allow go directly proportion to de amount wey Steem Power user get, so users go fit increase their bandwidth allowance by getting another Steem Power.
+Bandwidth limits adjust cos of network use, so users get higher bandwidth allowance wen de network usage don low. De amount wey badwidth account allow go directly proportion to de amount wey Steem Power user get, so users go fit increase their bandwidth allowance by getting another Steem Power.
 
 ## Finally
 

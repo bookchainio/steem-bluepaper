@@ -96,7 +96,7 @@ De Steem blockchain dey allow authority make dem split among plenty entities, so
 
 ### Plenty Reward Beneficiaries
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+For any post we dem give there fit be different number of people wey go get financial interest for de reward. Dis wan include de author, possible co-authors, referrers, hosting providers, blogs wey embedded blockchain comments, and tool developers. Any website or tool wey dem use take construct post or comment go get de ability to set how rewards from dat comment go divided among different parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

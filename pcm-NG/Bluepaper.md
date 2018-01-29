@@ -92,9 +92,9 @@ Steem don facilitates de use of Master Password wey encrypts all de three keys. 
 
 ### Multi Sig Authorities
 
-De Steem blockchain dey allow authority make dem split among plenty entities, so that plenty users fit share de same authority, or plenty entities go need authority to do transaction for am to be valid. Dis fit happen de same way like Bitshares[^16] where each public/private key dem assigned am to weight, and one threshold na for de authority. For transaction to dey valid, enough entities must sign so dat all their weights go meet or pass de threshold.
+De Steem blockchain dey allow authority make dem split among plenty entities, so dat plenty users fit share de same authority, or plenty entities go need authority to do transaction for am to be valid. Dis fit happen de same way like Bitshares[^16] where each public/private key dem assigned am to weight, and one threshold na for de authority. For transaction to dey valid, enough entities must sign so dat all their weights go meet or pass de threshold.
 
-### Multiple Reward Beneficiaries
+### Plenty Reward Beneficiaries
 
 For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 

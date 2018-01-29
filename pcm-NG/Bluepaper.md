@@ -120,9 +120,9 @@ In order to replace better limits on the system use, each user go give limited b
 
 Bandwidth limits adjust becus of network use, so users get higher bandwidth allowance wen de network usage don low. De amount wey badwidth account allow go directly proportion to de amount wey Steem Power user get, so users go fit increase their bandwidth allowance by getting another Steem Power.
 
-## Conclusion
+## Finally
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+De unique rewards and incentive program wey Steem blockchain dey offer and token dem design am to make Steem de ultimate on-ramp into cryptocurrency for mainstream users. De performance of de blockchain dem design am with widespread mass adoption of de currency and platform in mind. If dem join am with de lightning fast processing time and fee-less transactions, Dem position Steem to becom one of de leading blockchain technologies we people dey use for all the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

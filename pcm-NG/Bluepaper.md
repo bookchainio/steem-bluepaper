@@ -110,13 +110,13 @@ If another person touch any user account, dem fit change their key if dem use th
 
 If user's active or owner key dem touch am, the person wey touch am get full access to all de money for their account. Becus blockchain transactions dey irreversible, users no get way to get their money back after dem thief am.
 
-De Steem blockchain dey allow users to keep their STEEM and SBD tokens for savings account, so dat de money no go fit withdrawn until after three days watin period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+De Steem blockchain dey allow users to keep their STEEM and SBD tokens for savings account, so dat de money no go fit withdrawn until after three days watin period. In addition, STEEM wey dem keep for 13 weeks vesting schedule fit only withdrawn for de rate of 1/13 per week, after de initial watin time of seven days. Dis time-locks prevent de thief make dem no fit access de full portion of de user's money immediately, so dat the right person go get time regain control over him account before all the money go fit withdraw.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Becus de witnesses dem pay am entierly through the generation of new tokens, no need to charge de users any fee for powering de blockchain. De only reason wey dem go charge any fee as deterrent na to prevent users from completing unreasonable amount of transactions, wey fit potentially impact de performance of de blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+In order to replace better limits on the system use, each user go give limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

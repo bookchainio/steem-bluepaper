@@ -110,7 +110,7 @@ If another person touch any user account, dem fit change their key if dem use th
 
 If user's active or owner key dem touch am, the person wey touch am get full access to all de money for their account. Becus blockchain transactions dey irreversible, users no get way to get their money back after dem thief am.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+De Steem blockchain dey allow users to keep their STEEM and SBD tokens for savings account, so dat de money no go fit withdrawn until after three days watin period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

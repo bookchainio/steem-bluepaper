@@ -104,11 +104,11 @@ Smart Media Tokens na native tokens wey dem fit build on de Steem blockchain. ST
 
 ### Recover Account Dem Thief
 
-If another person touch any user account, dem fit change their key if dem use their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+If another person touch any user account, dem fit change their key if dem use their private owner key. For de event wey person fit touch de private owner key and change de password for de account, de user get 30 days to submit de previously functional private key through Steem's industry-first account recovery process dem thief, and get control on their account. Dis fit get offer wey person or company wey provides registration services to Steem. E no dey compulsory for de registrar to give dis service to him own user, but dey available to increase de value of one register's users experience.
 
 ### Security Through Time-Locks
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+If user dey active or owner key dem touch am, the person wey touch am get full access to all de funds for their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

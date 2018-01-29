@@ -122,7 +122,7 @@ Bandwidth limits adjust becus of network use, so users get higher bandwidth allo
 
 ## Finally
 
-De unique rewards and incentive program wey Steem blockchain dey offer and token dem design am to make Steem de ultimate on-ramp into cryptocurrency for mainstream users. De performance of de blockchain dem design am with widespread mass adoption of de currency and platform in mind. If dem join am with de lightning fast processing time and fee-less transactions, Dem position Steem to becom one of de leading blockchain technologies we people dey use for all the world.
+De unique rewards and incentive program wey Steem blockchain dey offer and token dem design am to make Steem de ultimate on-ramp into cryptocurrency for mainstream users. De performance of de blockchain dem design am with widespread mass adoption of de currency and platform in mind. If dem join am with de lightning fast processing time and fee-less transactions, Dem position Steem to become one of de leading blockchain technologies wey people dey use for all the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

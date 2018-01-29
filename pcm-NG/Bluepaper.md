@@ -36,11 +36,11 @@ As e come be, Steem go only allow members to vote wit STEEM wen e go committed t
 
 ## Speed and Scale for de Steem Blockchain
 
-De Steem blockchain get design wey be wan of de fastest and plenty efficient blockchains for existence, wey dey necessary for dem to support de amount wey traffic expect or wan social media platform wey big pass the size of Reddit. Steem don already pass Bitcoin for plenty transactions, and e fit scale to support 10,000 or plenty transaction for one second.
+Dem design de Steem blockchain make e be one wey of de fastest and most efficient blockchains wey dey exist, wey dey necessary for dem to support de amount wey traffic expect or wan social media platform wey big pass the size of Reddit. Steem don already pass Bitcoin for plenty transactions, and e fit scale to support 10,000 or more transaction for one second.
 
 ### Delegated Proof of Stake (DPoS)
 
-Meny times bottlenecked wey Proof-of-Work (PoW)[^6], plenty blockchains no fit scale pass three transaction for wan second, wey be fraction of de world's financial traffic. Steem need plenty more scale and speed pass de offered wey PoW, and less known algorithm wey dem call Delegated Proof of State (DPoS)[^7] dem leverage am to lay de foundation wey blockchain complete for billions of users.
+Often dey bottlenecked wey Proof-of-Work (PoW)[^6], plenty blockchains nor fit scale pass three transaction for wan second, wey be fraction of de world's financial traffic. Steem need plenty more scale and speed pass de offered wey PoW, and less known algorithm wey dem call Delegated Proof of State (DPoS)[^7] dem leverage am to lay de foundation wey blockchain complete for billions of users.
 
 Because of DPoS, de Steem blockchain don dey generate wan new block every 3 seconds wit small computational load. Dis mean sey de blockchain fit process plenty transactions and hold plenty information, including content.
 

@@ -100,11 +100,11 @@ For any post we dem give there fit be different number of people wey go get fina
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens na native tokens wey dem fit build on de Steem blockchain. STEEM na de first SMT wey don ever exist, and de Smart Media Token protocol target to monetize content websites and applications across de web wey allow people to create tokens wey possess properties wey resemble STEEM, but customizable wey suit de vision of any online community through incentivized behaviour, essentially replicating STEEMs success to any website or application. You go fit find plenty technical details inside Smart Media Tokens whitepaper[^17].
+Smart Media Tokens na native tokens wey dem fit build on de Steem blockchain. STEEM na de first SMT wey don ever exist, and de Smart Media Token protocol target to monetize content websites and applications across de web wey allow people to create tokens wey possess properties wey resemble STEEM, but customizable wey suit de vision of any online community through incentivized behaviour, wey dey essentially replicate STEEMs success to any website or application. You go fit find plenty technical details inside de Smart Media Tokens whitepaper[^17].
 
 ### Recover Account Dem Thief
 
-If another person touch any user account, dem fit change their key if dem use their private owner key. For de event wey person fit touch de private owner key and change de password for de account, de user get 30 days to submit de previously functional private key through Steem's industry-first account recovery process dem thief, and get control on their account. Dis fit get offer wey person or company wey provides registration services to Steem. E no dey compulsory for de registrar to give dis service to him own user, but dey available to increase de value of one register's users experience.
+If anoda person touch any user account, dem fit change their key if dem use their private owner key. For de event wey person fit touch de private owner key and change de password for de account, de user get 30 days to submit de previously functional private key through Steem's industry-first account recovery process dem thief, and get control on their account. Dis fit get offer wey person or company wey provides registration services to Steem. E no dey compulsory for de registrar to give dis service to him own user, but dey available to increase de value of one register's users experience.
 
 ### Security Through Time-Locks
 

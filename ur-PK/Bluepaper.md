@@ -2,7 +2,7 @@
 
 ## تعارف
 
-سٹیم ایک بہت کشادہ بلاک چین پروٹوکول مہیا کرتی ہے [^1] اور اس کے اندر نہ ختم ہونے والا مواد ہوتا ہے جس تک ہر کوہی با آسانی رساھی حاصل کر سکتا ہے اور اس کے ساتھ ساتھ اس میں ایک تیز اور بغیر کسی فیس والا ڈیجیٹل ٹوکن بھی ہے جسے سٹیم کہا جاتا ہے [^2] اور یہ لوگوں کو دماغ استمال کر کے زر مبادلہ کمانے کا موقعح مہیا کرتا ہے ( جسے دماغ کا ثبوت کہا جاتا ہے). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+سٹیم ایک بہت کشادہ بلاک چین پروٹوکول مہیا کرتی ہے [^1] اور اس کے اندر نہ ختم ہونے والا مواد ہوتا ہے جس تک ہر کوہی با آسانی رساھی حاصل کر سکتا ہے اور اس کے ساتھ ساتھ اس میں ایک تیز اور بغیر کسی فیس والا ڈیجیٹل ٹوکن بھی ہے جسے سٹیم کہا جاتا ہے [^2] اور یہ لوگوں کو دماغ استمال کر کے زر مبادلہ کمانے کا موقعح مہیا کرتا ہے ( جسے دماغ کا ثبوت کہا جاتا ہے). اس پروٹوکول کے دو عمارت بلاکس، بلاچین اور علامتی دونوں، سیکورٹی، غیر جانبداری اور لمبی عمر کے لئے ایک دوسرے پر منحصر ہے، اور اس وجہ سے ہر ایک کے وجود کے لئے لازمی ہے. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

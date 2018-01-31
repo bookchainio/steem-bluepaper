@@ -100,7 +100,7 @@ Für jeden Post kann es eine Anzahl verschiedener Personen geben, die ein finanz
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens sind native Token, welche auf der Seem Blockchain aufgebaut werden können. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens sind native Token, welche auf der Seem Blockchain aufgebaut werden können. STEEM ist der erste SMT den es gibt, und das Smart Media Token-Protokoll zielt darauf ab, Content-Websites und Applikationen im Internet zu monetarisieren, indem es Menschen ermöglicht wird, Token, welche ähnliche Eigenschaften wie STEEM haben, zu erschaffen. Mit diesen Token ist es möglich, sich der Vision jeder Online Community durch stimuliertes Verhalten anzupassen und somit STEEMs Erfolg auf jede Website oder Applikation zu bringen. Eine detailliertere Beschreibung kann im technischen Steem Whitepaper[^17] gefunden werden.
 
 ### Wiederherstellung gestohlener Konten
 

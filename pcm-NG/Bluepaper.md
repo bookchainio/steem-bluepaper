@@ -70,7 +70,7 @@ Wallet addresses wey blockchain technologies use, like Bitcoin and Ethereum, get
 
 ### Steem Blockchain Dollars (SBD)
 
-Plenty users wey dem introduced to cryptocurrency struggle to understand how "magic internet token" awarded by de platform fit actually get real world value. In order to help bridge de gap between plenty traditional fiat money systems which mainstream users dem use to, and de crytpcurrency tokens which dem be awarded through de platform, a new currency wey dem call Steem Blockchain DOllars (SBD) been create.
+Plenty users wey dem introduced to cryptocurrency struggle to understand how "magic internet token" awarded by de platform fit actually get real world value. In order to help bridge de gap between plenty traditional fiat money systems which mainstream users dem use to, and de crytpcurrency tokens which dem be awarded through de platform, a new currency wey dem call Steem Blockchain Dollars (SBD) been create.
 
 Dem design SBD tokens to pegge closely to one USD, so dat user wey receive dem go know sey approximately how many dem worth in "real dollar" terms. SBD tokens dey also offer a relatively stable currency for users wey hold am if dem want preserve their account value relative to USD. Plenty detail technical explanation dey inside Steem technical whitepaper.[^12]
 

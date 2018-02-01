@@ -94,7 +94,7 @@ Steem don facilitates de use of Master Password wey encrypts all de three keys. 
 
 De Steem blockchain dey allow authority make dem split among plenty entities, so dat plenty users fit share de same authority, or plenty entities go need authority to do transaction for am to be valid. Dis fit happen de same way like Bitshares[^16] where each public/private key dem assigned am to weight, and one threshold na for de authority. For transaction to dey valid, enough entities must sign so dat all their weights go meet or pass de threshold.
 
-### Plenty Reward Beneficiaries
+### Multiple Reward Beneficiaries
 
 For any post we dem give there fit be different number of people wey go get financial interest for de reward. Dis wan include de author, possible co-authors, referrers, hosting providers, blogs wey embedded blockchain comments, and tool developers. Any website or tool wey dem use take construct post or comment go get de ability to set how rewards from dat comment go divided among different parties. Dis dey allow different forms of joinbody, and other ways wey platforms go fit build ontop of de Steem blockchain to collect one portion of de rewards from their users.
 
@@ -122,7 +122,7 @@ Bandwidth limits adjust cos of network use, so users get higher bandwidth allowa
 
 ## Finally
 
-De unique rewards and incentive program wey Steem blockchain dey offer and token dem design am to make Steem de ultimate on-ramp into cryptocurrency for mainstream users. De performance of de blockchain dem design am with widespread mass adoption of de currency and platform in mind. If dem join am with de lightning fast processing time and fee-less transactions, Dem position Steem to become one of de leading blockchain technologies wey people dey use for all the world.
+De unique rewards and incentive program wey Steem blockchain dey offer and token dem design am to make Steem de ultimate on-ramp into cryptocurrency for dem mainstream users. De performance of de blockchain dem design am with widespread mass adoption of de currency and platform in mind. If dem join am with de lightning fast processing time and fee-less transactions, Dem position Steem to become one of de leading blockchain technologies wey people dey use for all the world.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

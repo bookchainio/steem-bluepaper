@@ -8,9 +8,9 @@ Sammenlignet med andre blockchains, skiller Steem sig ud som den første offentl
 
 STEEMs unikke egenskaber gør kryptovalutaen både "smart" og "social" sammenlignet med andre valutaer som f. eks. bitcoin og ether. Det skyldes to nye token-funktioner. Den første er en pulje tokens, der er dedikeret til belønning for oprettelse og udvælgelse af indhold (kaldet "belønningspuljen"). Den anden er et afstemningssystem, der baseret på kollektivets vurdering, afgør værdien af indhold og fordeler tokens derefter. Kombineret, kaldes disse to unikke funktioner Proof-of-Brain, og kan ses som en videreudvikling af Proof-of-Work[^4], men med hovedvægt på menneskers arbejde, for at afgøre fordelingen af tokens til fællesskabets deltagere. Proof-of-Brain gør STEEM til et værktøj, der kan bruges til at bygge evigt voksende fællesskaber, der via den indbyggede belønningssturktur, motiverer deltagere til at tilføre værdi.
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Udover videreudvikling af blockchain- og tokenteknologi, byder Steem herudover på avancerede features, der forbedrer brugeroplevelsen, som f. eks. gendannelse af stjålne konti[^5], depot-tjenester, brugerfremhævet indhold, et omdømmesystem og opsparingskonti. Alt sammen udført på en måde, der giver brugere tre muligheder for 2. bekræftelse og uden gebyr på transaktioner. Alt sammen understøtter misionen om at bringe smart og social valuta til indholdsdistributører og fællesskabsudviklere på internettet.
 
-## Proof of Brain: Smart and Social Tokens
+## Proof of Brain: Smarte og sociale tokens
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

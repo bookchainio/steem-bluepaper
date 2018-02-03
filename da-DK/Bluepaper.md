@@ -26,7 +26,7 @@ Af alle nye tokens, Steem Blockchainen genererer hvert år, går 75 % til beløn
 
 #### Belønninger til indholdsskabere og -kuratorer
 
-Brugere, der producerer indhold, tilfører værdi til netværket ved at udarbejde materiale, der dels tiltrækker nye brugere til platformen og dels underholder og engagerer eksisterende brugere. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Brugere, der producerer indhold, tilfører værdi til netværket ved at udarbejde materiale, der dels tiltrækker nye brugere til platformen og dels underholder og engagerer eksisterende brugere. Dette bidrager til at fordele valutaen til en bredere skare af brugere og øger netværkseffekten. Brugere, der tager sig tid til at vurdere og stemme på indhold, spiller en vigtig rolle for distributionen af valutaen til de brugere, der tilføjer størst værdi. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

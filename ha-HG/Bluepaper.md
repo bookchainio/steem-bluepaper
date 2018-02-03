@@ -1,8 +1,8 @@
 ![](\headerimage.png)
 
-## Introduction
+## Gabatarwa
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+Steem na samar da wata ma'auni blockchain mai ƙaura ga ma'auni [^1] don samun damar jama'a da kuma abin da ba a iya jurewa ba, tare da wata alama ta dijital token (mai suna STEEM) [^2] wanda ke sa mutane su sami kudin ta amfani da kwakwalwarsu (abin da ake kira "hujja na ƙwaƙwalwa"). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

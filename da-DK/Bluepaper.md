@@ -20,9 +20,9 @@ Et af de mest innovative (og hyppigst misforståede) aspekter ved Steem blockcha
 
 I modsætning til PoW-baserede valutaer, genererer Steem et fast antal tokens hvert tredje sekund når en ny block skabes. Disse tokens distribueres til forskellige aktører i systemet, baseret på regler defineret i blockchainen. Aktørerne - Indholdsskabere, vidner og kuratorer - konkurrerer på specialiserede måder om disse tokens. I modsætning til måden PoW-baseret distribution foregår, hvor minere konkurrerer på rå regnekraft, tilskyndes aktører i Steem-netværket til at konkurrere på måder, der skaber værdi for netværket.
 
-Hastigheden hvormed forøgelsen af tokens sker, blev sat til 9,5 % per år fra december 2016, og hastigheden reduceres med 0,01% for hver 250.000 skabte blocks, svarende til ca. 0,5% om året. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Hastigheden hvormed forøgelsen af tokens sker, blev sat til 9,5 % per år fra december 2016, og hastigheden reduceres med 0,01% for hver 250.000 skabte blocks, svarende til ca. 0,5% om året. Inflationen reduceres i dét tempo, indtil den efter ca. 20½ år rammer 0,95 %.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Af alle nye tokens, Steem Blockchainen genererer hvert år, går 75 % til belønningspuljen, hvorfra de fordeles til indholdsskabere og -kuratorer. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

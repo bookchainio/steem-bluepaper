@@ -343,7 +343,7 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
   
   <fn name="17">
     <p>
-      Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+      स्मार्ट मीडिया टोकन श्वेतपत्र https://smt.steem.io/smt-whitepaper.pdf
     </p>
   </fn>
 </footnotes>

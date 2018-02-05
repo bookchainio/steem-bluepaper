@@ -197,11 +197,11 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  Smt देसी token है जो Steem blockchain में बनाए जा सकते हैं STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Smt देसी token है जो Steem blockchain में बनाए जा सकते हैं Steem पहला एसएमटी/SMT है और smart media token परोटोकॉल वेबसाइटों और एपलिकेषनस को संपत्ति जनक बनाने के लिए बहुत सारे लोगों को token बनाने की अनुमति देगा जो बिलकुल सीटीम के जैसा होगा जो किसी भी आंलाइण समुदाय के अनुरूप के अनुकूलन योग्य हो जो अपनी इनामी व्यवहार से सिटीम जैसी सफलता किसी भी website और application में नक़ल कर सकता हूँ अधिक तकनीकी विवरण smart media token शवेतपत्र मैं पाया जा सकता है <fnref target="17" /> |
 </p>
 
 <h3>
-  Stolen Account Recovery
+  चुराई गई खाती की वापसी
 </h3>
 
 <p>

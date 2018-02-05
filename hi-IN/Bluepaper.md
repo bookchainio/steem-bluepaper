@@ -265,25 +265,25 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
   
   <fn name="4">
     <p>
-      Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+      प्रूफ-ऑफ-वर्क । विकिपीडिया. https://en.wikipedia.org/wiki/Proof-of-work\_system
     </p>
   </fn>
   
   <fn name="5">
     <p>
-      Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+      चोरी गए खाते की वसूली Steemit.com के लिए दीक्षा उपयोगकर्ता: 07-13-2017 https://steemit.com/recover\_account\_step\_1
     </p>
   </fn>
   
   <fn name="6">
     <p>
-      Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+      Bitcoin दरिद्रता समस्या https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
     </p>
   </fn>
   
   <fn name="7">
     <p>
-      DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+      DPoS श्वेतपत्र https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
     </p>
   </fn>
   
@@ -295,49 +295,49 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
   
   <fn name="9">
     <p>
-      ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+      ChainBase release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
     </p>
   </fn>
   
   <fn name="10">
     <p>
-      Graphene Documentation http://docs.bitshares.org/
+      ग्राफीन प्रलेखन http://docs.bitshares.org/
     </p>
   </fn>
   
   <fn name="11">
     <p>
-      The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+      Steem ब्लॉकचैन फ्रेमवर्क के घटक लेनदेन प्रसंस्करण और पुरस्कार के वितरण के लिए जिंमेदार है ।
     </p>
   </fn>
   
   <fn name="12">
     <p>
-      Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+      Steem श्वेतपत्र https://steem.io/SteemWhitePaper.pdf
     </p>
   </fn>
   
   <fn name="13">
     <p>
-      Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      Bitshares विकेन्द्रीकृत Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
     </p>
   </fn>
   
   <fn name="14">
     <p>
-      Steemit.com Currency Market https://steemit.com/market
+      Steemit.com मुद्रा बजार https://steemit.com/market
     </p>
   </fn>
   
   <fn name="15">
     <p>
-      “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+      "Resteem" जब उपयोगकर्ता अपने अनुयायियों के साथ सामग्री साझा करने के लिए Steem ब्लॉकचैन में शब्द का उपयोग किया जाता है ।
     </p>
   </fn>
   
   <fn name="16">
     <p>
-      Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      Bitshares लचीली पहचान प्रबंधन http://docs.bitshares.org/\_downloads/bitshares-general.pdf
     </p>
   </fn>
   

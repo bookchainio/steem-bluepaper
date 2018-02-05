@@ -253,13 +253,13 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
   
   <fn name="2">
     <p>
-      To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+      इसे अपने ब्लॉकचैन के लिए शब् द से अंतरित करने के लिए, Steem के नेटिव डिजिटल टोकन की सही वर्तनी Steem है ।
     </p>
   </fn>
   
   <fn name="3">
     <p>
-      Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+      हस्तांतरण खंड: प्रति सेकंड रिपोर्ट हस्तांतरण । Steem ख्रिस्ती आणि युजर "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
     </p>
   </fn>
   

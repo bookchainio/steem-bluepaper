@@ -12,11 +12,11 @@ Akan waɗannan ci gaba a fasahar blockchain da fasahar token, Steem yana samar d
 
 ## Tabbatar da Kwakwalwa: Smart da Social Tokens
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Tsarin Token da aka ba masu amfani da lada yayin da suke taimakawa ga tsarin al'umma na nuna alama suna buƙatar hanyoyin da za a kafa da kuma kimanta darajar zamantakewa ta ciki: muna kira wannan "Shaidar Farfesa ko Tabbatar da Kwakwalwa."
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Rukunin Rahoton ("Daga ina ne Token yazo?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Daya daga cikin mafi mahimmanci (kuma mafi yawan rashin fahimta) bangarori na Steak blockchain shine "Rahotan Raho" daga waɗanda aka rarraba alamomin masu kirkiro masu mahimmanci. Don fahimtar abin da Rahotan Rahoton ya kasance, na farko ya kamata a fahimci cewa an samar da Token daban-daban a cikin DPoS Blockchain fiye da yadda suke a cikin yankunan PoW. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

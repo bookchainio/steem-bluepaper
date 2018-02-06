@@ -16,7 +16,7 @@ Tsarin Token da aka ba masu amfani da lada yayin da suke taimakawa ga tsarin al'
 
 ### Rukunin Rahoton ("Daga ina ne Token yazo?")
 
-Daya daga cikin mafi mahimmanci (kuma mafi yawan rashin fahimta) bangarori na Steak blockchain shine "Rahotan Raho" daga waɗanda aka rarraba alamomin masu kirkiro masu mahimmanci. Don fahimtar abin da Rahotan Rahoton ya kasance, na farko ya kamata a fahimci cewa an samar da Token daban-daban a cikin DPoS Blockchain fiye da yadda suke a cikin yankunan PoW. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Daya daga cikin mafi mahimmanci (kuma mafi yawan rashin fahimta) bangarori na Steak blockchain shine "Rahotan Raho" daga waɗanda aka rarraba alamomin masu kirkiro masu mahimmanci. Don fahimtar abin da Rahotan Rahoton ya kasance, na farko ya kamata a fahimci cewa an samar da Token daban-daban a cikin DPoS Blockchain fiye da yadda suke a cikin yankunan PoW. A cikin akwatunan gargajiya na PoW, ana nuna Token akai-akai, amma ba a rarraba su ba a kan mutanen da injunan su ke aiki ("masu hakar gwal").
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

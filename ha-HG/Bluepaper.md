@@ -10,7 +10,7 @@ A cikin filin crypto-currencies, kyawawan kaddarorin STEEM sun sa shi "mai kyau"
 
 Akan waɗannan ci gaba a fasahar blockchain da fasahar token, Steem yana samar da ƙarin siffofin da ke ci gaba don bunkasa sanin mai amfani, kamar Stolen Account Recovery [^5], sabis na ɓoye, mai amfani da abun ciki, tsarin ladabi, da asusun ajiyar kuɗi. Anyi haka ne yayin samar da masu amfani da tabbatarwa na dakika uku da kuma cire nauyin kuɗi a kan duk ma'amaloli. Duk wannan ya ba shi izini don tallafawa aikin ƙaddamar da ɗakunan kuɗi da zamantakewar al'umma ga masu wallafa da masu gini a cikin Intanet.
 
-## Proof of Brain: Smart and Social Tokens
+## Tabbatar da Kwakwalwa: Smart da Social Tokens
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

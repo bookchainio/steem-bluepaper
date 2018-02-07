@@ -26,11 +26,11 @@ Af alle nye tokens, Steem Blockchainen genererer hvert år, går 75 % til beløn
 
 #### Belønninger til indholdsskabere og -kuratorer
 
-Brugere, der producerer indhold, tilfører værdi til netværket ved at udarbejde materiale, der dels tiltrækker nye brugere til platformen og dels underholder og engagerer eksisterende brugere. Dette bidrager til at fordele valutaen til en bredere skare af brugere og øger netværkseffekten. Brugere, der tager sig tid til at vurdere og stemme på indhold, spiller en vigtig rolle for distributionen af valutaen til de brugere, der tilføjer størst værdi. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Brugere, der producerer indhold, tilfører værdi til netværket ved at udarbejde materiale, der dels tiltrækker nye brugere til platformen og dels underholder og engagerer eksisterende brugere. Dette bidrager til at fordele valutaen til en bredere skare af brugere og øger netværkseffekten. Brugere, der tager sig tid til at vurdere og stemme på indhold, spiller en vigtig rolle for distributionen af valutaen til de brugere, der tilføjer størst værdi. Blockchainen belønner begge disse aktiviteter i forhold til en værdi baseret på en vægtet vurdering af kollektivets visdom indsamlet i stemme-systemet.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Stem med satsede tokens for at afgøre tildelt belønning
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem fungerer efter et én SEEM, én stemme-princip. Med denne model har de, der har bidraget mest til platformen udmålt i saldoen på deres konto, mest indflydelse på bidrags scorer. Indsats kan købes eller tjenes. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

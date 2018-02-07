@@ -16,7 +16,7 @@
 
 ### انعامات پول ("ہہ ٹوکن کہاں سے آتے ہے؟")
 
-سٹیام بلاکچاان کے سب سے زیادہ جدید (اور سب سے زیادہ غلط فہمیاں) پہلوؤں میں سے ایک "انعامات پول" جو ٹوکن قیمتی مواد کے تخلیق کاران کو تقسیم کی جاتی ہیں ۔ In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+سٹیام بلاکچاان کے سب سے زیادہ جدید (اور سب سے زیادہ غلط فہمیاں) پہلوؤں میں سے ایک "انعامات پول" جو ٹوکن قیمتی مواد کے تخلیق کاران کو تقسیم کی جاتی ہیں ۔ انعامات پول کو سمجھنے کے لئے سب سے پہلے اس بات کو سمجانا ہوگا کہ ٹوکن مختلف ڈی ۔پی۔ او ۔ایس بلاکچینس اور پی ۔او ۔ایس بلاکچین میں پیدا ہوتے ہیں ۔ In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

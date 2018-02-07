@@ -22,11 +22,11 @@ Ya bambanta daga PoW-kawai crytocurrencies, tokens a Steem suna haifar da tsayay
 
 Rahoton da aka samar da sababbin token an saita zuwa 9.5% a kowace shekara ta fara a watan Disamba 2016, kuma ya rage a kashi na 0.01% kowane nau'i na 250,000, ko game da 0.5% kowace shekara. Rashin karuwar za ta ci gaba da raguwa a wannan lokacin har sai ta kai 0.95%, bayan kimanin shekaru 20.5.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Daga cikin samar da sababbin tokens da Steem blockchain ya samar a kowace shekara, 75% na waɗannan tokens sun tsara "ladabin lada" wanda aka rarraba ga masu kirkiro da masu abun ciki. An rarraba kashi 15% ga masu riƙe da token, kuma an rarraba kashi 10 cikin Shaidun, masu samar da shinge suna aiki tare a yarjejeniyar Steem's DMS.
 
-#### Rewards for Content Creators and Curators
+#### Kyauta ga masu kirkiro abun ciki da ƙwararru
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Masu amfani waɗanda suke samar da abun ciki suna ƙara darajar cibiyar sadarwar ta hanyar samar da kayan da zai fitar da sababbin masu amfani zuwa dandamali, da kuma kiyaye masu amfani da su a yanzu da suka shiga kuma suka yi amfani da su. Wannan yana taimakawa wajen rarraba kudin zuwa ɗayan masu amfani kuma yana ƙara haɓaka hanyar sadarwa. Masu amfani da suke amfani da lokaci don kimantawa da kuma jefa kuri'a a kan abubuwan da ke ciki suna taka muhimmiyar rawa wajen rarraba kudin ga masu amfani waɗanda suke ƙara yawan darajar. Sakamakon blockchain yana biyan duk waɗannan ayyukan game da darajar su dangane da hikimar da jama'a ke tattare da su ta hanyar tsarin zabe masu auna.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

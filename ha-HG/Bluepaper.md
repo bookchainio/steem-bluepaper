@@ -42,13 +42,13 @@ An tsara maƙasudin Steemin don kasancewa ɗaya daga cikin tsaran gaggawa da kum
 
 Sau da yawa ƙaddamar da Shaidun aiki (PoW) [^6],, yawancin blockchains ba zasu iya ƙaura fiye da ma'amaloli uku a duk dakika, wanda shine ɓangaren ƙwayar kudi na duniya. Steem na bukatar sikilen da yawa da kuma sauri fiye da abin da PoW ya bayar, sabili da haka an yi amfani da alamar ƙididdigar bayyana shaidun shawara na gungumen (DPos) [^7] don kafa harsashin ginin da aka dace don biliyoyin masu amfani.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Saboda DPoS, Steem blockchain zai iya samar da wani sabon asali a kowane dakika uku tare da ƙaddarawa na ƙima. Wannan yana nufin cewa blockchain zai iya aiwatar da karin ma'amaloli kuma rike ƙarin bayani, har da abun ciki.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Ta hanyar bayyana ka'idodin lokacin da Hardfork ke faruwa, shaidu da aka zaba a cikin tsarin DPoS zasu iya yanke shawara da sauri a kan ko za su cigaba da hardfork, don bari Steem Blockchain ta tashi fiye da sauran. Steem Blockchain ya riga ya sami nasarar saitin su 18 [^8], kuma a duk lokacin da Hardfork ya faru, sai kawai sarkar guda ya ci gaba bayan kumburi.
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase [^9] shine ɓangaren bayanai na blockchain kuma ya maye gurbin Graphene [^10] a 2016. ChainBase yana da saurin tashi da kuma fitowa, yana goyon bayan samun daidaitattun bayanai zuwa kuma ya fi karfi da hatsari fiye da wanda ya riga ya wuce. Har ila yau, yana da rashin cin hanci da rashawa na yau da kullum, yana ba da damar daukar hoto na dukkanin bayanan sirri, kuma zai iya samun ƙarin buƙatun RPC daga Kwakwalwa daya.
 
 ### AppBase
 

@@ -40,7 +40,7 @@ An tsara maƙasudin Steemin don kasancewa ɗaya daga cikin tsaran gaggawa da kum
 
 ### Bayyana Shaidun Shawara na Gungumen (DPos)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Sau da yawa ƙaddamar da Shaidun aiki (PoW) [^6],, yawancin blockchains ba zasu iya ƙaura fiye da ma'amaloli uku a duk dakika, wanda shine ɓangaren ƙwayar kudi na duniya. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

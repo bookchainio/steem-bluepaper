@@ -42,7 +42,7 @@ Steem blockchain er designet til at være en af de hurtigste og mest effektive b
 
 Det hyppige flaskehalsproblem for blockchains baseret på Proof-of-Work (PoW)[^6] er, at de ikke kan skalere til mere end 3 transaktioner i sekundet, hvilket kun udgør en brøkdel af verdenens samlede finansielle trafik. SteeM havde brug for langt større kapacitet og hastighed end man kan opnå med PoW, så en mindre kendt algoritme ved navn Delegated Proof of Stake (DPoS)[^7] blev anvendt som grundlag for en blockchain til at huse milliarder af brugere.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+På grund af DPoS, kan Steem blockchain generere en ny block hvert 3. sekund med minimal regnekraft. Det betyder at blockchainen kan behandle flere transaktioner og rumme mere information, herunder også indhold.
 
 By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 

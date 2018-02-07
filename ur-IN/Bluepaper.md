@@ -8,7 +8,7 @@
 
 کریپٹو-کرنسیوں کی دینا میں، سٹیام کی منفرد خصوصیات اسے دسروں کے مقابلے اسیے"ہوشیار" و "سماجی" بنا دیتی ہے مسلن کہ بیٹن کوین اور ایتر۔ یہ دونوں ٹوکن کی خصوصیات سے حاصل ہوتی ہے ۔ سب سے پہلے ایک پول ٹوکن وقف کرنے کا مواد تخلیق اور کوراشن کو بھٹوا دینا تھا("انعامات پول" کہا جاتا ہے) دوسرا ووٹنگ سسٹیم کو ایک مواد کا جائزہ لینے اور اسے ٹوکن کی تقسیم کرنے کا نظام ہے۔ ہہ دو انمول حصوصیات جب مل جاتی ہے تو ان کو اسنانی دماغ کا ثبوت بولا جاتا ہے جو کام کے ثبوت پر مبنی ہے«0/»٤«٠»، جس کا مقصد انسانی کام کو بڈوا دینا ہے جو لگوں میں ٹکون تقسم کرنے کا کام کرہے گے۔ دماغ کا ثبوت سٹیم کو ایک ایسا اوزار بنا دیتا ہے جو کمیونٹی کے اضافے کے لیے ان کے اراکیں کی حوصلہ افزاۂی کے تور پر ان کو اچھا انعام دیتا ہے۔
 
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+بلوککچاان اور ٹوکن ٹیکنالوجی میں یہ ترقی کے علاوہ، ایک نظام کے طور پر سٹیام جیسے چوری اکاؤنٹ وصولی [^5]، یسکرو سروسز، صارف کو فروغ دیا مواد، ایک ساکھ نظام صارف کے تجربے کو بہتر بنانے کے لئے اضافی اعلی درجے کی خصوصیات فراہم کرتا ہے، اور سیونگ اکائونٹ ۔ یہ تمام لین دین پر تین سکنڑ کا وقت دیا جاتا ہے اور بنا کسی فیس کے ساتھ صارفین کو فراہم کیا ہے ۔ All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
 
 ## کام کام کا ثبوت اسمارٹ اور اسمارٹ اور سماجی ٹوکن
 

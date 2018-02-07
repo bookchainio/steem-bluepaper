@@ -32,15 +32,15 @@ Brugere, der producerer indhold, tilfører værdi til netværket ved at udarbejd
 
 Steem fungerer efter et én SEEM, én stemme-princip. Med denne model har de, der har bidraget mest til platformen udmålt i saldoen på deres konto, mest indflydelse på bidrags scorer. Stake kan købes eller tjenes. Brugere kan ikke opnå yderligere indflydelse ved at have flere konti, eftersom en enkelt konto med en given Stake, har samme indflydelse som to konti med samme Stake tilsammen. Den eneste måde brugere kan øge deres indflydelse i platformen, er ved at øge deres Stake.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Herudover giver Steem kun medlemmer lov til at stemme med STEEM, der har været gennem en 13 ugers optjeningsperiode kaldet Steem Power. På den måde har medlemmer et økonomisk incitament til at stemme på en måde, der øger værdien af deres STEEM over en længere periode.
 
-## Speed and Scale on the Steem Blockchain
+## Hastighed og skala på Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain er designet til at være en af de hurtigste og mest effektive blockchains der findes. Det er nødvendigt for at kunne understøtte den mængde traffik, der forventes på en platform til et socialt medie, der er større end Reddit. Steem har allerede overgået Bitcoin i antal transaktioner og kan skaleres yderligere op til at klare 10.000 eller flere transkationer i sekundet.
 
 ### Delegated Proof of Stake (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Det hyppige flaskehalsproblem for blockchains baseret på Proof-of-Work (PoW)[^6] er, at de ikke kan skalere til mere end 3 transaktioner i sekundet, hvilket kun udgør en brøkdel af verdenens samlede finansielle trafik. SteeM havde brug for langt større kapacitet og hastighed end man kan opnå med PoW, så en mindre kendt algoritme ved navn Delegated Proof of Stake (DPoS)[^7] blev anvendt som grundlag for en blockchain til at huse milliarder af brugere.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

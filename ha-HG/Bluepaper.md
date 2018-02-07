@@ -28,9 +28,9 @@ Daga cikin samar da sababbin tokens da Steem blockchain ya samar a kowace shekar
 
 Masu amfani waɗanda suke samar da abun ciki suna ƙara darajar cibiyar sadarwar ta hanyar samar da kayan da zai fitar da sababbin masu amfani zuwa dandamali, da kuma kiyaye masu amfani da su a yanzu da suka shiga kuma suka yi amfani da su. Wannan yana taimakawa wajen rarraba kudin zuwa ɗayan masu amfani kuma yana ƙara haɓaka hanyar sadarwa. Masu amfani da suke amfani da lokaci don kimantawa da kuma jefa kuri'a a kan abubuwan da ke ciki suna taka muhimmiyar rawa wajen rarraba kudin ga masu amfani waɗanda suke ƙara yawan darajar. Sakamakon blockchain yana biyan duk waɗannan ayyukan game da darajar su dangane da hikimar da jama'a ke tattare da su ta hanyar tsarin zabe masu auna.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Gunawa tare da Staked-Tokens don ƙayyade rabo sakamakon
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem yana aiki ne akan STEEM daya, kuri'a ɗaya. A karkashin wannan samfurin, mutanen da suka ba da gudummawar da yawa a dandamali, kamar yadda aka auna ta wurin asusun ajiyarsu, suna da rinjaye akan yadda aka zartar da gudunmawar. Za a iya saya ko samu ladan aikin kan gungumen. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

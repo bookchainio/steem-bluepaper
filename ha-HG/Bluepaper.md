@@ -30,15 +30,15 @@ Masu amfani waɗanda suke samar da abun ciki suna ƙara darajar cibiyar sadarwar
 
 #### Gunawa tare da Staked-Tokens don ƙayyade rabo sakamakon
 
-Steem yana aiki ne akan STEEM daya, kuri'a ɗaya. A karkashin wannan samfurin, mutanen da suka ba da gudummawar da yawa a dandamali, kamar yadda aka auna ta wurin asusun ajiyarsu, suna da rinjaye akan yadda aka zartar da gudunmawar. Za a iya saya ko samu ladan aikin kan gungumen. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem yana aiki ne akan STEEM daya, kuri'a ɗaya. A karkashin wannan samfurin, mutanen da suka ba da gudummawar da yawa a dandamali, kamar yadda aka auna ta wurin asusun ajiyarsu, suna da rinjaye akan yadda aka zartar da gudunmawar. Za a iya saya ko samu ladan aikin kan gungumen. Masu amfani baza su iya samun ƙarin tasiri ta hanyar mallakan asusun ajiya ba, tun da guda ɗaya asusun tare da adadin gungumen azaba yana da irin wannan tasiri a matsayin asusun biyu daban-daban da ke raba adadin gungumen. Hanyar da masu amfani zasu iya ƙara haɓaka a cikin dandamali shine ƙara yawan gungumen su.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Kuma, tsarin kawai yana bawa 'yan ƙasa kuri'a tare da STEEM idan aka yi aiki da sati na 13 wanda ake kira Steem Power. A karkashin wannan ƙirar, mambobi suna da ƙarfin kudi don yin zabe a hanyar da ta ƙayyade tsawon lokaci na STEEM.
 
-## Speed and Scale on the Steem Blockchain
+## Gudu da sikelin a kan Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+An tsara maƙasudin Steemin don kasancewa ɗaya daga cikin tsaran gaggawa da kuma mafi kyau, wanda wajibi ne don ya iya tallafawa yawan adadin da aka sa ran a dandalin kafofin watsa labarun ya fi girman Reddit. Steem ya riga ya wuce Bitcoin a yawan ma'amaloli, kuma yana iya ƙaddamar da tallafin tallace-tallace 10,000 ko fiye da dakika.
 
-### Delegated Proof of Stake (DPoS)
+### Bayyana Shaidun Shawara na Gungumen (DPos)
 
 Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 

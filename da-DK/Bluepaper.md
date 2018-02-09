@@ -36,11 +36,11 @@ Herudover giver Steem kun medlemmer lov til at stemme med STEEM, der har været 
 
 ## Hastighed og skala på Steem Blockchain
 
-Steem blockchain er designet til at være en af de hurtigste og mest effektive blockchains der findes. Det er nødvendigt for at kunne understøtte den mængde traffik, der forventes på en platform til et socialt medie, der er større end Reddit. Steem har allerede overgået Bitcoin i antal transaktioner og kan skaleres yderligere op til at klare 10.000 eller flere transkationer i sekundet.
+Steem blockchain er designet til at være en af de hurtigste og mest effektive blockchains der findes. Det er nødvendigt for at kunne understøtte den mængde trafik, der forventes på en platform til et socialt medie, der er større end Reddit. Steem har allerede overgået Bitcoin i antal transaktioner og kan skaleres yderligere op til at klare 10.000 eller flere transaktioner i sekundet.
 
 ### Delegated Proof of Stake (DPoS)
 
-Det hyppige flaskehalsproblem for blockchains baseret på Proof-of-Work (PoW)[^6] er, at de ikke kan skalere til mere end 3 transaktioner i sekundet, hvilket kun udgør en brøkdel af verdenens samlede finansielle trafik. SteeM havde brug for langt større kapacitet og hastighed end man kan opnå med PoW, så en mindre kendt algoritme ved navn Delegated Proof of Stake (DPoS)[^7] blev anvendt som grundlag for en blockchain til at huse milliarder af brugere.
+Det hyppige flaskehalsproblem for blockchains baseret på Proof-of-Work (PoW)[^6] er, at de ikke kan skalere til mere end 3 transaktioner i sekundet, hvilket kun udgør en brøkdel af verdenens samlede finansielle trafik. Steem havde brug for langt større kapacitet og hastighed end man kan opnå med PoW, så en mindre kendt algoritme ved navn Delegated Proof of Stake (DPoS)[^7] blev anvendt som grundlag for en blockchain til at huse milliarder af brugere.
 
 På grund af DPoS, kan Steem blockchain generere en ny block hvert 3. sekund med minimal regnekraft. Det betyder at blockchainen kan behandle flere transaktioner og rumme mere information, herunder også indhold.
 

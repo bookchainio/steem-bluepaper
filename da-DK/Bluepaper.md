@@ -44,7 +44,7 @@ Det hyppige flaskehalsproblem for blockchains baseret på Proof-of-Work (PoW)[^6
 
 På grund af DPoS, kan Steem blockchain generere en ny block hvert 3. sekund med minimal regnekraft. Det betyder at blockchainen kan behandle flere transaktioner og rumme mere information, herunder også indhold.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Ved at definere reglerne for hvornår en hard fork sker, kan vidnerne valgt af DPoS-netværket hurtigt og effektivt beslutte hvorvidt man skal gå videre med den foreslåede hard fork. Derfor udvikler Steem blockchain sig hurtigere end mange andre. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

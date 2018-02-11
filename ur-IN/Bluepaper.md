@@ -18,7 +18,7 @@
 
 سٹیام بلاکچاان کے سب سے زیادہ جدید (اور سب سے زیادہ غلط فہمیاں) پہلوؤں میں سے ایک "انعامات پول" جو ٹوکن قیمتی مواد کے تخلیق کاران کو تقسیم کی جاتی ہیں ۔ انعامات پول کو سمجھنے کے لئے سب سے پہلے اس بات کو سمجانا ہوگا کہ ٹوکن مختلف ڈی ۔پی۔ او ۔ایس بلاکچینس اور پی ۔او ۔ایس بلاکچین میں پیدا ہوتے ہیں ۔ ار یو آئی ڈی بلوک تشین میں ٹوکن باقاعدگی سے مگر بےترتیب ان لوگوں میں تقسیم کیے جاتے ہیں جو مشینوں پر کام کرتے ہیں۔(مینریس)
 
-پی اوپی او ڈبلیو سے مختلف کرپٹوکرپٹو کرنسیز ،ٹو کنز سٹیم میں ایک مقررہ رفطار پر پیدہ کیے جاتے ہے جوکہ ایک بلاک پرتی سکنٹ کی رفطار سے پیدہ ہوتے ہے۔ یہ ٹوکن بلاکچاان کی تعریف شدہ قواعد پر مبنی نظام میں مختلف اداکاروں کو تقسیم حاصل کریں ۔ These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+پی اوپی او ڈبلیو سے مختلف کرپٹوکرپٹو کرنسیز ،ٹو کنز سٹیم میں ایک مقررہ رفطار پر پیدہ کیے جاتے ہے جوکہ ایک بلاک پرتی سکنٹ کی رفطار سے پیدہ ہوتے ہے۔ یہ ٹوکن بلاکچاان کی تعریف شدہ قواعد پر مبنی نظام میں مختلف اداکاروں کو تقسیم حاصل کریں ۔ ان اداکار، جیسے مواد تخلیق کار، گواہ، اور مہتمم، ٹوکن کے لئے خصوصی طریقے سے مقابلہ کرتے ہیں. تقسیم کے روایتی پووا کے برعکس، جہاں خام مال خام کمپیوٹنگ طاقت پر مقابلہ کررہے ہیں،
 
 The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 

@@ -30,7 +30,7 @@
 
 #### Staked-ٹوکن انعامات کے تعین کرنے کے ساتھ ووٹنگ
 
-سٹیام ایک ووٹ ایک سٹیام کی پالیسی پر عمل پیرا ہے ۔. اس ماڈل کے تحت وہ افراد جنہوں نے پلیٹ فارم کو کافی امداد کیا ہو، جسے ان کے اکاونٹ میں جمع رقم سے ناپا جاتا ہے، امداد پر ان کا سب سے زیادہ اثر رہتا ہے. داؤ خریدا یا کمایا جا سکتا ہے۔ Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+سٹیام ایک ووٹ ایک سٹیام کی پالیسی پر عمل پیرا ہے ۔. اس ماڈل کے تحت وہ افراد جنہوں نے پلیٹ فارم کو کافی امداد کیا ہو، جسے ان کے اکاونٹ میں جمع رقم سے ناپا جاتا ہے، امداد پر ان کا سب سے زیادہ اثر رہتا ہے. داؤ خریدا یا کمایا جا سکتا ہے۔ اہک سے زہدہ اکونٹ رکھنے سے آپ کا سٹیماٹ پر دباو نہی بن سکتا بلکہ ایک ہی اکونٹ سے بھی آپ بہت کما سکتے ہو ۔ جو آپ دو اکونٹ میں کما سکتے ہو بہتر ہے کہ وہ آپ وی سے کماو۔ The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

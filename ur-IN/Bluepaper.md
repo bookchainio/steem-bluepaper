@@ -20,7 +20,7 @@
 
 پی اوپی او ڈبلیو سے مختلف کرپٹوکرپٹو کرنسیز ،ٹو کنز سٹیم میں ایک مقررہ رفطار پر پیدہ کیے جاتے ہے جوکہ ایک بلاک پرتی سکنٹ کی رفطار سے پیدہ ہوتے ہے۔ یہ ٹوکن بلاکچاان کی تعریف شدہ قواعد پر مبنی نظام میں مختلف اداکاروں کو تقسیم حاصل کریں ۔ ان اداکار، جیسے مواد تخلیق کار، گواہ، اور مہتمم، ٹوکن کے لئے خصوصی طریقے سے مقابلہ کرتے ہیں. تقسیم کے روایتی پووا کے برعکس، جہاں خام مال خام کمپیوٹنگ طاقت پر مقابلہ کررہے ہیں،
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+نئے ٹوکن پیدا ہونے کی رفتار 9.5 فیصد شرح ہر سال جو دسمبر 2016 سے شروع ہو رہی ہے, اور 0.01 فیصد کی شرح پر ہر 250،000 بلاک یا 0.5 فیصد سالانہ کمی ہو سکتی ہے۔ The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

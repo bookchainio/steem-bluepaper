@@ -32,9 +32,9 @@
 
 سٹیام ایک ووٹ ایک سٹیام کی پالیسی پر عمل پیرا ہے ۔. اس ماڈل کے تحت وہ افراد جنہوں نے پلیٹ فارم کو کافی امداد کیا ہو، جسے ان کے اکاونٹ میں جمع رقم سے ناپا جاتا ہے، امداد پر ان کا سب سے زیادہ اثر رہتا ہے. داؤ خریدا یا کمایا جا سکتا ہے۔ اہک سے زہدہ اکونٹ رکھنے سے آپ کا سٹیماٹ پر دباو نہی بن سکتا بلکہ ایک ہی اکونٹ سے بھی آپ بہت کما سکتے ہو ۔ جو آپ دو اکونٹ میں کما سکتے ہو بہتر ہے کہ وہ آپ وی سے کماو۔ یوزرز کو بس ایک ہی ترکہ ہے پلٹےفورم پر اپنا اثر بڑھنے کے لیے وہ ہے پیسے ۔۔
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+علاوہ ازیں، سٹیم اپنے ممبران کو ایک مخصوص شڈول کے اندر ووٹ کرنے کی اجازت دیتے ہے جس کے اندر آپ کو 13 ہفتے کے ویسٹنگ شڑیل جس کو سٹیم پور کیتے ہے ۔ اس ماڈل کے تحت، ممبران کو ووٹ کرنے کے لیے مالی مراعات اس انداز سے دینی ہوتی ہے جو طویل مدت میں سٹیم کی قیمت کو بڈھاتا ہے.
 
-## Speed and Scale on the Steem Blockchain
+## رفتار اور پیمانے پر سٹیام بلوکچاان۔۔
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

@@ -96,33 +96,33 @@ Tsarin maɓallin Steem yana ba da izini a rarraba a tsakanin mahallin, don masu 
 
 ### Ma'aikata Masu Aminci Mai Yawa
 
-Ga kowane sakon da aka samu akwai wasu mutane da dama waɗanda ke da sha'awa a cikin lada. Wannan ya hada da marubucin, masu marubuta masu yiwuwa, masu kallo, masu samar da kayan yanar gizon, shafukan yanar gizo waɗanda suka hada da abubuwan da aka sanya blockchain, da masu kayan aiki. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Ga kowane sakon da aka samu akwai wasu mutane da dama waɗanda ke da sha'awa a cikin lada. Wannan ya hada da marubucin, masu marubuta masu yiwuwa, masu kallo, masu samar da kayan yanar gizon, shafukan yanar gizo waɗanda suka hada da abubuwan da aka sanya blockchain, da masu kayan aiki. Duk abin da shafin yanar gizon ko kayan aiki da ake amfani dashi don gina wani matsayi ko sharhi za su sami ikon tsara yadda za a sami sakamako daga wannan sharhin tsakanin jam'iyyun daban daban. Wannan yana ba da dama ga nau'o'in haɗin gwiwar, da kuma hanya don dandamali da aka gina a saman kango na Steem blockchain don tattara wani ɓangare na sakamako daga masu amfani da su.
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Kaifin baki na Kafofin Tokens su ne tokens na asali wanda za a iya gina a kan Steem blockchain. STEEM shine SMT na farko da ya kasance har abada, kuma yarjejeniyar kaifin baki na kafofin Token na nufin ƙaddamar da shafukan intanet da kuma aikace-aikacen a yanar gizo ta hanyar barin mutane su ƙirƙira tokens da ke da mallaka irin su STEEM, amma al'ada don dacewa da hangen nesa na kowane layi ta hanyar karfafawa hali, maida martani ga STEEM nasara ga kowane shafin yanar gizon ko aikace-aikacen. Za a iya samuwa karin fasaha a cikin Smart Media Samun whitepaper [^17].
 
-### Stolen Account Recovery
+### Yanda za'a dawo da asusun da aka sata
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Idan ana amfani da asusun wani, za'a iya canza maɓallan su ta amfani da maɓallin mai mallakar su. Idan mai haɓaka ya iya daidaitawa maɓallin mai zaman kansa da kuma canza kalmar sirri a kan asusun, mai asusun yana da kwanaki talatin don mika wani maɓalli ta hanyar kamfanin Steem - farko da aka dawo da asusu na, kuma samu karfi akan asusun su. Za'a iya bayar da shi daga mutum ko kamfanin da ke bayar da sabis na rijista zuwa Steem. Bai zama wajibi ga mai rejista don samar da wannan sabis ɗin ga masu amfani da shi ba, amma yana samuwa don ƙara yawan darajar mai amfani na mai rejista.
 
-### Security Through Time-Locks
+### Tsaro ta hanyar Kulle-lokaci
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Idan an sata maɓallin mai amfani, mai haɗari zai sami cikakken damar yin amfani da duk kuɗin a cikin asusunsu. Saboda ma'amaloli na banki ba su da kwarewa, masu amfani ba su da hanyar samun kudadensu bayan an sace su.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Tsarin na Steem blockchain yana bawa damar yin adana STEEM da SBD token a cikin asusun ajiyar kuɗi, don kada a cire kuɗin har sai bayan kwana uku na jira. Kuma, STEEM da aka gudanar a cikin sati na mako 13 yana iya janyewa ne kawai a cikin rabi na 1/13 a kowace mako, bayan an fara jiran lokacin bakwai. Wadannan kulle-lokaci sun hana wani mai haɗari don samun damar samun cikakken kashi na kudaden mai amfani nan da nan, don haka mai mallaki na da lokacin da zai sake sarrafawa akan asusun su kafin a iya janye kudaden su.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Saboda ana biya bashin da aka ba da shaida ta hanyar samar da sababbin token, babu buƙatar cajin masu amfani da kudin da za su yi amfani da shi akan tura blockchain. Dalilin da ya sa ya cajin kuɗin zai zama abin ƙyama don hana masu amfani da su ƙarewar ma'amala marar kyau, wanda zai iya tasiri blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Domin yin iyakacin akan amfani da tsarin, ana ba kowane mai amfani da iyakar bandwidth. A duk lokacin da masu amfani ke gudanar da ayyukan blockchain kamar su ƙaddamar da alamar, aikawa da abun ciki, da kuma jefa kuri'a, yana amfani da wani ɓangare na bandwidth din su. Idan mai amfani ya wuce adadin bandwidth din su, dole ne su yi jira don yin wasu ayyuka har sai da sake yin amfani da bandwidth.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Ƙunƙwasawa bandwidth yana ƙayyade daidaituwa bisa ga amfani da cibiyar sadarwa, saboda haka masu amfani suna da karfin haɗin bandwidth mafi girma lokacin da amfani da cibiyar sadarwa ya ƙasaita. Yawan adadin bandwidth da aka bada asusun yana dacewa daidai da yawan ƙarfin Steem wanda mai amfani yana da, don haka masu amfani zasu iya ƙara yawan kyautar bandwidth ta hanyar samun ƙarin ƙarfin Steem.
 
-## Conclusion
+## Kammalawa
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Kayan aikin da aka ba da kyautar da aka samar da Steem blockchain da token an tsara su ne don sanya Steem mafi girma a cikin ƙuƙwalwa don masu amfani da su. An tsara aikin na blockchain tare da yaduwar yawan tallafin kudin da kuma dandamali. Lokacin da aka haɗu tare da saurin tafiyar, saurin walƙiya da kuma ma'amala na kasa-da-kasa, an saita Steem don zama ɗaya daga cikin manyan fasaha na blockchain da mutane ke amfani da su a duniya.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

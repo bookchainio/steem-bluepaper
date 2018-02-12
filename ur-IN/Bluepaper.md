@@ -26,9 +26,9 @@
 
 #### انعامات برائے مواد کے تخلیق کاران اور مجسّمہ
 
-وہ لوگ جو مواد خود پیدا کرتے ہے وہ نیٹورق کی شاں اور ثوقت میں اضافہ کر کے نایےلوگوں کو خیچ لاتے ہے اور پرانے ہوزرس کو بھی ہساہے اور بنایے رکھتے ہے۔ یہ کرنسی کو محتلف صارفین میں تقسیم کرنے میں مدد کرتا ہے اور اس نیٹ ورک کے اثر کو ھی بڑھاتا ہے ۔ The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+وہ لوگ جو مواد خود پیدا کرتے ہے وہ نیٹورق کی شاں اور ثوقت میں اضافہ کر کے نایےلوگوں کو خیچ لاتے ہے اور پرانے ہوزرس کو بھی ہساہے اور بنایے رکھتے ہے۔ یہ کرنسی کو محتلف صارفین میں تقسیم کرنے میں مدد کرتا ہے اور اس نیٹ ورک کے اثر کو ھی بڑھاتا ہے ۔ جو لوگ آپ کو سمجامے اور ویٹ کنے میں وقت لگاتے ہے وہ کرنسی کو ان لوگوں میں برابر تقسیم کنے میں بہت اچھا کردار ادا کرتے ہے۔ بلاکچاان دونوں داؤ پلڑا ووٹنگ سسٹم کے ذریعے جمع کی گئی وہ ہجوم کے اجتماعی حکمت پر مبنی ان کی قدر، بہ نسبت ان سرگرمیوں کو بدلہ دے رہے ہیں ۔
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Staked-ٹوکن انعامات کے تعین کرنے کے ساتھ ووٹنگ
 
 Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 

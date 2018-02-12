@@ -88,15 +88,15 @@ Steem yana amfani da tsarin farko na masu zaman kansu na musamman don tsara mats
 
 Waɗannan maɓallan masu zaman kansu shine Aika, Mai aiki da Mai mallakar. Maballin bayanan yana ba da damar adana bayanan, aikawa, gyara, jefa kuri'a, resteem [^15], kuma biyo da rufe sauran asusun. Maɓallin aiki yana nufi ne don ƙarin ayyuka mai mahimmanci irin su canja wurin kudi, haɗakarwa ta sama / ƙasa, musayar Steem Dollars, jefa kuri'a ga masu shaida, ajiye umarni na kasuwanni, da sake saita maɓallin aikawa. Ana amfani da Maɓallin mai mahimmanci idan ya cancanta. Yana da mahimmin iko saboda yana iya canja kowane maɓalli na asusun, ciki har da maɓallin mai shi, da kuma tabbatar da ikon mallakar lokacin da aka dawo da Asusu. Kusan yana nufi don adanawa a waje, kuma ana amfani dashi lokacin da makullin asusun ke buƙatar canzawa ko don sake dawo da asusun ajiya.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem yana taimakawa wajen amfani da Kalmar Jagora wanda ke ɓoye kowane makullin guda uku. Webservices iya amfani da Kalmar Jagora da ta ƙaddara da alamu tare da maɓallin keɓaɓɓen masu amfani. Kalmomin sirri na iya ƙyale masu amfani su amince da wasu ayyuka don kiyaye maɓallin ƙyama daga canjawa wuri a ko'ina kowane sabobin, saboda haka kara haɓaka kwarewa ta mai amfani yayin riƙe da yanayin haɗin shiga na abokin ciniki mai aminci.
 
-### Multi Sig Authorities
+### Hukumomin Multi Sig
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Tsarin maɓallin Steem yana ba da izini a rarraba a tsakanin mahallin, don masu amfani masu yawa su iya raba wannan ikon, ko kuma ana buƙatar mahalli masu yawa don ba da izini a ma'amala don ya kasance mai inganci. Anyi haka ne a cikin hanyar Bitshares [^16] inda aka sanya nau'ikan maɓalli na sirri / masu zaman kansu nauyi, kuma an ƙayyade ƙofa don ikon. Domin ma'amala ta kasance mai inganci, ƙungiyoyi masu yawa dole su shiga don a cika yawan ma'aunin su ko ya wuce kofar.
 
-### Multiple Reward Beneficiaries
+### Ma'aikata Masu Aminci Mai Yawa
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Ga kowane sakon da aka samu akwai wasu mutane da dama waɗanda ke da sha'awa a cikin lada. Wannan ya hada da marubucin, masu marubuta masu yiwuwa, masu kallo, masu samar da kayan yanar gizon, shafukan yanar gizo waɗanda suka hada da abubuwan da aka sanya blockchain, da masu kayan aiki. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

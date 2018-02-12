@@ -52,31 +52,31 @@ ChainBase [^9] shine ɓangaren bayanai na blockchain kuma ya maye gurbin Graphen
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase shine mataki na farko a ƙirƙirar FABRIC mai yawa. AppBase yana sa yawancin abubuwan da aka gyara na Steem blockchain su zama masu layi ta hanyar samar da wasu ƙididdigar ba tare da wata yarjejeniya ba kamar yadda aka sanya su. Wadannan plugins za a iya sabuntawa da sauri saboda ba su buƙatar sake sauke dukan blockchain ba. Wannan ya sa steemd [^11] ya fi dacewa da sauƙi don kula da kuma sikelin.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Kodayake magana, AppBase yana sa nau'i daban-daban, ko ma daban-daban kwamfuta, don kula da ɓangarori daban-daban na tsarin Steem Blockchain. Buƙatar kowane nau'i, kuma kowace kwamfuta a cikin cibiyar sadarwa tana kula da dukan blockchain. Yin gyare-gyare na blockchain yana ba shi damar amfani da nauyin yanayin kwanfuta. Wannan wani mataki ne mai muhimmanci a cikin tsari mai tsawo na ƙirƙirar cikakken daidaituwa, cikakke fasalin blockchain.
 
-## Steem’s Platform Features
+## Yanayin Platform na Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain din yana aiki ne da dalili na biyu na kasancewa tsarin sarrafawa na dijital token, da kuma dandamali na kafofin watsa labarun. Ayyukan da blockchain ke buƙatar yana buƙatar tallafawa manufofin, da kuma samar da masu amfani da kwarewar duniya a yayin amfani da bangarori biyu na dandamali.
 
-### Primitives Designed for Content Applications
+### Abubuwan Da aka Shirya don Shirya Aikace-aikacen
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem yana ba masu amfani damar da za su iya bugawa da kuma adana nau'oin ƙunshiyoyi daban-daban kai tsaye da kuma har abada a cikin rubutun da ba a iya ɗauka ba daga cikin blockchain a matsayin rubutu. Da zarar an adana a cikin blockchain, ana samun bayanai a fili don masu ci gaba don gini daga cikin. Masu tsarawa suna iya yin hulɗa tare da abun ciki kai tsaye a cikin blockchain ta amfani da APIs mai samuwa. Da dama daga cikin masu cigaba na asali na ƙauƙasasshe na iya ginawa daga sun hada da Sunan Lambobi, Ayyuka, sharhi, zabe da kuma lisaffi asusun.
 
-### Native Name System
+### Sunan Yankin
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Adireshin takalma da yawancin fasahohin blockchain suke amfani da su, irin su Bitcoin da Ethereum, sun kasance da tarihin haruffan da lambobi, duk da haka, waɗannan adireshin walat na iya sa ya yi wuyar yin hulɗa tare da sauran masu amfani a cikin layi ta hanyar yanar-gizon saboda masu amfani ba su iya tunawa da adiresoshin tsararru daga ƙwaƙwalwar. Steem blockchain yana amfani da sunan mai amfani a matsayin adireshin walat, wanda ke ƙarfafa kwarewar mai amfani don mahalarta waɗanda suke ƙoƙarin aika da alamu saboda suna iya tabbatar da adiresoshin daga ƙwaƙwalwar kansu.
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Yawancin masu amfani waɗanda aka gabatar da su cikin crytocurrency don yin ƙoƙari su fahimci yadda "sakon yanar gizo na sihiri" da aka ba su ta hanyar dandamali na iya samun ainihin darajar duniya. Don taimakawa wajen haɓaka rata tsakanin tsarin kuɗi na yau da kullum da ake amfani da su, da kuma crytocurrency tokens da aka ba su ta hanyar dandalin, an kirkiro wani sabon waje da ake kira Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+An tsara token na SBD don a haɗa su da USD, don haka masu amfani waɗanda suka karbi su zasu iya sanin kusan su suna da daraja a matsayin " asalin dollar". Token na SPD na bayar da kyauta na kudin don masu amfani su riƙe idan suna neman adana asusun ajiyar kuɗin da suka danganci USD. Za a iya samun cikakken bayani game da fasaha a cikin takardar shaidar fasaha na Steem.[^12]
 
-### Decentralized Exchange
+### Rarrabewa Musayar
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Takaddun shaida na Steem yana bayar da musayar rarraba, kamar musayar Bitshares.[^13] Wannan musayar yana ba wa masu amfani damar sayen token na STEEM da SBD ta hanyar kasuwancin ƙwararrun jama'a. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

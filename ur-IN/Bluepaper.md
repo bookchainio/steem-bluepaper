@@ -36,7 +36,7 @@
 
 ## رفتار اور پیمانے پر سٹیام بلوکچاان۔۔
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+سٹیم بلوککچین کو ایسا اس لیے بنایا گیا ہے تاکہ یہ دنیا کی سب سے تیزترین اور موثر بلاکچین ہو جس میں یہ کابلہت ہو کہ وہ ویبسٹ پر reddit سے زیدہ یوزرز کو برداشت کر سکے۔۔ سٹیم نیے بٹکوین کو لین دین کے معملے میں پیچے چھوٹا ہے اور اس کو ایسا بنایا گیا ہے تاکہ ہہ 10000 لین دین ہر سکنٹ کی رفتار سے کام کرے گا۔
 
 ### Delegated Proof of Stake (DPoS)
 

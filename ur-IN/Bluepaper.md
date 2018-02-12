@@ -22,7 +22,7 @@
 
 نئے ٹوکن پیدا ہونے کی رفتار 9.5 فیصد شرح ہر سال جو دسمبر 2016 سے شروع ہو رہی ہے, اور 0.01 فیصد کی شرح پر ہر 250،000 بلاک یا 0.5 فیصد سالانہ کمی ہو سکتی ہے۔ افراط زر کی شرح یہ تقریباً 20.5 سال کی مدت کے بعد 0.95 فیصد تک پہنچ جاتا ہے یہاں تک کہ اس کی شرح میں کمی جاری رکھیں گی۔
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+سٹیام بلوککچاان کی طرف سے ہر سال پیدا کیے جاتے ہے۔ان ٹوکن کی 75 فیصد "مواد کے تخلیق کاران اور مواد کیوریٹرز میں انعامات کے تور پر تقسیم کیے جاتے ہے۔ 15 فیصد ٹوکن مقرر کردہ لوگوں اور 10 فیصد گواہوں(وڑنس) ، بلاکچان کے پیدہ کرنے والے جو سٹیم کے اندر ڑی پی او ایس پوٹاکال لوگوں میں تقسیم کیے جاتے ہے۔ 
 
 #### Rewards for Content Creators and Curators
 

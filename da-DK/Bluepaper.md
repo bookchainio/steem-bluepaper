@@ -52,13 +52,13 @@ Chainbase[^9] er databasedelen af blockchain stack'en og den som erstattede Grap
 
 ### AppBase
 
-AppBase er første led i oprettelsen af en multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase er første led i oprettelsen af en multi-chain FABRIC. AppBase gør det muligt at komponenter i Steem blockchain bliver modulære ved at oprette flere ikke-konsensus blockchains som dedikerede plugins. Disse plugins kan opdateres meget hurtigere fordi de ikke kræver at hele blockchain'en gennemgås. Det gør steemd[^11] langt mere effektiv og enkel at vedligeholde og skalere.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+I praksis gør AppBase det muligt at have forskellige kerner eller sågar forskellige computere, til at vedligeholde forskellige dele af Steem blockchain. Det er markant mere effektivt end at kræve at hver kerne og hver computer i hele netværket skal vedligeholde hele blockchain'en. Modulopbygning af blockchain'en gør det muligt at drage fuld nytte af computeres modulære opbygning. Det er et nødvendigt skridt på den lange vej til at bygge en fuldt parallel og fuldt optimeret blockchain.
 
-## Steem’s Platform Features
+## Steems platformfunktioner
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain tjener to formål ved både at være et system til behandling af digitale tokens og samtidig være en platform for et mainstream socialt medie. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

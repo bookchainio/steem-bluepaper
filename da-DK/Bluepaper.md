@@ -72,11 +72,11 @@ Wallet-adresser, der bruges af mange blockchain-teknologier som f. eks. Bitcoin 
 
 Mange brugere, der introduceres til kryptovaluta kæmper med at forstå hvordan "magiske internet tokens" uddelt fra platformen faktisk kan have en reel værdi i den virkelige verden. For at hjælpe med at bygge bro mellem de almindelige pengesystemer. som alle kender til og til kryptovalutaers tokens som tildeles af platformen, introduceredes en ny valuta, der kaldes Steem Blockchain Dollars (SBD).
 
-SBD tokens are designet til at holde sig tæt til dollarkursen så brugere der modtager dem, nogenlunde ved, hvor meget de er værd i almindelige amerikanske dollars. SBD tokens er også en relativt stabil valuta for brugere at beholde, hvis de ønsker at holde kontoværdien relativt til USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokens are designet til at holde sig tæt til dollarkursen så brugere der modtager dem, nogenlunde ved, hvor meget de er værd i almindelige amerikanske dollars. SBD tokens er også en relativt stabil valuta for brugere at beholde, hvis de ønsker at holde kontoværdien relativt til USD. En mere detaljeret teknisk forklaring findes i Steems tekniske whitepaper.[^12]
 
-### Decentralized Exchange
+### Decentraliseret Exchange
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchainen tilbyder en decentraliseret token-exchange, svarende til Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 
 ### Payments Through Escrow
 

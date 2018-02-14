@@ -76,9 +76,9 @@ SBD tokens are designet til at holde sig tæt til dollarkursen så brugere der m
 
 ### Decentraliseret Exchange
 
-Steem blockchainen tilbyder en decentraliseret token-exchange, svarende til Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchainen tilbyder en decentraliseret token-exchange, svarende til Bitshares exchange.[^13] Exchange'en giver brugere mulighed for at handle deres STEEM og SBD-tokens gennem et offentligt, decentraliseret peer-to-peer marked. Brugere kan lægge købs- og salgsordrer, og ordrematch udføres automatisk af blockchain'en. Der er også en offentligt tilgængelig ordrebog og ordrehistorik, som brugere kan anvende til at analysere markedet. Brugere kan interagere direkte med exchange'en via blockchain-API'et, eller via en grafisk brugerflade som f.eks. på Steemit.com.[^14]
 
-### Payments Through Escrow
+### Betalinger Via Depot
 
 The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 

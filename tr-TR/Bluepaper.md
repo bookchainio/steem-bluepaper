@@ -34,7 +34,7 @@ Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap ba
 
 Buna ek olarak, Steem kullanicilarina sadece Steem Power olarak adlandirilan 13 haftaligina temlik edilmis STEEM ile oylama hakki sunar. Bu model altinda, kullanicilar kendi STEEM'lerinin uzun vadeli degerini azami seviyeye cikartacak sekilde oylama yapma konusunda finansal insiyatife sahiptir.
 
-## Steem Blockchain'inde Hiz ve Ölcek
+## Steem Blockchain'inde Hız ve Ölçek
 
 Steem Blockchain'i halihazirda mevcut olan blockchainler arasinda en hizli ve en islevsel olanlarindan birisi olmak icin tasarlanmistir ki bu da Reddit büyüklügünden daha büyük olan bir sosyal medya platformundan beklenecek trafigi destekleyebilmek icin elzemdir. Steem yapilan islem sayisi bakimindan, daha simdiden, Bitcoin'i asmistir ve saniye basina 10,000 islem olceginde destek sunabilmeye muktedirdir.
 
@@ -60,7 +60,7 @@ Fiili olarak, AppBase bircok farkli cekirdegin, ve hatta bircok farkli bilgisaya
 
 Steem Blockchain'i ana akim sosyal medya platformu olmanin yani sira bir dijital token isleme sistemi olmasi yonuyle de cifte amaca cevap verir. Blockchain tarafindan sunulan bu özellikler iki amaci da karsilamali ve kullanicilara platformun bu iki ozelligini de kullanirken dunya capinda bir deneyim sunmalidir.
 
-### Icerik Uygulamalari Icin Tasarlanmis Temel
+### İçerik Uygulamalaru İçin Tasarlanmış Temel
 
 Steem kullanicilara cesitli türlerde icerigi dogrudan ve kalici bir sekilde düz metin olarak blockchainin degistirilemez arsivinde paylasma ve orada kayit altinda tutma seklinde emsalsiz bir olanak sunar. Veri bir kere blockchainde saklandiginda, onun üzerine insalarda bulunacak gelistiriciler icin erisilebilir hale gelir. Gelistiriciler müsait API'lari kullanarak blockchain icerisinde icerikle dogrudan etkilesime gecebilir. Blockchain temel gelistiricilerinin bazilari Hesap Isimleri, Paylasimlar, Yorumlar, Oylar ve Hesap Bakiyesi üzerinden gelistirme yapabilir.
 

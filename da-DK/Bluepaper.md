@@ -70,9 +70,9 @@ Wallet-adresser, der bruges af mange blockchain-teknologier som f. eks. Bitcoin 
 
 ### Steem Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Mange brugere, der introduceres til kryptovaluta kæmper med at forstå hvordan "magiske internet tokens" uddelt fra platformen faktisk kan have en reel værdi i den virkelige verden. For at hjælpe med at bygge bro mellem de almindelige pengesystemer. som alle kender til og til kryptovalutaers tokens som tildeles af platformen, introduceredes en ny valuta, der kaldes Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokens are designet til at holde sig tæt til dollarkursen så brugere der modtager dem, nogenlunde ved, hvor meget de er værd i almindelige amerikanske dollars. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

@@ -66,7 +66,7 @@ Steem giver brugere en unik mulighed for at udgive og lagre forskellige typer in
 
 ### Eget Navnesystem
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Wallet-adresser, der bruges af mange blockchain-teknologier som f. eks. Bitcoin og Ethereum, har historisk altid været lange tekststrenge af tilfældige bogstaver og tal. De gør det vanskeligt at udføre transaktioner for brugere på et typisk socialt medie fordi brugerne ikke kan huske de lange adresser. Steem blockchain bruger alle deltageres brugernavn som wallet-adresse, hvilket gør deltagernes brugeroplevelse langt bedre, når de vil sende tokens til hinanden, fordi adressen bliver enkel og let at huske.
 
 ### Steem Blockchain Dollars (SBD)
 

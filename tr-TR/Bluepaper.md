@@ -24,11 +24,11 @@ Yeni tokenların üretilme oranı, Aralık 2016'dan başlayarak, yılda % 9.5'e 
 
 Her yıl Steem blockchain'i tarafından oluşturulan yeni token arzininin %75'i içerik oluşturucularina ve içerik küratörlerine dağıtılan "ödül havuzu" nu oluşturmaktadır. Dagitilan muktesep hisselerin %15'i token sahiplerine, %10'u ise Steem'in DPoS konsensus protokolü icerisinde faaliyette bulunan blok ütecileri olan Witness'lara dagitilir.
 
-#### Icerik Üreticileri ve Küratorler icin olan ödüller
+#### İçerik Üreticileri ve Küratorler için olan ödüller
 
 Icerik üreten kullanicilar halihazirda mevcut bulunan kullanicilari angaje ve mutlu tutmanin yani sira; yeni kullanicilari platforma cekecek materyalleri yaratarak topluluga arti deger eklemektedir. Bu ise para birimini genis kullanici kitlelerine ulastirmaya yardim eder ve network etkisini artirir. Icerikler hakkinda degerlendirme ve oylama hususunda zaman ayiran kullanicilar para biriminin en fazla arti deger katan kullanicilar arasinda dagitilmasinda önemli rol oynamaktadirlar. Blockchain tüm bu aktiviteleri toplulugun bilgeligine dayanan hisse-agirlikli oylama sistemiyle edinilmis göreli degelerine göre ödüllendirir.
 
-#### Ödüllerin Paylasimini Belirlemek Icin Hisselendirilmis-Token'lar ile Oylama Yapmak
+#### Ödüllerin Paylaşımını Belirlemek İçin Hisselendirilmiş-Token'lar ile Oylama Yapmak
 
 Sistem bir-Steem, bir-oy esasina dayali olarak isler. Bu model altinda, hesap bakiyeleri tarafindan ölcüldügü üzere, platforma en fazla katkida bulunmus olan bireyler katkilarin nasil puanlanacagi üzerinde en fazla etkiye sahip sahip olurlar. Hisse hem satin alinabilir hem de kazanilabilir. Belirli sayida hisseye sahip olan tekil bir hesap ile ayni oranda hisseyi paylasan iki farkli hesabin etki gücü ayni olacagindan kullanicilar birden fazla hesap sahibi olarak ilave etki gücü kazanamazlar. Kullanicilar icin platform üzerindeki etkilerini artirabilmenin tek yolu hisselerini artirmaktir.
 

@@ -58,7 +58,7 @@ I praksis gør AppBase det muligt at have forskellige kerner eller sågar forske
 
 ## Steems platformfunktioner
 
-Steem blockchain tjener to formål ved både at være et system til behandling af digitale tokens og samtidig være en platform for et mainstream socialt medie. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain tjener to formål ved både at være et system til behandling af digitale tokens og samtidig være en platform for et mainstream socialt medie. Blockchainens funktioner skal understøtte begge formål, og give brugerne en førsteklasses oplevelse under brugen af begge aspekter på platformen.
 
 ### Primitives Designed for Content Applications
 

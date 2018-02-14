@@ -60,11 +60,11 @@ I praksis gør AppBase det muligt at have forskellige kerner eller sågar forske
 
 Steem blockchain tjener to formål ved både at være et system til behandling af digitale tokens og samtidig være en platform for et mainstream socialt medie. Blockchainens funktioner skal understøtte begge formål, og give brugerne en førsteklasses oplevelse under brugen af begge aspekter på platformen.
 
-### Primitives Designed for Content Applications
+### Primitiver designet til inholdsapplikationer
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem giver brugere en unik mulighed for at udgive og lagre forskellige typer indhold permanent direkte på den uforanderlige blockchains ledger som almindelig tekst. Når data er lagret i blockchainen, er det offentligt tilgængeligt, så udviklere kan bruge det til at bygge videre på. Udviklere kan interagere med indholdet direkte på blockchainen ved at bruge de tilgængelige API'er. Udviklere, der benytter blockchain primitiverne, kan bygge løsninger ud fra tilgængelige kontonavne, indlæg, kommentarer, stemmer og kontis saldi.
 
-### Native Name System
+### Eget Navnesystem
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

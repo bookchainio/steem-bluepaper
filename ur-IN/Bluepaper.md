@@ -134,11 +134,11 @@
   </p>
   
   <p>
-    SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.<fnref target="12" />
+    ایس بی ڈی ٹکنز کو ایک امریکی ڈالر سے قریب سے ملنے کے لئے ڈیزائن کیا گیا ہے تاکہ وہ صارفین جو ان کو حاصل کرتے ہیں اس کے بارے میں جان سکتے ہیں کہ وہ "اصلی ڈالر" کے شرائط میں کتنا قابل قدر ہیں. ایس بی ڈی ٹکونز صارفین کے لئے نسبتا مستحکم کرنسی بھی پیش کرتے ہیں اگر وہ امریکی ڈالر سے متعلق ان کے اکونٹ کی قیمت کو برقرار رکھنے کے خواہاں ہو. مزید تفصیلی تکنیکی وضاحت سٹیم تکنیکی whitepaper میں پایا جا سکتا ہے۔«٠»١٢«٠\»
   </p>
   
   <h3>
-    Decentralized Exchange
+    مہذب ایکسچینج
   </h3>
   
   <p>

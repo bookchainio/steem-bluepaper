@@ -86,7 +86,7 @@
   </h3>
   
   <p>
-    چین بیس«٠»٩«٠/» بلاچین اسٹیک کے ڈیٹا بیس کا حصہ ہے اور اس نے 2016 میں گرافین«٠»١٠«٠/» کی جگہ لے لی۔ ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+    چین بیس«٠»٩«٠/» بلاچین اسٹیک کے ڈیٹا بیس کا حصہ ہے اور اس نے 2016 میں گرافین«٠»١٠«٠/» کی جگہ لے لی۔ چین بیس پر تیزی سے اور وقت کے اندر کام ہوتا ہے،ڈیٹا بیس پر متوازی رسائی کی حمایت کرتا ہےاور اس کے مقابلے میں حادثات کے خلاف زیادہ مضبوط ہے ۔ It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
   </p>
   
   <h3>

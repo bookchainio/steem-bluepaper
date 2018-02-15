@@ -54,11 +54,11 @@ ChainBase[^9] bụ ebe nchekwa data nke blockchain, nke Graphene[^10] nọchiri 
 
 AppBase bụ nzọ ụkwụ izizi dị na ịke multi-chain FABRIC. AppBase na-eme ka ọtụtụ ihe ndị na-mebe Steem blockchain bụrụ ihe mmebe site na ịke blockchains ndị ọzọ ma nhunye ha ka plugins. E nwere ike imelite Plugin ndị a ngwa ngwa n’ihi na ha anaghị achọ ka e megharịa blockchain niile. Nke a mere ka steemd[^11] karịsịa n'ịrụ ọrụ nke ọma ma ndi mfe ihazi ma gụọ.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+A sị ka e kwube, AppBase na-eme ka ide (core) dị iche iche, ma ọ bụ kọmputa dị iche iche, hazie akụkụ steem blockchain dị iche iche. Nke a, ka wee pụta ihe n'ọrụ ọma ya kama ịchọ ka ide niile, na kọmputa niile nọ na ọgbakọ bia hazie akụkụ niile nke blockchain nwere. Ịme ka blockchain bụrụ ihe mmebe, ga-eme ya ka ọ rite uru niile dịịrị ihe mmebe nke kọmputa niile. Nke a bụ otu usoro dị oke mkpa n’ogologo usoro iji kee blockchain kwụzuru akwụzu.
 
-## Steem’s Platform Features
+## Njirimara ogige Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain na-arụ ụzọ ọrụ abụọ, nke mbụ dịka usoro na-emepụta ego ọgbara, bịa bụrụ ogige ọgbakọ ọhaneze. Njirimara ndị blockchain n’enye kwesịrị ka ọ kwado ihe abụọ a, ma nye ndị otu ya ahụmahụ bụ ọka ibe ma ha nwere njirimara abụọ a wee na-arụ ọrụ.
 
 ### Primitives Designed for Content Applications
 

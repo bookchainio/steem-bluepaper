@@ -98,7 +98,7 @@
   </p>
   
   <p>
-    عملی طور پر بولے تو، ایپ بیس نے سٹیم بلاچین کے مختلف حصوں کو برقرار رکھنے کے لئے مختلفcores ، یا اس سے مختلف کمپیوٹرز«computers» کو بھی قابل بناتا ہے۔ This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+    عملی طور پر بولے تو، ایپ بیس نے سٹیم بلاچین کے مختلف حصوں کو برقرار رکھنے کے لئے مختلفcores ، یا اس سے مختلف کمپیوٹرز«computers» کو بھی قابل بناتا ہے۔ یہ ہر کور کےمقابلے ضرورت سے کہیں زیادہ موثر ہے، اور نیٹ ورک میں ہر کمپیوٹر پورے بلاکس کو برقرار رکھتا ہے. بلاکچین کو ماڈیولولنگ کر کے یہ ماڈیولر نیچر کمپیوٹرز کا بر پور فائدہ اٹھتا ہے۔ This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
   </p>
   
   <h2>

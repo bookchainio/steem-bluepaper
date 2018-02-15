@@ -40,11 +40,11 @@ A rụrụ Steem blockchain ka ọ bụrụ otu n’ime ndị kacha wee dị ọ
 
 ### Delegated proof of stake (DPoS)
 
-Ọtụtụ blockchain enweghi ike ịgụ karịa azụmahịa atọ kwa sekọndụ, nke bụ otu ụzọ n’ime trafik ama ego, n’ihi na Proof-of-work (PoW)[^6] na-egbochi ha. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Ọtụtụ blockchain enweghi ike ịgụ karịa azụmahịa atọ kwa sekọndụ, nke bụ otu ụzọ n’ime trafik ama ego, n’ihi na Proof-of-work (PoW)[^6] na-egbochi ha. Steem nwere mmasị na ịdị ọsọ na ọgụgụ karịa nke PoW n’enye, ya mere e ji wee wepụta usoro a n'amaghị nke ukwu a na-akpọ Delegated Proof of Stake (DPoS)[^7] iji wee tọọ ntọala blockchain ga enwe ike ịkwado ndi otu karịrị njeri.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+N’ihi DPoS, Steem blockchain nwere ike igbanye blọọkụ ohuu kwa sekọndụ atọ ọbụla, ma ọ gaghị arụ oke ọrụ ọbụla. Nke a pụtara na blockchain nwere ike ihazi ọtụtụ azụmahịa ma jide ọtụtụ ozi, ma ọdịnaya.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+N’ikịwapụta iwu maka mgbe Hardfork nwere ike ịme, onye akaebe a ghọtara site na usoro nke DPoS ga enwe ike ịme ngwa ngwa bịa kpebie nke ọma ma ọ bụ ka e nwere hardfork a tụrụ n’aro gaa ihu, bia mee ka usoro Steem blockchain gbanwee ọsịsọ karịa ndị ọzọ. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
 
 ### ChainBase
 

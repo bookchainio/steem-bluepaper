@@ -48,11 +48,11 @@ N’ikịwapụta iwu maka mgbe Hardfork nwere ike ịme, onye akaebe a ghọtar
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] bụ ebe nchekwa data nke blockchain, nke Graphene[^10] nọchiri na 2016. ChainBase na-emepe ọsịsọ ma mechikwa ọsịsọ, ọ na-akwado ohere iji ba n’ebe nchekwa data bịa n’egbochi ihe mmekpa ọbụla karịa ndị dị na mbụ. Ọ na-esi ike tupu ọ kwe ka nchekwa data mebie, ọ na-enye ohere “snapshotting” nchekwa data nille, ma nwee ike ị gbo ọtụtụ mkpa RPC site n’otu nchekwa.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase bụ nzọ ụkwụ izizi dị na ịke multi-chain FABRIC. AppBase na-eme ka ọtụtụ ihe ndị na-mebe Steem blockchain bụrụ ihe mmebe site na ịke blockchains ndị ọzọ ma nhunye ha ka plugins. E nwere ike imelite Plugin ndị a ngwa ngwa n’ihi na ha anaghị achọ ka e megharịa blockchain niile. Nke a mere ka steemd[^11] karịsịa n'ịrụ ọrụ nke ọma ma ndi mfe ihazi ma gụọ.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

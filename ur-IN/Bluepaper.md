@@ -162,7 +162,7 @@
   </p>
   
   <p>
-    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. The posting key allows accounts to post, comment, edit, vote, resteem<fnref target="15" />, and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
   </p>
   
   <p>

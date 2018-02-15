@@ -126,11 +126,11 @@
   </p>
   
   <h3>
-    Steem Blockchain Dollars (SBD)
+    سٹیم بلاچین ڈالرز (ایس بی ڈی)
   </h3>
   
   <p>
-    Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+    بہت سے صارفین کو جو کرپٹو کرنسی سے واقف ہے کو سمجھنے میں جدوجہد کا سمنا کرنا پڑتا ہے کہ کس طرح محفوظ "جادو انٹرنیٹ ٹوکن" حقیقی دنیا میں قیمتی ہوسکتا ہے. زیادہ روایتی فایٹ پیسے کے نظام کے درمیان فرق کو ملانے میں مدد کے لئےمرکزی دھارے کے صارفین کو استعمال کیا جاتا ہے،اور cryptocurrency ٹکنز جو انہیں پلیٹ فارم کے ذریعہ نوازا جاتا ہے،اسی کے لایے سٹیم بلاکچین ڈائرکٹری (SBD) نامی نئی کرنسی پیدا کی گئی تھی۔
   </p>
   
   <p>

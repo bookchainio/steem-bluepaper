@@ -28,19 +28,19 @@ Site na mbupu token ọhụrụ Steem blockchain na-ebipụta kwa afọ, 75% tok
 
 Ndị otu na-emepụta ọdịnaya, na-agbawanye uru nke ọgbakọ otu site n’ike ngwa ga edubata ndị otu ọhụụ n’ime ọgbakọ, bịa mee ka ndị nọ na mbụ wee ihe ha ga eme bịa wee afọ ojuju. Nke a na-enye aka iji kesaa ego nye ọtụtụ ndị otu Steem ma mawanye ikike nke ọgbakọ a. Ndi otu nweere oge ha wee binye aka ma nyochaa ọdịnaya, na-agba mgbọ dị oke mkpa iji kesaa ego a nye ndị ka etinye uru na Steem. Blockchain na-eti emume ndị a aka n’azu dịka o si wee dịịrị uru ya, nke a dabere na njikọ amamihe nke ọha a chịkọtara site n’ikike nke usoro itunye aka.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Iji token wee tunye aka iji kpebi etu aga esi wee kee ugwo
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem n’arụ ọrụ site na iwu nke “otu-STEEM, otu-itunye aka”. Na okpuru ụkpụrụ a, ndị ka wee tụnye na ọgbakọ a, dịka e si wee chọpụta na akaụntụ ha, ga aka nwee mmetụta n'ikpebi etu a ga-esi wee na-atule ihe onye tụnyere. E nwere ike igote maọbụ rite ikike. Ndi otu Steem enweghị ike irite ikike karịa, site na ịnwe ọtụtụ akaụntụ, ebe ọ bụ na otu akaụntụ nke nwere ụfọdụ ikike ga-enwe otu mmetụta ahụ ma ọ bụrụ na akaụntụ abụọ na-eke otu okè ikike. Sọ otu ụzọ ndị otu nwere ike iji mawanye mmetụta ha na ọgbakọ a bụ site ịmawanye ikike ha.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+N’ịga n’ihu, Steem anaghị ekwe ndi otu ya ka ha were STEEM tunye aka, ganye na ha eruo ndokwa izu ụka iri na atọ nke a na-akpọ “Steem power” (ikike Steem). N’okpuru usoro a, ndị otu Steem n'enwe ego na-akpali ha, iji wee tụnye aka n'ụzọ ga amawenye ịnọ ọdụ uru STEEM ha.
 
-## Speed and Scale on the Steem Blockchain
+## Ọgụgụ na Ịme ngwangwa n'ime Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+A rụrụ Steem blockchain ka ọ bụrụ otu n’ime ndị kacha wee dị ọsọ ma bụrụ blockchain kacha arụ ọrụ na mpaghara ụwa niile, nke a dị oke mkpa iji wee kwado trafik a tụrụ anya na ụdị ọgbakọ social media ka Reddit ibu. Steem a gafeela Bitcoin n'ọnụ ọgụgụ azụmahịa gara nke ọma, bịa nwee ike ịgụ azụmahịa ruru 10,000 maọbụ karia kwa sekọndụ.
 
-### Delegated Proof of Stake (DPoS)
+### Delegated proof of stake (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Ọtụtụ blockchain enweghi ike ịgụ karịa azụmahịa atọ kwa sekọndụ, nke bụ otu ụzọ n’ime trafik ama ego, n’ihi na Proof-of-work (PoW)[^6] na-egbochi ha. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

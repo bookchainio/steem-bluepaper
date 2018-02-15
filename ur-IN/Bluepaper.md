@@ -114,7 +114,7 @@
   </h3>
   
   <p>
-    Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+    سٹیم صارفین کوشائع ہونے اور مختلف قسم کے مواد کو براہراست اور مستقل طور پر بلاکس کے ناقابل اعتماد لیجر میں سادہ الفاظ میں جمع کرنے کی منفرد صلاحیت فراہم کرتا ہے۔ بلاکچین میں جمع ہونے کے بعد، ڈیٹا ڑیوپریس کے لیے عوامی طور پراستعمال کرنے کے لیے دستیاب رہتا ہے۔ Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
   </p>
   
   <h3>

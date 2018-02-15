@@ -68,9 +68,9 @@ Steem n’enye ndi otu ya ikike puru iche ije wee bipụta ma chekwaa ọdịnay
 
 Wallet addresses nke ọtụtụ ọgbara blockchain nwere, dịka Bitcoin na Ethereum, e toola ha na-eji ogologo mkpụrụ okwu dị iche iche na ọnụ ọgụgụ, kama, wallet addresses a nwere ike ịme ka ọ siere ndi ọrụ ike ịzụ ahịa, n’ogige ndị ọzọ n’ihi na ọ siri ike igbu wallet address ndị a n’obi. Steem Blockchain na-eji aha ndi oru ya dika wallet address ha, nke na-akwalite ahumahu ndi oru, maka ndi choro izije ego ogbara n’ihi na ha ga enwe ike icheta wallet address ha n’isi onwe ha.
 
-### Steem Blockchain Dollars (SBD)
+### Steem blockchain dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Ọtụtụ ndị maara maka cryptocurrency na-agba mgbọ ịghọta etu ego ọgbara ịntanetị nke eji akwụ ụgwọ ga-esi wee baa uru dịka ego akwụkwọ. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 

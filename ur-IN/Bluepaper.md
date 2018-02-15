@@ -106,7 +106,7 @@
   </h2>
   
   <p>
-    The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+    سٹیم بلاچائن ایک دوہرا مقصد فراہم کرتا ہے ڈیجیٹل ٹوکن پروسیسنگ سسٹم ہونے کا،اور مینسٹریم سماجی میڑا پلاٹفرامmainstream social media platformکا۔ The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
   </p>
   
   <h3>

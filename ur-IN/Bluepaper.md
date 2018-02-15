@@ -94,7 +94,7 @@
   </h3>
   
   <p>
-    ایپ بیس ملٹی چین فیبریکشن «multi-chain FABRICATION» میں پہلا قدم ہے۔ AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+    ایپ بیس ملٹی چین فیبریکشن «multi-chain FABRICATION» میں پہلا قدم ہے۔ ایپ بیس غیر اتفاق (non-consesus)) بلاکچین کو ڈیڈی کیڑٹ پیلگ اینز dedicted plugins کو پیدا کر کےسٹیم بلاچین کے بہت سے اجزاء کو قابل بناتا ہے These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
   </p>
   
   <p>

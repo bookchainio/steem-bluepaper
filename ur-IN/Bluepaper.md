@@ -78,7 +78,7 @@
   </p>
   
   <p>
-    By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+    جب Hardfork واقع ہوتا ہےتو اس کے لئے قوانین کی وضاحت کرتے ہوئے،ڈی پی او فریمورک کے اندر منتخب گواہ فوری طور پر اور مؤثر طریقے سے فیصلہ لیتے ہے،کہ ایک تجویز کردہ hardfork کے ساتھ آگے بٹنا ہے کہ نہں،جس سے سٹیم بلاکچین پروٹوکول کو دوسروں کے مقابلے میں زیادہ تیزی سے ابورنے کی اجازت دہتی ہے The Steem blockchain has already successfully forked 18 times<fnref target="8" />, and each time a Hardfork has occurred, only a single chain has persisted after the fork.
   </p>
   
   <h3>

@@ -66,7 +66,7 @@ Steem n’enye ndi otu ya ikike puru iche ije wee bipụta ma chekwaa ọdịnay
 
 ### Native Name System
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Wallet addresses nke ọtụtụ ọgbara blockchain nwere, dịka Bitcoin na Ethereum, e toola ha na-eji ogologo mkpụrụ okwu dị iche iche na ọnụ ọgụgụ, kama, wallet addresses a nwere ike ịme ka ọ siere ndi ọrụ ike ịzụ ahịa, n’ogige ndị ọzọ n’ihi na ọ siri ike igbu wallet address ndị a n’obi. Steem Blockchain na-eji aha ndi oru ya dika wallet address ha, nke na-akwalite ahumahu ndi oru, maka ndi choro izije ego ogbara n’ihi na ha ga enwe ike icheta wallet address ha n’isi onwe ha.
 
 ### Steem Blockchain Dollars (SBD)
 

@@ -62,7 +62,7 @@ Steem blockchain na-arụ ụzọ ọrụ abụọ, nke mbụ dịka usoro na-em
 
 ### Primitives Designed for Content Applications
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem n’enye ndi otu ya ikike puru iche ije wee bipụta ma chekwaa ọdịnaya ọbụla ozugbo dịka ederede n'ụdị ga-adịgide adịgide n’ime ledger blockchain na-adịghị mgbanwe. Oge ọbụla eji chekwaa ya n’ime blockchain, data ga-abịa dịịrị ọhaneze ka ndị ọrụ mmepe were ya wee rụọ ihe masiri ha. Ndị ọrụ mmepe na-enwe ike ị so ọdịnaya wee mekọrịta ozugbo n’ime blockchain site n’iji API. Ọtụtụ n’ime ngwa ndị mbụ blockchain nke ndị ọrụ mmepe were ike iji wee rụọ ihe bụ, aha akaụntụ, njikwa akaụntụ, nzaghachi, ntụnye aka, poostu.
 
 ### Native Name System
 

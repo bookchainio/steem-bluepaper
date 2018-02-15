@@ -150,7 +150,7 @@
   </h3>
   
   <p>
-    The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+    بلاچین ٹرانزیکشن کی ناقابل قبول فطرت ایک اہم سیکورٹی خصوصیت ہے، اگرچہ بہت سے ایسے معاملات ہیں جہاں صارفین دوسرے افراد کو اپنے ٹوکن بھیجنے میں آرام دہ اور پرسکون نہیں ہوتے ہےکیونکہ اگر کوئی دوسرے صارف کو معاہدے کے اختتام تک نہیں رکھے تو انہیں واپس لینے کا کوئی طریقہ نہیں ہے۔ The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
   </p>
   
   <h3>

@@ -44,7 +44,7 @@ A rụrụ Steem blockchain ka ọ bụrụ otu n’ime ndị kacha wee dị ọ
 
 N’ihi DPoS, Steem blockchain nwere ike igbanye blọọkụ ohuu kwa sekọndụ atọ ọbụla, ma ọ gaghị arụ oke ọrụ ọbụla. Nke a pụtara na blockchain nwere ike ihazi ọtụtụ azụmahịa ma jide ọtụtụ ozi, ma ọdịnaya.
 
-N’ikịwapụta iwu maka mgbe Hardfork nwere ike ịme, onye akaebe a ghọtara site na usoro nke DPoS ga enwe ike ịme ngwa ngwa bịa kpebie nke ọma ma ọ bụ ka e nwere hardfork a tụrụ n’aro gaa ihu, bia mee ka usoro Steem blockchain gbanwee ọsịsọ karịa ndị ọzọ. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+N’ikịwapụta iwu maka mgbe Hardfork nwere ike ịme, onye akaebe a ghọtara site na usoro nke DPoS ga enwe ike ịme ngwa ngwa bịa kpebie nke ọma ma ọ bụ ka e nwere hardfork a tụrụ n’aro gaa ihu, bia mee ka usoro Steem blockchain gbanwee ọsịsọ karịa ndị ọzọ. Steem blockchain enweela “fork” ugboro 18 x[^8], ma mgbe ọbụla Hardfork mere, ọ bụ sọ otu chain na-akwudo oge ọbụla fork mechara.
 
 ### ChainBase
 

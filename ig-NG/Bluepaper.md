@@ -70,13 +70,13 @@ Wallet addresses nke ọtụtụ ọgbara blockchain nwere, dịka Bitcoin na Et
 
 ### Steem blockchain dollars (SBD)
 
-Ọtụtụ ndị maara maka cryptocurrency na-agba mgbọ ịghọta etu ego ọgbara ịntanetị nke eji akwụ ụgwọ ga-esi wee baa uru dịka ego akwụkwọ. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Ọtụtụ ndị maara maka cryptocurrency na-agba mgbọ ịghọta etu ego ọgbara ịntanetị nke eji akwụ ụgwọ ga-esi wee baa uru dịka ego akwụkwọ. Iji bibie ndịiche dị n’etiti cryptocurrency (nke eji akwụ ụgwọ na ogige Steem) na ego onye obula maara, e kewapụtara ego ọhụụ nke a kpọrọ Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+A rụrụ SBD etu ọ ga-esi wee yite otu U. S dollar, ka ọ ga-abụ ndị ọrụ nata ya ha ga-ama ihe ọ daa n'ọnụ dollar. Ego SBD na-enye ndị ji ya ego kwụ chịm, ma ọ bụrụ na ha achọọ idokwa ego ha ka ọ dị ka nke USD. A ga-ahụ ozi kọwara ihe gbasara Sbd nke ọma na Steem technical whitepaper.[^12]
 
-### Decentralized Exchange
+### Mgbanwe n'ụdị onye na ibe ya
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain na-ekesa ikike nye ndị otu ya iji gbanwere ego n’onwe ha, dị ka esi eme na gbanwe Bitshares.[^13] Ụdị gbanwo a n’enyere ndi otu ya aka iji STEEM na SBD wee zụọ ahịa n'aha ọha ebe onye ọbụla na-azụ ahịa n’isi onwe ya. Ndi otu Steem nwere ike ịtụ, goo ma ree ahịa, blockchain na-eji aka ya ahazi ahịa ọbụla a tụrụ. E nwere ebe (n'Ịntanet) ọhaneze ga enwe ike ịnweta akwụkwọ ebe e dere ihe a tụrụ nakwa ahịa ndị a zụrụ n’oge gara aga, nke onye ọbụla nwere ike iji wee nyochaa ma tulee ihe gbasara ahịa. Ndị otu Steem nwere ike ị so "gbanwe" wee rụrịta ụka site n’iji blockchain API, maọbụ e jiri GUI dịka nke dị na Steemit.com.[^14]
 
 ### Payments Through Escrow
 

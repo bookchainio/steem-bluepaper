@@ -110,7 +110,7 @@
   </p>
   
   <h3>
-    Primitives Designed for Content Applications
+    موادی بنانے کے لیے بینادی نقشے۔
   </h3>
   
   <p>

@@ -122,7 +122,7 @@
   </h3>
   
   <p>
-    Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+    والٹ پتے جو بہت سے بلاکچین ٹیکنالوجی استعمال کرتے ہے جیسے کہ بکٹکون اور ایتیر،تاریخی طور پر بے ترتیب خطوط اور نمبروں کی طویل تاروں پر مشتمل ہے،حلاکہ،یہ والیٹ پتوں کو دوسرے صارفین کے ساتھ کسی دوسرے آن لاین سوشل میڈا میں ٹرانسمیشن کرنا مشکل ہوسکتا ہے کیونکہ صارفین میموری سے طویل عرصے سے سارے پتوں کو یاد نہیں کرسکتے ہیں. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
   </p>
   
   <h3>

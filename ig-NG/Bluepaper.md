@@ -112,7 +112,7 @@ Smt bụ ego ọgbara e nwere ike ịwụ n’ime Steem blockchain. STEEM bụ S
 
 Steem blockchain na-enye ndị otu ya ohere ịchekwa STEEM ha nakwa ego SBD ha n'ime akaụntụ ndebe ego, ị ji hụ na agaghị e wepụ oge ọ bụla ganye na mkpụrụ ụbọchị atọ a gafee. Tinyeere ya, STEEM e debere n'usoro oge nwepu izu ụka iri na atọ (13), bụ sọ otu ụzọ n'ime iri na atọ (1/13) kwa izu ụka ka a ga-enwe ike ị na-ewepụ, ma mkpụrụ ụbọchị asaa gafee. Nkwechi-oge ndị a na-egbochi ndị ohi ị nwe ikike na-ebe ego niile onye otu Steem dị ngwa ngwa, nke a ga-eme ka onye kwesịrị ịnwe ya bụ akaụntụ nwee ohere iji napụta ya tupu e wepụsịa ego ahụ.
 
-### Igbachi ókè Bandwidth na emume efu
+### Ịgbachi ókè Bandwidth na emume efu
 
 N'ihi na a na-akwụ ndị akaebe ụgwọ site na mmawanye ego ọgbara ọhụụ, ọ dịghị mkpa ịdọ ndị otu ọbụla ụgwọ iji wee gbanye blockchain. Sọ ihe ga eme ka a naa ha ego, ga abụ iji gbachi ndị otu Steem ịzụ ọtụtụ ahịa n'enweghị isi, nke nwere ike ịmekpa blockchain ahụ.
 

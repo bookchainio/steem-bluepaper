@@ -22,11 +22,11 @@ Token nke Steem dị iche na cryptocurrency ndị ọzọ bụ sọ PoW ka ha ji
 
 E debere etu token ọhụụ si amawanye n'ọdụ 9.5% kwa afọ bido na Disemba 2016, na-agbada n'ọnụ 0.01% kwa 250,000 blọọkụ ọbụla, maọbụ 0.5% kwa afọ. Oke ọnụ ya ga esi etu a wee na-ada ganye na ọ ruo 0.95%, ma ọgafechaa afọ iri abụọ na ọkara.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Site na mbupu token ọhụrụ Steem blockchain na-ebipụta kwa afọ, 75% tokens ndị a bụ nke na-emezu ‘rewards pool” ndị a na-ekenye ndị na emepụta ọdịnaya nakwa ndị na-ahazi ọdịnaya. A na-ekenye 15% nye ndị nwere ikike ị na-eji token, ma 10% ka a na-ekenye ndị akaebe, ndị na-emepụta blọọku a wụnyere n’ime DPoS nke Steem n’usoro e kwekọrịtara.
 
-#### Rewards for Content Creators and Curators
+#### Ụgwọ dịịrị ndị na-ekewapụta ọdịnaya na ndị na-ahazi ya
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Ndị otu na-emepụta ọdịnaya, na-agbawanye uru nke ọgbakọ otu site n’ike ngwa ga edubata ndị otu ọhụụ n’ime ọgbakọ, bịa mee ka ndị nọ na mbụ wee ihe ha ga eme bịa wee afọ ojuju. Nke a na-enye aka iji kesaa ego nye ọtụtụ ndị otu Steem ma mawanye ikike nke ọgbakọ a. Ndi otu nweere oge ha wee binye aka ma nyochaa ọdịnaya, na-agba mgbọ dị oke mkpa iji kesaa ego a nye ndị ka etinye uru na Steem. Blockchain na-eti emume ndị a aka n’azu dịka o si wee dịịrị uru ya, nke a dabere na njikọ amamihe nke ọha a chịkọtara site n’ikike nke usoro itunye aka.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

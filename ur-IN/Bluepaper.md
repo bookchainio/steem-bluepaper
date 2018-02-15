@@ -94,11 +94,11 @@
   </h3>
   
   <p>
-    ایپ بیس ملٹی چین فیبریکشن «multi-chain FABRICATION» میں پہلا قدم ہے۔ ایپ بیس غیر اتفاق (non-consesus)) بلاکچین کو ڈیڈی کیڑٹ پیلگ اینز dedicted plugins کو پیدا کر کےسٹیم بلاچین کے بہت سے اجزاء کو قابل بناتا ہے These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+    ایپ بیس ملٹی چین فیبریکشن «multi-chain FABRICATION» میں پہلا قدم ہے۔ ایپ بیس غیر اتفاق (non-consesus)) بلاکچین کو ڈیڈی کیڑٹ پیلگ اینز dedicted plugins کو پیدا کر کےسٹیم بلاچین کے بہت سے اجزاء کو قابل بناتا ہے ان پلگاز plugins کو تیزی سے آپڈیٹ update کیا جاسکتا ہے کیونکہ ان کو پوری بلاکچین دوبارہ چلانےreplying کی ضرورت نہیں پڑتی۔ یہ سٹیم ڈی«٠»١١«٠\» کو برقرار اور پیمانےپر رکھنے کے لیے کہیں زیادہ موثر اور آسان بنا دیتا ہے۔
   </p>
   
   <p>
-    Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+    عملی طور پر بولے تو، ایپ بیس نے سٹیم بلاچین کے مختلف حصوں کو برقرار رکھنے کے لئے مختلفcores ، یا اس سے مختلف کمپیوٹرز«computers» کو بھی قابل بناتا ہے۔ This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
   </p>
   
   <h2>

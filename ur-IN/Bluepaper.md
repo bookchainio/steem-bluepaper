@@ -102,7 +102,7 @@
   </p>
   
   <h2>
-    Steem’s Platform Features
+    سٹیم پلیٹ فارم کے خصوصیات
   </h2>
   
   <p>

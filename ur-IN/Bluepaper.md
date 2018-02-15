@@ -114,7 +114,7 @@
   </h3>
   
   <p>
-    سٹیم صارفین کوشائع ہونے اور مختلف قسم کے مواد کو براہراست اور مستقل طور پر بلاکس کے ناقابل اعتماد لیجر میں سادہ الفاظ میں جمع کرنے کی منفرد صلاحیت فراہم کرتا ہے۔ بلاکچین میں جمع ہونے کے بعد، ڈیٹا ڑیوپریس کے لیے عوامی طور پراستعمال کرنے کے لیے دستیاب رہتا ہے۔ Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+    سٹیم صارفین کوشائع ہونے اور مختلف قسم کے مواد کو براہراست اور مستقل طور پر بلاکس کے ناقابل اعتماد لیجر میں سادہ الفاظ میں جمع کرنے کی منفرد صلاحیت فراہم کرتا ہے۔ بلاکچین میں جمع ہونے کے بعد، ڈیٹا ڑیوپریس کے لیے عوامی طور پراستعمال کرنے کے لیے دستیاب رہتا ہے۔ ڈویلپرز آسانی سے دستیاب APIs کے استعمال سے بلاکچین میں موجود مواد سے بات چیت کر سکتے ہے۔ Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
   </p>
   
   <h3>

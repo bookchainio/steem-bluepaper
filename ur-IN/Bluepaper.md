@@ -142,7 +142,7 @@
   </h3>
   
   <p>
-    The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.<fnref target="13" /> The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
+    سٹیم بلاکچین بٹشار ایکسچینج کی طرح ایک مہذب ٹوکن ایکسچینج پیش کرتا ہے.«٠»١٣«٠\» ایکسچینج صارفین کو عام طور پر مہذب پیر ٹو پیر مارکیٹ کے ذریعہ اپنے STEEM اور SBD ٹوکن تجارت کرنے کی اجازت دیتا ہے. صارفین خریدنے اور احکامات فروخت اور حکم کے ملاپ کو خود کار طریقے سے بلاکچین کی طرف سے کارکردگی کا مظاہرہ کیا جاتا ہے. عام طور پر قابلرسائی آرڈر کتاب اور آرڈر کی تاریخ بھی ہے جس میں صارفین مارکیٹنگ کا تجزیہ کرنے کے لئے استعمال کرسکتے ہے۔ Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.<fnref target="14" />
   </p>
   
   <h3>

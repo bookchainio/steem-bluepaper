@@ -108,13 +108,13 @@ Smt bụ ego ọgbara e nwere ike ịwụ n’ime Steem blockchain. STEEM bụ S
 
 ### Nchekwa Site na Mkpọchi-oge
 
-Ọ bụrụ na ọ nwere onye òtù ọbụla igodo-onye-nwe ya nwere nsogbu, onye mmegide ga enwe ikike n'ebe ego niile dị na akaụntụ ya dị. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Ọ bụrụ na ọ nwere onye òtù ọbụla igodo-onye-nwe ya nwere nsogbu, onye mmegide ga enwe ikike n'ebe ego niile dị na akaụntụ ya dị. N'ihi na anaghị enwe ike ị megharị ahịa ọ bụla a zụrụ n'ime ya, ndị otu ya enweghị ike ị nweta ego ha ọzọ ma ọ bụrụ na e zuru ya.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain na-enye ndị otu ya ohere ịchekwa STEEM ha nakwa ego SBD ha n'ime akaụntụ ndebe ego, ị ji hụ na agaghị e wepụ oge ọ bụla ganye na mkpụrụ ụbọchị atọ a gafee. Tinyeere ya, STEEM e debere n'usoro oge nwepu izu ụka iri na atọ (13), bụ sọ otu ụzọ n'ime iri na atọ (1/13) kwa izu ụka ka a ga-enwe ike ị na-ewepụ, ma mkpụrụ ụbọchị asaa gafee. Nkwechi-oge ndị a na-egbochi ndị ohi ị nwe ikike na-ebe ego niile onye otu Steem dị ngwa ngwa, nke a ga-eme ka onye kwesịrị ịnwe ya bụ akaụntụ nwee ohere iji napụta ya tupu e wepụsịa ego ahụ.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Igbachi ókè Bandwidth na emume efu
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+N'ihi na a na-akwụ ndị akaebe ụgwọ site na mmawanye ego ọgbara ọhụụ, ọ dịghị mkpa ịdọ ndị otu ọbụla ụgwọ iji wee gbanye blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

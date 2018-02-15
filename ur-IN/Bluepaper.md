@@ -106,7 +106,7 @@
   </h2>
   
   <p>
-    سٹیم بلاچائن ایک دوہرا مقصد فراہم کرتا ہے ڈیجیٹل ٹوکن پروسیسنگ سسٹم ہونے کا،اور مینسٹریم سماجی میڑا پلاٹفرامmainstream social media platformکا۔ The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+    سٹیم بلاچائن ایک دوہرا مقصد فراہم کرتا ہے ڈیجیٹل ٹوکن پروسیسنگ سسٹم ہونے کا،اور مینسٹریم سماجی میڑا پلاٹفرامmainstream social media platformکا۔ بلاکچین کی طرف سے پیش کی جانے والی خصوصیات کو دونوں مقاصد کی حمایت کرنے کی ضرورت ہے، اور پلیٹفارم کے دونوں پہلوؤں کو استعمال کرتے وقت صارفین کو ایک عالمی طبقے کا تجربہ فراہم کرتا ہے۔
   </p>
   
   <h3>

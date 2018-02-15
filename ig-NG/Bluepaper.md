@@ -60,7 +60,7 @@ A sị ka e kwube, AppBase na-eme ka ide (core) dị iche iche, ma ọ bụ kọ
 
 Steem blockchain na-arụ ụzọ ọrụ abụọ, nke mbụ dịka usoro na-emepụta ego ọgbara, bịa bụrụ ogige ọgbakọ ọhaneze. Njirimara ndị blockchain n’enye kwesịrị ka ọ kwado ihe abụọ a, ma nye ndị otu ya ahụmahụ bụ ọka ibe ma ha nwere njirimara abụọ a wee na-arụ ọrụ.
 
-### Primitives Designed for Content Applications
+### Ntọala ndị e Mebere maka Ngwá Ọdịnaya
 
 Steem n’enye ndi otu ya ikike puru iche ije wee bipụta ma chekwaa ọdịnaya ọbụla ozugbo dịka ederede n'ụdị ga-adịgide adịgide n’ime ledger blockchain na-adịghị mgbanwe. Oge ọbụla eji chekwaa ya n’ime blockchain, data ga-abịa dịịrị ọhaneze ka ndị ọrụ mmepe were ya wee rụọ ihe masiri ha. Ndị ọrụ mmepe na-enwe ike ị so ọdịnaya wee mekọrịta ozugbo n’ime blockchain site n’iji API. Ọtụtụ n’ime ngwa ndị mbụ blockchain nke ndị ọrụ mmepe were ike iji wee rụọ ihe bụ, aha akaụntụ, njikwa akaụntụ, nzaghachi, ntụnye aka, poostu.
 

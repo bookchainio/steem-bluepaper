@@ -88,27 +88,27 @@ Steem nwere dịka mbụ na mbụ, udi igodo nchekwa nke na-eso usoro na-akwalit
 
 Igodo nkeonwe ndị a bụ Posting, Active na Owner. Igodo nzipu na enye akaụntụ ohere izipu, tụnye aro, hazie, tụnye aka, resteem[^15], na iso/kpọchie akaụntụ ndị ọzọ. Igodo nke dị ike (active) kwesịrị ọrụ ndị dị oke mkpa dịka izipu ego, ị mawanye/gbatuo azụmahịa, ịgbanwe Steem Dollars, ịtụnye aka nke ndị akaebe, ịtụ ahịa, na inweghachi igodo nzipu ka ọ dị ka ọ dị na mbụ. Igodo onye-nwe bụ nke eji eme ihe oge ọbụla ọ masịrị onye. Ọ bụ ya bụ igodo kacha ike n’ihi na ọ nwere ike igbanwo igodo ọbụla nke akaụntụ nwere, ọ na-agbwanwo ma igodo onye-nwe, nakwa iji gosi na ọ bụ gị nwe akaụntụ ị chọrọ ị napụta. Igodo a ekwesịghị na a ga-edebe ya n'Ịntanet, sọ mgbe eji ya eme ihe bụ ma ọ bụrụ na a chọọ ịgbanwe igodo ndị ọzọ, ma ọ bụ ịnapụta akaụntụ nwere nsogbu.
 
-Steem na-enye ohere iji otu Master Password nke nwere ike ịchekwa igodo atọ a. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem na-enye ohere iji otu Master Password nke nwere ike ịchekwa igodo atọ a. Ọrụ weebụ ọbụla nwere ike iji Master Password nke na agbahe ma binye aka site n’iji igodo nkeonwe kwesịrị ekwesị. Master Passwords nwere ike ịme ndị otu ka ha kwenye na ụfọdụ ọrụ iji mee ka a ghara izipu igodo na ekwesịghị ebe ọzọ, ya mere ka ọ na amawanye ahụmahụ onye otu ma na-ahazi ogige e chekwara nke ọma ebe onye ahịa ga-ebinye aka.
 
-### Multi Sig Authorities
+### Ikike Dịịrị Ọtụtụ ndị Ịbinye Aka
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain na-enye ohere iji kesaa otu ikike nye ọtụtụ ndị, nke a ga eme ka ọtụtụ ndi otu Steem nwee nketa oke n’otu ikike, maọbụ mee ka ọtụtụ ndị binye aka tupu azụmahịa ọbụla a bụrụ ihe nwere isi. A na-eme nkea dị ka e si eme ya na Bitshare[^16]ebe a na-enye igodo nke ọha/nkeonwe ọbụla arọ (weight), nakwa ebe mbibi/mbido ike ikike ha. Iji mee ka azụmahịa ọbụla bụrụ nke e kwekọrịtara na ọ bụ ezie, ọtụtụ ndị ga ebinye aka ka mgbakọ nke arọ ha nwee ike izute maọbụ karịa ebe mbido ikike ha.
 
-### Multiple Reward Beneficiaries
+### Ọtụtụ Ndị Ị Rite Uru N'otu Akwụmụgwọ
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Maka ndeputa ọbụla e nwere ike ịnwe ọtụtụ ndị nwere mmasị na ego dịịrị akwụmụgwọ ya. Nkea gụnyere odee, odee so ibe ya, ndi na-akpọta onye, ndi na e hoostu weebụ, blọọgụ ndị na-agbakwụnye atumaro blockchain, na ndị na-awụ ngwa ọrụ ịntanetị. Weebụ ọbụla ma ọbụ ngwa ọbụla e ji wee rụọ ndepụta ma ọbụ atụmaro ga enwe ikike ị dozi etu a ga esi wee kwụọ ụgwọ dịịrị ndepụta ahu nye ọtụtụ ndị ọ danyeere. Nke a na akwado ọtụtụ ụdị ị gbakọ ka otu, bịa bụrụ ụzọ nye ogige ndị a wụrụ n’elu Steem blockchain, iji wee were otu ụzọ akwụmụgwọ e nyere ndi otu ha.
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smt bụ ego ọgbara e nwere ike ịwụ n’ime Steem blockchain. STEEM bụ SMT mbụ e nwere, mmasi usoro Smart Media Token bụ ịme ka ogige weebụ ndị dabere na ọdịnaya nakwa ngwa weebụ ndị ọzọ nwee nha-anya ego, site na-ịnye ohere ka ndị mmadụ nwee ike ịke ego ọgbara nwere ụkpụrụ/njirimara dịka nke STEEM, mana e nwere ike imezi ha ka ha soro usoro nke mmasị nke ọgbakọotú ikuku ọbụla site n’ịme ka a gbaa ndị otu ha ume, bịa mee ka weebụ maọbụ ngwa ndị a nwee ụdị ọganihu STEEM. A ga-afụ ozi ndi ọzọ n’ime Smart Media Tokens whitepaper[^17].
 
-### Stolen Account Recovery
+### Ịnapụta Akaụntụ E Mebiri
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Ọ bụrụ na akaụntụ onye otu ọbụla nwee nsogbu, ha nwere ike igbanwo igodo ha site n’iji igodo onye-nwe nkeonwe ha. Ọ bụrụ na onye mmegide ahụ mebiri igodo-onye-nwe nkeonwe akaụntụ a, bia gbanwo okwungafe ya, a ga-enye onye otu ahụ mkpụrụ ụbọchị iri ato (30) iji zije igodo nkeonwe ha ji n’oge mbụ nye Steem, na usoro nke mbu ị napụta akaụntụ e zuru na ohi, bia nyeghachi ha ikike akaụntụ ha. Ndị nwere ike ịnye ohere a bụ ndị maọbụ onye na-anabata ndi ọhụụ n’ime Steem. Ọ bụghị iwu na onye n’edeba aha ga arụrụ ndi otu ya ọrụ a, mana ọ na enye aka ịkwalite uru ahụmahụ onye na edeba ndị ọhụụ.
 
-### Security Through Time-Locks
+### Nchekwa Site na Mkpọchi-oge
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Ọ bụrụ na ọ nwere onye òtù ọbụla igodo-onye-nwe ya nwere nsogbu, onye mmegide ga enwe ikike n'ebe ego niile dị na akaụntụ ya dị. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
 
 The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
 

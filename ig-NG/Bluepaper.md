@@ -114,15 +114,15 @@ Steem blockchain na-enye ndị otu ya ohere ịchekwa STEEM ha nakwa ego SBD ha 
 
 ### Igbachi ókè Bandwidth na emume efu
 
-N'ihi na a na-akwụ ndị akaebe ụgwọ site na mmawanye ego ọgbara ọhụụ, ọ dịghị mkpa ịdọ ndị otu ọbụla ụgwọ iji wee gbanye blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+N'ihi na a na-akwụ ndị akaebe ụgwọ site na mmawanye ego ọgbara ọhụụ, ọ dịghị mkpa ịdọ ndị otu ọbụla ụgwọ iji wee gbanye blockchain. Sọ ihe ga eme ka a naa ha ego, ga abụ iji gbachi ndị otu Steem ịzụ ọtụtụ ahịa n'enweghị isi, nke nwere ike ịmekpa blockchain ahụ.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Iji mee ka onye ọbụla nwere ogige Steem wee na-arụ ọrụ etu ọ kwesịrị, e nyere onye ọbụla bandwith nwere mgbachi. Oge ọbụla onye otu ọbụla ji blockchain wee rụọ ọrụ dịka ị zipụ ego, ịde ọdịnaya, na ịtụnye aka, otu ụzọ bandwidth ha a pụọ. Ọ bụrụ na onye òtù e mefusịa oké bandwidth ya, ha ga emezu ụfọdụ emume ndị ọzọ tupu a gbanwee bandwidth ha.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Iji rụọ ọrụ, mgbachi bandwidth dabere n'etu esi eji network arụ ọrụ, nke a ga eme ka onye otu ọbụla nwee bandwidth karịa ma ọ bụrụ na ndị nọ na netwọk belata. Oké ikike iji bandwidth a n'enye akaụntụ ọbụla na a debere na oké Steem Power onye otu ahụ nwere, ya bụ na onye òtù ọbụla ga enwe ike ị mawanye bandwidth ha site n'inweta Steem Power ọzọ.
 
-## Conclusion
+## Mmechi
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Usoro akwụmụgwọ na ịgba ume nakwa ego ọgbara nke Steem blockchain n'enye bụ ndị e mere iji mee Steem ụzọ pụrụ iche onye ọbụla ga-eji abanye na ama cryptocurrency. A na-arụ usoro emume blockchain site n'ịnabata n'uju, ụdị ego nakwa ogige e bu n'obi. A gbakọọnye etu Steem si arụ ọrụ ngwa ngwa nakwa etu esi eji ya azụ ahịa n'efu, Steem nọ n'ọnọdụ Ịbụ otu n'ime ndị ọgbara blockchain sepụtara isi nke ndị mmadụ ji arụ ọrụ na mba ụwa niile.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

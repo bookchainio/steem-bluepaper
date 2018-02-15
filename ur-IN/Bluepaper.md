@@ -71,10 +71,10 @@
 </h3>
 
 <p>
-  اکثر کام کے ثبوت کی طرف سے تنگی<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6<\0> بیت ساری بلاکچین تین سے ذادہ لین دین کا حصاب نہی کر پاتے جو کہ دنیا کی لین دین کے حصاب کا ایک چھوٹا حصہ ہے۔ Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)<fnref target="7" /> was leveraged to lay the foundation for a blockchain suited for billions of users.</p> 
+  اکثر کام کے ثبوت کی طرف سے تنگی<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6<\0> بیت ساری بلاکچین تین سے ذادہ لین دین کا حصاب نہی کر پاتے جو کہ دنیا کی لین دین کے حصاب کا ایک چھوٹا حصہ ہے۔ پی او ڈوبلو کی طرف سے پیش کردہ سٹیم کو اس سے کہیں زیادہ پیمانے اور رفتار کی ضرورت ہےاور اس طرح کم معروف الگورتھم جس کو پیش کردہ اسٹیک کا ثبوت کہتے ہے( ڈ پی او ایس ) «٠»٦«/٠»اربوں صارفین کے لئےایک مناسب بلاچین فاؤنڈیشن قائم کرنے کے لئے لیورج کیا گیا تھا.</p> 
   
   <p>
-    Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+    ڈی پی او کی وجہ سے، سٹیم بلاکچین کو کم سے کم کمپیوٹنگ کے بوجھ کے ساتھ ہر 3 سیکنڈ ایک نیا بلاک پیدا کرنے میں کامیاب ہوا ہے۔ اس کا مطلب یہ ہے کہ بلاچین زیادہ ٹرانزیکشز عمل میں سکتا ہےاور مواد سمیت، مزید معلومات رکھ سکتا ہے۔
   </p>
   
   <p>

@@ -206,7 +206,7 @@
   </h3>
   
   <p>
-    If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+    اگر کسی صارف کے ایکٹو یا اونر کے ساتھ سمجھوتا ہوا ہو تو، حملہ آور اس اکاؤنٹ میں تمام فنڈز کی مکمل رسائی حاصل کرے گا۔ Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
   </p>
   
   <p>

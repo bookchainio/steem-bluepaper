@@ -234,7 +234,7 @@
   </h2>
   
   <p>
-    سٹیم بلاچین اور ٹوکن کی طرف سے پیش کردہ انعامات اور حوصلہ افزائی کا پروگرام سٹیم کو ریمپ پر پر چلنے والی کریپٹوکرانسی کی دینا میں مرکزی دھارے کے صارفین کے لئے ڈیزائن کیا گیا ہے. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+    سٹیم بلاچین اور ٹوکن کی طرف سے پیش کردہ انعامات اور حوصلہ افزائی کا پروگرام سٹیم کو ریمپ پر پر چلنے والی کریپٹوکرانسی کی دینا میں مرکزی دھارے کے صارفین کے لئے ڈیزائن کیا گیا ہے. بلاکچین کی کارکردیگی کو بڑے پیمانےپر کرنسی اور پلیٹ فارم کو ذہن میں رکھ کے ڈیزن کیا گیا ہے۔ جب بجلی کی تیز رفتار پروسیسنگ اور فیس کے بنا ٹرانزیکشنز کے ساتھ مل کر، سٹیم دنیا بھر میں لوگوں کی طرف سے استعمال ہونے والی ایک اہم blockchain ٹیکنالوجی کی حیثیت رکھتا ہے.
   </p>
   
   <footnotes>

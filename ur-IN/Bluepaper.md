@@ -182,15 +182,15 @@
   </h3>
   
   <p>
-    کسی بھی پوسٹ کے لئے وہاں مختلف فراد ہوسکتے ہے جو انعام میں مالیاتی دلچسپی رکھتے ہے اس میں مصنف، ممکنہ مصنفین، حوالہ جات، میزبان فراہم کرنے والے، بلاگز شامل ہے جن میں بلاکس کے تبصرے، اور ڈیولپرڑ کے لیے آوزوار شامل ہے۔ Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+    کسی بھی پوسٹ کے لئے وہاں مختلف فراد ہوسکتے ہے جو انعام میں مالیاتی دلچسپی رکھتے ہے اس میں مصنف، ممکنہ مصنفین، حوالہ جات، میزبان فراہم کرنے والے، بلاگز شامل ہے جن میں بلاکس کے تبصرے، اور ڈیولپرڑ کے لیے آوزوار شامل ہے۔ کسی بھی پوسٹ یا تبصرہ کی تعمیر کے لئے جو بھی ویب سائٹ یا آوازر کا استعمال کیا جاتا ہے اسے اس بات کا تعین کرنے کی صلاحیت ہوگی کہ اس سے مختلف جماعتوں میں کیسے تقسیم کیا جاسکتا ہے. یہ مختلف تعاون کے لئے اجازت دیتا ہے، اور اس کے ساتھ ساتھ پلیٹ فارموں کا ایک طریقہ ہے جو سٹیم بلاچین کے سب سے اوپر اپنے صارفین سے انعامات کا ایک حصہ جمع کرنے کے لئے بنایا گیا ہے.
   </p>
   
   <h3>
-    Smart Media Tokens (SMT)
+    سمیٹ میڈیا ٹوکنز (ایس ایم ٹی)
   </h3>
   
   <p>
-    Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+    سمیٹ میڈیا ٹوکنیں اصل ٹکنز ہے جو سٹیم بلاکچین پر تعمیر کی جا سکتی ہے۔ STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
   </p>
   
   <h3>

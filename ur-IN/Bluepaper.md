@@ -222,11 +222,11 @@
   </p>
   
   <p>
-    نظام کے استعمال پر مناسب حدود رکھنے کے لئے، ہر صارف کو ایک محدود بینڈوڈتھ دیا جاتا ہے جب بھی صارفین بلاک چین آپریشنز جیسے ٹوکن ٹرانسفرز،مواد کی پوسٹنگ اور ووٹنگ کرتے ہے تو یہ ان کے بینڈوڈتھ کا ایک حصہ استعمال کرتا ہے. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+    نظام کے استعمال پر مناسب حدود رکھنے کے لئے، ہر صارف کو ایک محدود بینڈوڈتھ دیا جاتا ہے جب بھی صارفین بلاک چین آپریشنز جیسے ٹوکن ٹرانسفرز،مواد کی پوسٹنگ اور ووٹنگ کرتے ہے تو یہ ان کے بینڈوڈتھ کا ایک حصہ استعمال کرتا ہے. اگر صارفین ان کے بینڈوڈتھ کامقررہ بونس ختم کرتے ہے، تو ان کو بینڈوڈتھ ریچارج تک اضافی اقدامات انجام دینے کا انتظار کرنا ہوگا.
   </p>
   
   <p>
-    Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+    بینڈوڈتھ حدود نیٹورک کے استعمال پر مبنی کرتا ہے، لہذا جب نیٹورک کا استعمال کم ہو اس وقت صارفین کو اعلی بینڈ وڈتھ فراہم ہوتی ہے. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
   </p>
   
   <h2>

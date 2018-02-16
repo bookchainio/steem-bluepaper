@@ -226,11 +226,11 @@
   </p>
   
   <p>
-    بینڈوڈتھ حدود نیٹورک کے استعمال پر مبنی کرتا ہے، لہذا جب نیٹورک کا استعمال کم ہو اس وقت صارفین کو اعلی بینڈ وڈتھ فراہم ہوتی ہے. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+    بینڈوڈتھ حدود نیٹورک کے استعمال پر مبنی کرتا ہے، لہذا جب نیٹورک کا استعمال کم ہو اس وقت صارفین کو اعلی بینڈ وڈتھ فراہم ہوتی ہے. بینڈوڈتھ کی رقم اکاؤنٹ کو صارف کے سٹیم پاور کی مقدار سے براہ راست تناسب ہوتی ہے,لہذا صارف ہمیشہ اضافی سٹیم پاور حاصل کرکے اپنی بینڈوڈتھ کے بونس میں اضافہ کرسکتے ہیں.
   </p>
   
   <h2>
-    Conclusion
+    نتیجہ
   </h2>
   
   <p>

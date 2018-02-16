@@ -198,11 +198,11 @@
   </h3>
   
   <p>
-    اگر صارف کا اکاؤنٹ کےساتھ سمجھوتہ ہوا ہے تو، وہ اپنی ذاتی چابی کو استعمال کرکے اپنی چابیاں تبدیل کرسکتا ہے۔ In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+    اگر صارف کا اکاؤنٹ کےساتھ سمجھوتہ ہوا ہے تو، وہ اپنی ذاتی چابی کو استعمال کرکے اپنی چابیاں تبدیل کرسکتا ہے۔ اس واقعے میں حملہ آور نجی اونر کی کو اور اکاؤنٹ پر پاسویڈ تبدیل کرنے میں کامیاب ہوتا ہے تو صارف کے پاس 30 دن ہے کہ وہ سٹیم کی صنعت کے ذریعہ پہلے پرانی نجی کی جمع کروائیں اور چوری والے اکاؤنٹ کی وصولی کے عمل کے ذریعے، اپنے اکاؤنٹ پر کنٹرول حاصل کریں۔ یہ سٹیم کو رجسٹریشن خدمات فراہم کرتا ہے جو کسی شخص یا کمپنی کی طرف سے کی پیشکش کی جا سکتا ہے۔ یہ رجسٹرار کے لیے ظروری نہیں ہے کہ وہ صارفین کے لیے سروس فراہم کریے، لیکن یہ ایک رجسٹرار کے صارفین کے تجربے کی قدر میں اضافہ کرتا ہے۔
   </p>
   
   <h3>
-    Security Through Time-Locks
+    وقتی تالے کے ذریعہ سیکورٹی
   </h3>
   
   <p>

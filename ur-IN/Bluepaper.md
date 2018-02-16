@@ -170,7 +170,7 @@
   </p>
   
   <h3>
-    Multi Sig Authorities
+    ملٹی سین حکامات
   </h3>
   
   <p>

@@ -210,15 +210,15 @@
   </p>
   
   <p>
-    سٹیم بلاچین صارفین کو بچت اکاؤنٹ میں سے اپنے STEEM اور SBD ٹوکن کو ذخیرہ کرنے کی اجازت بھی دیتا ہے، اسی واجہ سے فنڈز کو تین دن کے انتظار کی مدت کے بعد ہی واپس لیا جا سکے. اس کے علاوہ،،سٹیم جو 13 ہفتوں کی بنیان شیڈول میں منعقد ہوتا ہے وہ صرف ہر ہفتے کے ابتدائی انتظار کے بعد، ہر ہفتے 1/13 کی شرح میں لیا جا سکتا ہے. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+    سٹیم بلاچین صارفین کو بچت اکاؤنٹ میں سے اپنے STEEM اور SBD ٹوکن کو ذخیرہ کرنے کی اجازت بھی دیتا ہے، اسی واجہ سے فنڈز کو تین دن کے انتظار کی مدت کے بعد ہی واپس لیا جا سکے. اس کے علاوہ،،سٹیم جو 13 ہفتوں کی بنیان شیڈول میں منعقد ہوتا ہے وہ صرف ہر ہفتے کے ابتدائی انتظار کے بعد، ہر ہفتے 1/13 کی شرح میں لیا جا سکتا ہے. یہ وقتی تالے ایک حملہ آور کو صارف کے فینڈو کے مکمل حصے تک رسائی حاصل کرنے سے روکتا ہے، تاکہ حقدار مالک کو اپنے اکاؤنٹ پہ کنڈول حاصل کرنے کا وقت ملے اس سے پہلے کہ ان کے تمام فنڈز حملہ آور لے جایے۔
   </p>
   
   <h3>
-    Bandwidth Rate Limiting for Fee-less Operations
+    مفت آپریشنز کے لئے بینڈوڈتھ کی شرح محدود
   </h3>
   
   <p>
-    Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+    کیونکہ گواہوں کو مکمل طور پر نیے زمانے کےٹوکن کے ذریعے ادا کیا جاتا ہے، بلاکسین کو طاقت دینے کے لئے صارف کو چارج کرنے کی کوئی ضرورت نہیں ہے۔ The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
   </p>
   
   <p>

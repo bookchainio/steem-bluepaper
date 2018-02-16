@@ -162,7 +162,7 @@
   </p>
   
   <p>
-    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ آکوٹ کی زیادہ حساس کاموں کے لئےاستعمال ہوتی ہے جیسے فنڈز کی منتقلی،پاور اپ/دوں ،ٹرانزیکشنز, سٹیم ڈالرز کو برنے, ووٹنگ گواہ، مارکیٹ آرڈرزرکھنا، اور پوسٹنگ کی کلید دوبارہ ترتیب دینا۔ The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ آکوٹ کی زیادہ حساس کاموں کے لئےاستعمال ہوتی ہے جیسے فنڈز کی منتقلی،پاور اپ/دوں ،ٹرانزیکشنز, سٹیم ڈالرز کو برنے, ووٹنگ گواہ، مارکیٹ آرڈرزرکھنا، اور پوسٹنگ کی کلید دوبارہ ترتیب دینا۔ اونر کی صرف ظرورت پڑنے پر ہی استعمال کرے۔ یہ سب سے زیادہ طاقتور کی ہے کیونکہ یہ اکؤنٹ کی کسی بھی کی کو تبدیل کر سکتا ہے، اونر کی کو بھی، اور اکاؤنٹس کی وصولی کے دوران ملکیت ثابت کرنے کے وقت. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
   </p>
   
   <p>

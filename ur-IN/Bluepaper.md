@@ -174,7 +174,7 @@
   </h3>
   
   <p>
-    The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+    سٹیم بلاچین کو ایک سے زیادہ اداروں میں تقسیم کرنے کی اجازت دیتا ہے،تاکہ بہت سے صارفین کو اسی اختیار حاصل ہو یا ایک سے زیادہ اداروں کو یہ لازمی طور پر ایک ٹرانزیکشن کو اختیار کرنے کی ضرورت ہوتی ہے اس کو درست کنفرم کرنے کے لیے۔ This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
   </p>
   
   <h3>

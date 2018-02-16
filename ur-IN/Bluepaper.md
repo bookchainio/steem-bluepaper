@@ -166,7 +166,7 @@
   </p>
   
   <p>
-    سٹیم ماسٹر پاسوٹ کے استعمال کی سہولیات دیتا ہے جس سے پھر تمام تین چابیاں خفیہ رہتی ہے. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+    سٹیم ماسٹر پاسوٹ کے استعمال کی سہولیات دیتا ہے جس سے پھر تمام تین چابیاں خفیہ رہتی ہے. ویب سائٹس ایک ماسٹر پاسورڈ کا استعمال کرسکتے ہے جوضروری نجی کی کے ساتھ ردعمل اور ضابطہ اخلاق کرتے ہے۔ ماسٹر پاسواڑز صارفین کو بعض خدمات پر کسی بھی خدمت میں منتقل کرنے سے غیر مناسب چابیاں رکھنے کے لئے پر اعتماد کرنے کی اجازت دیتا ہے،اس طرح صارف کے تجربے کو برقرار رکھنے کےلیے ایک محفوظ کلائنٹ سلائڈ سائنگ ماحول کے پیدا کرتا ہے .
   </p>
   
   <h3>

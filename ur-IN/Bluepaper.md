@@ -206,11 +206,11 @@
   </h3>
   
   <p>
-    اگر کسی صارف کے ایکٹو یا اونر کے ساتھ سمجھوتا ہوا ہو تو، حملہ آور اس اکاؤنٹ میں تمام فنڈز کی مکمل رسائی حاصل کرے گا۔ Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+    اگر کسی صارف کے ایکٹو یا اونر کے ساتھ سمجھوتا ہوا ہو تو، حملہ آور اس اکاؤنٹ میں تمام فنڈز کی مکمل رسائی حاصل کرے گا۔ کیونکہ بلاچین ٹرانزیکشن نابدانے والی ہے، صارفین کو ان کے فنڈز کو چوری کرنے کے بعد واپس لینے کا کوئی طریقہ نہیں ہے.
   </p>
   
   <p>
-    The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+    سٹیم بلاچین صارفین کو بچت اکاؤنٹ میں سے اپنے STEEM اور SBD ٹوکن کو ذخیرہ کرنے کی اجازت بھی دیتا ہے، اسی واجہ سے فنڈز کو تین دن کے انتظار کی مدت کے بعد ہی واپس لیا جا سکے. اس کے علاوہ،،سٹیم جو 13 ہفتوں کی بنیان شیڈول میں منعقد ہوتا ہے وہ صرف ہر ہفتے کے ابتدائی انتظار کے بعد، ہر ہفتے 1/13 کی شرح میں لیا جا سکتا ہے. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
   </p>
   
   <h3>

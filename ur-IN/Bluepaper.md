@@ -162,11 +162,11 @@
   </p>
   
   <p>
-    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ آکوٹ کی زیادہ حساس کاموں کے لئےاستعمال ہوتی ہے جیسے فنڈز کی منتقلی،پاور اپ/دوں ،ٹرانزیکشنز, سٹیم ڈالرز کو برنے, ووٹنگ گواہ، مارکیٹ آرڈرزرکھنا، اور پوسٹنگ کی کلید دوبارہ ترتیب دینا۔ اونر کی صرف ظرورت پڑنے پر ہی استعمال کرے۔ یہ سب سے زیادہ طاقتور کی ہے کیونکہ یہ اکؤنٹ کی کسی بھی کی کو تبدیل کر سکتا ہے، اونر کی کو بھی، اور اکاؤنٹس کی وصولی کے دوران ملکیت ثابت کرنے کے وقت. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
+    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ آکوٹ کی زیادہ حساس کاموں کے لئےاستعمال ہوتی ہے جیسے فنڈز کی منتقلی،پاور اپ/دوں ،ٹرانزیکشنز, سٹیم ڈالرز کو برنے, ووٹنگ گواہ، مارکیٹ آرڈرزرکھنا، اور پوسٹنگ کی کلید دوبارہ ترتیب دینا۔ اونر کی صرف ظرورت پڑنے پر ہی استعمال کرے۔ یہ سب سے زیادہ طاقتور کی ہے کیونکہ یہ اکؤنٹ کی کسی بھی کی کو تبدیل کر سکتا ہے، اونر کی کو بھی، اور اکاؤنٹس کی وصولی کے دوران ملکیت ثابت کرنے کے وقت. مثالی طور پر اس کو آف لائن ذخیرہ میں رکھنا ہوتا ہے، اور صرف اس وقت استعمال ہوتا ہے جب اکاؤنٹس کی کیز تبدیل کرنی ہوگی یا سمجھوتہ اکاؤنٹ کو بحال کرنے کی ضرورت ہو.
   </p>
   
   <p>
-    Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+    سٹیم ماسٹر پاسوٹ کے استعمال کی سہولیات دیتا ہے جس سے پھر تمام تین چابیاں خفیہ رہتی ہے. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
   </p>
   
   <h3>

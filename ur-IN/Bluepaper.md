@@ -218,11 +218,11 @@
   </h3>
   
   <p>
-    کیونکہ گواہوں کو مکمل طور پر نیے زمانے کےٹوکن کے ذریعے ادا کیا جاتا ہے، بلاکسین کو طاقت دینے کے لئے صارف کو چارج کرنے کی کوئی ضرورت نہیں ہے۔ The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+    کیونکہ گواہوں کو مکمل طور پر نیے زمانے کےٹوکن کے ذریعے ادا کیا جاتا ہے، بلاکسین کو طاقت دینے کے لئے صارف کو چارج کرنے کی کوئی ضرورت نہیں ہے۔ فیس چارج کرنے کا صرف یہی وجہ ہے کہ صارفین کو ٹرانزیکشن کی غیر مناسب رقم،جو ممکنہ طور پر بلاچین کی کارکردگی پر اثر انداز ہوسکتے ہے.
   </p>
   
   <p>
-    In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+    نظام کے استعمال پر مناسب حدود رکھنے کے لئے، ہر صارف کو ایک محدود بینڈوڈتھ دیا جاتا ہے جب بھی صارفین بلاک چین آپریشنز جیسے ٹوکن ٹرانسفرز،مواد کی پوسٹنگ اور ووٹنگ کرتے ہے تو یہ ان کے بینڈوڈتھ کا ایک حصہ استعمال کرتا ہے. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
   </p>
   
   <p>

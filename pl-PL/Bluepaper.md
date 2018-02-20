@@ -26,25 +26,25 @@ Z wszystkich nowych tokenów produkowanych przez blockchain co roku, 75% tych to
 
 #### Nagrody dla Twórców Treści i Kuratorów
 
-Użytkownicy, którzy tworzą kontent dodają wartość sieci tworząc materiał, który zachęci nowych użytkowników do dołączenia do platformy oraz sprawiają, że obecni użytkownicy są zaangażowani i zabawieni. Pomaga to w dystrybucji waluty do szerszego grona użytkowników i zwiększa działanie sieci. Użytkownicy którzy spędzają czas na ocenie i głosowaniu na kontent grają istotną rolę w rozprowadzeniu waluty do użytkowników, którzy dodają sieci największą wartość. Blockchain nagradza obie z tych czynności w zależności od ich wartości w oparciu o wspólną mądrość tłumu ocenianą dzięki ważonemu systemowi głosowania.
+Użytkownicy, którzy tworzą treści dodają wartość sieci tworzą materiał, który zachęci nowych użytkowników do dołączenia do platformy oraz sprawiają, że obecni użytkownicy są zaangażowani i mają zapewnioną rozrywkę. Pomaga to w dystrybucji waluty do szerszego grona użytkowników i zwiększa wpływ sieci. Użytkownicy którzy spędzają czas na ocenie i głosowaniu na treści grają istotną rolę w rozprowadzeniu waluty do użytkowników, którzy dodają sieci największą wartość. Blockchain nagradza obie z tych czynności, w zależności od ich wartości, w oparciu o wspólną mądrość tłumu wyrażoną dzięki ważonemu systemowi głosowania.
 
 #### Głosowanie Udziałami by ocenić Rozprowadzenie Nagród
 
-Steem operuje na zasadzie - jeden STEEM, jeden głos. Dzięki temu modelowi osoby, które przyczyniły się do platformy najbardziej, co oceniane jest po balansie ich konta, mają największy wpływ na ocenę kontrybucji innych użytkowników. Udziały mogą być kupione lub zdobyte. Użytkownicy nie mogą zdobyć przewagi tworząc wiele kont, bo jedno konto z daną ilością udziałów będzie mieć taki sam wpływ, jak dwa konta dzielące te samą ilość udziału. Jedyny sposób na zwiększenie wpływu danego użytkownika to zwiększenie ilości posiadanych tokenów.
+Steem operuje na zasadzie - jeden STEEM, jeden głos. Dzięki temu modelowi, osoby które przyczyniły się do platformy najbardziej, co oceniane jest po balansie ich konta, mają największy wpływ na ocenę kontrybucji innych użytkowników. Udziały mogą być kupione lub zdobyte. Użytkownicy nie mogą zdobyć przewagi tworząc wiele kont, bo jedno konto z daną ilością udziałów będzie mieć taki sam wpływ, jak dwa konta dzielące te samą ilość udziału. Jedyny sposób na zwiększenie wpływu danego użytkownika to zwiększenie ilości posiadanych udziałów.
 
-Ponadto, Steem pozwala użytkownikom jedynie na głosowanie przy użyciu STEEM gdy jest on zamrożony na okres 13 tygodni w zamrożonym tokenie nazwanym Steem Power. Dzięki temu modelowi, użytkownicy są finansowo zachęceni do głosowania w sposób, który zwiększa długoterminową wartość ich STEEMu.
+Ponadto, Steem pozwala użytkownikom jedynie na głosowanie przy użyciu STEEM gdy jest on zamrożony na okres 13 tygodni w zamrożonym tokenie nazwanym Steem Power. Dzięki temu modelowi, użytkownicy są finansowo zachęcani do głosowania w sposób, który zwiększa długoterminową wartość ich STEEMu.
 
 ## Prędkość i Skalowalność Blockchainu Steem
 
-Blockchain Steem został stworzony z myślą o byciu jednym z najszybszych i najbardziej wydajnych blockchainów w historii, co jest konieczne by mógł wspierać ilość ruchu oczekiwanego od platformy socjalnej o wielkości większej niż Reddit. Steem przekroczył już ilość transakcji dokonancyh przez Bitcoin i jest w stanie skalować się do ponad 10,000 lub więcej transakcji na sekundę.
+Blockchain Steem został stworzony z myślą o byciu jednym z najszybszych i najbardziej wydajnych blockchainów w historii, co jest konieczne by mógł wspierać ilość ruchu oczekiwanego od platformy socjalnej większej niż Reddit. Steem przekroczył już ilość transakcji dokonanych przez Bitcoin i jest w stanie skalować się do ponad 10,000 lub więcej transakcji na sekundę.
 
 ### Zdelegowany Dowód Udziału (DPoS)
 
-Nieraz ograniczany przez Dowód Pracy (PoW) [^6], wiele blockchainów nie jest w stanie skalować się ponad 3 transakcji na sekundę, co jest frakcją całego ruchu finansowego na świecie. Steem potrzebował o wiele lepszego skalowania i większej prędkości niż to, co oferowało PoW, tak więc mniej znany algorytm o nazwie Zdelegowany Dowód Udziału (ang. Delegated Proof of Stake - DPoS)[^7] został wybrany jako fundament blockchainu przystosowanego do miliardów użytkowników.
+Nieraz ograniczany przez Dowód Pracy (PoW) [^6], wiele blockchainów nie jest w stanie skalować się ponad 3 transakcje na sekundę, co jest frakcją całego ruchu finansowego na świecie. Steem potrzebował o wiele lepszego skalowania i większej prędkości niż to, co oferowało PoW, tak więc mniej znany algorytm o nazwie Zdelegowany Dowód Udziału (ang. Delegated Proof of Stake - DPoS)[^7] został wybrany jako fundament blockchainu przystosowanego do miliardów użytkowników.
 
-Dzięki DPoS, blockchain Steem może generować nowy blok co 3 sekundy z minimalnym obiążeniem systemu obliczeniowego. To oznacza, że blockchain jest w stanie przetworzyć o wiele więcej transakcji i przetrzymywać więcej informacji, w tym kontentu.
+Dzięki DPoS, blockchain Steem może generować nowy blok co 3 sekundy przy minimalnym obiążeniu systemu obliczeniowego. To oznacza, że blockchain jest w stanie przetworzyć o wiele więcej transakcji i przetrzymywać więcej informacji, w tym treści.
 
-Poprzez zdefiniowanie zasad dla sytuacji, gdy wystąpi Hardfork, świadkowie wybrani przez DPoS mogą szybko i sprawnie zdecydować, czy wprowadzić zaproponowany hardfork, co pozwala na znacznie szybszą, w porównaniu do większości innych, ewolucję blockchainu Steem. Blockchain Steem został już z powodzeniem zforkowany 18 razy[^8] i za każdym razem gdy wystąpił Hardfork, po zakończeniu forka pozostał zaledwie jeden chain.
+Poprzez zdefiniowanie zasad dla sytuacji, gdy wystąpi Hardfork, świadkowie wybrani przez DPoS mogą szybko i sprawnie zdecydować, czy wprowadzić zaproponowany Hardfork, co pozwala na znacznie szybszą, w porównaniu do większości innych, ewolucję blockchainu Steem. Blockchain Steem został już z powodzeniem zforkowany 18 razy[^8] i za każdym razem gdy wystąpił Hardfork, po zakończeniu Forka pozostał zaledwie jeden chain.
 
 ### ChainBase
 
@@ -52,7 +52,7 @@ ChainBase[^9] to część blockchain stacku będąca bazą danych, zastąpiła G
 
 ### AppBase
 
-AppBase jest pierwszym krokiem w tworzeniu wielo-chain'owego FABRIC'a. AppBase pozwala wielu komponentom blockchainu Steem na stanie się modularnym poprzez stworzenie dodatkowych niewymagających potwierdzenia blockchainów jako dedykowanych wtyczek. Te wtyczki mogą zostać zaktualizowane zdecydowanie szybciej, ponieważ nie wymagają powtarzania całego blockchainu. Dzięki temu steemd[^11] jest o wiele bardziej wydajny i łatwiejszy w utrzymaniu i skalowaniu.
+AppBase jest pierwszym krokiem w tworzeniu wielo-chain'owego FABRIC-a. AppBase pozwala wielu komponentom blockchainu Steem na stanie się modularnym poprzez stworzenie dodatkowych niewymagających potwierdzenia blockchainów jako dedykowanych wtyczek. Te wtyczki mogą zostać zaktualizowane zdecydowanie szybciej, ponieważ nie wymagają powtarzania całego blockchainu. Dzięki temu steemd[^11] jest o wiele bardziej wydajny i łatwiejszy w utrzymaniu i skalowaniu.
 
 Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym komputerom, utrzymywać róznych części blockchain'u Steem. Jest to zdecydowanie bardziej wydajne, niż wymaganie, żeby każdy rdzeń i każdy komputer w sieci utrzymywał cały blockchain. Dzielenie blockchain'u na moduły pozwala mu zmaksymalizować korzyści z modułowej natury komputerów. Jest to konieczny krok w długim procesie tworzenia całkowicie równoległego, w pełni zoptymalizowanego blockchain'u.
 

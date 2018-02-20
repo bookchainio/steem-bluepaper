@@ -52,9 +52,9 @@ ChainBase[^9] to część blockchain stacku będąca bazą danych, zastąpiła G
 
 ### AppBase
 
-AppBase jest pierwszym krokiem w tworzeniu wielo-chain'owego FABRIC-a. AppBase pozwala wielu komponentom blockchainu Steem na stanie się modularnym poprzez stworzenie dodatkowych niewymagających potwierdzenia blockchainów jako dedykowanych wtyczek. Te wtyczki mogą zostać zaktualizowane zdecydowanie szybciej, ponieważ nie wymagają powtarzania całego blockchainu. Dzięki temu steemd[^11] jest o wiele bardziej wydajny i łatwiejszy w utrzymaniu i skalowaniu.
+AppBase jest pierwszym krokiem w tworzeniu wielo-chain'owego FABRIC-a. AppBase pozwala wielu komponentom blockchainu Steem na stanie się modularnym poprzez stworzenie dodatkowych niewymagających potwierdzenia blockchainów jako dedykowanych wtyczek. Te wtyczki mogą zostać zaktualizowane zdecydowanie szybciej, ponieważ nie wymagają powtarzania całego blockchain-u. Dzięki temu steemd[^11] jest o wiele bardziej wydajny i łatwiejszy w utrzymaniu i skalowaniu.
 
-Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym komputerom, utrzymywać róznych części blockchain'u Steem. Jest to zdecydowanie bardziej wydajne, niż wymaganie, żeby każdy rdzeń i każdy komputer w sieci utrzymywał cały blockchain. Dzielenie blockchain'u na moduły pozwala mu zmaksymalizować korzyści z modułowej natury komputerów. Jest to konieczny krok w długim procesie tworzenia całkowicie równoległego, w pełni zoptymalizowanego blockchain'u.
+Praktycznie rzecz biorąc, AppBase pozwala róznym rdzeniom, a nawet róznym komputerom, utrzymywać rózne części blockchain-u Steem. Jest to zdecydowanie bardziej wydajne, niż wymaganie, żeby każdy rdzeń i każdy komputer w sieci utrzymywał cały blockchain. Dzielenie blockchain-u na moduły pozwala mu zmaksymalizować korzyści z modułowej natury komputerów. Jest to konieczny krok w długim procesie tworzenia całkowicie równoległego, w pełni zoptymalizowanego blockchain-u.
 
 ## Funkcje Platformy Steem
 

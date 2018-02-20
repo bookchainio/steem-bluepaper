@@ -62,11 +62,11 @@ Blockchain Steem pełni podwójny cel bycia systemem przetwarzania cyfrowego tok
 
 ### Podstawe Informacje Przeznaczone dla Aplikacji Treści
 
-Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania różnych typów treści bezpośrednio i trwale w niezmiennym rejestrze blockchain-u w formie zwykłego tekstu. Dane raz zapisane w blockchain-ie stają sie publicznie dostępne dla deweloperów do dalszego wykorzystywania. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain-ie używając dostępnych API. Parę podstawowych informacji blockchain'u, z których deweloperzy mogą korzystać, zawierają: Nazwy Kont, Posty, Komentarze, Głosy i Stan Konta.
+Steem oferuje użytkownikom unikalną możliwość publikacji i przechowywania różnych typów treści bezpośrednio i trwale w niezmiennym rejestrze blockchain-u w formie zwykłego tekstu. Dane raz zapisane w blockchain-ie stają sie publicznie dostępne dla deweloperów do dalszego wykorzystywania. Deweloperzy są w stanie wejść w interakcje z zawartością bezpośrednio w blockchain-ie używając dostępnych API. Parę podstawowych informacji blockchain-u, z których deweloperzy mogą korzystać, zawierają: Nazwy Kont, Posty, Komentarze, Głosy i Stan Konta.
 
 ### Natywny System Nazw
 
-Adresy portfeli używane przez wiele technologii blockchain'owych, takich jak Bitcoin czy Ethereum, historycznie składały się z długich linijek losowych liter i liczb, te adresy jednak mogą powodować trudności z dokonywaniem transakcji z innymi użytkownikami w typowym kontekscie internetowego medium społecznościowego, ponieważ użytkownicy nie są w stanie zapamiętać długich adresów. Blockchain Steem używa nazwy użytkownika każdego uczestnika jako adresu jego portfela, co wzmacnia doświadczenie użytkownika dla uczestników, którzy próbują wysłać żetony, ponieważ mogą zweryfikować adresy z własnej pamięci.
+Adresy portfeli używane przez wiele technologii blockchain-owych, takich jak Bitcoin czy Ethereum, historycznie składały się z długich linijek losowych liter i liczb, te adresy jednak mogą powodować trudności z dokonywaniem transakcji z innymi użytkownikami w typowym kontekście internetowego medium społecznościowego, ponieważ użytkownicy nie są w stanie zapamiętać długich adresów. Blockchain Steem używa nazwy użytkownika każdego uczestnika jako adresu jego portfela, co wzmacnia doświadczenie użytkownika dla uczestników, którzy próbują wysłać żetony, ponieważ mogą zweryfikować adresy z własnej pamięci.
 
 ### Steem Blockchain Dollars (SBD)
 

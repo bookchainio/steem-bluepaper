@@ -10,13 +10,13 @@ Na rynku kryptowalut, unikalne właściwości STEEMu sprawiają, że jest zarów
 
 Oprócz tych postępów w technologi blockchainu i tokenów, Steem jako system zapewnia dodatkowe funkcjonalności by poprawić Ux (doświadczenia użytkownika), takich jak Odzyskiwanie Skradzionego Konta [^5], usługi depozytowe, promowanie zawartości, system reputacji oraz konto oszczędnościowe. To wszystko jest robione, jednocześnie zapewniając użytkownikom trzysekundowe czasy potwierdzenia i zerowe opłaty na wszystkich transakcjach. To wszystko pozwala Steemowi wspierać misję przybliżenia sprytnych i społecznych walut wydawcom i twórcom społeczności w całym Internecie.
 
-## Dowody Myślenia: Błyskotliwe i Socjalne Tokeny
+## Dowody Myślenia: Sprytne i Socjalne Tokeny
 
-Systemy tokenów, które nagradzają użytkowników do opartej na tokenach społeczności wymagają mechanizmów, które pozwolą na rozpoznanie i wyznaczenie wartości socjalnych wartości kontentu: nazywamy to "Proof-of-Brain" (Dowodami Myślenia).
+Systemy tokenów, które nagradzają użytkowników kza ich wkład do opartej na tokenach społeczności wymagają mechanizmów, które pozwolą na rozpoznanie i wyznaczenie wartości socjalnych wartości zawartości: nazywamy to "Proof-of-Brain" (Dowodami Myślenia)
 
 ### Pula Nagród ("Skąd biorą się tokeny?")
 
-Jeden z najbardziej innowacyjnych (i najbardziej niezrozumianych) aspektów blockchainu Steem to "Pula Nagród", z której tokeny rozprowadzone są do twórców dzielących się wartościowym kontentem. By zrozumieć czym jest "Pula Nagród", trzeba najpierw zrozumieć, że tokeny w blockchainach DPoS tworzone są inaczej niż w blockchainach PoW. W tradycyjnych blockchainach PoW, tokeny tworzone są regularnie lecz losowo rozprowadzane między ludzi, których maszyny wykonują pracę ("kopaczy").
+Jeden z najbardziej innowacyjnych (i najbardziej niezrozumianych) aspektów blockchainu Steem to "Pula Nagród", z której tokeny rozprowadzone są do twórców dzielących się wartościową zawartością. By zrozumieć czym jest "Pula Nagród", trzeba najpierw zrozumieć, że tokeny w blockchainach DPoS tworzone są inaczej niż w blockchainach PoW. W tradycyjnych blockchainach PoW, tokeny tworzone są regularnie lecz losowo rozprowadzane między ludzi, których maszyny wykonują pracę (tzw. "kopaczy").
 
 W przeciwieństwie do kryptowalut opartych tylko na PoW, tokeny Steem generowane są w stałej ilości jednego bloku na trzy sekundy. Te tokeny rozprowadzane są do różnych działaczy systemu w oparciu o określone zasady blockchainu. Ci działacze, tacy jak twórcy kontentu, świadkowie (and. witness) i kuratorzy, rywalizują o tokeny na specjalne sposoby. W przeciwieństwie do tradycyjnych sposobów dystrybucji PoW, gdzie kopacze rywalizują przez czystą moc obliczeniową, działacze w sieci Steem są zachęcani do rywalizacji w sposoby, które nadają sieci wartość.
 

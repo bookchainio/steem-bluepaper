@@ -92,11 +92,11 @@ Steem ułatwia także używanie Hasła Głównego, które koduje wszystkie trzy 
 
 ### Administracja Wielopodpisowa
 
-Blockchain Steem pozwala administracji być podzieloną między wiele podmiotów, tak że wiele użytkowników może dzielić tą samą administracje lub wiele podmiotów jest potrzebnych aby zaautoryzować transakcje, żeby była ważna. Jest to robione w ten sam sposób jak Bitshares[^16] gdzie każda publiczna/prywatna para kluczy ma przypisaną wagę i próg jest zdefiniowany przez administrację. Aby transakcja była ważna, wiele podmiotów musi podpisać ją tak aby suma ich wag była równa lub większa od progu.
+Blockchain Steem pozwala administracji być podzieloną między wiele podmiotów, tak że wiele użytkowników może dzielić tą samą administracje lub wiele podmiotów jest potrzebnych aby zaautoryzować transakcję, aby była ważna. Jest to robione w ten sam sposób jak w Bitshares[^16] gdzie każda publiczna/prywatna para kluczy ma przypisaną wagę i jej próg jest zdefiniowany przez administrację. Aby transakcja była ważna, wiele podmiotów musi podpisać ją tak aby suma ich wag była równa lub większa od progu.
 
-### Wielu Beneficjantów Nagrody
+### Beneficjenci Wielu Nagród
 
-Dla każdego posta może być wiele różnych ludzi, którzy mają interes finansowy w nagrodzie. Zalicza to autora, możliwych współautorów, polecający, dostawcy hostingu, blog, o którym osadzony blockchain komentuje i narzędzia deweloperskie. Jakakolwiek strona lub narzędzie, które jest używane do stworzenia posta lub komentarza będzie miało możliwość ustawienia jak nagrody za ten komentarz będą podzielone między wiele grup. Pozwala to na rózne formy współpracy jak również możliwość dla platform, które są zbudowane na blockchain'ie Steem aby zebrać część nagród od ich użytkowników.
+Dla każdego postu może być wiele różnych ludzi, którzy mają interes finansowy w nagrodzie. Zalicza to autora, możliwych współautorów, polecający, dostawcy hostingu, blog, o którym osadzony blockchain komentuje i narzędzia deweloperskie. Jakakolwiek strona lub narzędzie, które jest używane do stworzenia posta lub komentarza będzie miało możliwość ustawienia jak nagrody za ten komentarz będą podzielone między wiele grup. Pozwala to na rózne formy współpracy jak również możliwość dla platform, które są zbudowane na blockchain'ie Steem aby zebrać część nagród od ich użytkowników.
 
 ### Smart Media Tokens (SMT)
 

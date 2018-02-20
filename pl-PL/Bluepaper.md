@@ -80,7 +80,7 @@ Blockchain Steem oferuję zdecentralizowaną giełdę żetonów, podobną do gie
 
 ### Płatności Poprzez Depozyt
 
-Nieodwracalna natura transakcji blockchain-owych jest ważną funkcją bezpieczeństwa, mimo że istnieje wiele przypadków, kiedy użytkownicy mogą być niespokojni wysyłając ich żetony do innej osoby bez możliwości odzyskania ich w razie, gdy drugi użytkownik nie wywiąże się ze swojej części umowy. Blockchain Steem oferuje możliwość dla uzytkowników by wysyłać pieniądze do siebie z pośrednikiem wyznaczonym jako usługodawcę depozytu. Użytkownicy działający jako usługodawcy depozytu są w stanie określić czy warunki umowy zostały spełnione i pozwolić albo na uwolnienie funduszy dla otrzymującego albo na zwrot do wysyłającego.
+Nieodwracalna natura transakcji blockchain-owych jest ważną funkcją bezpieczeństwa, mimo że istnieje wiele przypadków, kiedy użytkownicy mogą być niespokojni wysyłając ich żetony do innej osoby bez możliwości odzyskania ich w razie, gdy drugi użytkownik nie wywiąże się ze swojej części umowy. Blockchain Steem oferuje możliwość dla uzytkowników by wysyłać pieniądze do siebie z pośrednikiem wyznaczonym jako usługodawcę depozytu. Użytkownicy działający jako usługodawcy depozytu są w stanie określić czy warunki umowy zostały spełnione i pozwolić albo na uwolnienie funduszy do otrzymującego albo na zwrot do wysyłającego.
 
 ### Hierarchiczna Struktura Prywatnych Kluczy
 

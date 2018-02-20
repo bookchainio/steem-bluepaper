@@ -70,9 +70,9 @@ Adresy portfeli używane przez wiele technologii blockchain-owych, takich jak Bi
 
 ### Steem Blockchain Dollars (SBD)
 
-Wielu użytkowników, którzy są wprowadzani do kryptowalut, ma problem ze zrozumieniem jak "magiczny internetowy token" rozdawany przez platforme może mieć wartość w prawdziwym świecie. W celu pomocy w wypełnianiu luki pomiędzy bardziej tradycyjnymi systemami pieniędzy fiducjarnych, do których przeciętni użytkownicy są przyzwyczajeni, oraz z tokenami kryptowaluty, które są rozdawane poprzez platforme, została stworzona nowa waluta nazwana Steem Blockchain Dollars (SBD).
+Wielu użytkowników, którzy są wprowadzani do świata kryptowalut, ma problem ze zrozumieniem jak "magiczny internetowy token" rozdawany przez platformę może mieć wartość w prawdziwym świecie. W celu pomocy w wypełnianiu luki pomiędzy bardziej tradycyjnymi systemami pieniędzy fiducjarnych, do których przeciętni użytkownicy są przyzwyczajeni, oraz z tokenami kryptowaluty, które są rozdawane poprzez platformę, została stworzona nowa waluta nazwana Steem Blockchain Dollars (SBD).
 
-Żetony SBD są zaprojektowane tak, by dokladnie odzwiercietlać cenę jednego dolara, aby użytkownicy, którzy je otrzymują mogli wiedzieć ile, w przybliżeniu, są warte w odniesieniu do "prawdziwych dolarów". Żetony SBD również oferują relatywnie stabilną walutę dla użytkowników do przetrzymywania jeżeli chcą utrzymać wartość ich konta w stosunku do dolara. Bardziej szczegółowe techniczne wyjaśnienie może zostać znalezione w Technicznym Whitepaperze Steem.[^12]
+Żetony SBD są zaprojektowane tak, by dokładnie odzwierciedlać cenę jednego dolara, aby użytkownicy, którzy je otrzymują mogli wiedzieć ile, w przybliżeniu, są warte w odniesieniu do "prawdziwych dolarów". Żetony SBD również oferują relatywnie stabilną walutę dla użytkowników do przetrzymywania jeżeli chcą utrzymać wartość ich konta w stosunku do dolara. Bardziej szczegółowe techniczne wyjaśnienie może zostać znalezione w Technicznym Whitepaperze Steem.[^12]
 
 ### Zdecentralizowana Giełda
 

@@ -10,7 +10,7 @@
 
 بلوک چین اور ٹوکن ٹیکنالوجی میں مزید ترقی کی وجہ سےسٹیام ایک زیادہ خصوصیات والا نظام مہیا کر رہا ہےجس سے یوزر اپنی جانچ کو بڑھا سکتا ہےجیسا کہ چوری کے اکاؤنٹ کی وصولی [^5]یسکرو سروسزیوزر فروغ موادشہرت کا نظاماور بچت اکاؤنٹس. یہ سب ہو جاتا ہے استعمال کرنے والا تین سیکنڈز کے اندر تصدیق کرکے اس کو فراہم کر دیتا ہے اور ان تمام لینے دینے میں ہدیہ زیر ہوتا ہے. ان سب کی اجازت دیتا ہے اور مدد کرتا ہے جو کہ ہوشیاری کے ساتھ نوٹ کو معاشرے سے انٹرنیٹ پر ایک جگہ سے دوسری جگہ لاتی ہیں.
 
-## Proof of Brain: Smart and Social Tokens
+## دماغ کا ثبوت: اسمارٹ اور سماجی ٹوکن
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 

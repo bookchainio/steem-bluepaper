@@ -12,9 +12,9 @@
 
 ## دماغ کا ثبوت: اسمارٹ اور سماجی ٹوکن
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+ٹٹوکر وہ نظام ہے جس میں یوزر انعام کے طور پر ای کمیونٹی نظام میں اہم کردار ادا کرتی ہےجس میں میکنزم کام کرنے کی ضرورت ہوتی ہےاور مواد کے سماجی قیمتوں کا جائزہ لینے کو: ہم "دماغ کا ثبوت." کہتے ہیں-
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### انعامات پول ("ٹوکن کہاں سے آتے ہیں؟")
 
 One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 

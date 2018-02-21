@@ -16,7 +16,7 @@
 
 ### انعامات پول ("ٹوکن کہاں سے آتے ہیں؟")
 
-بلوک چین کی سب سے بڑی ایجا (اور سب سے زیادہ غلط فہمی والا) پہلوؤں میں سے ایک "انعامات پول"ہے جس سے ٹوکن قیمتی مواد حوالے تھیٹرز میں تقسیم ہوتے ہیں. انعامات پول کی اس بات کو سمجھنے کے لیےپہلے ہمیں یہ سمجھناہوگاکے ٹوکن پہلے مختلف ڈی پی او ایس بلوچ نمی پیدا ہوتا ہےپھر وہ بھی ویڈیو بلوکچن میں آتا ہے. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+بلوک چین کی سب سے بڑی ایجا (اور سب سے زیادہ غلط فہمی والا) پہلوؤں میں سے ایک "انعامات پول"ہے جس سے ٹوکن قیمتی مواد حوالے تھیٹرز میں تقسیم ہوتے ہیں. انعامات پول کی اس بات کو سمجھنے کے لیےپہلے ہمیں یہ سمجھناہوگاکے ٹوکن پہلے مختلف ڈی پی او ایس بلوچ نمی پیدا ہوتا ہےپھر وہ بھی ویڈیو بلوکچن میں آتا ہے. روایتی پی او ڈبلیو بلاک چین میںٹوکن روزانہ پیدا ہوتا ہےلیکن بے ترتیب تقسیمان لوگوں کی وجہ سے جن کی مشینیں ("معدنیات") کام کو سرانجام دے رہی ہے.
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

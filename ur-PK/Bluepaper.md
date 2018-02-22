@@ -22,9 +22,9 @@
 
 دسمبر 2016 ءکے شروع شروع میں 9.5% سے ریٹ کے حساب سے نیے ٹوکن آئے گئے تھےاور بعد میں ان کو کم کرکے 0.05% ہر 250000 بلاک پر لے آئےجو کہ تقریبا 0.5% سال بنتا ہے. اس کی مقدار لگتا رقم ہونے لگی اور ہالا کے یہ 0.95% تک پہنچ گیاکچھ ٹائم گزرنے کے بعد یہ تقریبا 20.5 پر سال پر پہنچ گیا.
 
-سٹیام بلاکچاان کی طرف سے پیدا کیے ہوئے ہر سال نئے ٹوکن کی فراہمی اس ٹوکن کا75فیصد مواد علامات پول میں چلا جاتا ہے جو مواد بنانے والے اور گوادر ٹیچرز میں تقسیم کیا جاتا ہے. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+سٹیام بلاکچاان کی طرف سے پیدا کیے ہوئے ہر سال نئے ٹوکن کی فراہمی اس ٹوکن کا75فیصد مواد علامات پول میں چلا جاتا ہے جو مواد بنانے والے اور گوادر ٹیچرز میں تقسیم کیا جاتا ہے. 15 فیصد معتبر ہولڈرز کو تقسیم کی جاتی ہیںاور دس پرسنٹ گواہ کو تقسیم کیا جاتا ہےڈی پی او ایس پروٹوکول کے اندر باہمی تعاون بلخ کے پروڈیوسر کو تقسیم کی جاتی ہے.
 
-#### Rewards for Content Creators and Curators
+#### مواد خالق اور کنورٹرز کے لئے انعامات
 
 The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 

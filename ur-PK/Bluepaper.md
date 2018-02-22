@@ -22,7 +22,7 @@
 
 دسمبر 2016 ءکے شروع شروع میں 9.5% سے ریٹ کے حساب سے نیے ٹوکن آئے گئے تھےاور بعد میں ان کو کم کرکے 0.05% ہر 250000 بلاک پر لے آئےجو کہ تقریبا 0.5% سال بنتا ہے. اس کی مقدار لگتا رقم ہونے لگی اور ہالا کے یہ 0.95% تک پہنچ گیاکچھ ٹائم گزرنے کے بعد یہ تقریبا 20.5 پر سال پر پہنچ گیا.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+سٹیام بلاکچاان کی طرف سے پیدا کیے ہوئے ہر سال نئے ٹوکن کی فراہمی اس ٹوکن کا75فیصد مواد علامات پول میں چلا جاتا ہے جو مواد بنانے والے اور گوادر ٹیچرز میں تقسیم کیا جاتا ہے. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
 #### Rewards for Content Creators and Curators
 

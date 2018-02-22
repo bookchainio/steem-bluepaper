@@ -20,7 +20,7 @@
 
 ضرب یا دھماکے کی نقل صوت کرپٹو کرنسی سے مختلف ہے سٹیم کا ٹوکن مخصوس ریٹ پر بنتا ہےجس کے بننے کے لیے تین سیکنڈ لگتے ہیں. اینٹوں کو ان کو کام کرنے والوں میں تقسیم کردیا جاتا ہےسٹیم کا نظام بلاگ چین کی وضاحت کرتا ہے. کام کرنے والا اسی طرح مواد پیدا کرتا ہےگواہوں اور محافظ اس کو ٹوکن کے لیے خصوصی انداز میں مکمل کرتے ہیں غیر مشابہ روایات کو وہ پسند نہیں کرتےضرب یا دھماکے کی نقل صوت مطلب ہے تقسیم کاری. اس کو بنانے والا خام شمار طاقت کا مقابلہ کرتا ہے جو سٹیم میں حوصلہ افزائی اور محنت سے اپنے کام کو مکمل کرتے ہیںان کی رقم ان کے نیٹ ورک اکاؤنٹ میں شامل کر دی جاتی ہے.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+دسمبر 2016 ءکے شروع شروع میں 9.5% سے ریٹ کے حساب سے نیے ٹوکن آئے گئے تھےاور بعد میں ان کو کم کرکے 0.05% ہر 250000 بلاک پر لے آئےجو کہ تقریبا 0.5% سال بنتا ہے. اس کی مقدار لگتا رقم ہونے لگی اور ہالا کے یہ 0.95% تک پہنچ گیاکچھ ٹائم گزرنے کے بعد یہ تقریبا 20.5 پر سال پر پہنچ گیا.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 

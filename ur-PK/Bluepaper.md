@@ -28,7 +28,7 @@
 
 وہ یوزر جو مواد فراہم کر رہے ہیں نیٹ ورک کی قیمت میں اضافہ کر رہے ہیںوہ ایسا مواد تیار کررہے ہیں جو ناصرف نے لوگوں کو اس پلیٹ فارم کی طرف گریزاں کررہا ہے بلکہ وہمجودہ یوزر کو خوش اور مصروف رکھتا ہے. یہ کرنسی لوگوں کی وسیع تعداد بڑھنے اور نیٹ ورک کے حقدار کو بڑھانے میں مدد دیتا ہے. یوزر جو وقت دے کر مواد کا اندازہ لگاتے ہے وہ دیتے ہیںاور ووٹ دینے میں اہم کردار ادا کر رہےاس کرنسی کو ان لوگوں میں بانٹنے میں جو اس کی قیمت میں زیادہ تر اضافہ کر رہے ہیں. بلوک چین انعامات دیتا ہے ان سرگرمیوں کو جو مطلقہ لوگوں کی اکثریت کی دنیائیں کی بنا پر حاصل کردہ ووٹ سے حاصل کیے گئے ہوں.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### انعامات کی تقسیم کا تعین کرنے کے لئے داںو پر لگا-ٹوکن کے ساتھ ووٹنگ
 
 Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 

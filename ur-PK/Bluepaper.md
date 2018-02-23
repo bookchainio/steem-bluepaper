@@ -26,7 +26,7 @@
 
 #### مواد خالق اور کنورٹرز کے لئے انعامات
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+وہ یوزر جو مواد فراہم کر رہے ہیں نیٹ ورک کی قیمت میں اضافہ کر رہے ہیںوہ ایسا مواد تیار کررہے ہیں جو ناصرف نے لوگوں کو اس پلیٹ فارم کی طرف گریزاں کررہا ہے بلکہ وہمجودہ یوزر کو خوش اور مصروف رکھتا ہے. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

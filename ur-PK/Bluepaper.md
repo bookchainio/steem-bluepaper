@@ -26,7 +26,7 @@
 
 #### مواد خالق اور کنورٹرز کے لئے انعامات
 
-وہ یوزر جو مواد فراہم کر رہے ہیں نیٹ ورک کی قیمت میں اضافہ کر رہے ہیںوہ ایسا مواد تیار کررہے ہیں جو ناصرف نے لوگوں کو اس پلیٹ فارم کی طرف گریزاں کررہا ہے بلکہ وہمجودہ یوزر کو خوش اور مصروف رکھتا ہے. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+وہ یوزر جو مواد فراہم کر رہے ہیں نیٹ ورک کی قیمت میں اضافہ کر رہے ہیںوہ ایسا مواد تیار کررہے ہیں جو ناصرف نے لوگوں کو اس پلیٹ فارم کی طرف گریزاں کررہا ہے بلکہ وہمجودہ یوزر کو خوش اور مصروف رکھتا ہے. یہ کرنسی لوگوں کی وسیع تعداد بڑھنے اور نیٹ ورک کے حقدار کو بڑھانے میں مدد دیتا ہے. یوزر جو وقت دے کر مواد کا اندازہ لگاتے ہے وہ دیتے ہیںاور ووٹ دینے میں اہم کردار ادا کر رہےاس کرنسی کو ان لوگوں میں بانٹنے میں جو اس کی قیمت میں زیادہ تر اضافہ کر رہے ہیں. بلوک چین انعامات دیتا ہے ان سرگرمیوں کو جو مطلقہ لوگوں کی اکثریت کی دنیائیں کی بنا پر حاصل کردہ ووٹ سے حاصل کیے گئے ہوں.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

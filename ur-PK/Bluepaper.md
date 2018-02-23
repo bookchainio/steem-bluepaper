@@ -34,9 +34,9 @@
 
 اس کے علاوہ سٹیم ممبر اس وقت ووٹ دینے کی اجازت دیتا ہے جب وہ ویسٹنگ شیڈول کے مطابق دیا جائے. اس ماڈل میں بھمبر کو ووٹ کرنے کے بدلے مالی فائدہ حاصل ہوگا جو ان کے سٹیم کی طویل مدتی قیمت کو زیادہ سے زیادہ بڑھائے گا.
 
-## Speed and Scale on the Steem Blockchain
+## اسٹیم بلاکچین پر رفتار اور پیمانہ
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+اسٹیم بلاکچین سب سے تیز اور سب سے زیادہ موثر بلاکس بننے کے لئے ڈیزائن کیا گیا ہےجس سے ٹریفک کی رقم اٹ کے سائز سے بڑے ایک سوشل میڈیا پلیٹ فارم پر توقع کی حمایت کرنے کے قابل ہو جائے کرنے کے لئے ضروری ہے. اسٹیم پہلے سے ہی ٹرانزیکشنز کی تعداد میں بکٹوئن سے پہلے چلے گئے ہیں اور فی سیکنڈ 10،000 یا اس سے زیادہ ٹرانزیکشن کی حمایت کرنے کے قابل ہے.
 
 ### Delegated Proof of Stake (DPoS)
 

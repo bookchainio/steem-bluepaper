@@ -63,11 +63,11 @@
 </h3>
 
 <p>
-  اپپ بیس کی پہلی اسٹیج یہ ہے کہ اس میں ہم بہت زیادہ کپڑے بنا سکتے ہیں. پپ بیس بہت سے اہم کامو کا اختیر دیتا ہے بلاک چین میں ہم جلد مقیاسی ہو سگتے ہیں بلاک چین کے لئے اس طرح اضافی وقف شدہ پلگ ان بنا کر. ان پلگنس کو جدید بنیا جا سگتا ہے بہت تیزی سے کیوں کے ان کو ضرور نہی دوبارہ بلاک چین میں داخل کرنے کی. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  اپپ بیس کی پہلی اسٹیج یہ ہے کہ اس میں ہم بہت زیادہ کپڑے بنا سکتے ہیں. پپ بیس بہت سے اہم کامو کا اختیر دیتا ہے بلاک چین میں ہم جلد مقیاسی ہو سگتے ہیں بلاک چین کے لئے اس طرح اضافی وقف شدہ پلگ ان بنا کر. ان پلگنس کو جدید بنیا جا سگتا ہے بہت تیزی سے کیوں کے ان کو ضرور نہی دوبارہ بلاک چین میں داخل کرنے کی. بھاپ<fnref target="11" /> کو بنے دورہ بنے کبل اور آسان تر اور یس ک لئے سکیل کو.
 </p>
 
 <p>
-  Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+  حقیقت میں اپپ بیس بولنے کا اختیار رکھتی ہے مختلف مرکز یہ کمپیوٹر سے اور سٹیم بلاک چین کے مختلف حصو کو برقرار رکھتی ہے. ماڈیولولنگ بلاک چین کو یہ اختیار دیتی ہے کے کمپیوٹر کی فطرت سے پورا فایدہ اٹھا جائے. ماڈیولولنگ بلاک چین کو یہ اختیار دیتی ہے کے کمپیوٹر کی فطرت سے پورا فایدہ اٹھا جائے. یہ ضروری ہے لمبے قدم بنے کے لئے ہمیں مکمل متوازی ہو رجائیت پسند خیال رکھنا یا انکا اظہار بلاک چین میں.
 </p>
 
 <h2>

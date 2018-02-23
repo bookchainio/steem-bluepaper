@@ -55,7 +55,7 @@
 </h3>
 
 <p>
-  ChainBase<fnref target="9" /> is the database portion of the blockchain stack and replaced Graphene<fnref target="10" /> in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  2016<fnref target="10" /> میں چین بیس<fnref target="9" /> بلاک چین کیلئے ایک ڈیٹابیس حصہ ہے جہاں پر گرافین کو سٹور کیا جاتا ہے اور تبدیل کیا جاتا ہے. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 </p>
 
 <h3>

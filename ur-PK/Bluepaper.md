@@ -30,7 +30,7 @@
 
 #### انعامات کی تقسیم کا تعین کرنے کے لئے داںو پر لگا-ٹوکن کے ساتھ ووٹنگ
 
-اسٹیم اونٹ کی بنیاد پر چلتی ہے ایک سٹیمایک ووٹ. اس ماڈل کے تحت، ان افراد کو جنہوں نے پلیٹ فارم میں سب سے زیادہ اہم کردار ادا کیا ہے جیسا کہ ان اکاؤنٹ بیلنس کے ذریعے تولا جائے گااس سے زیادہ فائدہ اٹھائے جاتے ہیں کہ کس طرح شراکت دار بنائے جائیں. اسٹیک خریدا یا کمایا جا سکتا ہے. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+اسٹیم اونٹ کی بنیاد پر چلتی ہے ایک سٹیمایک ووٹ. اس ماڈل کے تحت، ان افراد کو جنہوں نے پلیٹ فارم میں سب سے زیادہ اہم کردار ادا کیا ہے جیسا کہ ان اکاؤنٹ بیلنس کے ذریعے تولا جائے گااس سے زیادہ فائدہ اٹھائے جاتے ہیں کہ کس طرح شراکت دار بنائے جائیں. اسٹیک خریدا یا کمایا جا سکتا ہے. یوزر ایک سے زیادہ اکاؤنٹس کے مالک ہو کریوزرزیادہ اختیارات حاصل نہیں کرسکتے, چونکہ اکاؤنٹس کی ایک رقم کے ساتھ ایک اکاؤنٹس اسی اختیارات کے اصول کے ساتھدو مختلف اکاؤنٹس کا اشتراک کرے گا. یوزر کے پاس اپنے اختیارات کو بڑھانے کا ایک ہی راستہ ہے کہ وہ اسپلیٹ فارم میں بڑھ کر حصہ لے.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

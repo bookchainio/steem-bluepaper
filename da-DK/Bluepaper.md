@@ -80,11 +80,11 @@ Steem blockchainen tilbyder en decentraliseret token-exchange, svarende til Bits
 
 ### Betalinger Via Depot
 
-Blockchaintransaktioners irreversible natur er en vigtig sikkerhedsfaktor, selvom der er mange situationer, hvor brugere måske ikke er trygge ved at sende tokens til andre uden mulighed for at få dem tilbage hvis modparten ikke overholder sin del af aftalen. Steem blockchain gør det muligt for brugere at sende mønter til andre med en tredjepart som dedikeret depot-service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Blockchaintransaktioners irreversible natur er en vigtig sikkerhedsfaktor, selvom der er mange situationer, hvor brugere måske ikke er trygge ved at sende tokens til andre uden mulighed for at få dem tilbage hvis modparten ikke overholder sin del af aftalen. Steem blockchain gør det muligt for brugere at sende mønter til andre med en tredjepart som dedikeret depot-service. Brugeren, der fungerer som depot, har mulighed for at afgøre om reglerne for aftalen er overholdt og kan enten frigive midlerne til modtageren eller føre dem tilbage til afsenderen.
 
-### Hierarchical Private Key Structure
+### Hierarkisk struktur for privat nøgle
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem har, som de første, indført et hierarkisk system for private nøgler, der muliggør transaktioner med både lav og høj sikkerhed. Transaktioner med lav sikkerhed er typisk sociale, såsom at oprette indlæg eller kommentere. Højsikkerheds-transaktioner er typisk overførsler og ændring af nøgler. Det giver brugere mulighed for at benytte forskellige niveauer af sikkerhed for deres nøgler, afhængigt af, hvad nøglen giver adgang til.
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 

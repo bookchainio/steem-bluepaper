@@ -43,7 +43,7 @@
 اکثر ایسا ہوتا ہے ثبوت کے کام کی طرف سےخرابی[^6]بہت بلاکچین فی سیکنڈ تین لین دین، دنیا کے مالیاتی ٹریفک کا ایک حصہ ہے جس سے باہر پیمانے نہیں کر سکتے ہیں. اس ٹیم کی طرف سے پیش کردہ اس سے کئی زیادہ رفتار کی ضرورت ہےاور اسی طرح کم معروف الگورتھم نے اربوں صارفین کے لئے مناسب بلاچین فاؤنڈیشن کی بنیاد قائم کرنے کے لئے ساکے کے منظور کردہ ثبوت (ڈی پیو) <sup id="fnref:7"><a href="#fn:7" class="footnote-ref"> 7 </ 0> کہا جاتا تھا.</p> 
 
 <p>
-  Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+  کیونکہ سٹیم بلاک چین کو اتنا قابل بنا رہا ہے کہ تین سیکنڈ کے اندر چھوٹے سے حِسابی لوڑ سے نیا بلاک بن گئے DPOS. اس کا مطلب یہ ہے کہ بلوک چین اس سودے پر عمل کر سکتا ہے اور یہ زیادہ معلومات کو قابو کرے گا اور اس کے ساتھ ساتھ مواد مشتمل بھی.
 </p>
 
 <p>

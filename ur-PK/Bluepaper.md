@@ -55,15 +55,15 @@
 </h3>
 
 <p>
-  2016<fnref target="10" /> میں چین بیس<fnref target="9" /> بلاک چین کیلئے ایک ڈیٹابیس حصہ ہے جہاں پر گرافین کو سٹور کیا جاتا ہے اور تبدیل کیا جاتا ہے. کوئین بیس بہت تیز ہو چکا تھا لوڈ اور بہتر بھر نکالنے کے وقت سے متوازی ڈیٹا بیس پر رسائی کی حمایت کی یہ بہت بڑا دھماکہ تھا اسکے سابقہ دھماکے کے خلاف. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  2016<fnref target="10" /> میں چین بیس<fnref target="9" /> بلاک چین کیلئے ایک ڈیٹابیس حصہ ہے جہاں پر گرافین کو سٹور کیا جاتا ہے اور تبدیل کیا جاتا ہے. کوئین بیس بہت تیز ہو چکا تھا لوڈ اور بہتر بھر نکالنے کے وقت سے متوازی ڈیٹا بیس پر رسائی کی حمایت کی یہ بہت بڑا دھماکہ تھا اسکے سابقہ دھماکے کے خلاف. متعدد بار ڈیٹا بیس بدعنوانی بھی کم ہو چکی تھیاور اس نے فوری ڈیٹا بیس میں داخلے کیلئے صنعاپشوتٹنگ کی اجازت دیاور ایک جیسی یادداشت کے لیے آر پی سی سے اور زیادہ درخواست کی.
 </p>
 
 <h3>
-  AppBase
+  اپپباسی
 </h3>
 
 <p>
-  AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
+  اپپ بیس کی پہلی اسٹیج یہ ہے کہ اس میں ہم بہت زیادہ کپڑے بنا سکتے ہیں. پپ بیس بہت سے اہم کامو کا اختیر دیتا ہے بلاک چین میں ہم جلد مقیاسی ہو سگتے ہیں بلاک چین کے لئے اس طرح اضافی وقف شدہ پلگ ان بنا کر. ان پلگنس کو جدید بنیا جا سگتا ہے بہت تیزی سے کیوں کے ان کو ضرور نہی دوبارہ بلاک چین میں داخل کرنے کی. This makes steemd<fnref target="11" /> far more efficient and easier to maintain and scale.
 </p>
 
 <p>

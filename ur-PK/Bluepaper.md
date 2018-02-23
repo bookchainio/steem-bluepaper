@@ -55,7 +55,7 @@
 </h3>
 
 <p>
-  2016<fnref target="10" /> میں چین بیس<fnref target="9" /> بلاک چین کیلئے ایک ڈیٹابیس حصہ ہے جہاں پر گرافین کو سٹور کیا جاتا ہے اور تبدیل کیا جاتا ہے. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+  2016<fnref target="10" /> میں چین بیس<fnref target="9" /> بلاک چین کیلئے ایک ڈیٹابیس حصہ ہے جہاں پر گرافین کو سٹور کیا جاتا ہے اور تبدیل کیا جاتا ہے. کوئین بیس بہت تیز ہو چکا تھا لوڈ اور بہتر بھر نکالنے کے وقت سے متوازی ڈیٹا بیس پر رسائی کی حمایت کی یہ بہت بڑا دھماکہ تھا اسکے سابقہ دھماکے کے خلاف. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 </p>
 
 <h3>

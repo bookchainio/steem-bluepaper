@@ -71,7 +71,7 @@
 </p>
 
 <h2>
-  Steem’s Platform Features
+  عنوان٢: X راستا: ھ[٢] فائل:بلو پیپر.md
 </h2>
 
 <p>

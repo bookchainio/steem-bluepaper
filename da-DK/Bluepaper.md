@@ -90,9 +90,9 @@ Disse private nøgler er Indlæg, Aktiv og Ejer. Indlægsnøglen giver kontoen a
 
 Steem benytter også et Master Password til at kryptere alle tre nøgler. Webservices kan bruge Master Password til at dekryptere og signere med den nødvendige private nøgle. Master Passwords gør at brugere kan stole på at tjenester ikke uhensigtsmæssigt sender nøgler mellem servere, og øger dermed brugervenligheden uden at gå på kompromis med sikkerheden ved det signering lokalt.
 
-### Multi Sig Authorities
+### Autoriteter med Multisignatur
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

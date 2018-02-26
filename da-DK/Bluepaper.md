@@ -88,7 +88,7 @@ Steem har, som de første, indført et hierarkisk system for private nøgler, de
 
 Disse private nøgler er Indlæg, Aktiv og Ejer. Indlægsnøglen giver kontoen adgang til at oprette indlæg, kommentere, redigere og resteem'e[^15], og følge/mute andre konti. Aktiv-nøglen er beregnet til mere følsomme ting som f.eks. at overføre beløb, power up/down, konvertering af Steem Dollars, stemme på vidner, oprette markedsordrer og nulstille indlægs-nøglen. Ejernøglen er kun beregnet til brug hvor absolut nødvendigt. Det er den mest magtfulde nøgle fordi den kan bruges til at ændre alle andre nøgler for en konto, herunder ejernøglen og til at bevise ejerskab af en konto under kontogendannelse. Ideelt bør den gemmes offline og kun benyttes når en kontos nøgler skal ændres eller for at gendanne en kompromitteret konto.
 
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
+Steem benytter også et Master Password til at kryptere alle tre nøgler. Webservices kan bruge Master Password til at dekryptere og signere med den nødvendige private nøgle. Master Passwords gør at brugere kan stole på at tjenester ikke uhensigtsmæssigt sender nøgler mellem servere, og øger dermed brugervenligheden uden at gå på kompromis med sikkerheden ved det signering lokalt.
 
 ### Multi Sig Authorities
 

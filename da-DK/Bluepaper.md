@@ -96,7 +96,7 @@ Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så fler
 
 ### Flere belønningsmodtagere
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+For hvert indlæg kan der være flere forskellige personer, med økonomisk interesse i belønningen. Herunder forfatteren, eventuelle medforfattere, personer der har henvist til indlægget, hosting-udbydere, blogs der inkluderer blockchain-kommentarer samt udviklere af værktøjer. Det website eller værktøj, der er brugt til at oprette indlægget eller poste kommentaren, kan afgøre, hvordan belønning for indlægget eller kommentaren fordeles mellem parterne. Det skaber mulighed for forskellige former for samarbejde såvel som for at platforme baseret på Steem blockchin, kan indsamle en del af belønningerne fra brugerne.
 
 ### Smart Media Tokens (SMT)
 

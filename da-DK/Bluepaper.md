@@ -92,9 +92,9 @@ Steem benytter også et Master Password til at kryptere alle tre nøgler. Webser
 
 ### Autoriteter med Multisignatur
 
-Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. For at en transkation er gyldig, skal nok enheder signere den, så den vægtede sum er større eller lig med den nødvendige grænseværdi.
 
-### Multiple Reward Beneficiaries
+### Flere belønningsmodtagere
 
 For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 

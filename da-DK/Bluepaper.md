@@ -104,13 +104,13 @@ Smart Media Tokens er lokale tokens, der kan etableres på Steem blockchainen. S
 
 ### Gendannelse af stjålne konti
 
-Hvis brugeres konti kompromitteres, kan de ændre nøglerne vha. deres private ejernøgle. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Hvis brugeres konti kompromitteres, kan de ændre nøglerne vha. deres private ejernøgle. I det tilfælde at en angriber har held til at kompromittere den private ejernøgle og ændre adgangskoden til kontoen, har brugeren 30 dage til at indsende en tidligere fungerende privat nøgle via Steems banebrydende proces til gendannelse af stjålne konti, og dermed igen få kontrol over kontoen. Dette kan tilbydes af en person eller virksomhed, der leverer registreringstjenester til Steem. Det er ikke obligatorisk for registranter at yde denne service til sine brugere, men det er en mulighed, der kan øge brugeres oplevede værdi af registrantens ydelser.
 
-### Security Through Time-Locks
+### Sikkerhed via Time-Locks
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Hvis en brugers aktive ejernøgle kompromitteres, har angriberen fuld adgang til alle midler på kontoen. Fordi blockchain-transaktioner ikke kan gøres om, er der ingen måde brugere kan få deres penge igen efter de er stjålet.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchainen gør det muligt for brugere at gemme deres STEEM og SBD-tokens i en opsparingskonto, så midlerne først kan hæves efter 3 dages karantæneperiode. Herudover kan STEEM, der er indenfor en 13 ugers optjeningsperiode, kun hæves fra kontoen med 1/13 om ugen i perioden efter 7 dages forudgående karantæne. Disse time-locks forhindrer en angriber i at få adgang til en kontos fulde indestående med det samme, så den retmæssige ejer har tid til at genetablere kontrollen med deres konto før alle midler er hævet.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

@@ -100,9 +100,9 @@ For hvert indlæg kan der være flere forskellige personer, med økonomisk inter
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens er lokale tokens, der kan etableres på Steem blockchainen. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens er lokale tokens, der kan etableres på Steem blockchainen. STEEM er den første SMT der blev til og Smart Media Token-protokollen har til formål at gøre det muligt at profitere på website-indhold og applikationer på nettet ved at lade folk oprette tokens, der har samme genskaber som Steem, men som kan skræddersyes til visionen for online fællesskaber ved at tilskynde bestemt adfærd og dermed reelt kopiere STEEMs succes til et hvilket som helst andet website eller applikation. Yderligere tekniske detaljer kan findes i Smart Media Tokens whitepaper[^17].
 
-### Stolen Account Recovery
+### Gendannelse af stjålne konti
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

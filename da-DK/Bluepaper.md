@@ -112,11 +112,11 @@ Hvis en brugers aktive ejernøgle kompromitteres, har angriberen fuld adgang til
 
 Steem blockchainen gør det muligt for brugere at gemme deres STEEM og SBD-tokens i en opsparingskonto, så midlerne først kan hæves efter 3 dages karantæneperiode. Herudover kan STEEM, der er indenfor en 13 ugers optjeningsperiode, kun hæves fra kontoen med 1/13 om ugen i perioden efter 7 dages forudgående karantæne. Disse time-locks forhindrer en angriber i at få adgang til en kontos fulde indestående med det samme, så den retmæssige ejer har tid til at genetablere kontrollen med deres konto før alle midler er hævet.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Båndbreddebegrænsing for gebyrfri handlinger
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Fordi vidner udelukkende belønnes for at generere nye tokens, er der ikke behov for at opkræve gebyr fra brugere, for at holde blockchainen kørende. Den eneste grund til at opkræve gebyrer ville være for at forhindre brugere i at gennemføre et vanvittigt antal transaktioner, som potentielt kunne påvirke performance af blockchainen.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en anddel af deres samlede båndbredde. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

@@ -14,7 +14,7 @@ Osim ovih napredaka u blockchain i token tehnologiji, Steem kao sustav pruža do
 
 Token sustavi koji nagrađuju korisnike dok pridonose zajednici token sustavu zahtijevaju mehanizme za uspostavu i analiziranje vrijednosti kvalitete sadržaja: to zovemo ”dokaz-mozga.”
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Bazen za nagrade (”Odakle tokeni dolaze?”)
 
 One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
 

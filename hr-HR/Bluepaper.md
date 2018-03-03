@@ -8,11 +8,11 @@ U usporedbi s drugim blockchainima, Steem se izdvaja kao prva javno dostupna baz
 
 U području kripto-valuta, jedinstvena svojstva STEEMa ga čine ujedno i "pametnim" i "društvenim" u odnosu na ostale, kao što su bitcoin i ether. Ovo proizlazi iz dvije nove token značajke. Prvi je 'token-bazen' namijenjen podsticaju stvaranja sadržaja i kuracije (pod nazivom "bazen za nagrade"). Drugi je sustav glasanja koji utječe na mudrost korisnika da procijene vrijednost sadržaja i distribuiraju tokene za isti. Ova dva jedinstvena svojstva u kombinaciji se nazivaju dokaz-mozga, koji radi na temelju dokaza-rada [^4], namijenjen za naglasak na ljudski rad neophodan da se tokeni distribuiraju korisnicima zajednice. Dokaz-mozga je smjestio STEEM kao sredstvo za izgradnju zajednice koja neprestano raste, što potiče svoje članove za dodavanje vrijednosti u zajednicu kroz već ugrađenu strukturu nagrađivanja.
 
-Osim ovih napredaka u blockchain i token tehnologiji, Steem kao sustav pruža dodatne napredne značajke za poboljšanje korisničkog iskustva, kao naprimjer oporavak ukradenih računa[^5], escrow usluga, korisničkog promoviranog sadržaja, ugleda sustava, i štednog računa. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
+Osim ovih napredaka u blockchain i token tehnologiji, Steem kao sustav pruža dodatne napredne značajke za poboljšanje korisničkog iskustva, kao naprimjer oporavak ukradenih računa[^5], escrow usluga, korisničkog promoviranog sadržaja, ugleda sustava, i štednog računa. Sve se ovo događa dok pružamo korisnicima trosekundno odobrenje te beskamatne prijenose. Sve ovo omogućuje podršku misiji dovođenja pametne i društvene valute izdavačima i zajednici kreatora na cijelom internetu.
 
-## Proof of Brain: Smart and Social Tokens
+## Dokaz mozga: Pametni i Društveni Tokeni
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Token sustavi koji nagrađuju korisnike dok pridonose zajednici token sustavu zahtijevaju mehanizme za uspostavu i analiziranje vrijednosti kvalitete sadržaja: to zovemo ”dokaz-mozga.”
 
 ### The Rewards Pool (“Where do the tokens come from?”)
 

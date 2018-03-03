@@ -30,21 +30,21 @@ Korisnici koji proizvode sadržaj dodaju vrijednost mreži stvaranjem materijala
 
 #### Glasovanje sa 'staked' tokenima za određivanje dodjele nagrada
 
-Steem radi na temelju jedan STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprinijeli platformi, prema stanju računa, imaju najveći utjecaj na to kako se doprinosi ocjenjeni. Ulog se može kupiti ili zaraditi. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem radi na temelju jedan STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprinijeli platformi, prema stanju računa, imaju najveći utjecaj na to kako se doprinosi ocjenjeni. Ulog se može kupiti ili zaraditi. Korisnici ne mogu dodatno utjecati posjedovanjem više računa jer će jedan račun s iznosom udjela imati isti utjecaj kao i dva različita računa koji dijele istu količinu uloga. Jedini način da korisnici povećaju svoj utjecaj na platformi jeste povećati svoj ulog.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Štoviše, Steem samo dopušta članovima da glasaju sa STEEM-om kada je privržen 13-tjednom 'vesting' rasporedu zvanom Steem Power. Prema ovom modelu, članovi imaju financijski poticaj za glasovanje na način koji maksimizira dugoročnu vrijednost svog STEEM-a.
 
-## Speed and Scale on the Steem Blockchain
+## Brzina i skala na Steem Blockchainu
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+Steem blockchain osmišljen je kao jedan od najbržih i najučinkovitijih blokova u postojećem stanju, što je neophodno da bi se moglo poduprijeti količina prometa očekivana na platformi društvenih medija većih od Reddita. Steem je već nadmašio Bitcoin u broju transakcija te je u mogućnosti poduprijeti do 10,000 ili više transakcija u sekundi.
 
-### Delegated Proof of Stake (DPoS)
+### Delegirani dokaz o ulogu (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Često je uspoređen sa dokazom o radu (PoW)[^6], mnogi blokchaini ne mogu mjeriti iznad tri transakcije u sekundi, što je dio svjetskog financijskog prometa. Steem je zahtijevao mnogo veću skalu i brzinu od onog koje je ponudio PoW, pa je tako manje poznati algoritam pod nazivom Delegirani dokaz o ulogu (DPoS)[^7] iskorišten kako bi postavio temelje za blokadu koja je pogodna za milijarde korisnika.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Zbog DPoS, Steem Blockchain je sposoban generirati novi blok svake 3 sekunde uz minimalno računalno opterećenje. To znači da Blockchain može obraditi više transakcija i zadržati više informacija, uključujući sadržaj.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Određivanjem pravila za kada se pojavljuje 'Hardfork', svjedoci izabrani unutar DPoS okvira mogu brzo i učinkovito odlučiti hoće li se kretati naprijed s predloženim 'hardforkom', čime Steem blockchain protokol brže evoluira od većine ostalih. Steem blockchain već je uspješno 'forked' 18 puta[^8], a svaki put kada se dogodio 'hardfork', samo jedan lanac ostao nakon forka.
 
 ### ChainBase
 

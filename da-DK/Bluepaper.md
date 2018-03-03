@@ -60,7 +60,7 @@ I praksis gør AppBase det muligt at have forskellige kerner eller sågar forske
 
 Steem blockchain tjener to formål ved både at være et system til behandling af digitale tokens og samtidig være en platform for et mainstream socialt medie. Blockchainens funktioner skal understøtte begge formål, og give brugerne en førsteklasses oplevelse under brugen af begge aspekter på platformen.
 
-### Primitiver designet til inholdsapplikationer
+### Primitiver designet til indholdsapplikationer
 
 Steem giver brugere en unik mulighed for at udgive og lagre forskellige typer indhold permanent direkte på den uforanderlige blockchains ledger som almindelig tekst. Når data er lagret i blockchainen, er det offentligt tilgængeligt, så udviklere kan bruge det til at bygge videre på. Udviklere kan interagere med indholdet direkte på blockchainen ved at bruge de tilgængelige API'er. Udviklere, der benytter blockchain primitiverne, kan bygge løsninger ud fra tilgængelige kontonavne, indlæg, kommentarer, stemmer og kontis saldi.
 
@@ -92,11 +92,11 @@ Steem benytter også et Master Password til at kryptere alle tre nøgler. Webser
 
 ### Autoriteter med Multisignatur
 
-Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. For at en transkation er gyldig, skal nok enheder signere den, så den vægtede sum er større eller lig med den nødvendige grænseværdi.
+Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. For at en transaktion er gyldig, skal nok enheder signere den, så den vægtede sum er større eller lig med den nødvendige grænseværdi.
 
 ### Flere belønningsmodtagere
 
-For hvert indlæg kan der være flere forskellige personer, med økonomisk interesse i belønningen. Herunder forfatteren, eventuelle medforfattere, personer der har henvist til indlægget, hosting-udbydere, blogs der inkluderer blockchain-kommentarer samt udviklere af værktøjer. Det website eller værktøj, der er brugt til at oprette indlægget eller poste kommentaren, kan afgøre, hvordan belønning for indlægget eller kommentaren fordeles mellem parterne. Det skaber mulighed for forskellige former for samarbejde såvel som for at platforme baseret på Steem blockchin, kan indsamle en del af belønningerne fra brugerne.
+For hvert indlæg kan der være flere forskellige personer, med økonomisk interesse i belønningen. Herunder forfatteren, eventuelle medforfattere, personer der har henvist til indlægget, hosting-udbydere, blogs der inkluderer blockchain-kommentarer samt udviklere af værktøjer. Det website eller værktøj, der er brugt til at oprette indlægget eller poste kommentaren, kan afgøre, hvordan belønning for indlægget eller kommentaren fordeles mellem parterne. Det skaber mulighed for forskellige former for samarbejde såvel som for at platforme baseret på Steem blockchain, kan indsamle en del af belønningerne fra brugerne.
 
 ### Smart Media Tokens (SMT)
 
@@ -116,7 +116,7 @@ Steem blockchainen gør det muligt for brugere at gemme deres STEEM og SBD-token
 
 Fordi vidner udelukkende belønnes for at generere nye tokens, er der ikke behov for at opkræve gebyr fra brugere, for at holde blockchainen kørende. Den eneste grund til at opkræve gebyrer ville være for at forhindre brugere i at gennemføre et vanvittigt antal transaktioner, som potentielt kunne påvirke performance af blockchainen.
 
-Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en anddel af deres samlede båndbredde. Hvis brugere overskrider deres tilladte båndbredde, må de vente med at udføre handlingen indtil de igen har mere båndbredde.
+Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en andel af deres samlede båndbredde. Hvis brugere overskrider deres tilladte båndbredde, må de vente med at udføre handlingen indtil de igen har mere båndbredde.
 
 Båndbreddebegrænsningen er baseret på netværksbrug, så brugere har større båndbredde, når netværket er mindst belastet. Mængden af båndbredde en konti er tildelt er ligefrem proportionalt med kontoens Steem Power, så brugere har altid mulighed for at øge deres båndbredde, ved at få mere Steem Power.
 

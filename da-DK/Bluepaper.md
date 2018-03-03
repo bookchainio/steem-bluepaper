@@ -116,13 +116,13 @@ Steem blockchainen gør det muligt for brugere at gemme deres STEEM og SBD-token
 
 Fordi vidner udelukkende belønnes for at generere nye tokens, er der ikke behov for at opkræve gebyr fra brugere, for at holde blockchainen kørende. Den eneste grund til at opkræve gebyrer ville være for at forhindre brugere i at gennemføre et vanvittigt antal transaktioner, som potentielt kunne påvirke performance af blockchainen.
 
-Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en anddel af deres samlede båndbredde. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en anddel af deres samlede båndbredde. Hvis brugere overskrider deres tilladte båndbredde, må de vente med at udføre handlingen indtil de igen har mere båndbredde.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Båndbreddebegrænsningen er baseret på netværksbrug, så brugere har større båndbredde, når netværket er mindst belastet. Mængden af båndbredde en konti er tildelt er ligefrem proportionalt med kontoens Steem Power, så brugere har altid mulighed for at øge deres båndbredde, ved at få mere Steem Power.
 
-## Conclusion
+## Konklusion
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+De unikke belønninger og incitamentprogrammer på Steem blockchain og token, er designet med henblik på at gøre Steem til den ultimative indføring af nye brugere til kryptovaluta. Blockchainens ydeevne er designet med tanke på platformen og valutaens brede anvendelse. Kombineret med lynhurtig behandlingstid og gebyrfri transaktioner, er Steem i position til at blive en af de førende blockchain-teknologier blandt mennesker i hele verden.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

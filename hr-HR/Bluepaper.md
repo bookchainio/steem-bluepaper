@@ -20,17 +20,17 @@ Jedan od najinovativnijih (i najviše pogrešno razmljen) aspekt Steem blockchai
 
 Za razliku od samo PoW kriptovaluta, tokeni u Steemu su proizvedeni u fiksnoj stopi od po jednog bloka svake tri sekunde. Ovi tokeni se dijele različitim korisnicima sustava bazirano na određenim blokchain pravilima. Ti čimbenici, poput kreatora sadržaja, svjedoka te kuratora, se natječu na određene načine za tokene. Za razliku od tradicionalnih PoW distribucije, gdje se 'rudari' natječu za 'raw' snagu računala, korisnici Steem mreže su nagrađeni da se natječu u načinima koji će pridonijeti vrijednosti mreže.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Stopa kojom se stvaraju novi tokeni postavljen je na 9,5% godišnje počevši od prosinca 2016., a smanjuje se brzinom od 0,01% svakih 250,000 blokova, odnosno oko 0,5% godišnje. Inflacija će nastaviti padati po ovoj stopi dok ne dosegne 0,95%, nakon razdoblja od otprilike 20,5 godina.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Od opskrbe novih tokena koje je Steem blokchain kreirao svake godine, 75% tih tokena čine "nagradni fond" koji se distribuira tvorcima sadržaja i kuratorima sadržaja. 15% se distribuira vlasnicima dodijeljenih tokena, a 10% se distribuira svjedocima, proizvođačima bloka koji surađuju u Steemovom DPoS konsenzusnom protokolu.
 
-#### Rewards for Content Creators and Curators
+#### Nagrade za kreatore sadržaja i kuratori
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Korisnici koji proizvode sadržaj dodaju vrijednost mreži stvaranjem materijala koji će privući nove korisnike na platformu, kao i zadržati postojeće korisnike angažiranim i zabavljanim. To pomaže distribuciji valute širem skupu korisnika i povećava učinak mreže. Korisnici koji trebaju vremena za procjenu i glasovanje o sadržaju igraju važnu ulogu u distribuciji valute korisnicima koji dodaju najviše vrijednosti. Blockchain će nagraditi obje aktivnosti u odnosu na njihovu vrijednost zasnovanu na kolektivnoj mudrosti mnoštva skupljenih putem glasačkog sustava kroz ulogu procjenjivanja vrijednosti glasa.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Glasovanje sa 'staked' tokenima za određivanje dodjele nagrada
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem radi na temelju jedan STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprinijeli platformi, prema stanju računa, imaju najveći utjecaj na to kako se doprinosi ocjenjeni. Ulog se može kupiti ili zaraditi. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

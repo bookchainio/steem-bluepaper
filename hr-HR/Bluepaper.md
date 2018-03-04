@@ -112,17 +112,17 @@ Ako je korisnikov aktivni ili vlasnički ključ ugrožen, napadač bi imao puni 
 
 Steem blockchain omogućuje korisnicima pohranu STEEM i SBD tokena u štedni račun, tako da se sredstva ne mogu povući tek nakon tri dana čekanja. Osim toga, STEEM koji se održava u 13 tjedanom rasporedu može se povući samo po stopi od 1/13 puta tjedno, nakon početnog razdoblja čekanja od sedam dana. Ove vremenska blokada sprječava napadača da odmah dođe do punog dijela korisničkih sredstava, tako da vlasnik pravodobno ima vremena za vraćanje kontrole nad svojim računom prije nego što se sva sredstva mogu povući.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ograničenje 'Bandwith' limita za operacije bez naknade
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Budući da su 'svjedoci' u cijelosti plaćeni stvaranjem novih tokena, nema potrebe da korisnicima naplaćuju naknadu za pokretanje blockchaina. Jedini razlog za naplatu naknade bio bi zastrašivanje kako bi spriječili korisnike da izvrše nerazumnu količinu transakcija, što bi moglo potencijalno utjecati na izvedbu blokchaina.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Da bi se postavila razumno ograničenje na korištenje sustava, svaki korisnik ima ograničen limit. Kad god korisnici obavljaju blockchain operacije poput prijenosa tokena, objavljivanja sadržaja i glasovanja, koristi se dio njihovog limita. Ako korisnik prekorači dopušteno ograničenje, mora pričekati da se njegovo ograničenje napuni da bi mogao izvršiti dodatne radnje.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Ograničeni limiti prilagođavaju se na temelju upotrebe mreže, tako da korisnici imaju veće dopušteno ograničenje prilikom slabog korištenja mreže. Količina ograničenja koja je dopuštena računu izravno je proporcionalna količini Steem Powera koju korisnik ima, tako da korisnici mogu uvijek povećati dopušteno ograničenje dobivanjem dodatnog Steem Powera.
 
-## Conclusion
+## Zaključak
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Jedinstvene nagrade i poticajni program koji nudi Steem blockchain i token su dizajnirani su kako bi Steem postigao krajnju kriptovalutnu vrijednost za regularne korisnike. Izvedba blockchaina osmišljena je široko rasprostranjenim prihvaćanjem valute i platforme. Kada se kombinira s brzim i beznaknadnim procesima, Steem se pozicionira da postane jedna od vodećih tehnologija blockchaina koje koriste ljudi širom svijeta.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

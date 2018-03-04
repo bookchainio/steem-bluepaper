@@ -52,27 +52,27 @@ ChainBase[^9] je dio baze podataka Blockchain te zamijenio Graphene[^10] u 2016.
 
 ### AppBase
 
-AppBase je prvi korak u stvaranju više lančanog FABRICa. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blokade bez konsenzusa kao posvećene dodatke. Ti se dodatci mogu ažurirati puno brže jer ne zahtijevaju ponovnu reprodukciju cijelog blockchaina. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase je prvi korak u stvaranju više lančanog FABRICa. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blokade bez konsenzusa kao posvećene dodatke. Ti se dodatci mogu ažurirati puno brže jer ne zahtijevaju ponovnu reprodukciju cijelog blockchaina. To čini steemd[^11] mnogo učinkovitijim i lakšim za održavati i mjeriti.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Praktično govoreći, AppBase omogućuje različitim jezgrama, ili čak različitim računalima održavanje različitih dijelova Steem blockchaina. To je znatno učinkovitije od zahtijevanja svake jezgre svakog računala u mreži koji održavaju cijeli blockchain. Modularanje blockchaina omogućuje se da u potpunosti iskoristi prednost modularne prirode računala. Ovo je jedan nužan korak u dugom procesu stvaranja potpuno paralelnog, potpuno optimiziranog blockchaina.
 
-## Steem’s Platform Features
+## Značajke platforme Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain služi dvostruku svrhu digitalnog sustava za obradu tokena, kao i platforma za društvenie medije. Značajke koje nudi Blockchain trebaju podržati obje svrhe i pružiti korisnicima iskustvo svjetske klase kada koriste oba aspekta platforme.
 
-### Primitives Designed for Content Applications
+### 'Primitive' dizajnirane za aplikacije sa sadržajima
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem korisnicima nudi jedinstvenu mogućnost objavljivanja i pohrane različitih vrsta sadržaja izravno i trajno u nepromjenjivu 'knjigu' blockchaina kao običan tekst. Kada se pohranjuju u Blockchainu, podaci postaju javno dostupni za razvojne programere i novu izgradnju. Razvojni programeri mogu ostvariti interakciju s sadržajem izravno u blockchainu pomoću dostupnih API-ja. Neki od kojih programeri blokchaina mogu raditi su nazivi računa, postovi, komentari, glasovi i saldo računi.
 
-### Native Name System
+### Sustav izvornog imena
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Adrese novčanika koje koriste mnoge blokchain tehnologije, kao što su Bitcoin i Ethereum, povijesno su se sastojale od dugih nizova slučajnih slova i brojeva, međutim ove adrese novčanika mogu otežati obavljanje transakcija s drugim korisnicima u tipičnom online-društvenom medijskom kontekstu, jer se korisnici ne mogu sjetiti dugotrajnih adresa iz memorije. Steem blockchain upotrebljava korisničko ime svakog sudionika kao svoju adresu lisnice koja poboljšava korisničko iskustvo sudionicima koji pokušavaju slati tokene jer mogu provjeriti adrese iz vlastite memorije.
 
-### Steem Blockchain Dollars (SBD)
+### Steam Blockchain Dollars (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Mnogi korisnici koji se upoznaju sa kriptovalutnom imaju poteškoće shvatiti kako "čarobni internet tokeni" dodjeljeni sa platforme zapravo mogu imati stvarnu vrijednost. Kako bi se pomoglo premostiti jaz između tradicionalnijih sustava novčanog novca na koji su korisnici obično naviknuli i kriptovalutnih tokena koje su dodijeljene na platformi, stvorena je nova valuta Steem Blockchain Dollars (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokeni su dizajnirani tako da budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko su vrijedni u "pravim dollar" uvjetima. SBD tokeni također nude relativno stabilnu valutu za korisnike ako ih žele očuvati u odnosu na USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 
 ### Decentralized Exchange
 

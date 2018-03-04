@@ -94,15 +94,15 @@ Steem također olakšava upotrebu glavne lozinke koja šifrira sva tri ključa. 
 
 Steem blokada omogućava da se autoritet razdijeli na više dijelova, tako da više korisnika može dijeliti isti autoritet ili je više dijelova zahtijevano odobriti transakciju kako bi bila valjana. To se vrši na isti način kao i Bitshares[^16] gdje se paru svakog javnog / privatnog ključa dodjeljuje određena 'težina', a za autoritet je definiran 'prag'. Da bi transakcija bila valjana, dovoljno subjekata mora potpisati tako da zbroj njihovih težina odgovara ili prelazi prag.
 
-### Multiple Reward Beneficiaries
+### Višestruke nagrade korisnicima
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Za bilo koji post može postojati niz različitih ljudi koji imaju financijski interes za nagradu. To uključuje autora, moguće koautore, preporuke, davatelje hostinga, blogove koji ugrađuju komentare sa blokchainom i programere. Bez obzira na web stranicu ili alat koji se koristi za izradu posta ili komentara, moći će se odrediti kako se nagrade iz tog komentara dijele među različitim korisnicima. To omogućava različite oblike suradnje, kao i način za platforme koje su izgrađene na vrhu Steem blokchaina za prikupljanje dijela nagrada od svojih korisnika.
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokens su izvorni tokeni koji se mogu graditi na Steem blockchainu. STEEM je prvi SMT koji će ikada postojati, a Smart Media Token protokol ima za cilj unovčavanje sadržaja web stranica i aplikacija na cijelom webu dopuštajući ljudima stvaranje tokena koji posjeduju slična svojstva slična STEEM-u, ali prilagodljivi tako da odgovaraju viziji bilo koje online zajednice kroz poticajno ponašanje, u biti replicira uspjeh STEEM-a na bilo koju web stranicu ili aplikaciju. Više tehničkih detalja možete naći u Smart Media Tokens 'whitepaper'[^17].
 
-### Stolen Account Recovery
+### Povratak ukradenog računa
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

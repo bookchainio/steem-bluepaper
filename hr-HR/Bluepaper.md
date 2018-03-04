@@ -72,19 +72,19 @@ Adrese novčanika koje koriste mnoge blokchain tehnologije, kao što su Bitcoin 
 
 Mnogi korisnici koji se upoznaju sa kriptovalutnom imaju poteškoće shvatiti kako "čarobni internet tokeni" dodjeljeni sa platforme zapravo mogu imati stvarnu vrijednost. Kako bi se pomoglo premostiti jaz između tradicionalnijih sustava novčanog novca na koji su korisnici obično naviknuli i kriptovalutnih tokena koje su dodijeljene na platformi, stvorena je nova valuta Steem Blockchain Dollars (SBD).
 
-SBD tokeni su dizajnirani tako da budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko su vrijedni u "pravim dollar" uvjetima. SBD tokeni također nude relativno stabilnu valutu za korisnike ako ih žele očuvati u odnosu na USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokeni su dizajnirani tako da budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko su vrijedni u "pravim dollar" uvjetima. SBD tokeni također nude relativno stabilnu valutu za korisnike ako ih žele očuvati u odnosu na USD. Podrobnije tehničko objašnjenje može se naći u Steem tehničkom dokumentu ('whitepaper').[^12]
 
-### Decentralized Exchange
+### Decentralizirana razmjena
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain nudi decentraliziranu razmjenu tokena, slično Bitsharesovoj razmjeni.[^13] Razmjena omogućuje korisnicima da trgovaju STEEM i SBD tokene putem javnog decentraliziranog korisničkog tržišta. Korisnici su u mogućnosti staviti narudžbe za kupnju i prodaju, a blockchain automatski pokreće usporedbu. Tu je i javno dostupna narudžbenica i povijest naloga koje korisnici mogu koristiti za analizu tržišta. Korisnici mogu izravno komunicirati s razmjenom koristeći API blockchain ili upotrijebiti GUI, poput onog na Steemit.com.[^14]
 
-### Payments Through Escrow
+### Plaćanja putem Escrow usluge
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Nepovratna narav blockchain transakcija važna je sigurnosna značajka, iako postoje mnogi slučajevi u kojima korisnici možda neće biti sretni slanjem svojih žetona drugoj osobi bez ikakvog načina da ih vrate ako se drugi korisnik ne drži sporazuma. Steem blockchain omogućava korisnicima da međusobno šalju tokene s drugom osobom koja je označena kao escrow usluga. Korisnik koji djeluje kao sigurnosna služba može odrediti jesu li ispunjeni uvjeti ugovora i dopustiti da se sredstva prihvate ili se vrate pošiljatelju.
 
-### Hierarchical Private Key Structure
+### Hijerarhijska struktura privatnog ključa
 
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
+Steem ima prvi takav hijerarhijski privatni ključni sustav koji olakšava transakcije niske i visoke sigurnosti. Niska sigurnosna poslovanja obično su društvena, kao što su slanje ili komentiranje. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 
 These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
 

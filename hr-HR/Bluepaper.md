@@ -104,13 +104,13 @@ Smart Media Tokens su izvorni tokeni koji se mogu graditi na Steem blockchainu. 
 
 ### Povratak ukradenog računa
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Ako je korisnički račun ugrožen, korisnik može promijeniti ključeve pomoću svojeg valsničkog privatnog ključa. U slučaju da napadač može kompromitirati vlasnički privatni ključ i promijeniti lozinku na računu, korisnik ima 30 dana za slanje prethodno funkcionalnog privatnog ključa putem Steemovog postupka oporavka prvog ukradenog računa kroz Steem proces oporavka te dobiti ponovan pristup računu. To može ponuditi osoba ili tvrtka koja pruža Steem usluge registracije. Nije obavezno pružati ovu uslugu svojim korisnicima, ali je dostupno za povećanje vrijednosti iskustva korisnika.
 
-### Security Through Time-Locks
+### Sigurnost kroz 'Vremensku blokadu'
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Ako je korisnikov aktivni ili vlasnički ključ ugrožen, napadač bi imao puni pristup svim sredstvima na računu. Budući da su blokchain transakcije nepovratne, korisnici više nemaju opciju za povrat sredstava nakon što su ukradeni.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain omogućuje korisnicima pohranu STEEM i SBD tokena u štedni račun, tako da se sredstva ne mogu povući tek nakon tri dana čekanja. Osim toga, STEEM koji se održava u 13 tjedanom rasporedu može se povući samo po stopi od 1/13 puta tjedno, nakon početnog razdoblja čekanja od sedam dana. Ove vremenska blokada sprječava napadača da odmah dođe do punog dijela korisničkih sredstava, tako da vlasnik pravodobno ima vremena za vraćanje kontrole nad svojim računom prije nego što se sva sredstva mogu povući.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

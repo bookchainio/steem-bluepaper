@@ -2,7 +2,7 @@
 
 ## Indledning
 
-Steem er en blockchain-protokol[^1]til offentligt tilgængeligt og uforanderligt indhold med en hurtig og gebyrfri digital token (kaldet STEEM)[^2]som gør det muligt for mennesker at tjene på deres hjernekapacitet (kaldet "Proof-Of-Brain"). Protokollens to byggesten, blockchain og token, er indbyrdes afhængige af hinanden for så vidt angår sikkerhed, uforanderlighed og bevaringsintegritet. Steem har med succes været i drift i over et år, og har oversteget både Bitcoin og Ethereum i antal behandlede transaktioner.[^3]
+Steem er en blockchain-protokol[^1]til offentligt tilgængeligt og uforanderligt indhold med en hurtig og gebyrfri digital token (kaldet STEEM)[^2]som gør det muligt for mennesker at tjene på deres hjernekapacitet (kaldet "Proof Of Brain"). Protokollens to byggesten, blockchain og token, er indbyrdes afhængige af hinanden for så vidt angår sikkerhed, uforanderlighed og bevaringsintegritet. Steem har med succes været i drift i over et år, og har oversteget både Bitcoin og Ethereum i antal behandlede transaktioner.[^3]
 
 Sammenlignet med andre blockchains, skiller Steem sig ud som den første offentligt tilgængelige database over uforanderligt indhold lagret som ren tekst, sammen med en indbygget incitamentsmekanisme. Det gør Steem til en offentlig publiceringsplatform som enhver internet-applikation kan trække data fra og dele data med, og som belønner det mest værdifulde indhold.
 

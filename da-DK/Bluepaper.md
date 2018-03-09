@@ -100,7 +100,7 @@ For hvert indlæg kan der være flere forskellige personer, med økonomisk inter
 
 ### Smart Media Tokens (SMT)
 
-Smart Media Tokens er lokale tokens, der kan etableres på Steem blockchainen. STEEM er den første SMT der blev til og Smart Media Token-protokollen har til formål at gøre det muligt at profitere på website-indhold og applikationer på nettet ved at lade folk oprette tokens, der har samme genskaber som Steem, men som kan skræddersyes til visionen for online fællesskaber ved at tilskynde bestemt adfærd og dermed reelt kopiere STEEMs succes til et hvilket som helst andet website eller applikation. Yderligere tekniske detaljer kan findes i Smart Media Tokens whitepaper[^17].
+Smart Media Tokens er lokale tokens, der kan etableres på Steem blockchainen. STEEM er den første SMT der blev til og Smart Media Token-protokollen har til formål at gøre det muligt at profitere på website-indhold og applikationer på nettet ved at lade folk oprette tokens, der har samme egenskaber som Steem, men som kan skræddersyes til visionen for online fællesskaber ved at tilskynde bestemt adfærd og dermed reelt kopiere STEEMs succes til et hvilket som helst andet website eller applikation. Yderligere tekniske detaljer kan findes i Smart Media Tokens whitepaper[^17].
 
 ### Gendannelse af stjålne konti
 
@@ -118,7 +118,7 @@ Fordi vidner udelukkende belønnes for at generere nye tokens, er der ikke behov
 
 Hver brugers båndbredde begrænses derfor til et rimeligt niveau. Når brugere udfører handlinger som f.eks. overførsel af tokens, oprettelse af indlæg og stemmeafgivning, bruges en andel af deres samlede båndbredde. Hvis brugere overskrider deres tilladte båndbredde, må de vente med at udføre handlingen indtil de igen har mere båndbredde.
 
-Båndbreddebegrænsningen er baseret på netværksbrug, så brugere har større båndbredde, når netværket er mindst belastet. Mængden af båndbredde en konti er tildelt er ligefrem proportionalt med kontoens Steem Power, så brugere har altid mulighed for at øge deres båndbredde, ved at få mere Steem Power.
+Båndbreddebegrænsningen er baseret på netværksbrug, så brugere har større båndbredde, når netværket er mindst belastet. Mængden af båndbredde en konto er tildelt er ligefrem proportionalt med kontoens Steem Power, så brugere har altid mulighed for at øge deres båndbredde, ved at få mere Steem Power.
 
 ## Konklusion
 

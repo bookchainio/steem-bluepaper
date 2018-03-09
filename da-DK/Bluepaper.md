@@ -72,7 +72,7 @@ Wallet-adresser, der bruges af mange blockchain-teknologier som f. eks. Bitcoin 
 
 Mange brugere, der introduceres til kryptovaluta kæmper med at forstå hvordan "magiske internet tokens" uddelt fra platformen faktisk kan have en reel værdi i den virkelige verden. For at hjælpe med at bygge bro mellem de almindelige pengesystemer. som alle kender til og til kryptovalutaers tokens som tildeles af platformen, introduceredes en ny valuta, der kaldes Steem Blockchain Dollars (SBD).
 
-SBD tokens are designet til at holde sig tæt til dollarkursen så brugere der modtager dem, nogenlunde ved, hvor meget de er værd i almindelige amerikanske dollars. SBD tokens er også en relativt stabil valuta for brugere at beholde, hvis de ønsker at holde kontoværdien relativt til USD. En mere detaljeret teknisk forklaring findes i Steems tekniske whitepaper.[^12]
+SBD tokens er designet til at holde sig tæt til dollarkursen så brugere der modtager dem, nogenlunde ved, hvor meget de er værd i almindelige amerikanske dollars. SBD tokens er også en relativt stabil valuta for brugere at beholde, hvis de ønsker at holde kontoværdien relativt til USD. En mere detaljeret teknisk forklaring findes i Steems tekniske whitepaper.[^12]
 
 ### Decentraliseret Exchange
 
@@ -88,11 +88,11 @@ Steem har, som de første, indført et hierarkisk system for private nøgler, de
 
 Disse private nøgler er Indlæg, Aktiv og Ejer. Indlægsnøglen giver kontoen adgang til at oprette indlæg, kommentere, redigere og resteem'e[^15], og følge/mute andre konti. Aktiv-nøglen er beregnet til mere følsomme ting som f.eks. at overføre beløb, power up/down, konvertering af Steem Dollars, stemme på vidner, oprette markedsordrer og nulstille indlægs-nøglen. Ejernøglen er kun beregnet til brug hvor absolut nødvendigt. Det er den mest magtfulde nøgle fordi den kan bruges til at ændre alle andre nøgler for en konto, herunder ejernøglen og til at bevise ejerskab af en konto under kontogendannelse. Ideelt bør den gemmes offline og kun benyttes når en kontos nøgler skal ændres eller for at gendanne en kompromitteret konto.
 
-Steem benytter også et Master Password til at kryptere alle tre nøgler. Webservices kan bruge Master Password til at dekryptere og signere med den nødvendige private nøgle. Master Passwords gør at brugere kan stole på at tjenester ikke uhensigtsmæssigt sender nøgler mellem servere, og øger dermed brugervenligheden uden at gå på kompromis med sikkerheden ved det signering lokalt.
+Steem benytter også et Master Password til at kryptere alle tre nøgler. Webservices kan bruge Master Password til at dekryptere og signere med den nødvendige private nøgle. Master Passwords gør at brugere kan stole på at tjenester ikke uhensigtsmæssigt sender nøgler mellem servere, og øger dermed brugervenligheden uden at gå på kompromis med sikkerheden ved lokal signering.
 
 ### Autoriteter med Multisignatur
 
-Steem blockchainen gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. For at en transaktion er gyldig, skal nok enheder signere den, så den vægtede sum er større eller lig med den nødvendige grænseværdi.
+Steem blockchain'en gør det muligt at dele ansvar mellem flere enheder, så flere brugere kan dele autoritet og skal bekræfte en transaktion før den er gyldig. Det gøres på samme måde som Bitshares[^16], hvor hvert offentlig/privat nøglepar er signeret med en vægtning og en grænseværdi er nødvendig for at have autoritet. For at en transaktion er gyldig, skal nok enheder signere den, så den vægtede sum er større eller lig med den nødvendige grænseværdi.
 
 ### Flere belønningsmodtagere
 

@@ -22,11 +22,11 @@
 
 Ο ρυθμός που δημιουργούνται νέα νομίσματα έχει οριστεί στο 9.5% ετησίως ξεκινώντας από το Δεκέμβριο του 2016, και μειώνεται με ρυθμό 0.01% ανά 250.000 block, ή περίπου 0.5% ανά έτος. Ο πληθωρισμός θα συνεχίσει να μειώνεται με τον ίδιο ρυθμό, μέχρι που θα φτάσει το 0.95%, μετά από μια περίοδο που θα διαρκέσει περίπου 20.5 χρόνια.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Από την δημιουργία των νέων νομισμάτων που τίθενται σε κυκλοφορία από το Steem blockchain κάθε χρόνο, το 75% από αυτά προστίθενται στο Κοινό Ταμείο Ανταμοιβών, τα οποία διαμοιράζονται στους δημιουργούς περιεχομένου και τους επιμελητές. Το 15% διανέμεται στους κατόχους που έχουν επενδύσει στο νόμισμα και το υπόλοιπο 10% διαμοιράζεται στους Witness, τους παραγωγούς block που συνεργάζονται στο DPoS πρωτόκολλο συναίνεσης του Steemit.
 
-#### Rewards for Content Creators and Curators
+#### Ανταμοιβές για Δημιουργούς Περιεχομένου και Επιμελητές
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Οι χρήστες που παράγουν περιεχόμενο προσθέτουν αξία στο δίκτυο δημιουργώντας υλικό που θα φέρει νέους χρήστες στην πλατφόρμα, αλλά και παροτρύνοντας επίσης τους υπάρχοντες χρήστες του δικτύου να ασχοληθούν με αυτό και να ψυχαγωγηθούν. This aids in distributing the currency to a wider set of users and increases the network effect. Οι χρήστες που αξιοποιούν τον χρόνο τους για να αξιολογήσουν και να ψηφίσουν το περιεχόμενο παίζουν πολύ σημαντικό ρόλο στην διανομή του νομίσματος προς τους χρήστες που προσθέτουν περισσότερη αξία. Το blockchain ανταμείβει αυτές τις δραστηριότητες σε συνάρτηση με την αξία τους σύμφωνα με την συλλογική σοφία του πλήθους μέσω ενός συστήματος ψηφοφορίας σταθμισμένο με βάση την βαρύτητά τους.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

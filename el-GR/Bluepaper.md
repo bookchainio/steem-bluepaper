@@ -28,9 +28,9 @@
 
 Οι χρήστες που παράγουν περιεχόμενο προσθέτουν αξία στο δίκτυο δημιουργώντας υλικό που θα φέρει νέους χρήστες στην πλατφόρμα, αλλά και παροτρύνοντας επίσης τους υπάρχοντες χρήστες του δικτύου να ασχοληθούν με αυτό και να ψυχαγωγηθούν. This aids in distributing the currency to a wider set of users and increases the network effect. Οι χρήστες που αξιοποιούν τον χρόνο τους για να αξιολογήσουν και να ψηφίσουν το περιεχόμενο παίζουν πολύ σημαντικό ρόλο στην διανομή του νομίσματος προς τους χρήστες που προσθέτουν περισσότερη αξία. Το blockchain ανταμείβει αυτές τις δραστηριότητες σε συνάρτηση με την αξία τους σύμφωνα με την συλλογική σοφία του πλήθους μέσω ενός συστήματος ψηφοφορίας σταθμισμένο με βάση την βαρύτητά τους.
 
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
+#### Ψήφοι με βάση τα Σταθμισμένα Νομίσματα για Καθορισμό της Διανομής των Ανταμοιβών
 
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Το Steem λειτουργεί στην βάση ένα STEEM, μια ψήφος. Υπό αυτού του μοντέλου τα άτομα που έχουν συνεισφέρει περισσότερο στην πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν και περισσότερη επιρροή στο πως αξιολογούνται οι συνεισφορές. Τα σταθμισμένα νομίσματα μπορούν είτε να αγοραστούν ή να κερδιθούν. Οι χρήστες δεν μπορούν να έχουν μεγαλύτερη επιρροή έχοντας πολλαπλούς λογαριασμούς, αφού ένας μόνο λογαριασμός με ένα ποσό σταθμισμένων νομισμάτων έχει την ίδια επιρροή με δύο διαφορετικούς λογαριασμούς που μοιράζονται τον ίδιο αριθμό σταθμισμένων νομισμάτων. The only way for users to increase their influence in the platform is to increase their stake.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

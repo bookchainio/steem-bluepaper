@@ -34,9 +34,9 @@
 
 Επιπλέον, το Steem επιτρέπει στα μέλη να ψηφίζουν με STEEM μόνο όταν δεσμεύονται σε χρονοδιάγραμμα 13 εβδομάδων που ονομάζεται Steem Power. Με αυτό το μοντέλο, οι χρήστες έχουν οικονομικό κίνητρο να ψηφίζουν με τρόπο που να μεγιστοποιεί την μακροπρόθεσμη αξία των STEEM που κατέχουν.
 
-## Ταχύτητα και Κλιμάκωση του Steem Blockchain
+## Ταχύτητα και Επεκτασιμότητα του Steem Blockchain
 
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
+To Steem blockchain είναι σχεδιασμένο με τρόπο που το καθιστά το πιο γρήγορο και πιο αποτελεσματικό blockchain που υπάρχει, πράγμα που είναι απαραίτητο για να μπορεί να υποστηρίζει το μέγεθος επισκέψεων που αναμένεται σε μια πλατφόρμα κοινωνικής δικτύωσης μεγαλύτερη σε μέγεθος απο το Reddit. Το Steem έχει ήδη ξεπεράσει το Bitcoin σε αριθμό συναλλαγών και είναι σε θέση να επεκταθεί για να υποστηρίξει 10.000 ή και περισσότερες συναλλαγές το δευτερόλεπτο.
 
 ### Delegated Proof of Stake (DPoS)
 

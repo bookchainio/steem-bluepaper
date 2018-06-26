@@ -30,11 +30,11 @@
 
 #### Ψήφοι με βάση τα Σταθμισμένα Νομίσματα για Καθορισμό της Διανομής των Ανταμοιβών
 
-Το Steem λειτουργεί στην βάση ένα STEEM, μια ψήφος. Υπό αυτού του μοντέλου τα άτομα που έχουν συνεισφέρει περισσότερο στην πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν και περισσότερη επιρροή στο πως αξιολογούνται οι συνεισφορές. Τα σταθμισμένα νομίσματα μπορούν είτε να αγοραστούν ή να κερδιθούν. Οι χρήστες δεν μπορούν να έχουν μεγαλύτερη επιρροή έχοντας πολλαπλούς λογαριασμούς, αφού ένας μόνο λογαριασμός με ένα ποσό σταθμισμένων νομισμάτων έχει την ίδια επιρροή με δύο διαφορετικούς λογαριασμούς που μοιράζονται τον ίδιο αριθμό σταθμισμένων νομισμάτων. The only way for users to increase their influence in the platform is to increase their stake.
+Το Steem λειτουργεί στην βάση ένα STEEM, μια ψήφος. Υπό αυτού του μοντέλου τα άτομα που έχουν συνεισφέρει περισσότερο στην πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν και περισσότερη επιρροή στο πως αξιολογούνται οι συνεισφορές. Τα σταθμισμένα νομίσματα μπορούν είτε να αγοραστούν ή να κερδιθούν. Οι χρήστες δεν μπορούν να έχουν μεγαλύτερη επιρροή έχοντας πολλαπλούς λογαριασμούς, αφού ένας μόνο λογαριασμός με ένα ποσό σταθμισμένων νομισμάτων έχει την ίδια επιρροή με δύο διαφορετικούς λογαριασμούς που μοιράζονται τον ίδιο αριθμό σταθμισμένων νομισμάτων. Ο μόνος τρόπος να αυξήσουν οι χρήστες την επιρροή τους στην πλατφόρμα είναι να αυξήσουν τον αριθμό των σταθμισμένων νομισμάτων τους.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Επιπλέον, το Steem επιτρέπει στα μέλη να ψηφίζουν με STEEM μόνο όταν δεσμεύονται σε χρονοδιάγραμμα 13 εβδομάδων που ονομάζεται Steem Power. Με αυτό το μοντέλο, οι χρήστες έχουν οικονομικό κίνητρο να ψηφίζουν με τρόπο που να μεγιστοποιεί την μακροπρόθεσμη αξία των STEEM που κατέχουν.
 
-## Speed and Scale on the Steem Blockchain
+## Ταχύτητα και Κλιμάκωση του Steem Blockchain
 
 The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
 

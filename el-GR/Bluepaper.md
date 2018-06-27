@@ -42,9 +42,9 @@ To Steem blockchain είναι σχεδιασμένο με τρόπο που τ�
 
 Συχνά λόγω συμφόρησης από το Proof-of-Work (PoW)[^6], πολλά blockchain δε μπορούν να επεκταθούν σε περισσότερες από τρεις συναλλαγές το δευτερόλεπτο, που είναι ένα πολύ μικρό ποσοστό της λογιστικής κυκλοφορίας του κόσμου. Το Steem απαιτεί πολύ μεγαλύτερη κλίμακα και ταχύτητα απ'ότι προσφέρουν τα PoW blockchain, και έτσι χρησιμοποιήθηκε ένας λιγότερο γνωστός αλγόριθμος που ονομάζεται Delegated Proof of Stake (DPoS)[^7] για να θέσει τα θεμέλια για ένα blockchain κατάλληλο για δισεκατομμύρια χρήστες.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Λόγω του DPoS, το Steem blockchain μπορεί να δημιουργήσει ένα νέο block κάθε 3 δευτερόλεπτα με ελάχιστο υπολογιστικό φορτίο. Αυτό σημαίνει ότι το blockchain μπορεί να επεξεργαστεί περισσότερες συναλλαγές και να διατηρήσει περισσότερες πληροφορίες, συμπεριλαμβανομένου του περιεχομένου.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Ορίζοντας τους κανόνες για το πότε θα γίνει ένα Hardfork, οι witness που έχουν εκλεχθεί μέσα στα πλαίσια του DPoS μπορούν εύκολα και αποτελεσματικά να αποφασίσουν αν πρέπει ή όχι να προχωρήσουν με το προτεινόμενο Hardfork, επιτρέποντας έτσι στο πρωτόκολλο του Steem blockchain να εξελιχθεί πιο γρήγορα από τα υπόλοιπα. Το Steem Blockchain έχει ήδη δει πάνω από 18 hardfork επιτυχώς[^8], και μετά από κάθε Hardfork, μόνο ένα κομμάτι της αλυσίδας παραμείνει κάθε φορά.
 
 ### ChainBase
 

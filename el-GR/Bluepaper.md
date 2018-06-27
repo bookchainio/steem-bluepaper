@@ -26,7 +26,7 @@
 
 #### Ανταμοιβές για Δημιουργούς Περιεχομένου και Επιμελητές
 
-Οι χρήστες που παράγουν περιεχόμενο προσθέτουν αξία στο δίκτυο δημιουργώντας υλικό που θα φέρει νέους χρήστες στην πλατφόρμα, αλλά και παροτρύνοντας επίσης τους υπάρχοντες χρήστες του δικτύου να ασχοληθούν με αυτό και να ψυχαγωγηθούν. This aids in distributing the currency to a wider set of users and increases the network effect. Οι χρήστες που αξιοποιούν τον χρόνο τους για να αξιολογήσουν και να ψηφίσουν το περιεχόμενο παίζουν πολύ σημαντικό ρόλο στην διανομή του νομίσματος προς τους χρήστες που προσθέτουν περισσότερη αξία. Το blockchain ανταμείβει αυτές τις δραστηριότητες σε συνάρτηση με την αξία τους σύμφωνα με την συλλογική σοφία του πλήθους μέσω ενός συστήματος ψηφοφορίας σταθμισμένο με βάση την βαρύτητά τους.
+Οι χρήστες που παράγουν περιεχόμενο προσθέτουν αξία στο δίκτυο δημιουργώντας υλικό που θα φέρει νέους χρήστες στην πλατφόρμα, αλλά και παροτρύνοντας επίσης τους υπάρχοντες χρήστες του δικτύου να ασχοληθούν με αυτό και να ψυχαγωγηθούν. Αυτό βοηθάει στην διανομή του νομίσματος σε ένα ευρύτερο σύνολο χρηστών και ενισχύει το φαινόμενο του δικτύου. Οι χρήστες που αξιοποιούν τον χρόνο τους για να αξιολογήσουν και να ψηφίσουν το περιεχόμενο παίζουν πολύ σημαντικό ρόλο στην διανομή του νομίσματος προς τους χρήστες που προσθέτουν περισσότερη αξία. Το blockchain ανταμείβει αυτές τις δραστηριότητες σε συνάρτηση με την αξία τους σύμφωνα με την συλλογική σοφία του πλήθους μέσω ενός συστήματος ψηφοφορίας σταθμισμένο με βάση την βαρύτητά τους.
 
 #### Ψήφοι με βάση τα Σταθμισμένα Νομίσματα για Καθορισμό της Διανομής των Ανταμοιβών
 
@@ -40,7 +40,7 @@ To Steem blockchain είναι σχεδιασμένο με τρόπο που τ�
 
 ### Delegated Proof of Stake (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Συχνά λόγω συμφόρησης από το Proof-of-Work (PoW)[^6], πολλά blockchain δε μπορούν να επεκταθούν σε περισσότερες από τρεις συναλλαγές το δευτερόλεπτο, που είναι ένα πολύ μικρό ποσοστό της λογιστικής κυκλοφορίας του κόσμου. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

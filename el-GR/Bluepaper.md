@@ -48,7 +48,7 @@ To Steem blockchain είναι σχεδιασμένο με τρόπο που τ�
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων του blockchain που έχει αντικατασταθεί με την τεχνολογία Graphene[^10] από το 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

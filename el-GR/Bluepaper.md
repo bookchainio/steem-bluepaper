@@ -54,11 +54,11 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Το AppBase είναι το πρώτο βήμα στην δημιουργία ενός FABRIC (Πλήρως Ασύγχρονη Απόδοση του Blockchain με Ανεξάρτητη Συμμόρφωση) σε πολλαπλές αλυσίδες. Το AppBase επιτρέπει πολλά από τα μέρη του Steem Blockchiain να γίνουν αρθρωτά δημιουργώντας μη-συναινετικά blockchain σαν ειδικά πρόσθετα. Αυτά τα πρόσθετα μπορούν να ενημερωθούν με πολύ πιο γρήγορο ρυθμό, καθώς δεν απαιτούν την αναπαραγωγή ολόκληρου του blockchain. Αυτό καθιστά το steemd[^11] πολύ πιο αποδοτικό και εύκολο στην συντήρηση και στην επεκτασιμότητα.
 
-Από πρακτική πλευρά, το AppBase επιτρέπει σε διάφορους πυρήνες, ή ακόμη και διαφορετικούς υπολογιστές, να διατηρούν κάποια από τα διαφορετικά μέρη του Steem blockchain. Αυτό είναι σημαντικά πιο αποδοτικό απ'ότι να απαιτείται από κάθε πυρήνα και κάθε υπολογιστή που στηρίζει το δίκτυο να διατηρεί ολόκληρο το blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Από πρακτική πλευρά, το AppBase επιτρέπει σε διάφορους πυρήνες, ή ακόμη και διαφορετικούς υπολογιστές, να διατηρούν κάποια από τα διαφορετικά μέρη του Steem blockchain. Αυτό είναι σημαντικά πιο αποδοτικό απ'ότι να απαιτείται από κάθε πυρήνα και κάθε υπολογιστή που στηρίζει το δίκτυο να διατηρεί ολόκληρο το blockchain. Το να γίνει το blockchain αρθρωτό, του δίνει τη δυνατότητα να επωφεληθεί πλήρως από την αντίστοιχη αρθρωτή φύση των υπολογιστών. Αυτό είναι ένα απαραίτητο βήμα στην χρονοβόρα διαδικασία της δημιουργίας ενός παράλληλου και πλήρως βελτιστοποιημένου blockchain.
 
-## Steem’s Platform Features
+## Οι Δυνατότητες της πλατφόρμας του Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Το Steem Blockchain εξυπηρετεί έναν διπλό σκοπό, το σύστημα επεξεργασίας ψηφιακού νομίσματος, καθώς και μια mainstream πλατφόρμα ενός μέσου κοινωνικής δικτύωσης. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
 
 ### Primitives Designed for Content Applications
 

@@ -62,9 +62,9 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ### Θεμέλια Σχεδιασμένα για Εφαρμογές Περιεχομένου
 
-Το Steem προσφέρει στους χρήστες του τη μοναδική ικανότητα να δημοσιεύουν και να αποθηκεύουν διάφορους τύπος περιεχομένου κατευθείαν και μόνιμα στον αμετάβλητο πυρήνα του blockchain σαν απλό κείμενο. Αφού αποθηκευτεί στο blockchain, τα δεδομένα είναι άμεσα διαθέσιμα στους προγραμματιστές για να δημιουργήσουν εφαρμογές από αυτά. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Το Steem προσφέρει στους χρήστες του τη μοναδική ικανότητα να δημοσιεύουν και να αποθηκεύουν διάφορους τύπος περιεχομένου κατευθείαν και μόνιμα στον αμετάβλητο πυρήνα του blockchain σαν απλό κείμενο. Αφού αποθηκευτεί στο blockchain, τα δεδομένα είναι άμεσα διαθέσιμα στους προγραμματιστές για να δημιουργήσουν εφαρμογές από αυτά. Οι προγραμματιστές μπορούν να αλληλεπιδράσουν κατευθείαν με το περιεχόμενο στο blockchain χρησιμοποιώντας τα διαθέσιμα API. Αρκετά από τα θεμέλια που μπορούν οι προγραμματιστές να χρησιμοποιήσουν για να φτιάξουν εφαρμογές συμπεριλαμβάνουν τα Ονόματα Λογαριασμών, τις Αναρτήσεις, τα Σχόλια, τις Ψήφους και τα Υπόλοιπα Λογαριασμών.
 
-### Native Name System
+### Εγγενές Ονομαστικό Σύστημα
 
 Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 

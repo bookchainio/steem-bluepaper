@@ -52,7 +52,7 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ### AppBase
 
-Το AppBase είναι το πρώτο βήμα στην δημιουργία ενός FABRIC (Πλήρως Ασύγχρονη Απόδοση του Blockchain με Ανεξάρτητη Συμμόρφωση) σε πολλαπλές αλυσίδες. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+Το AppBase είναι το πρώτο βήμα στην δημιουργία ενός FABRIC (Πλήρως Ασύγχρονη Απόδοση του Blockchain με Ανεξάρτητη Συμμόρφωση) σε πολλαπλές αλυσίδες. Το AppBase επιτρέπει πολλά από τα μέρη του Steem Blockchiain να γίνουν αρθρωτά δημιουργώντας μη-συναινετικά blockchain σαν ειδικά πρόσθετα. Αυτά τα πρόσθετα μπορούν να ενημερωθούν με πολύ πιο γρήγορο ρυθμό, καθώς δεν απαιτούν την αναπαραγωγή ολόκληρου του blockchain. Αυτό καθιστά το steemd[^11] πολύ πιο αποδοτικό και εύκολο στην συντήρηση και στην επεκτασιμότητα.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

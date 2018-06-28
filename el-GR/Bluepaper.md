@@ -76,7 +76,7 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ### Αποκεντρωμένο Ανταλλακτήριο
 
-Το Steem blockchain προσφέρει ένα αποκεντρωμένο ανταλλακτήριο νομισμάτων, παρόμοιο με το ανταλλακτήριο Bitshares.[^13] Το ανταλλακτήριο αυτό, επιτρέπει στους χρήστες να ανταλλάσσουν τα STEEM και SBD νομίσματά τους μέσα από μια δημόσια και αποκεντρωμένη peer-to-peer αγορά. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Το Steem blockchain προσφέρει ένα αποκεντρωμένο ανταλλακτήριο νομισμάτων, παρόμοιο με το ανταλλακτήριο Bitshares.[^13] Το ανταλλακτήριο αυτό, επιτρέπει στους χρήστες να ανταλλάσσουν τα STEEM και SBD νομίσματά τους μέσα από μια δημόσια και αποκεντρωμένη peer-to-peer αγορά. Οι χρήστες είναι σε θέση να τοποθετούν εντολές αγοράς και πώλησης, και μια αντίστοιχη εντολή εκτελείται αυτόματα από το blockchain. Επίσης υπάρχει ένα δημόσια προσβάσιμο βιβλίο αγοραπωλησιών καθώς και ιστορικό αγοραπωλησιών μέσω του οποίου οι χρήστες μπορούν να αναλύσουν την αγορά. Οι χρήστες μπορούν να αλληλεπιδράσουν άμεσα με το ανταλλακτήριο χρησιμοποιώντας το blockchain API, ή κάποια εφαρμογή όπως αυτή που βρίσκεται στο Steemit.com.[^14]
 
 ### Payments Through Escrow
 

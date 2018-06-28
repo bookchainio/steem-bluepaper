@@ -66,7 +66,7 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ### Εγγενές Ονομαστικό Σύστημα
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Οι διευθύνσεις πορτοφολιού που χρησιμοποιούνται από άλλα blockchain, όπως το Bitcoin και το Ethereum, αποτελούνται από μια σειρά τυχαίων γραμμάτων και αριθμών. Παρόλα αυτά, οι συγκεκριμένες κάνουν δύσκολο το σύστημα συναλλαγών με άλλους χρήστες στα πλαίσια ενός τυπικού κοινωνικού δικτύου καθώς οι χρήστες δεν είναι σε θέση να απομνημονεύσουν αυτές τις διευθύνσεις. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
 
 ### Steem Blockchain Dollars (SBD)
 

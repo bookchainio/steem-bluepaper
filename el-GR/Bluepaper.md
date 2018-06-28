@@ -66,15 +66,15 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ### Εγγενές Ονομαστικό Σύστημα
 
-Οι διευθύνσεις πορτοφολιού που χρησιμοποιούνται από άλλα blockchain, όπως το Bitcoin και το Ethereum, αποτελούνται από μια σειρά τυχαίων γραμμάτων και αριθμών. Παρόλα αυτά, οι συγκεκριμένες κάνουν δύσκολο το σύστημα συναλλαγών με άλλους χρήστες στα πλαίσια ενός τυπικού κοινωνικού δικτύου καθώς οι χρήστες δεν είναι σε θέση να απομνημονεύσουν αυτές τις διευθύνσεις. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Οι διευθύνσεις πορτοφολιού που χρησιμοποιούνται από άλλα blockchain, όπως το Bitcoin και το Ethereum, αποτελούνται από μια σειρά τυχαίων γραμμάτων και αριθμών. Παρόλα αυτά, οι συγκεκριμένες κάνουν δύσκολο το σύστημα συναλλαγών με άλλους χρήστες στα πλαίσια ενός τυπικού κοινωνικού δικτύου καθώς οι χρήστες δεν είναι σε θέση να απομνημονεύσουν αυτές τις διευθύνσεις. Το Steem blockchain χρησιμοποιεί το όνομα χρήστη του κάθε συμμετέχοντος ως διεύθυνση πορτοφολιού, πράγμα που ενισχύει την εμπειρία του χρήστη για όσους συμμετέχοντες προσπαθούν να στείλουν νομίσματα, επειδή μπορούν να επιβεβαιώσουν την κάθε διεύθυνση από μνήμης.
 
-### Steem Blockchain Dollars (SBD)
+### Δολάρια Steem Blockchain (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Πολλοί από τους χρήστες που μπαίνουν για πρώτη φορά στον κόσμο των κρυπτονομισμάτων δυσκολεύονται να καταλάβουν πως τα "μαγικά διαδικτυακά νομίσματα" που απονέμει η πλατφόρμα μπορούν να έχουν πραγματική αξία στον κόσμο. Με σκοπό να γεφυρωθεί το χάσμα μεταξύ των παραδοσιακών χρηματικών συστημάτων που έχουν συνηθίσει οι χρήστες, και των κρυπτονομισμάτων που ανταμείβονται με την χρήση της πλατφόρμας, ένα νέο νόμισμα δημιουργήθηκε, με την ονομασία Δολάρια Steem Blockchain (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+Τα νομίσματα SBD είναι σχεδιασμένα να συνδέονται πολύ κοντά στο $1 δολάριο, κι έτσι οι χρήστες που τα λαμβάνουν μπορούν να γνωρίζουν στο περίπου πόσο αξίζουν τα νομίσματά τους σε όρους "πραγματικών δολαρίων." Τα νομίσματα SBD προσφέρουν επίσης ένα σταθερό νόμισμα για χρήστες που προτιμούν να διατηρούν την αξία του λογαριασμού τους σε συσχετισμό με Δολάρια Αμερικής. Μια πιο λεπτομερής τεχνική εξήγηση μπορεί να βρεθεί στο White Paper του Steem. [^12]
 
-### Decentralized Exchange
+### Αποκεντρωμένο Ανταλλακτήριο
 
 The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
 

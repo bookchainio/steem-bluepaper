@@ -94,9 +94,9 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Το Steem blockchain επιτρέπει μια αρχή να διαχωριστεί σε πολλαπλές οντότητες, ώστε πολλαπλοί χρήστες να μπορούν να μοιράζονται την ίδια αρχή, ή πολλαπλές οντότητες να πρέπει να εξουσιοδοτήσουν μια συναλλαγή για να θεωρηθεί έγκυρη. Αυτό γίνεται με τον ίδιο τρόπο όπως στο BitShares[^16] όπου σε κάθε ζεύγος δημόσιου/ιδιωτικού κλειδιού εκχωρείται μια βαρύτητα, και ορίζεται για την αρχή ένα κατώτατο όριο. Προκειμένου μια συναλλαγή να θεωρηθεί έγκυρη, θα πρέπει αρκετές οντότητες να την υπογράψουν, έτσι ώστε η συνολική αθροισμένη βαρύτητά τους να είναι ίδια ή μεγαλύτερη από το κατώτατο όριο που έχει οριστεί.
 
-### Multiple Reward Beneficiaries
+### Δικαιούχοι Πολλαπλών Ανταμοιβών
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Για οποιαδήποτε ανάρτηση, μπορεί να υπάρχουν διάφοροι άνθρωποι που έχουν οικονομικό συμφέρον στις ανταμοιβές. Αυτό συμπεριλαμβάνει τον δημιουργός, τους πιθανούς συν-δημιουργούς, παραπέμποντες χρήστες, υπηρεσίες φιλοξενίας, ιστολόγια που ενσωματώνουν σχόλια από blockchain καθώς και προγραμματιστές εφαρμογών. Οποιαδήποτε ιστοσελίδα ή εφαρμογή και να χρησιμοποιηθεί για την δημιουργία μιας ανάρτησης, οι χρήστες θα έχουν τη δυνατότητα να καθορίσουν πως θα μοιραστούν οι ανταμοιβές από την ανάρτησή τους στους μεταξύ των τρίτων δικαιούχων. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

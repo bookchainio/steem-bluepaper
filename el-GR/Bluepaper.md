@@ -78,9 +78,9 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Το Steem blockchain προσφέρει ένα αποκεντρωμένο ανταλλακτήριο νομισμάτων, παρόμοιο με το ανταλλακτήριο Bitshares.[^13] Το ανταλλακτήριο αυτό, επιτρέπει στους χρήστες να ανταλλάσσουν τα STEEM και SBD νομίσματά τους μέσα από μια δημόσια και αποκεντρωμένη peer-to-peer αγορά. Οι χρήστες είναι σε θέση να τοποθετούν εντολές αγοράς και πώλησης, και μια αντίστοιχη εντολή εκτελείται αυτόματα από το blockchain. Επίσης υπάρχει ένα δημόσια προσβάσιμο βιβλίο αγοραπωλησιών καθώς και ιστορικό αγοραπωλησιών μέσω του οποίου οι χρήστες μπορούν να αναλύσουν την αγορά. Οι χρήστες μπορούν να αλληλεπιδράσουν άμεσα με το ανταλλακτήριο χρησιμοποιώντας το blockchain API, ή κάποια εφαρμογή όπως αυτή που βρίσκεται στο Steemit.com.[^14]
 
-### Payments Through Escrow
+### Πληρωμές μέσω Μεσεγγύησης
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Η μη-αναστρέψιμη φύση των συναλλαγών του blockchain είναι μια πολύ σημαντική δυνατότητα ασφαλείας, αν και υπάρχουν πολλές περιπτώσεις όπου οι χρήστες δε νιώθουν και πολύ άνετα να στείλουν χρήματα σε κάποιον άλλο χρήστη, αν δεν έχουν τη δυνατότητα να τα πάρουν πίσω σε περίπτωση που δεν τηρήσει την συμφωνία τους. Το Steem blockchain παρέχει έναν τρόπο για να στέλνουν οι χρήστες χρήματα σε άλλους, με ορισμό ενός τρίτου ατόμου σαν μεσεγγυητή. Ο χρήστης που ενεργεί σαν Μεσεγγυητής είναι σε θέση να προσδιορίσει αν έχουν τηρηθεί οι όροι της συμφωνίας και είτε να παραδώσει τα χρήματα στον παραλήπτη, ή να τα επιστρέψει στον αποστολέα.
 
 ### Hierarchical Private Key Structure
 

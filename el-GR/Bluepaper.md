@@ -112,9 +112,9 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Το Steem blockchain επιτρέπει στους χρήστες του να αποθηκεύουν τα STEEM & SBD τους σε έναν λογαριασμό αποταμιεύσεων, με σκοπό να μη μπορεί να γίνει ανάληψη των χρημάτων τους, παρά μόνο μετά από μια περίοδο αναμονής τριών ημερών. Επιπλέον, τα STEEM που βρίσκονται δεσμευμένα σε χρονοδιάγραμμα 13 εβδομάδων, μπορούν να αναληφθούν με ρυθμό 1/13 ανά εβδομάδα, μετά από μια αρχική περίοδο αναμονής επτά ημερών. Αυτοί οι χρονικοί περιορισμοί εμποδίζουν τον επιτιθέμενο από την πλήρη και άμεση πρόσβαση σε όλα τα χρήματα του χρήστη, έτσι ώστε ο νόμιμος κάτοχος να έχει χρόνο να ανακτήσει την πρόσβαση στο λογαριασμό του πριν γίνει ανάληψη των χρημάτων.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Περιορισμός Εύρους Ζώνης για Λειτουργίες Χωρίς Αμοιβή
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Καθώς οι Witness πληρώνονται εξολοκλήρου από τη δημιουργία νέων νομισμάτων, δεν υπάρχει λόγος χρέωσης των χρηστών για την συντήρηση του blockchain. Ο μόνος λόγος για να χρεωθεί αμοιβή θα ήταν για να αποτραπούν οι χρήστες από την δημιουργία υπερβολικού αριθμού συναλλαγών, που θα μπορούσαν πιθανώς να επηρεάσουν τις επιδόσεις του blockchain.
 
 In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
 

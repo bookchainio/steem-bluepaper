@@ -110,7 +110,7 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Εάν το ενεργό κλειδί ή το κλειδί ιδιοκτήτη ενός χρήστη έχει παραβιαστεί, ο επιτιθέμενος θα είχε άμεση και πλήρη πρόσβαση σε όλα τα χρήματα του λογαριασμού. Επειδή οι συναλλαγές των blockchain είναι μη-αναστρέψιμες, οι χρήστες δεν έχουν τη δυνατότητα να πάρουν πίσω τα χρήματά τους αφού έχουν κλαπεί.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Το Steem blockchain επιτρέπει στους χρήστες του να αποθηκεύουν τα STEEM & SBD τους σε έναν λογαριασμό αποταμιεύσεων, με σκοπό να μη μπορεί να γίνει ανάληψη των χρημάτων τους, παρά μόνο μετά από μια περίοδο αναμονής τριών ημερών. Επιπλέον, τα STEEM που βρίσκονται δεσμευμένα σε χρονοδιάγραμμα 13 εβδομάδων, μπορούν να αναληφθούν με ρυθμό 1/13 ανά εβδομάδα, μετά από μια αρχική περίοδο αναμονής επτά ημερών. Αυτοί οι χρονικοί περιορισμοί εμποδίζουν τον επιτιθέμενο από την πλήρη και άμεση πρόσβαση σε όλα τα χρήματα του χρήστη, έτσι ώστε ο νόμιμος κάτοχος να έχει χρόνο να ανακτήσει την πρόσβαση στο λογαριασμό του πριν γίνει ανάληψη των χρημάτων.
 
 ### Bandwidth Rate Limiting for Fee-less Operations
 

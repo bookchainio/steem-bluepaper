@@ -122,7 +122,7 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 ## Σύνοψη
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Οι μοναδικές ανταμοιβές και τα κίνητρα που προσφέρει το Steem blockchain, αλλά και τα νομίσματα του, είναι σχεδιασμένα να κάνουν το Steem το απόλυτο κρυπτονόμισμα. Οι επιδόσεις του blockchain έχουν σχεδιαστεί έχοντας στο μυαλό την ευρεία υιοθέτηση του νομίσματος και της πλατφόρμας από τους χρήστες. Σε συνδυασμό με τους αστραπιαίους χρόνους επεξεργασίας καθώς και τις συναλλαγές χωρίς αμοιβή, το Steem είναι σε θέση να γίνει μια από τις κορυφαίες τεχνολογίες blockchain που χρησιμοποιούνται από ανθρώπους στον κόσμο.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

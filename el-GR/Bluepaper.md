@@ -116,11 +116,11 @@ To ChainBase[^9] είναι το τμήμα της βάσης δεδομένων
 
 Καθώς οι Witness πληρώνονται εξολοκλήρου από τη δημιουργία νέων νομισμάτων, δεν υπάρχει λόγος χρέωσης των χρηστών για την συντήρηση του blockchain. Ο μόνος λόγος για να χρεωθεί αμοιβή θα ήταν για να αποτραπούν οι χρήστες από την δημιουργία υπερβολικού αριθμού συναλλαγών, που θα μπορούσαν πιθανώς να επηρεάσουν τις επιδόσεις του blockchain.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Για να τοποθετηθούν λογικά όρια στη χρήση του συστήματος, κάθε χρήστης έχει περιορισμένο εύρος ζώνης. Κάθε φορά που οι χρήστες κάνουν μια εργασία στο blockchain όπως μεταφορά νομισμάτων, ανάρτηση περιεχομένου και ψηφοφορία, χρησιμοποιούν ένα μέρος του εύρους ζώνης τους. Εάν οι χρήστες υπερβούν το εύρος ζώνης που τους αναλογεί, θα πρέπει να περιμένουν πριν μπορέσουν να κάνουν περισσότερες ενέργειες, μέχρι το εύρος ζώνης που τους αναλογεί να ξαναγίνει διαθέσιμο.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Τα όρια του εύρους ζώνης ρυθμίζονται αυτόματα ανάλογα με τη χρήση του δικτύου, οπότε οι χρήστες έχουν υψηλότερο εύρος ζώνης όταν το δίκτυο δεν χρησιμοποιείται πολύ. Το μέγεθος του εύρους ζώνης που επιτρέπεται να χρησιμοποιήσει ένας χρήστης είναι ανάλογο προς το ποσό του Steem Power που έχει, έτσι οι χρήστες μπορούν πάντα να αυξήσουν το εύρος ζώνης τους, αγοράζοντας επιπλέον Steem Power.
 
-## Conclusion
+## Σύνοψη
 
 The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
 

@@ -2,7 +2,7 @@
 
 ## နိဒါန္း
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
+ေျပာင္းလဲျခင္းမျပုနိုင္ေသာ အမ်ားျပည္သူဖတ္ရႈနိင္သည့္ အခ်က္အလက္မ်ားကို ေရးသားေဖာ္ျပျခင္းျဖင့္ ဝင္ေငြရရိွနိုင္ေသာ Steem<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">၂<0> ဟုေခၚသည္ လွ်င္ျမန္၍ လဲွြခမေပးရသည့္ ဒစ္ဂ်စ္တယ္ ေငြေၾကးစနစ္နွင့္အတူ တိုးခဲ့်နိုင္သည္ ဘေလာက္ခိ်န္း နည္းပညာ<0>၁</a></sup>ကို Steem မွာေထာက္ပံ့ေပးပါသည္။ ဤနည္းပညာ၏ အေျခခံ အုတ္ျမစ္နွစ္ခုျဖစ္သည့္ ဘ ေလာက္ခိ်န္းနွင့္ တိုကင္ တို့သည္ လံုျခံုေရး၊ အခ်က္အလက္မ်ားတည့္တံ့ခိုင္ျမဲေရးနွင့္ အဆိုပါအုတ္ျမစ္တို့ အဓြန့္ရွည္ၾကာေရးတို့အတြက္ အျပန္အလွန္ မီွခိုေနရသည့္အတြက္ တစ္ခုနွင့္တစ္ခု တစ္သားတည္းက်ေနၾကပါသည္။ Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
 

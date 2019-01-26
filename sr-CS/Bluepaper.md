@@ -78,11 +78,11 @@ SBD tokeni su dizajnirani tako da po svojoj vrednosti budu blisko povezani s jed
 
 Steem blockchain nudi decentralizovanu menjačnicu za tokene, nalik na menjačnicu Bitshares.[^13] Menjačnica omogućuje korisnicima da međusobno konvertuju svoje STEEM i SBD tokene putem javnog decentraliziranog tržišta, bez posrednika. Korisnici imaju mogućnost da zadaju željeni odnos vrednosti, i za kupovinu i za prodaju, a blockchain potom automatski pronalazi parove korisnika čije se ponude podudaraju. Na raspolaganu korisnicima je i javno dostupna lista sklopljenih ponuda koja se može koristiti za analizu tržišta. Korisnici mogu direktno da komuniciraju sa menjačnicom preko API-ja za blockchain, ili putem interfejsa (GUI), poput onoga na Steemit.com.[^14]
 
-### Payments Through Escrow
+### Plaćanja preko trećih lica (Escrow)
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Važno svojstvo blockchain-a koje donosi bezbednost jeste nepromenljivost obavljenih transakcija. Ipak, ima puno primera u kojima se korisnici ne osećaju naročito prijatno kada znaju da se tokeni koje šalju drugoj osobi ni na koji način ne mogu povratiti ako se partner ne pridržava dogovora. Steem blockchain omogućava korisnicima da međusobno šalju tokene i preko treće strane (posrednika) koja je označena kao pružalac "escrow usluga". Korisnik koji deluje kao posrednik može da odredi jesu li ispunjeni uslovi ugovora i da shodno s tim odluči da li će isplatiti sredstva ili će ih vratiti pošiljaocu.
 
-### Hierarchical Private Key Structure
+### Hijerarhijska struktura privatnog ključa
 
 Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
 

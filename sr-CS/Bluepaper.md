@@ -92,7 +92,7 @@ Steem takođe pojednostavljuje upotrebu glavne lozinke kojom se šifruju sva tri
 
 ### Opcija višestrukog potpisivanja
 
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+Steem blockchain omogućava da se nadležnost podeli na više entiteta, tako da veći broj korisnika može da ima isti stepen ovlašćenja nad entitetom, ili da više entiteta bude zahtevano kako bi se odobrila transakcija. Proces se vrši na isti način kao kod Bitshares[^16], pri čemu se svakom paru javnog/privatnog ključa dodeljuje određeni koeficijent težine, a pristup se dozvoljava tek onda kada se pređe definisani prag vrednosti. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
 
 ### Multiple Reward Beneficiaries
 

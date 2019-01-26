@@ -6,13 +6,13 @@ Steem nudi skalabilni blockchain protokol [^1] za javno dostupan i nepromenljiv 
 
 Kada ga uporedimo sa drugim blockchain-ovima, Steem se izdvaja jer predstavlja prvu javno dostupnu bazu podataka za nepromenljiv sadržaj u obliku "čistog teksta" (eng. "plain text"), uz koji dolazi i ugrađeni mehanizam za nagrađivanje. Navedene osobine Steem čine platformom za javno objavljivanje sadržaja, sa koje bilo koja internet aplikacija može skinuti i podeliti podatke, pri čemu se nagrađuju oni koji su doprineli sadržaju.
 
-U svetu kripto-valuta, jedinstvena svojstva STEEM-a ga istovremeno čine i "pametnim" i "društvenim" u odnosu na druge valute, poput Bitcoin-a i Ether-a. Tome doprinose dve osobine tokena. Prva je postojanje fonda za nagrađivanje autora sadržaja i onih koji glasaju sadržaj (pul nagrada, eng. "rewards pool”). Druga osobina je postojanje sistema glasanja koja se oslanja na mudost korisnika (eng. wisdom of the crowd) da procene koji sadržaj je vredan da zasluži nagradne tokene. Kombinacija navedenih svojstava čini pomenuti "Dokaz postojanja svesti", a koji se sam temelji na "Dokazu rada"[^4] (eng. "Proof of work"). Za osvarenje ciljeva, distribucije tokena članovima zajednice, neophodan je ludski rad. Dokaz postojanja svesti daje STEEM-u centralnu ulogu u ohrabrivanju članova zajednice da dodaju vrednost zajednici i omoguće njen dalji rast.
+U svetu kripto-valuta, jedinstvena svojstva STEEM-a ga istovremeno čine i "pametnim" i "društvenim" u odnosu na druge valute, poput Bitcoin-a i Ether-a. Tome doprinose dve osobine tokena. Prva je postojanje fonda za nagrađivanje autora sadržaja i onih koji glasaju sadržaj (pul nagrada, eng. "rewards pool”). Druga osobina je postojanje sistema glasanja koja se oslanja na mudost korisnika (eng. wisdom of the crowd) da procene koji sadržaj je vredan da zasluži nagradne tokene. Kombinacija navedenih svojstava čini pomenuti "Dokaz postojanja svesti", a koji se sam temelji na "Dokazu rada"[^4] (eng. "Proof of work"). Za osvarenje ciljeva, distribucije tokena članovima zajednice, neophodan je ljudski rad. Dokaz postojanja svesti daje STEEM-u centralnu ulogu u ohrabrivanju članova zajednice da dodaju vrednost zajednici i omoguće njen dalji rast.
 
 Pored navedenog napredaka na polju blockchain-a i token-a, Steem kao celina pruža dodatne napredne pogodnosti kako bi zadovoljstvo krajnjeg korisnika podigao na viši nivo. U te funkcije spadaju opcije za vraćanje ukradenog naloga[^5], posredovanje trećih lica prilikom pružanja finansijskih usluga (eng. escrow), štedni računi, promovisanje sadržaja od strane korisnika, kao i ocenjivanje reputacije korisnika. Sve se ovo obavlja u svega 3 sekunde, koliko je potrebno za odobrenje transakcije, bez ikakvih troškova obrade. Sve navedeno omogućava podršku misiji stvaranja pametne i društvene kripto-valute namenjene zajednici kreativih autora na čitavom internetu.
 
 ## Dokaz postojanja svesti: pametni i društveni tokeni
 
-Sistem tokena kojim se nagrađuju korisnici koji doprinose razvoju zajednice, zahteva postojanje mehanizama za ocenjimave socijalne vrednosti sadržaja. Mi taj sistem nazivamo ”Dokaz postojanja svesti”.
+Sistem tokena kojim se nagrađuju korisnici koji doprinose razvoju zajednice, zahteva postojanje mehanizama za ocenjivanje socijalne vrednosti sadržaja. Mi taj sistem nazivamo ”Dokaz postojanja svesti”.
 
 ### Fond nagrada ("Kako nastaju tokeni")
 
@@ -56,9 +56,9 @@ AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mn
 
 Praktično govoreći, AppBase omogućava različitim jezgrama (eng. cores), ili čak različitim računarima da održavaju posebne delove Steem blockchain-a. To je znatno efikasnije od toga da svako jezgro i svaki računar u mreži održava čitav blockchain. Modularizacija blockchain-a omogućava da se u potpunosti iskoristi prednost modularne prirode računara. Ovo predstavlja mali, ali nužan korak u mukotrpnom procesu stvaranja potpuno paralelnog, potpuno optimizovanog blockchain-a.
 
-## Steem’s Platform Features
+## Svojstva platforme Steem
 
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
+Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu tokena, i kao platforma za društvenie medije. Karakteristike koje nudi blockchain moraju da podrže obe navedene uloge, pri čemu je iskustvo korisnika prilikom korišćenja platforme od presudne važnosti.
 
 ### Primitives Designed for Content Applications
 

@@ -12,11 +12,11 @@ Pored navedenog napredaka na polju blockchain-a i token-a, Steem kao celina pru�
 
 ## Dokaz postojanja svesti: pametni i društveni tokeni
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Sistem tokena kojim se nagrađuju korisnici koji doprinose razvoju zajednice, zahteva postojanje mehanizama za ocenjimave socijalne vrednosti sadržaja: mi taj sistem nazivamo ”Dokaz postojanja svesti”.
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Fond nagrada ("Kako nastaju tokeni")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Jedan od najinovativnijih (ujedno i najčešće pogrešno shvaćenih) pojmova Steem blockchain-a jeste fond nagrada iz koga se tokeni distribuiraju autorima sadržaja. Da bi se razumelo šta je fond nagrada, prvo se mora razumeti način na koji se tokeni proizvode u DPoS blokchain-ima, a kako u PoW blokchain-ima. U tradicionalnim PoW blokchain-ima, tokeni se proizvode stalno ali se dodeljuju nasumično ljudima čije mašine obavljaju rad, a koje obično nazivamo rudarima (eng. miners).
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 

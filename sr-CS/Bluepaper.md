@@ -2,7 +2,7 @@
 
 ## Uvod
 
-Steem nudi skalabilni blockchain protokol [^1] za javno dostupan i nepromenljiv sadržaj, uz brzi digitalni token (zvani STEEM) kojim se transakcije vrše bez ikakve naknade, [^2] a koji omogućava ljudima da zarade kripto valutu koristeći vlastiti um (u engleskom se taj proces naziva "Proof-of-Brain", "Dokaz postojanja svesti"). Dva gradivna elementa su utkana u ovaj protokol, blokchain i token. Međusobno su zavisni, čime se obezbeđuje sigurnost, nepromenljivost i trajnost, tako da je njihova povezanost neraskidiva. Steem protokol već godinama dokazuje svoju efikasnost, a po broju obavljenih transakcija se prevazišao Bitcoin i Ethereum. [^3]
+Steem nudi skalabilni blockchain protokol [^1] za javno dostupan i nepromenljiv sadržaj, uz brzi digitalni token (zvani STEEM) kojim se transakcije vrše bez ikakve naknade, [^2] a koji omogućava ljudima da zarade kripto valutu koristeći vlastiti um (u engleskom se taj proces naziva "Proof-of-Brain", "Dokaz postojanja svesti"). Dva gradivna elementa su utkana u ovaj protokol, blokchain i token. Međusobno su zavisni, čime se obezbeđuje sigurnost, nepromenljivost i trajnost, tako da je njihova povezanost neraskidiva. Steem protokol već godinama dokazuje svoju efikasnost, a po broju obavljenih transakcija je odavno prevazišao Bitcoin i Ethereum.[^3]
 
 Kada ga uporedimo sa drugim blockchain-ovima, Steem se izdvaja jer predstavlja prvu javno dostupnu bazu podataka za nepromenljiv sadržaj u obliku "čistog teksta" (eng. "plain text"), uz koji dolazi i ugrađeni mehanizam za nagrađivanje. Navedene osobine Steem čine platformom za javno objavljivanje sadržaja, sa koje bilo koja internet aplikacija može skinuti i podeliti podatke, pri čemu se nagrađuju oni koji su doprineli sadržaju.
 
@@ -72,7 +72,7 @@ Adrese novčanika koje koriste mnoge blokchain tehnologije, poput Bitcoin-a i Et
 
 Mnogi korisnici koji se po prvi put susreću sa kripto-valutnom imaju poteškoće shvate kako "čarobni internet tokeni", dodjeljeni preko neke platforme, zapravo mogu imati stvarnu vrednost. Kako bi se korisnicima pomoglo da premoste jaz između tradicionalnog, fiat novca i tokena koji predstavljaju kripto-valutu koja se dodeljuje preko platforme, kreirana je nova kripto-valuta pod nazivom Steem Blockchain Dolar (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD tokeni su dizajnirani tako da po svojoj vrednosti budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko otprilike vrede u "pravim dolarima". SBD tokeni takođe nude relativno stabilnu kripto-valutu za korisnike koji žele da sačuvaju stabilnu vrednost svog naloga u odnosu na USD. Detaljnije tehničko objašnjenje se može naći u Steem tehničkom uputstvu (eng. whitepaper).[^12]
 
 ### Decentralized Exchange
 

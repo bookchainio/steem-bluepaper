@@ -48,11 +48,11 @@ Pravila funcionisanja mreže se definišu onda kada se dogodi "Hard fork". Naime
 
 ### ChainBase
 
-ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine zamenio Graphene[^10]. ChainBase odlikuje brže vrijeme učitavanja i izlaza, podržava paralelni pristup bazi podataka i manje je sklon padovima u odnosu na svoje prethodnike. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine zamenio Graphene[^10]. ChainBase podržava paralelni pristup bazi podataka i manje je sklon padovima u odnosu na svoje prethodnike, a odlikuje ga i brže vrijeme učitavanja i izlaza. Takođe je manje sklon oštećenjima baze podataka, omgućuje trenutno usnimavanje stanja čitave baze podataka (eng. snapshotting) i može opsluživati više RPC zahteva iz iste memorije.
 
 ### AppBase
 
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blockchain-ove bez konsenzusa kao specijalizovane plugin-e. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
 
 Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
 

@@ -60,7 +60,7 @@ Praktično govoreći, AppBase omogućava različitim jezgrama (eng. cores), ili 
 
 Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu tokena, i kao platforma za društvenie medije. Karakteristike koje nudi blockchain moraju da podrže obe navedene uloge, pri čemu je iskustvo korisnika prilikom korišćenja platforme od presudne važnosti.
 
-### Primitives Designed for Content Applications
+### Primitive dizajnirane za aplikacije sa sadržajima
 
 Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 

@@ -52,9 +52,9 @@ ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine z
 
 ### AppBase
 
-AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blockchain-ove bez konsenzusa kao specijalizovane plugin-e. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
+AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blockchain-ove bez konsenzusa kao specijalizovane plugin-e. Ti plugin-i se dalje mogu ažurirati znatno brže jer ne zahtijevaju ponovnu učitavanje čitavog blockchaina-a. To čini steemd[^11] mnogo učinkovitijim i lakšim za održavati i mjeriti.
 
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
+Praktično govoreći, AppBase omogućava različitim jezgrama (eng. cores), ili čak različitim računarima da održavaju posebne delove Steem blockchain-a. To je znatno efikasnije od toga da svako jezgro i svaki računar u mreži održava čitav blockchain. Modularizacija blockchain-a omogućava da se u potpunosti iskoristi prednost modularne prirode računara. Ovo predstavlja mali, ali nužan korak u mukotrpnom procesu stvaranja potpuno paralelnog, potpuno optimizovanog blockchain-a.
 
 ## Steem’s Platform Features
 

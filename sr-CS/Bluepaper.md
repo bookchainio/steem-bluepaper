@@ -98,9 +98,9 @@ Steem blockchain omogućava da se nadležnost podeli na više entiteta, tako da 
 
 Za svaki post može postojati niz različitih ljudi koji će ostvariti financijsku dobit u vidu nagrade. To uključuje autora, moguće koautore, one koji su dali svoje preporuke, usluge hostinga, blogove koji ugrađuju elemente datog blokchain-a u svoje sadržaje ili developere koji su razvili alate. Prema tome, bilo koja web-stranica ili alat koji se koristi za pisanje posta ili komentara, može da odredi kako će se nagrade dobijene od objavljivanja tog sadržaja raspodeliti. To omogućava različite oblike saradnje, kao i način na koji platforme koje su izgrađene na bazi Steem blokchaina mogu da ostvare pravo na udeo u nagradama koje ostvaruju njihovi korisnici.
 
-### Smart Media Tokens (SMT)
+### Smart Media Tokeni (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu. STEEM je prvi SMT koji će je nastao, a Smart Media Token protokol ima za cilj unovčavanje sadržaja web-stranica i aplikacija širom web-a, dopuštajući ljudima da kreiraju tokene koji posjeduju svojstva slična STEEM-u, ali se istovremeno mogu prilagoditi tako da odgovaraju specifičnoj viziji bilo koje online zajednice. Kako je STEEM već postigao planetarni uspeh, to može biti podsticaj i za ostale web-stranice i aplikacije. Više tehničkih detalja o ovoj temi možete naći u dokumentu pod nazivom "Smart Media Tokens whitepaper"[^17].
 
 ### Stolen Account Recovery
 

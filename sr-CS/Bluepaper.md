@@ -40,7 +40,7 @@ Steem blockchain osmišljen je kao jedan od najbržih i najefikasnijih blockchai
 
 ### Delegirani dokaz o ulogu (DPoS)
 
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
+Kako su često ograničeni dokazom o radu (PoW)[^6], mnogi blokchain protokoli ne mogu obavljati više od tri transakcije u sekundi, što je tek maleni deo ukupnog svetskog financijskog. Kako je Steem-u bilo potrebno da radi na znatno većoj skali i da ostvaruje značajno veću brzinu u odnosu na PoW algoritme, kreatori Steem-a su posegnuli za manje poznatim algoritmom koji se naziva "delegirani dokaz o ulogu" (eng. Delegated Proof of Stake, DPoS)[^7]. Time su udareni temelji mogućnostima da Steem koriste milijarde korisnika.
 
 Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
 

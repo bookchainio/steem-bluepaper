@@ -96,7 +96,7 @@ Steem blockchain omogućava da se nadležnost podeli na više entiteta, tako da 
 
 ### Višestruki primaoci beneficija
 
-Za svaki post može postojati niz različitih ljudi koji će ostvariti financijsku dobit u vidu nagrade. To uključuje autora, moguće koautore, one koji su dali svoje preporuke, usluge hostinga, blogove koji ugrađuju elemente datog blokchain-a u svoje sadržaje ili developere koji su razvili alate. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Za svaki post može postojati niz različitih ljudi koji će ostvariti financijsku dobit u vidu nagrade. To uključuje autora, moguće koautore, one koji su dali svoje preporuke, usluge hostinga, blogove koji ugrađuju elemente datog blokchain-a u svoje sadržaje ili developere koji su razvili alate. Prema tome, bilo koja web-stranica ili alat koji se koristi za pisanje posta ili komentara, može da odredi kako će se nagrade dobijene od objavljivanja tog sadržaja raspodeliti. To omogućava različite oblike saradnje, kao i način na koji platforme koje su izgrađene na bazi Steem blokchaina mogu da ostvare pravo na udeo u nagradama koje ostvaruju njihovi korisnici.
 
 ### Smart Media Tokens (SMT)
 

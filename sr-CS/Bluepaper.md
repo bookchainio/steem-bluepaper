@@ -48,7 +48,7 @@ Pravila funcionisanja mreže se definišu onda kada se dogodi "Hard fork". Naime
 
 ### ChainBase
 
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
+ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine zamenio Graphene[^10]. ChainBase odlikuje brže vrijeme učitavanja i izlaza, podržava paralelni pristup bazi podataka i manje je sklon padovima u odnosu na svoje prethodnike. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
 
 ### AppBase
 

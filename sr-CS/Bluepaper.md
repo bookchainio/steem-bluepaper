@@ -30,7 +30,7 @@ Korisnici koji proizvode zabavan i poučan sadržaj dodaju kreativnu vrednost mr
 
 #### Kako tokeni na štednom nalogu određuju raspodelu nagrada
 
-Steem radi po principu jedan-STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprineli platformi, a što se meri stanjem na njihovom štednom računu, imaju najviše uticaja na to kako se ocenjuju novi sadržaji. Iznos na štednom računu (eng. stake) se može kupiti ili zaraditi. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
+Steem radi po principu jedan-STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprineli platformi, a što se meri stanjem na njihovom štednom računu, imaju najviše uticaja na to kako se ocenjuju novi sadržaji. Iznos na štednom računu (eng. stake) se može kupiti ili zaraditi. Korisnici ne mogu steći dodatni uticaj tako što će posedovati više naloga, jer se jednim nalogom sa određenom sumom na štednom računu ostvaruje potpuno isti uticaj kao da se poseduje veći broj računa koji u zbiru imaju istu sumu na štednom računu. Jedini način na koji korisnici mogu da povećaju svoj uticaj na platformi jeste da povećaju bilans na svom štednom računu.
 
 Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 

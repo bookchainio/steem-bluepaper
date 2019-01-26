@@ -74,9 +74,9 @@ Mnogi korisnici koji se po prvi put susreću sa kripto-valutnom imaju poteškoć
 
 SBD tokeni su dizajnirani tako da po svojoj vrednosti budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko otprilike vrede u "pravim dolarima". SBD tokeni takođe nude relativno stabilnu kripto-valutu za korisnike koji žele da sačuvaju stabilnu vrednost svog naloga u odnosu na USD. Detaljnije tehničko objašnjenje se može naći u Steem tehničkom uputstvu (eng. whitepaper).[^12]
 
-### Decentralized Exchange
+### Decentralizirana menjačnica
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain nudi decentralizovanu menjačnicu za tokene, nalik na menjačnicu Bitshares.[^13] Menjačnica omogućuje korisnicima da međusobno konvertuju svoje STEEM i SBD tokene putem javnog decentraliziranog tržišta, bez posrednika. Korisnici imaju mogućnost da zadaju željeni odnos vrednosti, i za kupovinu i za prodaju, a blockchain potom automatski pronalazi parove korisnika čije se ponude podudaraju. Na raspolaganu korisnicima je i javno dostupna lista sklopljenih ponuda koja se može koristiti za analizu tržišta. Korisnici mogu direktno da komuniciraju sa menjačnicom preko API-ja za blockchain, ili putem interfejsa (GUI), poput onoga na Steemit.com.[^14]
 
 ### Payments Through Escrow
 

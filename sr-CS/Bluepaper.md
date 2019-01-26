@@ -42,9 +42,9 @@ Steem blockchain osmišljen je kao jedan od najbržih i najefikasnijih blockchai
 
 Kako su često ograničeni dokazom o radu (PoW)[^6], mnogi blokchain protokoli ne mogu obavljati više od tri transakcije u sekundi, što je tek maleni deo ukupnog svetskog financijskog. Kako je Steem-u bilo potrebno da radi na znatno većoj skali i da ostvaruje značajno veću brzinu u odnosu na PoW algoritme, kreatori Steem-a su posegnuli za manje poznatim algoritmom koji se naziva "delegirani dokaz o ulogu" (eng. Delegated Proof of Stake, DPoS)[^7]. Time su udareni temelji mogućnostima da Steem koriste milijarde korisnika.
 
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
+Zahvaljujući DPoS, Steem Blockchain je u stanju da generiše novi blok na svake 3 sekunde uz minimalno opterećenje računara. To ujedno znači da blockchain može da obrađuje više transakcija i da u sebi sadrži znatno više informacija, što uključuje i sadržaj koji korisnici stvaraju.
 
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
+Pravila funcionisanja mreže se definišu onda kada se dogodi "Hard fork". Naime, potvrdioci transakcija (eng. witness), koji su izabrani težinskim glasovima, po DPoS principima, mogu brzo i efikasno odlučiti hoće li ili neće definisati novi set pravila - hard fork. To Steem blockchain protokolu omogućava da brže evoluira u poređenju sa drugima. Steem blockchain je već doživeo 18[^8] hard forkova, a svaki put posle hard forka, ostajao bi samo jedan lanac.
 
 ### ChainBase
 

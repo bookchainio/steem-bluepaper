@@ -62,7 +62,7 @@ Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu 
 
 ### Primitive dizajnirane za aplikacije sa sadržajima
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem korisnicima nudi jedinstvenu mogućnost objavljivanja i čuvanja različitih vrsta sadržaja, direktno i trajno, u nepromjenjivoj "knjizi" blockchain-a u formatu čistog teksta (eng. plain text). Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
 
 ### Native Name System
 

@@ -32,7 +32,7 @@ Korisnici koji proizvode zabavan i poučan sadržaj dodaju kreativnu vrednost mr
 
 Steem radi po principu jedan-STEEM, jedan glas. Prema ovom modelu, pojedinci koji su najviše doprineli platformi, a što se meri stanjem na njihovom štednom računu, imaju najviše uticaja na to kako se ocenjuju novi sadržaji. Iznos na štednom računu (eng. stake) se može kupiti ili zaraditi. Korisnici ne mogu steći dodatni uticaj tako što će posedovati više naloga, jer se jednim nalogom sa određenom sumom na štednom računu ostvaruje potpuno isti uticaj kao da se poseduje veći broj računa koji u zbiru imaju istu sumu na štednom računu. Jedini način na koji korisnici mogu da povećaju svoj uticaj na platformi jeste da povećaju bilans na svom štednom računu.
 
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Pored toga, Steem dozvoljava članovima da glasaju STEEM-om samo ako je posvete 13-o nedeljnom planu (eng. vesting schedule) koji se naziva Steem Power. Verovatno je najlakše objasniti klasičnim bankarskim rečnikom: imate slobodne STEEM tokene (keš), njih možete da stavite na štedni nalog (sada imate udeo, "stake"), koji se stalno oročuje na 13 nedelja. To se sada naziva "Steem Power", koji Vam omogućava priliv kamate i daje Vam mogućnost uticajnijeg glasanja. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 ## Speed and Scale on the Steem Blockchain
 

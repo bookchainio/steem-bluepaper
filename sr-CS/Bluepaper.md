@@ -22,11 +22,11 @@ Za razliku od PoW kriptovaluta, tokeni u Steem-u se proizvode ustaljenom brzinom
 
 Stopa kojom se stvaraju novi tokeni je definisana decembra 2016. i ona iznosi 9,5% godišnje. Stopa će se dalje smanjivati za 0,01% posle svakih 250.000 blokova, odnosno oko 0,5% godišnje. Inflacija će nastaviti da se smanjuje po ovoj stopi sve dok ne dosegne 0,95%, što će se dogoditi za otprilike 20,5 godina.
 
-Od novih tokena koje Steem blokchain kreira svake godine, 75% tokena čine "nagradni fond" koji se distribuira autorima sadržaja i glasačima. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Od novih tokena koje Steem blokchain kreira svake godine, 75% tokena čine "nagradni fond" koji se distribuira autorima sadržaja i glasačima. 15% se distribuira korisnicima koji imaju tokene na štednom računu (eng. vested), a preostalih 10% se distribuira potvrdiocima transakcija, koji zapravo proizvode blokove i sudeluju u Steem-ovom DPoS konsenzusnom protokolu.
 
-#### Rewards for Content Creators and Curators
+#### Nagrade za kreatore sadržaja i glasače
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Korisnici koji proizvode zabavan i poučan sadržaj dodaju kreativnu vrednost mreži, čime privlače nove korisnike na platformu i zadržavaju stare. To pomaže distribuciji kripto-valute većem broju korisnika, što ujedno znači i veću zastupljenost mreže. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 

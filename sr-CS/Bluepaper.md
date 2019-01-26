@@ -94,9 +94,9 @@ Steem takođe pojednostavljuje upotrebu glavne lozinke kojom se šifruju sva tri
 
 Steem blockchain omogućava da se nadležnost podeli na više entiteta, tako da veći broj korisnika može da ima isti stepen ovlašćenja nad entitetom, ili da više entiteta bude zahtevano kako bi se odobrila transakcija. Proces se vrši na isti način kao kod Bitshares[^16], pri čemu se svakom paru javnog/privatnog ključa dodeljuje određeni koeficijent težine, a pristup se dozvoljava tek onda kada se pređe definisani prag vrednosti. Primera radi, da bi transakcija bila valjana, dovoljno entiteta mora da obezbedi potpis kako bi zbir težina potpisa prešao prag.
 
-### Multiple Reward Beneficiaries
+### Višestruki primaoci beneficija
 
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+Za svaki post može postojati niz različitih ljudi koji će ostvariti financijsku dobit u vidu nagrade. To uključuje autora, moguće koautore, one koji su dali svoje preporuke, usluge hostinga, blogove koji ugrađuju elemente datog blokchain-a u svoje sadržaje ili developere koji su razvili alate. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
 ### Smart Media Tokens (SMT)
 

@@ -102,7 +102,7 @@ Za svaki post može postojati niz različitih ljudi koji će ostvariti financijs
 
 Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu. STEEM je prvi SMT koji će je nastao, a Smart Media Token protokol ima za cilj unovčavanje sadržaja web-stranica i aplikacija širom web-a, dopuštajući ljudima da kreiraju tokene koji posjeduju svojstva slična STEEM-u, ali se istovremeno mogu prilagoditi tako da odgovaraju specifičnoj viziji bilo koje online zajednice. Kako je STEEM već postigao planetarni uspeh, to može biti podsticaj i za ostale web-stranice i aplikacije. Više tehničkih detalja o ovoj temi možete naći u dokumentu pod nazivom "Smart Media Tokens whitepaper"[^17].
 
-### Stolen Account Recovery
+### Vraćanje ukradenog naloga
 
 If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
 

@@ -118,11 +118,11 @@ Budući da su potvrdioci transakcija u potpunosti plaćeni stvaranjem novih toke
 
 Kako bi se definisali razumna ograničenja za upotrebu sistema, svaki korisnik je limitiran propusnim opsegom mreže (eng. bandwidth). Svaki put kada korisnici izvode operacije na blockchain-u, u koje spadaju transferi tokena, objavljivanje sadržaja i glasanje, oni koriste deo propusne moći mreže koji im pripada. Ako korisnik ipak prekorači dopušteno ograničenje, mora da sačeka da se dodeljena propusna moć obnovi pre nego što nastavi sa svojim aktivnostima.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Ograničenja vezana za propusnu moć mreže se stalno koriguju, u zavisnosti od opšte upotrebe mreže, tako da korisnici imaju manje stroga ograničenja kada je aktivnost na mreži generalno niska. Količina dodeljene propusne moći mreže je direktno proporcionalna Steem Power-u koji korisnik poseduje, tako da korisnici mogu povećati svoj limit tako što će uložiti više u svoj Steem Power.
 
-## Conclusion
+## Zaključak
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Jeinstveni sistem nagrađivanja koje nudi Steem blockchain i prateći tokeni, dizajnirani su sa namerom da stvore najbolju ulaznu platformu u kripto-svet. Performanse blockchain-a su stoga dizajnirane sa namerom da omoguće masovno prihvatanje kripto-valute i platforme u celini. Kada se sve navedeno ukombinuje sa gotovo trenutnom obradom transakcija, bez ikakvih troškova, Steem se nameće kao svetski lider na području blockchain tehnologija.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

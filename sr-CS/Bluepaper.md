@@ -104,7 +104,7 @@ Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu.
 
 ### Vraćanje ukradenog naloga
 
-Ako je korisnici procene da im je nalog ugrožen, postoji pogućnost da se pomoću Owner ključa (vlasničkog) promene ostali ključevi. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Ako je korisnici procene da im je nalog ugrožen, postoji pogućnost da se pomoću Owner ključa (vlasničkog) promene ostali ključevi. U slučaju da haker ipak uspe da dođe do nekog privatnog ključa i promeni lozinku, korisnik ima rok od 30 dana da pošalje prethodni privatni ključ preko procesa za vraćanje ukradenog naloga, a koji je u nadležnosti Steem-a, i da na taj način povrati kontrolu nad svojim nalogom. To tome je Steem jedinstven na tržištu. Ovu opciju takođe može ponuditi osoba ili firma koja pruža usluge registracije na Steem. Ipak ova opcija je data samo kao preporuka koja poboljšava iskustvo korišćenja, ali ne i obaveza onoga ko pruža registraciju. U svakom slučaju, korisniku uvek ostaje mogućnsot da se sam obrati Steem-u, direktno.
 
 ### Security Through Time-Locks
 

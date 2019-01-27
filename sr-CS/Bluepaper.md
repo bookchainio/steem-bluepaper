@@ -114,9 +114,9 @@ Steem blockchain omogućuje korisnicima da svoje STEEM i SBD tokene čuvaju u vi
 
 ### Ograničavanje propusne moći mreže, za operacije bze nadoknade
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Budući da su potvrdioci transakcija u potpunosti plaćeni stvaranjem novih tokena, ne postoji potreba da korisnici plaćaju obradu transakcija i na naj način pokrivaju troškove rada blockchain-a. Jedini razlog za naplatu troškova obrade bi moglo biti odvraćanje korisnika od toga da izdaju zahteve za nerezonski velik broj transakcija, čime bi mogli da ugroze performanse blockchain-a.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Kako bi se definisali razumna ograničenja za upotrebu sistema, svaki korisnik je limitiran propusnim opsegom mreže (eng. bandwidth). Svaki put kada korisnici izvode operacije na blockchain-u, u koje spadaju transferi tokena, objavljivanje sadržaja i glasanje, oni koriste deo propusne moći mreže koji im pripada. Ako korisnik ipak prekorači dopušteno ograničenje, mora da sačeka da se dodeljena propusna moć obnovi pre nego što nastavi sa svojim aktivnostima.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

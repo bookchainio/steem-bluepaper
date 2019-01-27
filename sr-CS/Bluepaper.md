@@ -106,13 +106,13 @@ Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu.
 
 Ako je korisnici procene da im je nalog ugrožen, postoji pogućnost da se pomoću Owner ključa (vlasničkog) promene ostali ključevi. U slučaju da haker ipak uspe da dođe do nekog privatnog ključa i promeni lozinku, korisnik ima rok od 30 dana da pošalje prethodni privatni ključ preko procesa za vraćanje ukradenog naloga, a koji je u nadležnosti Steem-a, i da na taj način povrati kontrolu nad svojim nalogom. Po tome je Steem jedinstven na tržištu. Ovu opciju takođe može ponuditi i osoba ili firma koja pruža usluge registracije na Steem. Ipak, ova opcija je data samo kao preporuka koja poboljšava korisničko iskustvo, ali ne i obaveza onoga ko pruža registraciju. U svakom slučaju, korisniku uvek ostaje mogućnsot da se sam obrati Steem-u, direktno.
 
-### Sigurnost ostvarena "Vremenskom bravom"
+### Sigurnost ostvarena "vremenskom bravom"
 
 Ako bi se dogodilo da Active ili Owner ključ padne u pogrešne ruke, napadač bi dobio pristup svim sredstvima koja se nalaze na računu. Budući da su blokchain transakcije nepovratne, nakon obavljene krađe, korisnici nemaju način da svoja sredstva povrate.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain omogućuje korisnicima da svoje STEEM i SBD tokene čuvaju u vidu štednog računa, pri čemu im se može pristupiti tek nakon isteka perioda od 3 (tri) dana. Osim toga, STEEM koji je na "oročenom računu" (eng. vest-ovan u vidu Power-a), može se u potpunosti povući sa računa tek nakon isteka perioda od 13 (trinaest) nedelja, pri čemu se isplate vrše svake nedelje, u iznosu od 1/13 ukupne sume. Navedeni primeri vremenskih brava sprečavaju napadače da sva sredstva iskoriste odmah i time ujedno daju mogućnost legitimnom vlasniku da povrati kontrolu nad svojim sredstvima pre nego što budu u potpunosti povučena.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ograničavanje propusne moći mreže, za operacije bze nadoknade
 
 Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
 

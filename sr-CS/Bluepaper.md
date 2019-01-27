@@ -100,7 +100,7 @@ Za svaki post može postojati niz različitih ljudi koji će ostvariti financijs
 
 ### Smart Media Tokeni (SMT)
 
-Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu. STEEM je prvi SMT koji će je nastao, a Smart Media Token protokol ima za cilj unovčavanje sadržaja web-stranica i aplikacija širom web-a, dopuštajući ljudima da kreiraju tokene koji posjeduju svojstva slična STEEM-u, ali se istovremeno mogu prilagoditi tako da odgovaraju specifičnoj viziji bilo koje online zajednice. Kako je STEEM već postigao planetarni uspeh, to može biti podsticaj i za ostale web-stranice i aplikacije. Više tehničkih detalja o ovoj temi možete naći u dokumentu pod nazivom "Smart Media Tokens whitepaper"[^17].
+Smart Media Tokeni su izvorni tokeni koji se mogu stvarati na Steem blockchainu. STEEM je prvi SMT koji će je nastao, a Smart Media Token protokol ima za cilj unovčavanje sadržaja web-stranica i aplikacija širom web-a, tako što će dopustati ljudima da kreiraju tokene koji posjeduju svojstva slična STEEM-u, ali se istovremeno mogu prilagoditi tako da odgovaraju specifičnoj viziji bilo koje online zajednice. Kako je STEEM već postigao planetarni uspeh, to može biti podsticaj i za ostale web-stranice i aplikacije. Više tehničkih detalja o ovoj temi možete naći u dokumentu pod nazivom "Smart Media Tokens whitepaper"[^17].
 
 ### Vraćanje ukradenog naloga
 
@@ -112,17 +112,17 @@ Ako bi se dogodilo da Active ili Owner ključ padne u pogrešne ruke, napadač b
 
 Steem blockchain omogućuje korisnicima da svoje STEEM i SBD tokene čuvaju u vidu štednog računa, pri čemu im se može pristupiti tek nakon isteka perioda od 3 (tri) dana. Osim toga, STEEM koji je na "oročenom računu" (eng. vest-ovan u vidu Power-a), može se u potpunosti povući sa računa tek nakon isteka perioda od 13 (trinaest) nedelja, pri čemu se isplate vrše svake nedelje, u iznosu od 1/13 ukupne sume. Navedeni primeri vremenskih brava sprečavaju napadače da sva sredstva iskoriste odmah i time ujedno daju mogućnost legitimnom vlasniku da povrati kontrolu nad svojim sredstvima pre nego što budu u potpunosti povučena.
 
-### Ograničavanje propusne moći mreže, za operacije bze nadoknade
+### Ograničavanje propusne moći mreže, za operacije bez nadoknade
 
 Budući da su potvrdioci transakcija u potpunosti plaćeni stvaranjem novih tokena, ne postoji potreba da korisnici plaćaju obradu transakcija i na naj način pokrivaju troškove rada blockchain-a. Jedini razlog za naplatu troškova obrade bi moglo biti odvraćanje korisnika od toga da izdaju zahteve za nerezonski velik broj transakcija, čime bi mogli da ugroze performanse blockchain-a.
 
-Kako bi se definisali razumna ograničenja za upotrebu sistema, svaki korisnik je limitiran propusnim opsegom mreže (eng. bandwidth). Svaki put kada korisnici izvode operacije na blockchain-u, u koje spadaju transferi tokena, objavljivanje sadržaja i glasanje, oni koriste deo propusne moći mreže koji im pripada. Ako korisnik ipak prekorači dopušteno ograničenje, mora da sačeka da se dodeljena propusna moć obnovi pre nego što nastavi sa svojim aktivnostima.
+Kako bi se definisala razumna ograničenja za upotrebu sistema, svaki korisnik je limitiran propusnim opsegom mreže (eng. bandwidth). Svaki put kada korisnici izvode operacije na blockchain-u, u koje spadaju transferi tokena, objavljivanje sadržaja i glasanje, oni koriste deo propusne moći mreže koji im pripada. Ako korisnik ipak prekorači dopušteno ograničenje, mora da sačeka da se dodeljena propusna moć obnovi pre nego što nastavi sa svojim aktivnostima.
 
 Ograničenja vezana za propusnu moć mreže se stalno koriguju, u zavisnosti od opšte upotrebe mreže, tako da korisnici imaju manje stroga ograničenja kada je aktivnost na mreži generalno niska. Količina dodeljene propusne moći mreže je direktno proporcionalna Steem Power-u koji korisnik poseduje, tako da korisnici mogu povećati svoj limit tako što će uložiti više u svoj Steem Power.
 
 ## Zaključak
 
-Jeinstveni sistem nagrađivanja koje nudi Steem blockchain i prateći tokeni, dizajnirani su sa namerom da stvore najbolju ulaznu platformu u kripto-svet. Performanse blockchain-a su stoga dizajnirane sa namerom da omoguće masovno prihvatanje kripto-valute i platforme u celini. Kada se sve navedeno ukombinuje sa gotovo trenutnom obradom transakcija, bez ikakvih troškova, Steem se nameće kao svetski lider na području blockchain tehnologija.
+Jeinstveni sistem nagrađivanja koje nudi Steem blockchain i prateći tokeni, dizajniran je sa namerom da stvori najbolju ulaznu platformu u kripto-svet. Performanse blockchain-a su stoga dizajnirane tako da omoguće masovno prihvatanje kripto-valute i platforme u celini. Kada se sve navedeno ukombinuje sa gotovo trenutnom obradom transakcija, bez ikakvih troškova, Steem se nameće kao svetski lider na području blockchain tehnologija.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

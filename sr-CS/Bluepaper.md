@@ -38,9 +38,9 @@ Steem dalje omogućava članovima da glasaju STEEM-om samo ako se posvete 13-one
 
 Steem blockchain je osmišljen da bude jedan od najbržih i najefikasnijih blockchain-ova koji postoje, što je neophodan preduslov da bi se mogao podržati protok sadržaja na društvenoj platformi većoj od Reddit-a. Steem je već nadmašio Bitcoin u broju transakcija, a mogao bi podržati i preko 10.000 transakcija u sekundi.
 
-### Delegirani dokaz o ulogu (DPoS)
+### Dokaz o delegiranom ulogu (DPoS)
 
-Kako su često ograničeni dokazom o radu (PoW)[^6], mnogi blokchain protokoli ne mogu obavljati više od tri transakcije u sekundi, što je tek maleni deo ukupnog svetskog financijskog prometa. Kako je Steem-u bilo potrebno da radi na znatno većoj skali i da ostvaruje značajno veću brzinu u odnosu na PoW algoritme, kreatori Steem-a su posegnuli za manje poznatim algoritmom koji se naziva "delegirani dokaz o ulogu" (eng. Delegated Proof of Stake, DPoS)[^7]. Time su udareni temelji mogućnostima da Steem koriste milijarde korisnika.
+Kako su često ograničeni dokazom o radu (PoW)[^6], mnogi blokchain protokoli ne mogu obavljati više od tri transakcije u sekundi, što je tek maleni deo ukupnog svetskog financijskog prometa. Kako je Steem-u bilo potrebno da radi na znatno većoj skali i da ostvaruje značajno veću brzinu u odnosu na PoW algoritme, kreatori Steem-a su posegnuli za manje poznatim algoritmom koji se naziva "dokaz o delegiranom ulogu" (eng. "Delegated Proof of Stake, DPoS")[^7]. Time su udareni temelji mogućnostima da Steem koriste milijarde korisnika.
 
 Zahvaljujući DPoS algoritmu, Steem Blockchain je u stanju da generiše novi blok na svake 3 sekunde uz minimalno opterećenje računara. To ujedno znači da blockchain može da obrađuje više transakcija i da u sebi sadrži znatno više informacija, što uključuje i sadržaj koji korisnici stvaraju.
 

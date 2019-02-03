@@ -70,9 +70,9 @@ Steem корисницима нуди јединствену могућност 
 
 ### Steam Blockchain Долари (SBD)
 
-Многи корисници који се по први пут сусрећу са крипто-валутном имају потешкоће схвате како "чаробни интернет токени", дођељени преко неке платформе, заправо могу имати стварну вредност. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Многи корисници који се по први пут сусрећу са крипто-валутном имају потешкоће схвате како "чаробни интернет токени", дођељени преко неке платформе, заправо могу имати стварну вредност. Како би се корисницима помогло да премосте јаз између традиционалног, "фиат новца" и токена који представљају крипто-валуту која се додељује преко платформе, креирана је нова крипто-валута под називом Steem Blockchain Долар (SBD).
 
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
+SBD токени су дизајнирани тако да по својој вредности буду блиско повезани с једним доларом, тако да корисници који их примају знају колико отприлике вреде у "правим доларима". SBD токени такође нуде релативно стабилну крипто-валуту за кориснике који желе да сачувају стабилну вредност свог налога у односу на USD. Детаљније техничко објашњење се може наћи у Steem техничком упутству (енг. whitepaper).[^12]
 
 ### Decentralized Exchange
 

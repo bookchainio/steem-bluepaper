@@ -44,11 +44,11 @@ Kako su često ograničeni dokazom o radu (PoW)[^6], mnogi blokchain protokoli n
 
 Zahvaljujući DPoS algoritmu, Steem Blockchain je u stanju da generiše novi blok na svake 3 sekunde uz minimalno opterećenje računara. To ujedno znači da blockchain može da obrađuje više transakcija i da u sebi sadrži znatno više informacija, što uključuje i sadržaj koji korisnici stvaraju.
 
-Pravila funcionisanja mreže se definišu onda kada se dogodi "Hard fork". Naime, potvrdioci transakcija (eng. witness), koji su izabrani težinskim glasovima, po DPoS principima, mogu brzo i efikasno odlučiti hoće li ili neće definisati novi set pravila - hard fork. To Steem blockchain protokolu omogućava da brže evoluira u poređenju sa drugima. Steem blockchain je već doživeo 18[^8] hard forkova, a svaki put posle hard forka, ostajao bi samo jedan lanac.
+Pravila funcionisanja mreže se definišu onda kada se dogodi "Hard fork". Naime, potvrdioci transakcija (eng. witness), koji su izabrani težinskim glasovima, po DPoS principima, mogu brzo i efikasno odlučiti hoće li ili neće definisati novi set pravila - hard fork. To Steem blockchain protokolu omogućava da brže evoluira u poređenju sa drugima. Steem blockchain je već doživeo 20[^8] hard forkova, a svaki put posle hard forka, ostajao bi samo jedan lanac.
 
 ### ChainBase
 
-ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine zamenio Graphene[^10]. ChainBase podržava paralelni pristup bazi podataka i manje je sklon padovima u odnosu na svoje prethodnike, a odlikuje ga i brže vrijeme učitavanja i izlaza. Takođe je manje sklon oštećenjima baze podataka, omgućuje trenutno usnimavanje stanja čitave baze podataka (eng. snapshotting) i može opsluživati više RPC zahteva iz iste memorije.
+ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine zamenio Graphene[^10]. ChainBase podržava paralelni pristup bazi podataka i manje je sklon padovima u odnosu na svoje prethodnike, a odlikuje ga i brže vreme učitavanja i izlaza. Takođe je manje sklon oštećenjima baze podataka, omgućuje trenutno usnimavanje stanja čitave baze podataka (eng. snapshotting) i može opsluživati više RPC zahteva iz iste memorije.
 
 ### AppBase
 

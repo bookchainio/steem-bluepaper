@@ -52,13 +52,13 @@ ChainBase[^9] predstavlja deo baze podataka blockchain-a, koji je 2016. godine z
 
 ### AppBase
 
-AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mnogim komponentama Steem blockchaina da postanu modularne stvarajući dodatne blockchain-ove bez konsenzusa kao specijalizovane plugin-e. Ti plugin-i se dalje mogu ažurirati znatno brže jer ne zahtijevaju ponovnu učitavanje čitavog blockchaina-a. To čini steemd[^11] mnogo učinkovitijim i lakšim za održavati i mjeriti.
+AppBase je prvi korak u stvaranju višelančanog FABRIC-a. AppBase omogućuje mnogim komponentama Steem blockchain-a da postanu modularne, stvarajući dodatne blockchain-ove bez konsenzusa kao specijalizovane plugin-e. Ti plugin-i se dalje mogu ažurirati znatno brže jer ne zahtijevaju ponovno učitavanje čitavog blockchaina-a. To steemd[^11] čini puno efikasnijim i jednostavnijim za održavanje i nadograđivanje.
 
-Praktično govoreći, AppBase omogućava različitim jezgrama (eng. cores), ili čak različitim računarima da održavaju posebne delove Steem blockchain-a. To je znatno efikasnije od toga da svako jezgro i svaki računar u mreži održava čitav blockchain. Modularizacija blockchain-a omogućava da se u potpunosti iskoristi prednost modularne prirode računara. Ovo predstavlja mali, ali nužan korak u mukotrpnom procesu stvaranja potpuno paralelnog, potpuno optimizovanog blockchain-a.
+Praktično govoreći, AppBase omogućava različitim jezgrama (eng. cores), ili čak različitim računarima, da održavaju zasebne delove Steem blockchain-a. To je znatno efikasnije od toga da svako jezgro i svaki računar u mreži održava čitav blockchain. Modularizacija blockchain-a omogućava da se u potpunosti iskoristi prednost modularne prirode računara. Ovo predstavlja mali, ali nužan korak u mukotrpnom procesu stvaranja potpuno paralelnog, potpuno optimizovanog blockchain-a.
 
 ## Svojstva platforme Steem
 
-Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu tokena, i kao platforma za društvenie medije. Karakteristike koje nudi blockchain moraju da podrže obe navedene uloge, pri čemu je iskustvo korisnika prilikom korišćenja platforme od presudne važnosti.
+Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu tokena, i kao platforma za društvenie medije. Karakteristike koje nudi blockchain moraju da podrže obe navedene uloge, pri čemu je iskustvo korisnika prilikom korišćenja platforme stavljeno u prvi plan.
 
 ### Primitive dizajnirane za aplikacije sa sadržajima
 

@@ -8,11 +8,11 @@ Kada ga uporedimo sa drugim blockchain-ovima, Steem se izdvaja jer predstavlja p
 
 U svetu kripto-valuta, jedinstvena svojstva STEEM-a ga istovremeno čine i "pametnim" i "društvenim" u odnosu na druge valute, poput Bitcoin-a i Ether-a. Tome doprinose dve osobine tokena. Prva je postojanje fonda za nagrađivanje autora sadržaja i onih koji glasaju sadržaj (pul nagrada, eng. "rewards pool”). Druga osobina je postojanje sistema glasanja koja se oslanja na mudost korisnika (eng. wisdom of the crowd) da procene koji sadržaj je vredan da zasluži nagradne tokene. Kombinacija navedenih svojstava čini pomenuti "Dokaz postojanja svesti", a koji se sam temelji na "Dokazu rada"[^4] (eng. "Proof of work"). Za osvarenje ciljeva, distribucije tokena članovima zajednice, neophodan je ljudski rad. Dokaz postojanja svesti daje STEEM-u centralnu ulogu u ohrabrivanju članova zajednice da dodaju vrednost zajednici i omoguće njen dalji rast.
 
-Pored navedenog napredaka na polju blockchain-a i token-a, Steem kao celina pruža dodatne napredne pogodnosti kako bi zadovoljstvo krajnjeg korisnika podigao na viši nivo. U te funkcije spadaju opcije za vraćanje ukradenog naloga[^5], posredovanje trećih lica prilikom pružanja finansijskih usluga (eng. escrow), štedni računi, promovisanje sadržaja od strane korisnika, kao i ocenjivanje reputacije korisnika. Sve se ovo obavlja u svega 3 sekunde, koliko je potrebno za odobrenje transakcije, bez ikakvih troškova obrade. Sve navedeno omogućava podršku misiji stvaranja pametne i društvene kripto-valute namenjene zajednici kreativih autora na čitavom internetu.
+Pored navedenog napredaka na polju blockchain-a i tokena, Steem kao celina pruža dodatne napredne pogodnosti kako bi zadovoljstvo krajnjeg korisnika podigao na viši nivo. U te funkcije spadaju opcije za vraćanje ukradenog naloga[^5], posredovanje trećih lica prilikom pružanja finansijskih usluga (eng. escrow), štedni računi, promovisanje sadržaja od strane korisnika, kao i ocenjivanje reputacije korisnika. Sve se ovo obavlja u svega 3 sekunde, koliko je potrebno za odobrenje transakcije, bez ikakvih troškova obrade. Sve navedeno omogućava podršku misiji stvaranja pametne i društvene kripto-valute, namenjene zajednici kreativih autora na čitavom internetu.
 
 ## Dokaz postojanja svesti: pametni i društveni tokeni
 
-Sistem tokena kojim se nagrađuju korisnici koji doprinose razvoju zajednice, zahteva postojanje mehanizama za ocenjivanje socijalne vrednosti sadržaja. Mi taj sistem nazivamo ”Dokaz postojanja svesti”.
+Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 
 ### Fond nagrada ("Kako nastaju tokeni")
 

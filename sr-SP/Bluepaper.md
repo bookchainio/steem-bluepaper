@@ -60,17 +60,17 @@ AppBase је први корак у стварању вишеланчаног FA
 
 Steem blockchain обавља двоструку улогу: служи као дигитални систем за обраду токена, и као платформа за друштвение медије. Карактеристике које нуди blockchain морају да подрже обе наведене улоге, при чему је искуство корисника приликом коришћења платформе стављено у први план.
 
-### Primitives Designed for Content Applications
+### Примитиве дизајниране за апликације са садржајима
 
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
+Steem корисницима нуди јединствену могућност објављивања и чувања различитих врста садржаја, директно и трајно, у непроменљивој "књизи" blockchain-а у формату чистог текста (енг. plain text). Једном када се подаци усниме на blockchain, подаци постају јавно доступни програмерима да из њих стварају нове производе. Девелопери интерагују са садржајем директно у blockchain-у помоћу доступних API-ја. Неке од blockchain примитива које стоје девелоперима на располагању укључују имена налога, постове, коментаре, гласове и билансе стања рачуна.
 
-### Native Name System
+### Систем изворних имена
 
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
+Адресе новчаника које користе многе blockchain технологије, попут Bitcoin-а и Ethereum-а, некада су се састојале од дугих низова насумичних слова и бројева. Ипак, адресе новчаника у том формату могу знатно отежати обављање трансакција са другим корисницима у типичном окружењу солцијалних медија, јер се корисници свакако не могу сетити тако компликованих адреса. Steem blockchain уместо тога употребљава корисничко име сваког корисника као адресу новчаника, чиме се побољшава корисничко искуство, јер се приликом слања токена адреса може проверити на најједноставнији могући начин.
 
-### Steem Blockchain Dollars (SBD)
+### Steam Blockchain Долари (SBD)
 
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
+Многи корисници који се по први пут сусрећу са крипто-валутном имају потешкоће схвате како "чаробни интернет токени", дођељени преко неке платформе, заправо могу имати стварну вредност. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
 
 SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
 

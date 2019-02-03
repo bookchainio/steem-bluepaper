@@ -62,7 +62,7 @@ Steem blockchain obavlja dvostruku ulogu: služi kao digitalni sistem za obradu 
 
 ### Primitive dizajnirane za aplikacije sa sadržajima
 
-Steem korisnicima nudi jedinstvenu mogućnost objavljivanja i čuvanja različitih vrsta sadržaja, direktno i trajno, u nepromjenjivoj "knjizi" blockchain-a u formatu čistog teksta (eng. plain text). Jednom kada se podaci usnime na blockchain, podaci postaju javno dostupni programerima da iz njih stvaraju nove proizvode. Developeri interaguju sa sadržajem direktno u blockchain-u pomoću dostupnih API-ja. Neke od blokchain primitiva koje stoje developerima na raspolaganju uključuju nazive računa, postove, komentare, glasove i bilanse stanja računa.
+Steem korisnicima nudi jedinstvenu mogućnost objavljivanja i čuvanja različitih vrsta sadržaja, direktno i trajno, u nepromenljivoj "knjizi" blockchain-a u formatu čistog teksta (eng. plain text). Jednom kada se podaci usnime na blockchain, podaci postaju javno dostupni programerima da iz njih stvaraju nove proizvode. Developeri interaguju sa sadržajem direktno u blockchain-u pomoću dostupnih API-ja. Neke od blokchain primitiva koje stoje developerima na raspolaganju uključuju imena naloga, postove, komentare, glasove i bilanse stanja računa.
 
 ### Sistem izvornih imena
 
@@ -70,7 +70,7 @@ Adrese novčanika koje koriste mnoge blokchain tehnologije, poput Bitcoin-a i Et
 
 ### Steam Blockchain Dolari (SBD)
 
-Mnogi korisnici koji se po prvi put susreću sa kripto-valutnom imaju poteškoće shvate kako "čarobni internet tokeni", dodjeljeni preko neke platforme, zapravo mogu imati stvarnu vrednost. Kako bi se korisnicima pomoglo da premoste jaz između tradicionalnog, fiat novca i tokena koji predstavljaju kripto-valutu koja se dodeljuje preko platforme, kreirana je nova kripto-valuta pod nazivom Steem Blockchain Dolar (SBD).
+Mnogi korisnici koji se po prvi put susreću sa kripto-valutnom imaju poteškoće shvate kako "čarobni internet tokeni", dodjeljeni preko neke platforme, zapravo mogu imati stvarnu vrednost. Kako bi se korisnicima pomoglo da premoste jaz između tradicionalnog, "fiat novca" i tokena koji predstavljaju kripto-valutu koja se dodeljuje preko platforme, kreirana je nova kripto-valuta pod nazivom Steem Blockchain Dolar (SBD).
 
 SBD tokeni su dizajnirani tako da po svojoj vrednosti budu blisko povezani s jednim dolarom, tako da korisnici koji ih primaju znaju koliko otprilike vrede u "pravim dolarima". SBD tokeni takođe nude relativno stabilnu kripto-valutu za korisnike koji žele da sačuvaju stabilnu vrednost svog naloga u odnosu na USD. Detaljnije tehničko objašnjenje se može naći u Steem tehničkom uputstvu (eng. whitepaper).[^12]
 

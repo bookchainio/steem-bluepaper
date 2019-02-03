@@ -12,17 +12,17 @@ Pored navedenog napredaka na polju blockchain-a i tokena, Steem kao celina pruž
 
 ## Dokaz postojanja svesti: pametni i društveni tokeni
 
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
+Sistem tokena kojim se nagrađuju korisnici koji doprinose razvoju zajednice, zahteva postojanje mehanizama za ocenjivanje društvene vrednosti sadržaja. Mi taj sistem nazivamo ”Dokaz postojanja svesti”.
 
-### Fond nagrada ("Kako nastaju tokeni")
+### Fond nagrada ("Kako nastaju tokeni?")
 
-Jedan od najinovativnijih (ujedno i najčešće pogrešno shvaćenih) pojmova Steem blockchain-a jeste fond nagrada iz koga se tokeni distribuiraju autorima sadržaja. Da bi se razumelo šta je fond nagrada, prvo se mora razumeti način na koji se tokeni proizvode u DPoS blokchain-ima, a kako u PoW blokchain-ima. U tradicionalnim PoW blokchain-ima, tokeni se proizvode stalno ali se dodeljuju nasumično ljudima čije mašine obavljaju rad, a koje obično nazivamo rudarima (eng. miners).
+Jedan od najinovativnijih (ujedno i najčešće pogrešno shvaćenih) pojmova Steem blockchain-a jeste fond nagrada iz koga se tokeni distribuiraju autorima sadržaja. Da bi se razumelo šta je fond nagrada, prvo se mora razumeti kako se tokeni proizvode u DPoS blokchain-ima, a kako u PoW blokchain-ima. U tradicionalnim PoW blokchain-ima, tokeni se proizvode stalno, ali se dodeljuju nasumično ljudima čije mašine obavljaju rad, a koje obično nazivamo rudarima (eng. miners).
 
 Za razliku od PoW kriptovaluta, tokeni u Steem-u se proizvode ustaljenom brzinom od jednog bloka na svake tri sekunde. Ti tokeni se zatim dele različitim tipovima učesnika u sistemu i to je definisano pravilima blokchain-a. Različiti tipovi korisnika, autori, potvrdioci transakcija (eng. witnesses) i glasači (eng. curators) se takmiče za tokene na više načina koji su specifični za svaki tip korisnika. Za razliku od tradicionalnih PoW načina distribucije, gde se rudari takmiče sirovom snagom svojih računara, korisnici Steem mreže su podstaknuti da se takmiče tako što će dodavati kreativnu vrednost mreži.
 
 Stopa kojom se stvaraju novi tokeni je definisana decembra 2016. i ona iznosi 9,5% godišnje. Stopa će se dalje smanjivati za 0,01% posle svakih 250.000 blokova, odnosno oko 0,5% godišnje. Inflacija će nastaviti da se smanjuje po ovoj stopi sve dok ne dostigne 0,95%, što će se dogoditi za otprilike 20,5 godina.
 
-Od novih tokena koje Steem blokchain kreira svake godine, 75% tokena čine "nagradni fond" koji se distribuira autorima sadržaja i glasačima. 15% se distribuira korisnicima koji imaju tokene na štednom računu (eng. vested), a preostalih 10% se distribuira potvrdiocima transakcija, koji zapravo proizvode blokove i sudeluju u Steem-ovom DPoS konsenzusnom protokolu.
+Od novih tokena koje Steem blokchain kreira svake godine, 75% tokena čine "nagradni fond" koji se distribuira autorima sadržaja i glasačima. 15% se distribuira korisnicima koji imaju tokene na "štednom računu" (eng. vested), a preostalih 10% se distribuira potvrdiocima transakcija, koji zapravo proizvode blokove i sudeluju u Steem-ovom DPoS konsenzusnom protokolu.
 
 #### Nagrade za kreatore sadržaja i glasače
 

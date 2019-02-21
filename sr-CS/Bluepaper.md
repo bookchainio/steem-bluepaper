@@ -80,7 +80,7 @@ Steem blockchain nudi decentralizovanu menjačnicu za tokene, nalik na menjačni
 
 ### Plaćanja preko trećih lica (Escrow)
 
-Važno svojstvo blockchain-a koje donosi bezbednost jeste nepromenljivost obavljenih transakcija. Ipak, ima puno primera u kojima se korisnici ne osećaju naročito prijatno kada znaju da se tokeni koje šalju drugoj osobi ni na koji način ne mogu povratiti ako se partner ne pridržava dogovora. Steem blockchain omogućava korisnicima da međusobno šalju tokene i preko treće strane (posrednika) koja je označena kao pružalac "escrow usluga". Korisnik koji deluje kao posrednik može da odredi jesu li ispunjeni uslovi dogovora i da shodno s tim odluči da li će isplatiti sredstva ili će ih vratiti pošiljaocu.
+Važno svojstvo blockchain-a koje donosi bezbednost, jeste nepromenljivost obavljenih transakcija. Ipak, ima puno primera u kojima se korisnici ne osećaju naročito prijatno kada znaju da se tokeni koje šalju drugoj osobi ni na koji način ne mogu povratiti ako se partner ne pridržava dogovora. Steem blockchain omogućava korisnicima da međusobno šalju tokene i preko treće strane (posrednika) koja je označena kao pružalac "escrow usluga". Korisnik koji deluje kao posrednik može da odredi jesu li ispunjeni uslovi dogovora i da shodno s tim odluči da li će isplatiti sredstva ili će ih vratiti pošiljaocu.
 
 ### Hijerarhijska struktura privatnog ključa
 

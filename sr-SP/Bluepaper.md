@@ -74,13 +74,13 @@ Steem корисницима нуди јединствену могућност 
 
 SBD токени су дизајнирани тако да по својој вредности буду блиско повезани с једним доларом, тако да корисници који их примају знају колико отприлике вреде у "правим доларима". SBD токени такође нуде релативно стабилну крипто-валуту за кориснике који желе да сачувају стабилну вредност свог налога у односу на USD. Детаљније техничко објашњење се може наћи у Steem техничком упутству (енг. whitepaper).[^12]
 
-### Decentralized Exchange
+### Децентрализована мењачница
 
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
+Steem blockchain нуди децентрализовану мењачницу за токене, налик на мењачницу Bitshares.[^13] Мењачница омогућује корисницима да међусобно конвертују своје STEEM и SBD токене путем јавног децентрализованог тржишта, без посредника. Корисници имају могућност да задају жељени однос вредности, и за куповину и за продају, а blockchain потом аутоматски проналази парове корисника чије се понуде подударају. На располагању корисницима је и јавно доступна листа склопљених понуда која се може користити за анализу тржишта. Корисници могу директно да комуницирају са мењачницом преко API-ја за blockchain, или путем интерфејса (GUI), попут онога на Steemit.com.[^14]
 
-### Payments Through Escrow
+### Плаћања преко трећих лица (Escrow)
 
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
+Важно својство blockchain-а које доноси безбедност, јесте непроменљивост обављених трансакција. Ипак, има пуно примера у којима се корисници не осећају нарочито пријатно када знају да се токени које шаљу другој особи ни на који начин не могу повратити ако се партнер не придржава договора. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
 
 ### Hierarchical Private Key Structure
 

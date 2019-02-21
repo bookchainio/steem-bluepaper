@@ -96,7 +96,7 @@ Steem blockchain омогућава да се надлежност подели 
 
 ### Вишеструки примаоци бенефиција
 
-За сваки пост може постојати низ различитих људи који ће остварити финанцијску добит у виду награде. То укључује аутора, могуће коауторе, оне који су дали своје препоруке, услуге хостинга, блогове који уграђују елементе датог blockchain-а у своје садржаје или девелопере који су развили алате. Према томе, било која web-страница или алат који се користи за писање поста или коментара, може да одреди како ће се награде добијене од објављивања тог садржаја расподелити. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+За сваки пост може постојати низ различитих људи који ће остварити финанцијску добит у виду награде. То укључује аутора, могуће коауторе, оне који су дали своје препоруке, услуге хостинга, блогове који уграђују елементе датог blockchain-а у своје садржаје или девелопере који су развили алате. Према томе, било која web-страница или алат који се користи за писање поста или коментара, може да одреди како ће се награде добијене од објављивања тог садржаја расподелити. Zahvaljujući tome, mogući su brojni vidovi saradnje, kao i opcija uzimanja procenta nagrade korisnika zarad dobrobiti platforme koja je bazirana na Steem blockchain-u.
 
 ### Smart Media Токени (SMT)
 
@@ -118,11 +118,11 @@ Steem blockchain омогућује корисницима да своје STEEM
 
 Како би се дефинисала разумна ограничења за употребу система, сваки корисник је лимитиран пропусним опсегом мреже (енг. bandwidth). Сваки пут када корисници изводе операције на blockchain-у, у које спадају трансфери токена, објављивање садржаја и гласање, они користе део пропусне моћи мреже који им припада. Ако корисник ипак прекорачи допуштено ограничење, мора да сачека да се додељена пропусна моћ обнови пре него што настави са својим активностима.
 
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+Ограничења везана за пропусну моћ мреже се стално коригују, у зависности од опште употребе мреже, тако да корисници имају мање строга ограничења када је активност на мрежи генерално ниска. Количина додељене пропусне моћи мреже је директно пропорционална Steem Power-у који корисник поседује, тако да корисници могу повећати свој лимит тако што ће уложити више у свој Steem Power.
 
-## Conclusion
+## Закључак
 
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
+Јеинствени систем награђивања које нуди Steem blockchain и пратећи токени, дизајниран је са намером да створи најбољу улазну платформу у крипто-свет. Перформансе blockchain-а су стога дизајниране тако да омогуће масовно прихватање крипто-валуте и платформе у целини. Када се све наведено укомбинује са готово тренутном обрадом трансакција, без икаквих трошкова, Steem се намеће као светски лидер на подручју blockchain технологија.
 
 [^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
 

@@ -98,25 +98,25 @@ Steem blockchain омогућава да се надлежност подели 
 
 За сваки пост може постојати низ различитих људи који ће остварити финанцијску добит у виду награде. То укључује аутора, могуће коауторе, оне који су дали своје препоруке, услуге хостинга, блогове који уграђују елементе датог blockchain-а у своје садржаје или девелопере који су развили алате. Према томе, било која web-страница или алат који се користи за писање поста или коментара, може да одреди како ће се награде добијене од објављивања тог садржаја расподелити. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
 
-### Smart Media Tokens (SMT)
+### Smart Media Токени (SMT)
 
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
+Smart Media Токени су изворни токени који се могу стварати на Steem blockchain-у. STEEM је први SMT који ће је настао, а Smart Media Токен протокол има за циљ уновчавање садржаја web-страница и апликација широм web-а, тако што ће допустати људима да креирају токене који поседују својства слична STEEM-у, али се истовремено могу прилагодити тако да одговарају специфичној визији било које online заједнице. Како је STEEM већ постигао планетарни успех, то може бити подстицај и за остале web-странице и апликације. Више техничких детаља о овој теми можете наћи у документу под називом "Smart Media Tokens whitepaper"[^17].
 
-### Stolen Account Recovery
+### Враћање украденог налога
 
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+Ако је корисници процене да им је налог угрожен, постоји погућност да се помоћу Owner кључа (власничког) промене остали кључеви. У случају да хакер ипак успе да дође до неког приватног кључа и промени лозинку, корисник има рок од 30 дана да пошаље претходни приватни кључ преко процеса за враћање украденог налога, а који је у надлежности Steem-а, и да на тај начин поврати контролу над својим налогом. По томе је Steem јединствен на тржишту. Ову опцију такође може понудити и особа или фирма која пружа услуге регистрације на Steem. Ипак, ова опција је дата само као препорука која побољшава корисничко искуство, али не и обавеза онога ко пружа регистрацију.
 
-### Security Through Time-Locks
+### Сигурност остварена "временском бравом"
 
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+Ако би се догодило да Active или Owner кључ падне у погрешне руке, нападач би добио приступ свим средствима која се налазе на рачуну. Будући да су blockchain трансакције неповратне, након обављене крађе, корисници немају начин да своја средства поврате.
 
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+Steem blockchain омогућује корисницима да своје STEEM и SBD токене чувају у виду штедног рачуна, при чему им се може приступити тек након истека периода од 3 (три) дана. Осим тога, СТЕЕМ који је на "ороченом рачуну" (енг. vest-ован у виду Power-а), може се у потпуности повући са рачуна тек након истека периода од 13 (тринаест) недеља, при чему се исплате врше сваке недеље, у износу од 1/13 укупне суме. Наведени примери временских брава спречавају нападаче да сва средства искористе одмах и тиме уједно дају могућност легитимном власнику да поврати контролу над својим средствима пре него што буду у потпуности повучена.
 
-### Bandwidth Rate Limiting for Fee-less Operations
+### Ограничавање пропусне моћи мреже, за операције без надокнаде
 
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+Будући да су потврдиоци трансакција у потпуности плаћени стварањем нових токена, не постоји потреба да корисници плаћају обраду трансакција и на нај начин покривају трошкове рада blockchain-а. Једини разлог за наплату трошкова обраде би могло бити одвраћање корисника од тога да издају захтеве за нерезонски велик број трансакција, чиме би могли да угрозе перформансе blockchain-а.
 
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+Како би се дефинисала разумна ограничења за употребу система, сваки корисник је лимитиран пропусним опсегом мреже (енг. bandwidth). Сваки пут када корисници изводе операције на blockchain-у, у које спадају трансфери токена, објављивање садржаја и гласање, они користе део пропусне моћи мреже који им припада. Ако корисник ипак прекорачи допуштено ограничење, мора да сачека да се додељена пропусна моћ обнови пре него што настави са својим активностима.
 
 Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
 

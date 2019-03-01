@@ -181,109 +181,109 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
 </h3>
 
 <p>
-  स्टीम ब्लॉकचैन ऐक प्राधिकारी को बृहत् हिस्सों मै त्कसीम करता है ताकि बृहत् उपयोगकर्ता ऐक ही प्राधिकारी साझा कर सकें, या बृहत् हिस्से ऐक लेनदेन को सफल बनाने मै काम आये । This is done in the same way as Bitshares<fnref target="16" /> where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
+  स्टीम ब्लॉकचैन ऐक प्राधिकारी को बृहत् हिस्सों मै त्कसीम करता है ताकि बृहत् उपयोगकर्ता ऐक ही प्राधिकारी साझा कर सकें, या बृहत् हिस्से ऐक लेनदेन को सफल बनाने मै काम आये । ये बटशेर <fnref target="16" />की तरह ही किया जाता है जहाँ हर सार्वजनिक अथवा निजी कुंजी को सौंपा जाता है और प्राधिकरण के लिए निर्धारित दहलीज़ ते की जाती है कि किसी भी लेन देन को मान्यता देने के लिए काफ़ी जन हस्ताक्षर करने चाहिए ताकि उनकी वोट का वज़न लेन देन को पूरा करता हो या उससे अधिक हो
 </p>
 
 <h3>
-  Multiple Reward Beneficiaries
+  कई इनामी हितग्राही
 </h3>
 
 <p>
-  For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
+  किसी भी पोसट के लिए काफ़ी लोग ऐसे होते हैं जिनका इनाम मैं वित्तीय रुचि होता है इसमें लेखक, सह लेखक, संदर्भ, hosting प्रदाताओं, blog जिनमें बलाकचेन की टिप्पणियाँ और डेवलपर्स के उपकरण शामिल हैं कोई भी website या उपकरण जिससे post या टिप्पणियाँ लिखी जा सकती है उसमें ये क्षमता है कि वो टिप्पणियों के इमाम को विभिन्न दलों में बाँट सकता है ये कई तरह के सहयोग करता हूँ को साथ ही वो platform जिसके ऊपर steem blockchain बना है पर अपने उपयोगकर्ताओं को इनाम का एक हिस्सा जमा करने की अनुमति देता है
 </p>
 
 <h3>
-  Smart Media Tokens (SMT)
+  स्मार्ट मीडिया टोकन (SMT)
 </h3>
 
 <p>
-  Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper<fnref target="17" />.
+  Smt देसी token है जो Steem blockchain में बनाए जा सकते हैं Steem पहला एसएमटी/SMT है और smart media token परोटोकॉल वेबसाइटों और एपलिकेषनस को संपत्ति जनक बनाने के लिए बहुत सारे लोगों को token बनाने की अनुमति देगा जो बिलकुल सीटीम के जैसा होगा जो किसी भी आंलाइण समुदाय के अनुरूप के अनुकूलन योग्य हो जो अपनी इनामी व्यवहार से सिटीम जैसी सफलता किसी भी website और application में नक़ल कर सकता हूँ अधिक तकनीकी विवरण smart media token शवेतपत्र मैं पाया जा सकता है <fnref target="17" /> |
 </p>
 
 <h3>
-  Stolen Account Recovery
+  चुराई गई खाती की वापसी
 </h3>
 
 <p>
-  If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
+  यदि किसी उपयोग करता के खाती से छेड़-छाड़ की गई हो तो वो अपने खाते की निजी कूंजी बदल सकता है हमलावर निजी मालिक कुंजी समझौता और खाते पर पासवर्ड परिवर्तित करने में सक्षम है कि घटना में, उपयोगकर्ता Steem के उद्योग के माध्यम से एक पहले कार्यात्मक निजी कुंजी जमा करने के लिए 30 दिनों है-पहले चोरी खाता पुनर्प्राप्ति प्रक्रिया, और नियंत्रण हासिल उनके खाते में । ये कोई भी आदमी या कमपनी दे सकता है जो सिटीम को अपनी सुविधाएँ दिया करता हूँ रजिस्ट्रार के लिए यह अनिवार्य नहीं है कि वह अपने उपयोगकर्ताओं को यह सेवा प्रदान करे, लेकिन यह एक पंजीयक के प्रयोक्ताओं के अनुभव के मूल्य को बढ़ाने के लिए उपलब्ध है ।
 </p>
 
 <h3>
-  Security Through Time-Locks
+  समय के माध्यम से सुरक्षा-ताले
 </h3>
 
 <p>
-  If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
+  किसी उपयोगकर्ता के सक्रिय या स्वामी कुंजी compromised है, तो हमलावर उनके खाते में सभी धन के लिए पूर्ण पहुंच है । क्योंकि ब्लॉकचैन लेनदेन अपरिवर्तनीय हैं, उपयोगकर्ताओं को उनके धन वापस पाने के बाद वे चोरी हो गया है कोई रास्ता नहीं है ।
 </p>
 
 <p>
-  The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
+  Steem ब्लॉकचैन यूजर्स को अपने Steem और SBD अमाउंट को सेविंग अकाउंट में स्टोर करने की सुविधा देता है, ताकि तीन दिन की वेटिंग पीरियड के बाद तक फंड वापस न लिया जा सके । इसके अलावा, STEEM है कि 13 सप्ताह बनियान अनुसूची में आयोजित किया जाता है केवल 1/13 प्रति सप्ताह की दर से वापस लिया जा सकता है, सात दिनों की एक प्रारंभिक प्रतीक्षा अवधि के बाद । इन समय-ताले से एक हमलावर को रोकने के लिए उपयोगकर्ता के धन का पूरा हिस्सा तुरंत उपयोग कर रहा है, ताकि सही मालिक अपने खाते पर नियंत्रण पाने के लिए अपने सभी धन वापस किया जा सकता है पहले समय है ।
 </p>
 
 <h3>
-  Bandwidth Rate Limiting for Fee-less Operations
+  बैंडविड्थ दर शुल्क कम संचालन के लिए सीमित
 </h3>
 
 <p>
-  Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
+  क्योंकि गवाहों पूरी तरह से नए टोकन पीढ़ी के माध्यम से भुगतान कर रहे हैं, वहां कोई उपयोगकर्ताओं को ब्लॉकचैन सत्ता के लिए एक शुल्क चार्ज करने की जरूरत है । एक ही कारण शुल्क चार्ज करने के लिए एक निवारक के रूप में लेनदेन का एक अनुचित राशि है, जो संभवतः ब्लॉकचैन के प्रदर्शन को प्रभावित कर सकता है को पूरा करने से उपयोगकर्ताओं को रोकने के लिए होगा ।
 </p>
 
 <p>
-  In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
+  सिस्टम उपयोग पर उचित सीमाएं रखने के लिए, प्रत्येक उपयोगकर्ता को एक सीमित बैंडविड्थ दिया जाता है । जब भी उपयोगकर्ता टोकन स्थानांतरण जैसे ब्लॉकचैन कार्रवाइयाँ निष्पादित करते हैं, तो सामग्री पोस्ट करना और मतदान करना, यह उनके बैंडविड्थ के एक हिस्से का उपयोग करता है. यदि कोई उपयोगकर्ता उनके बैंडविड्थ भत्ता से अधिक है, वे अपने बैंडविड्थ recharges जब तक अतिरिक्त कार्रवाई करने के लिए प्रतीक्षा करनी होगी ।
 </p>
 
 <p>
-  Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
+  बैंडविड्थ सीमा नेटवर्क उपयोग के आधार पर समायोजित करें, तो उपयोगकर्ताओं को एक उच्च बैंडविड्थ भत्ता जब नेटवर्क उपयोग कम है । एक खाते की अनुमति दी है कि बैंडविड्थ की राशि सीधे Steem शक्ति एक उपयोगकर्ता है की राशि के लिए आनुपातिक है, इसलिए उपयोगकर्ताओं को हमेशा अतिरिक्त Steem शक्ति प्राप्त करके अपने बैंडविड्थ भत्ता बढ़ा सकते हैं ।
 </p>
 
 <h2>
-  Conclusion
+  निष्कर्ष
 </h2>
 
 <p>
-  The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. जब बिजली की तेजी से प्रसंस्करण समय और शुल्क-कम लेनदेन के साथ संयुक्त, स्टीम विश्व भर के लोगों द्वारा उपयोग की जाने वाली प्रमुख ब्लॉकचैन प्रौद्योगिकियों में से एक बनने के लिए तैनात है।
+  Steem ब्लॉकचैन और टोकन द्वारा की पेशकश की अद्वितीय पुरस्कार और प्रोत्साहन कार्यक्रम मुख्यधारा के उपयोगकर्ताओं के लिए क्रिप्टोकरेंसी में अंतिम ऑन-रैंप Steem बनाने के लिए डिज़ाइन किया गया है । blockchain का व्यवहार दन और मनच के माणिक अनुबंध को मद्दे नज़र रख के बनाया गया है जब बिजली की तेजी से प्रसंस्करण समय और शुल्क-कम लेनदेन के साथ संयुक्त, स्टीम विश्व भर के लोगों द्वारा उपयोग की जाने वाली प्रमुख ब्लॉकचैन प्रौद्योगिकियों में से एक बनने के लिए तैनात है।
 </p>
 
 <footnotes>
   <fn name="1">
     <p>
-      Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+      हिस्सेदारी की स्थिति कागज का प्रत्यायोजित सबूत. Grigg, २०१७. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
     </p>
   </fn>
   
   <fn name="2">
     <p>
-      To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+      इसे अपने ब्लॉकचैन के लिए शब् द से अंतरित करने के लिए, Steem के नेटिव डिजिटल टोकन की सही वर्तनी Steem है ।
     </p>
   </fn>
   
   <fn name="3">
     <p>
-      Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+      हस्तांतरण खंड: प्रति सेकंड रिपोर्ट हस्तांतरण । Steem ख्रिस्ती आणि युजर "@roadscape". https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
     </p>
   </fn>
   
   <fn name="4">
     <p>
-      Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+      प्रूफ-ऑफ-वर्क । विकिपीडिया. https://en.wikipedia.org/wiki/Proof-of-work\_system
     </p>
   </fn>
   
   <fn name="5">
     <p>
-      Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+      चोरी गए खाते की वसूली Steemit.com के लिए दीक्षा उपयोगकर्ता: 07-13-2017 https://steemit.com/recover\_account\_step\_1
     </p>
   </fn>
   
   <fn name="6">
     <p>
-      Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+      Bitcoin दरिद्रता समस्या https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
     </p>
   </fn>
   
   <fn name="7">
     <p>
-      DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+      DPoS श्वेतपत्र https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
     </p>
   </fn>
   
@@ -295,55 +295,55 @@ Steem (स्टीम) सार्वजनिक रूप से उपल�
   
   <fn name="9">
     <p>
-      ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+      ChainBase release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
     </p>
   </fn>
   
   <fn name="10">
     <p>
-      Graphene Documentation http://docs.bitshares.org/
+      ग्राफीन प्रलेखन http://docs.bitshares.org/
     </p>
   </fn>
   
   <fn name="11">
     <p>
-      The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+      Steem ब्लॉकचैन फ्रेमवर्क के घटक लेनदेन प्रसंस्करण और पुरस्कार के वितरण के लिए जिंमेदार है ।
     </p>
   </fn>
   
   <fn name="12">
     <p>
-      Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+      Steem श्वेतपत्र https://steem.io/SteemWhitePaper.pdf
     </p>
   </fn>
   
   <fn name="13">
     <p>
-      Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      Bitshares विकेन्द्रीकृत Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
     </p>
   </fn>
   
   <fn name="14">
     <p>
-      Steemit.com Currency Market https://steemit.com/market
+      Steemit.com मुद्रा बजार https://steemit.com/market
     </p>
   </fn>
   
   <fn name="15">
     <p>
-      “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+      "Resteem" जब उपयोगकर्ता अपने अनुयायियों के साथ सामग्री साझा करने के लिए Steem ब्लॉकचैन में शब्द का उपयोग किया जाता है ।
     </p>
   </fn>
   
   <fn name="16">
     <p>
-      Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      Bitshares लचीली पहचान प्रबंधन http://docs.bitshares.org/\_downloads/bitshares-general.pdf
     </p>
   </fn>
   
   <fn name="17">
     <p>
-      Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+      स्मार्ट मीडिया टोकन श्वेतपत्र https://smt.steem.io/smt-whitepaper.pdf
     </p>
   </fn>
 </footnotes>

@@ -148,7 +148,7 @@ O programa singular de recompensas e incentivos ofrecidos pola Blockchain de Ste
 
 [^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
 
-[^13]: Troco Descentralizado Bitshares http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+[^13]: Troco Descentralizado Bitshare http://docs.bitshares.org/\_downloads/bitshares-general.pdf
 
 [^14]: Mercado de Moedas Steemit.com https://steemit.com/market
 

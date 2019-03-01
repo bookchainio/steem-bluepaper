@@ -2,158 +2,341 @@
 
 ## تعارف
 
-Steem provides a scalable blockchain protocol[^1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”). The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence. Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^3]
-
-Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism. This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
-
-In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether. This stems from two new token features. The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”). The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it. These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^4], meant to emphasize the human work required to distribute tokens to community participants. Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
-
-In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^5], escrow services, user promoted content, a reputation system, and savings accounts. This is all done while providing users with three second confirmation times and zero fees on all transactions. All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
-
-## Proof of Brain: Smart and Social Tokens
-
-Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
-
-### The Rewards Pool (“Where do the tokens come from?”)
-
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators. In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains. In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
-
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds. These tokens get distributed to various actors in the system based on the defined rules of the blockchain. These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens. Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
-
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
-
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators. 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
-
-#### Rewards for Content Creators and Curators
-
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained. This aids in distributing the currency to a wider set of users and increases the network effect. The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value. The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
-
-#### Voting with Staked-Tokens to Determine Allocation of Rewards
-
-Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Stake can be bought or earned. Users can not gain additional influence by owning multiple accounts, since one single account with an amount of stake will have the same influence as two different accounts sharing the same amount of stake. The only way for users to increase their influence in the platform is to increase their stake.
-
-Furthermore, Steem only allows members to vote with STEEM when it is committed to a 13 week vesting schedule called Steem Power. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
-
-## Speed and Scale on the Steem Blockchain
-
-The Steem blockchain is designed to be one of the fastest and most efficient blockchains in existence, which is necessary to be able to support the amount of traffic expected on a social media platform larger than the size of Reddit. Steem has already surpassed Bitcoin in number of transactions, and is able to scale to support 10,000 or more transactions per second.
-
-### Delegated Proof of Stake (DPoS)
-
-Often bottlenecked by Proof-of-Work (PoW)[^6], many blockchains can’t scale beyond three transactions per second, which is a fraction of the world’s financial traffic. Steem needed far more scale and speed than that offered by PoW, and so a lesser known algorithm called Delegated Proof of Stake (DPoS)[^7] was leveraged to lay the foundation for a blockchain suited for billions of users.
-
-Because of DPoS, the Steem blockchain is able to generate a new block every 3 seconds with minimal computational load. This means that the blockchain can process more transactions and hold more information, including content.
-
-By defining the rules for when a Hardfork occurs, the witnesses elected within the DPoS framework can quickly and efficiently decide on whether or not to move forward with a proposed hardfork, allowing the Steem blockchain protocol to evolve more rapidly than most others. The Steem blockchain has already successfully forked 18 times[^8], and each time a Hardfork has occurred, only a single chain has persisted after the fork.
-
-### ChainBase
-
-ChainBase[^9] is the database portion of the blockchain stack and replaced Graphene[^10] in 2016. ChainBase has faster load and exit times, supports parallel access to the database and is more robust against crashes than its predecessor. It also has less frequent database corruption, allows instant “snapshotting” of entire database state, and can serve more RPC requests from the same memory.
-
-### AppBase
-
-AppBase is the first step in creating a multi-chain FABRIC. AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. These plugins can be updated much more rapidly because they do not require replaying the entire blockchain. This makes steemd[^11] far more efficient and easier to maintain and scale.
-
-Practically speaking, AppBase enables different cores, or even different computers, to maintain different parts of the Steem blockchain. This is significantly more efficient than requiring every core, and every computer in the network maintain the entire blockchain. Modularizing the blockchain enables it to take full advantage of the modular nature of computers. This is one necessary step in the long process of creating a fully parallel, fully optimized blockchain.
-
-## Steem’s Platform Features
-
-The Steem blockchain serves a dual purpose of being a digital token processing system, as well as a mainstream social media platform. The features offered by the blockchain need to support both purposes, and provide users with a world class experience when using both aspects of the platform.
-
-### Primitives Designed for Content Applications
-
-Steem offers users the unique ability to publish and store different types of content directly and permanently into the immutable ledger of the blockchain as plain text. Once stored in the blockchain, data becomes available publically for developers to build from. Developers are able to interact with the content directly in the blockchain using the available APIs. Several of the blockchain primitives developers can build from include Account Names, Posts, Comments, Votes and Account Balance.
-
-### Native Name System
-
-Wallet addresses used by many blockchain technologies, such as Bitcoin and Ethereum, have historically consisted of long strings of random letters and numbers, however, these wallet addresses can make it difficult to transact with other users in a typical online-social-media context because users are unable to recall the long-string addresses from memory. The Steem blockchain uses each participant's user name as their wallet address, which bolsters the user experience for participants who attempt to send tokens because they can verify the addresses from their own memory.
-
-### Steem Blockchain Dollars (SBD)
-
-Many users who are introduced to cryptocurrency struggle to comprehend how “magic internet tokens” awarded by the platform can actually have real world value. In order to help bridge the gap between more traditional fiat money systems which mainstream users are used to, and the cryptocurrency tokens which they are awarded through the platform, a new currency called Steem Blockchain Dollars (SBD) was created.
-
-SBD tokens are designed to be pegged closely to one USD, so that users who receive them can know approximately how much they are worth in “real dollar” terms. SBD tokens also offer a relatively stable currency for users to hold if they are looking to preserve their account value relative to USD. A more detailed technical explanation can be found in the Steem technical whitepaper.[^12]
-
-### Decentralized Exchange
-
-The Steem blockchain offers a decentralized token exchange, similar to the Bitshares exchange.[^13] The exchange allows users to trade their STEEM and SBD tokens through a public decentralized peer-to-peer market. Users are able to place buy and sell orders, and order matching is performed automatically by the blockchain. There is also a publicly accessible order book and order history which users can use to analyze the market. Users can interact with the exchange directly using the blockchain API, or use a GUI such as the one on Steemit.com.[^14]
-
-### Payments Through Escrow
-
-The irreversible nature of blockchain transactions is an important security feature, although there are many cases where users may not be comfortable sending their tokens to another individual without a way to get them back if the other user does not hold up their end of the agreement. The Steem blockchain provides a way for users to send coins to each other with a third party designated as an escrow service. The user acting as the escrow service is able to determine if the terms of the agreement have been met, and either allow the funds to be released to the receiver or returned to the sender.
-
-### Hierarchical Private Key Structure
-
-Steem employs a first of its kind hierarchical private key system to facilitate low-security and high-security transactions. Low-security transactions tend to be social, such as posting or commenting. High-security transactions tend to be transfers and key changes. This allows users to implement different levels of security for their keys, depending on the access that the keys allow.
-
-These private keys are the Posting, Active and Owner. The posting key allows accounts to post, comment, edit, vote, resteem[^15], and follow/mute other accounts. The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, placing market orders, and resetting the posting key. The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key, and to prove ownership during an Account Recovery. Ideally it is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a compromised account.
-
-Steem also facilitates the use of a Master Password that encrypts all three keys. Webservices can use a Master Password that decrypts and signs with the necessary private key. Master Passwords may allow users to trust certain services to keep improper keys from being transferred across any servers, thus increasing user experience while maintaining a secure client-side signing environment.
-
-### Multi Sig Authorities
-
-The Steem blockchain allows an authority to be split across multiple entities, so that multiple users may share the same authority, or multiple entities are required to authorize a transaction in order for it to be valid. This is done in the same way as Bitshares[^16] where each public/private key pair is assigned a weight, and a threshold is defined for the authority. In order for a transaction to be valid, enough entities must sign so that the sum of their weights meets or exceeds the threshold.
-
-### Multiple Reward Beneficiaries
-
-For any given post there may be a number of different people who have a financial interest in the reward. This includes the author, possible co-authors, referrers, hosting providers, blogs that embedded blockchain comments, and tool developers. Whatever website or tool that is used to construct a post or comment will have the ability to set how rewards from that comment are divided among various parties. This allows for various forms of collaboration, as well as a way for platforms that are built on top of the Steem blockchain to collect a portion of the rewards from their users.
-
-### Smart Media Tokens (SMT)
-
-Smart Media Tokens are native tokens that can be built on the Steem blockchain. STEEM is the first SMT to ever exist, and the Smart Media Token protocol aims to monetize content websites and applications across the web by allowing people to create tokens that possess properties similar to STEEM, but customizable to suit the vision of any online community through incentivized behavior, essentially replicating STEEMs success to any website or application. More technical details can be found in the Smart Media Tokens whitepaper[^17].
-
-### Stolen Account Recovery
-
-If a user’s account is compromised, they may change their keys using their private owner key. In the event that the attacker is able to compromise the private owner key and change the password on the account, the user has 30 days to submit a previously functional private key through Steem’s industry-first stolen account recovery process, and regain control over their account. This may be offered by a person or company who provides registration services to Steem. It is not mandatory for the registrar to provide this service to its users, but it is available to increase the value of a registrar's users’ experience.
-
-### Security Through Time-Locks
-
-If a user’s active or owner key is compromised, the attacker would have full access to all of the funds in their account. Because blockchain transactions are irreversible, users have no way to get their funds back after they have been stolen.
-
-The Steem blockchain allows users to store their STEEM and SBD tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period. In addition, STEEM that is held in the 13 week vesting schedule may only be withdrawn at a rate of 1/13 per week, after an initial waiting period of seven days. These time-locks prevent an attacker from being able to access the full portion of the user’s funds immediately, so that the rightful owner has time to regain control over their account before all of their funds can be withdrawn.
-
-### Bandwidth Rate Limiting for Fee-less Operations
-
-Because the witnesses are paid entirely through the generation of new tokens, there is no need to charge users a fee for powering the blockchain. The only reason to charge a fee would be as a deterrent to prevent users from completing an unreasonable amount of transactions, which could potentially impact the performance of the blockchain.
-
-In order to place reasonable limits on the system use, each user is given a limited bandwidth. Whenever users perform blockchain operations such as token transfers, posting content, and voting, it uses up a portion of their bandwidth. If a user exceeds their bandwidth allowance, they must wait to perform additional actions until their bandwidth recharges.
-
-Bandwidth limits adjust based on network use, so users have a higher bandwidth allowance when the network usage is low. The amount of bandwidth that an account is allowed is directly proportional to the amount of Steem Power a user has, so users can always increase their bandwidth allowance by getting additional Steem Power.
-
-## Conclusion
-
-The unique rewards and incentive program offered by the Steem blockchain and token are designed to make Steem the ultimate on-ramp into cryptocurrency for mainstream users. The performance of the blockchain is designed with widespread mass adoption of the currency and platform in mind. When combined with the lightning fast processing times and fee-less transactions, Steem is positioned to become one of the leading blockchain technologies used by people around the world.
-
-[^1]: Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
-
-[^2]: To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
-
-[^3]: Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
-
-[^4]: Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
-
-[^5]: Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
-
-[^6]: Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
-
-[^7]: DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
-
-[^8]: https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
-
-[^9]: ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
-
-[^10]: Graphene Documentation http://docs.bitshares.org/
-
-[^11]: The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
-
-[^12]: Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
-
-[^13]: Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-
-[^14]: Steemit.com Currency Market https://steemit.com/market
-
-[^15]: “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
-
-[^16]: Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
-
-[^17]: Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+سٹیم ایک بہت کشادہ بلاک چین پروٹوکول مہیا کرتی ہے [^1] اور اس کے اندر نہ ختم ہونے والا مواد ہوتا ہے جس تک ہر کوہی با آسانی رساھی حاصل کر سکتا ہے اور اس کے ساتھ ساتھ اس میں ایک تیز اور بغیر کسی فیس والا ڈیجیٹل ٹوکن بھی ہے جسے سٹیم کہا جاتا ہے [^2] اور یہ لوگوں کو دماغ استمال کر کے زر مبادلہ کمانے کا موقعح مہیا کرتا ہے ( جسے دماغ کا ثبوت کہا جاتا ہے). دو بنیادی بلاکس دونوں بلاک چین اور ٹکون سلامتی ، قیام اور لمبی عمر کیلئے ایک دوسرے پر در مدارکرتے یے اور ایک دوسرے کے وجود کے لیے ایک دوسرے کا تکمیلی حصہ ہیں۔ سٹیام کامیابی کے لیے ایک سال سے کام کر رہا ہے اور اب دونوں بٹ کوان اور اتریوم کو لین دین کی عمل کاری کی تعداد میں آگے نکل گیا ہے۔[^3]
+
+دوسری بلاکچینس کے مقابلے میں، سٹایم سب سے پہلا عوامی ڈیٹابیس ہے جو بےحدمواد سادہ الفاض/آسان الفاض کے ساتھ ساتھ اندرونی حوصلہ افزای کی بنیاد پر کھڑا کیا گیا ہے۔ یہ سب سٹیم کو ایک عوامی اشاعتی پلیٹ فارم بناتا ہے جس سے کویی بھی انڑرنڑ اپلیکشن ڈاٹا کو خیچ اور بانٹ کر ان لوگوں کو انعام ملتا ہے جن ہوں نے سب سے ذیدہ کمتی مواد فراہم کیا ہو۔
+
+کریپٹو-کرنسیوں کی دینا میں، سٹیام کی منفرد خصوصیات اسسے دسروں مسلن کہ بیٹن کوین اور ایتر کے مقابلے "ہوشیار" و "سماجی" بنا دیتی ہے۔. یہ دو نئے ٹوکن کی حصوصیات سے حاصل کی جاتی ہے۔ سب سے پہلا ایک ٹوکن کا پول جوحوصلہ افزائی والے مواد اورکوراشن پر وقف کرنے کے لیےہوتا ہے(جس کو"انعامات پول" کہا جاتا ہے) دوسرا ووٹنگ سسٹیم کو ایک مواد کا جائزہ لینے اور اسے ٹوکن کی تقسیم کرنے کا نظام ہے۔ یہ دو انمول حصوصیات جب مل جاتی ہے تو ان کو دماغ کے ہونےکا ثبوت بولا جاتا ہے جو کام کے ثبوت پر مبنی ہے«0/»٤«٠»، جس کا مقصد انسانی کام کو بڈوا دینا ہے اور لگوں میں ٹکون تقسم کرنے کا کام کرتے ہے۔ دماغ کا ثبوت سٹیم کو ایک ایسا اوزار بنا دیتا ہے جو کمیونٹی کے اضافے کے لیے ان کے اراکیں کی حوصلہ افزاۂی کے تور پر ان کو اچھا انعام دیتا ہے۔
+
+ان سب ترکیبات کے علاوہ بلاکچین اور ٹوکن ٹیکنالوجی میں ،سٹیم ایک نظام کے طور پر نیے جدید خصوصیات فراہم کرتا ہے جیسے کہ چوری کیے ہویے اکونٹ کی واپسی۔<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5<0/> یسکو سروسز، لگوں دورہ فروغ دیا گیا مواد، شہرت کردہ سسٹم اور بچت اکائونٹ۔ یہ تمام لین دین پر تین سکنڑ کا وقت دیا جاتا ہے اور بنا کسی فیس کے ساتھ صارفین کو فراہم کیا ہے ۔ اس سب کی مدد سے سماٹ اور سماجی کرنسی کا لگوں تک انٹرنیٹ کے ذریعے پہنچانے کا مشن اس کے ذریے حمایت میں لا سکتے ہے۔</p> 
+
+<h2>
+  کام کا ثبوت؛ سماٹ اور سماجی ٹوکن۔
+</h2>
+
+<p>
+  ٹوکن نظام جو صارفین کو انعام دیتے ہے جب تک وہ سٹیم والی کمپنی میں شراکت کرتے ہے اور اس کے لیے ایسا نظام قائم کرنے اور مواد کاسماجی قدر کا جائزہ لینے کے لیے: ہم اس کو "کام کا ثبوت" کہتے ہیں۔
+</p>
+
+<h3>
+  انعامات پول ("ہہ ٹوکن کہاں سے آتے ہے؟")
+</h3>
+
+<p>
+  سٹیام بلاکچاان کے سب سے زیادہ جدید (اور سب سے زیادہ غلط فہمیاں) پہلوؤں میں سے ایک "انعامات پول" جو ٹوکن قیمتی مواد کے تخلیق کاران میں تقسیم کی جاتی ہیں ۔ انعامات پول کو سمجھنے کے لئے سب سے پہلے اس بات کو سمجنا ہوگا کہ ٹوکن مختلف ڈی ۔پی۔ او ۔ایس بلاکچینس اور پی ۔او ۔ایس بلاکچین میں پیدا ہوتے ہیں ۔ ار یو آئی ڈی بلوکچین میں ٹوکن باقاعدگی سے مگر بےترتیب ان لوگوں میں تقسیم کیے جاتے ہیں جو مشینوں پر کام کرتے ہیں۔(مینریس)
+</p>
+
+<p>
+  پی اوپی او ڈبلیو سے مختلف کرپٹوکرنسیز ،ٹوکنز سٹیم میں ایک مقررہ رفطار پر پیدہ کیے جاتے ہے جوکہ ایک بلاک پرتی تین سکنٹ کی رفطار سے پیدہ ہوتے ہے۔ یہ ٹوکن بلاکچاان کی قواعد پر مبنی نظام کے مطابق مختلف اداکاروں میں تقسیم کیے جاتے ہے۔ ہہ اداکار، جیسے مواد تخلیق کار، گواہ، اور مہتمم، ٹوکن کے لئے خصوصی طریقے سے ان ٹوکن کے لیے مقابلہ کرتے ہیں. تقسیم کے روایتی PoW کے برعکس،جہاں خام اجزاء خام کمپیوٹنگ پر مقابلہ کرتے ہیں،سٹیم نیٹورک میں اداکاروں کو ان طریقوں سے مقابلہ کرنے کے لئے حوصلہ افزائی کی جاتی ہے جو نیٹورک کی قدر میں اضافہ کرتے ہیں.
+</p>
+
+<p>
+  نئے ٹوکن پیدا ہونے کی رفتار 9.5 فیصد ہر سال ہے اور دسمبر 2016 سے شروع ہو رہی ہے, اور 0.01 فیصد کی شرح پر ہر 250،000 بلاک یا 0.5 فیصد سالانہ کمی ہو سکتی ہے۔ انفلیشن اسی رفطار سے گرتا جایا گا جب تک کہ وہ 0.95 % تک پہنچ جائی گی، لگ بگ 20.5 سال کے وقت میں۔
+</p>
+
+<p>
+  سٹیام بلوککچاان کی طرف سے ہر سال پیدا کیے جانے والے ٹوکن میں سے 75٪ "انعامات پول" کی تشکیل کرتا ہے جس میں مواد تخلیق کاروں اور مواد کی وکیلوں میں تقسیم کیا جاتا ہے. 15 فیصد ٹوکن مقرر کردہ لوگوں اور 10 فیصد گواہوں(وڑنس) ، بلاکچان کے پیدہ کرنے والے جو سٹیم کے اندر ڑی پی او ایس پوٹاکال لوگوں میں تقسیم کیے جاتے ہے۔
+</p>
+
+<h4>
+  انعامات برائے مواد کے تخلیق کاران اور کوریڑرز۔
+</h4>
+
+<p>
+  وہ لوگ جو مواد خود پیدا کرتے ہے وہ نیٹورق کی شان اور ثوقت میں اضافہ کر کے نیےلوگوں کو خیچ لاتے ہے اور پرانے ہوزرس کو بھی ہساتے اور مصروف رکھتے ہے۔ یہ کرنسی کو محتلف صارفین میں تقسیم کرنے میں مدد کرتا ہے اور اس نیٹ ورک کے اثر کو ھی بڑھاتا ہے ۔ جوصارفین آپ کو سمجانے اور وٹ کرنے میں وقت لگاتے ہے وہ کرنسی کو ان صارفین میں برابر تقسیم کرنے میں بہت اچھا کردار ادا کرتے ہے۔ بلاچین ان دونوں سرگرمیوں کو ان کی قیمت سے متعلق اعزاز دیتا ہے جنہوں نے حصہ لینے والے ووٹنگ کے نظام کے ذریعے جمع ہونے والے لوگوں کی مجموعی حکمتی عملی پر مبنی ہے.
+</p>
+
+<h4>
+  Staked-ٹوکن انعامات کے تعین کرنے کے ساتھ ووٹنگ
+</h4>
+
+<p>
+  سٹیام ایک ووٹ ایک سٹیام کی پالیسی پر چل رہا ہے۔ اس ماڈل کے تحت وہ افراد جنہوں نے پلیٹ فارم کو کافی امداد کیا ہو، جس سے ان کے اکونٹ میں جمع رقم سے ناپا جاتا ہے، امداد پر ان کا سب سے زیادہ اثر رہتا ہے. داؤ خریدا یا کمایا جا سکتا ہے۔ ایک سے زادہ اکونٹ رکھنے سے آپ کا سٹیم اٹ پر دباو نہی بن سکتا بلکہ ایک ہی اکونٹ سے بھی آپ بہت کما سکتے ہو ۔ جو آپ دو اکونٹ میں کما سکتے ہو بہتر ہے کہ وہ آپ ایک سےہی کماو۔ یوزرز کو بس ایک ہی ترکہ ہے پلٹےفورم پر اپنا اثر بڑھنے کے لیے وہ ہے پیسے ۔۔
+</p>
+
+<p>
+  مزید سٹیم اپنے ممبران کو ایک مخصوص شڈول کے اندر ووٹ کرنے کی اجازت دیتے ہے جس کے اندر آپ کو 13 ہفتے کے ویسٹنگ شڑیل جس کو سٹیم پویر کیتے ہے ۔ اس ماڈل کے تحت، ممبران کو ووٹ کرنے کے لیے مالی مراعات اس انداز سے دینی ہوتی ہے جو طویل مدت میں سٹیم کی قیمت کو بڈھاتا ہے.
+</p>
+
+<h2>
+  رفتار اور پیمانے پر سٹیام بلوکچاان۔۔
+</h2>
+
+<p>
+  سٹیم بلوککچین کو ایسا اس لیے بنایا گیا ہے تاکہ یہ دنیا کی سب سے تیزترین اور موثر بلاکچین ہو جس میں یہ کابلہت ہو کہ وہ ویبسٹ پر reddit سے زیدہ یوزرز کو برداشت کر سکے۔۔ سٹیم نیے بٹکوین کو لین دین کے معملے میں پیچے چھوٹا ہے اور اس کو ایسا بنایا گیا ہے تاکہ ہہ 10000 لین دین ہر سکنٹ کی رفتار سے کام کرے گا۔
+</p>
+
+<h3>
+  انتدابی کے پیش کردہ ثبوت (ڈی پی او ایس)
+</h3>
+
+<p>
+  اکثر کام کے ثبوت کی طرف سے تنگی<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6<\0> بیت ساری بلاکچین تین سے ذادہ لین دین کا حصاب نہی کر پاتے جو کہ دنیا کی لین دین کے حصاب کا ایک چھوٹا حصہ ہے۔ پی او ڈوبلو کی طرف سے پیش کردہ سٹیم کو اس سے کہیں زیادہ پیمانے اور رفتار کی ضرورت ہےاور اس طرح کم معروف الگورتھم جس کو پیش کردہ اسٹیک کا ثبوت کہتے ہے( ڈ پی او ایس ) «٠»٦«/٠»اربوں صارفین کے لئےایک مناسب بلاچین فاؤنڈیشن قائم کرنے کے لئے لیورج کیا گیا تھا.</p> 
+  
+  <p>
+    ڈی پی او کی وجہ سے، سٹیم بلاکچین کو کم سے کم کمپیوٹنگ کے بوجھ کے ساتھ ہر 3 سیکنڈ ایک نیا بلاک پیدا کرنے میں کامیاب ہوا ہے۔ اس کا مطلب یہ ہے کہ بلاچین زیادہ ٹرانزیکشز عمل میں سکتا ہےاور مواد سمیت، مزید معلومات رکھ سکتا ہے۔
+  </p>
+  
+  <p>
+    جب Hardfork واقع ہوتا ہےتو اس کے لئے قوانین کی وضاحت کرتے ہوئے،ڈی پی او فریمورک کے اندر منتخب گواہ فوری طور پر اور مؤثر طریقے سے فیصلہ لیتے ہے،کہ ایک تجویز کردہ hardfork کے ساتھ آگے بٹنا ہے کہ نہں،جس سے سٹیم بلاکچین پروٹوکول کو دوسروں کے مقابلے میں زیادہ تیزی سے ابورنے کی اجازت دہتی ہے سٹیم بلاچین نے پہلے ہی 18 مرتبہ کامیابی حاصل کی ہے«٠»٨«٠/» اور ہر بار جب بھی hardfork واقع ہوا اس کے بعدصرف ایک ہی چین قایم رہتی تھی۔
+  </p>
+  
+  <h3>
+    چین ڈسک(چین بیس)
+  </h3>
+  
+  <p>
+    چین بیس«٠»٩«٠/» بلاچین اسٹیک کے ڈیٹا بیس کا حصہ ہے اور اس نے 2016 میں گرافین«٠»١٠«٠/» کی جگہ لے لی۔ چین بیس پر تیزی سے اور وقت کے اندر کام ہوتا ہے،ڈیٹا بیس پر متوازی رسائی کی حمایت کرتا ہےاور اس کے مقابلے میں حادثات کے خلاف زیادہ مضبوط ہے ۔ اس میں بہت کم ڈیٹا کراپش واقع ہوتی ہے، پورے ڈیٹا بیس کی حالث کے "سنیپ شونٹگ" کی اجازت دیتا ہے اور اسی یاداشت سے زیادہ RPC درخواستوں کی خدمت کرسکتے ہے۔
+  </p>
+  
+  <h3>
+    ایپ بیس
+  </h3>
+  
+  <p>
+    ایپ بیس ملٹی چین فیبریکشن میں پہلا قدم ہے۔ ایپ بیس غیر اتفاق (non-consesus)) بلاکچین کو ڈیڈی کیڑٹ پیلگ اینز dedicted plugins کو پیدا کر کےسٹیم بلاچین کے بہت سے اجزاء کو قابل بناتا ہے ان پلگاز plugins کو تیزی سے آپڈیٹ update کیا جاسکتا ہے کیونکہ ان کو پوری بلاکچین دوبارہ چلانےreplying کی ضرورت نہیں پڑتی۔ یہ سٹیم ڈی«٠»١١«٠\» کو برقرار اور پیمانےپر رکھنے کے لیے کہیں زیادہ موثر اور آسان بنا دیتا ہے۔
+  </p>
+  
+  <p>
+    عملی طور پر بولے تو، ایپ بیس نے سٹیم بلاچین کے مختلف حصوں کو برقرار رکھنے کے لئے مختلفcores ، یا اس سے مختلف کمپیوٹرز«computers» کو بھی قابل بناتا ہے۔ یہ ہر کور کےمقابلے ضرورت سے کہیں زیادہ موثر ہے، اور نیٹ ورک میں ہر کمپیوٹر پورے بلاکس کو برقرار رکھتا ہے. بلاکچین کو ماڈیولولنگ کر کے یہ ماڈیولر نیچر کمپیوٹرز کا بر پور فائدہ اٹھتا ہے۔ ہہ مرضی کے مطابق ،مکمل طور پر متوازی blockchainکو پیدا کرنے کی طویل عمل میں ایک ضروری قدم ہے۔
+  </p>
+  
+  <h2>
+    سٹیم پلیٹ فارم کے خصوصیات
+  </h2>
+  
+  <p>
+    سٹیم بلاچائن ایک دوہرا مقصد فراہم کرتا ہے ڈیجیٹل ٹوکن پروسیسنگ سسٹم ہونے کا،اور مینسٹریم سماجی میڑا پلاٹفرامmainstream social media platformکا۔ بلاکچین کی طرف سے پیش کی جانے والی خصوصیات کو دونوں مقاصد کی حمایت کرنے کی ضرورت ہے، اور پلیٹفارم کے دونوں پہلوؤں کو استعمال کرتے وقت صارفین کو ایک عالمی طبقے کا تجربہ فراہم کرتا ہے۔
+  </p>
+  
+  <h3>
+    مواد بنانے کے لیے بینادی نقشے۔
+  </h3>
+  
+  <p>
+    سٹیم صارفین کوشائع ہونے اور مختلف قسم کے مواد کو براہراست اور مستقل طور پر بلاکس کے ناقابل اعتماد لیجر میں سادہ الفاظ میں جمع کرنے کی منفرد صلاحیت فراہم کرتا ہے۔ بلاکچین میں جمع ہونے کے بعد، ڈیٹا ڑیوپریس کے لیے عوامی طور پراستعمال کرنے کے لیے دستیاب رہتا ہے۔ ڈویلپرز آسانی سے دستیاب APIs کے استعمال سے بلاکچین میں موجود مواد سے بات چیت کر سکتے ہے۔ کہی ڈویلپرز بلوککچیں میں اکاؤنٹ نام،مراسلات،تبصرے، ووٹس اور اکاؤنٹس بیلنس ثامل کرتے ہے۔
+  </p>
+  
+  <h3>
+    مقامی نام کا نظام
+  </h3>
+  
+  <p>
+    والٹ پتے جو بہت سے بلاکچین ٹیکنالوجی استعمال کرتے ہے جیسے کہ بکٹکون اور ایتیر،تاریخی طور پر بے ترتیب خطوط اور نمبروں کی طویل تاروں پر مشتمل ہے،حلاکہ،یہ والیٹ پتوں کو دوسرے صارفین کے ساتھ کسی دوسرے آن لاین سوشل میڈا میں ٹرانسمیشن کرنا مشکل ہوسکتا ہے کیونکہ صارفین میموری سے طویل عرصے سے سارے پتوں کو یاد نہیں کرسکتے ہیں. سٹیم بلاچین ہر امیدوار کی صارف سےاس کا نام استعمال کرتا ہے جو ان کے بٹوے ایڈریس کے طور پرہوتا ہے، اورجو صارفین ٹوکن بھیجنے کی کوشش کرتے ہیں، ان کی اپنی یادداشت سے تصدیق کر سکتی ہیں.
+  </p>
+  
+  <h3>
+    سٹیم بلاچین ڈالرز (ایس بی ڈی)
+  </h3>
+  
+  <p>
+    بہت سے صارفین کو جو کرپٹو کرنسی سے واقف ہے کو سمجھنے میں جدوجہد کا سمنا کرنا پڑتا ہے کہ کس طرح محفوظ "جادو انٹرنیٹ ٹوکن" حقیقی دنیا میں قیمتی ہوسکتا ہے. زیادہ روایتی فایٹ پیسے کے نظام کے درمیان فرق کو ملانے میں مدد کے لئےمرکزی دھارے کے صارفین کو استعمال کیا جاتا ہے،اور cryptocurrency ٹکنز جو انہیں پلیٹ فارم کے ذریعہ نوازا جاتا ہے،اسی کے لایے سٹیم بلاکچین ڈائرکٹری (SBD) نامی نئی کرنسی پیدا کی گئی تھی۔
+  </p>
+  
+  <p>
+    ایس بی ڈی ٹکنز کو ایک امریکی ڈالر سے قریب سے ملنے کے لئے ڈیزائن کیا گیا ہے تاکہ وہ صارفین جو ان کو حاصل کرتے ہیں اس کے بارے میں جان سکتے ہیں کہ وہ "اصلی ڈالر" کے شرائط میں کتنا قابل قدر ہیں. ایس بی ڈی ٹکونز صارفین کے لئے نسبتا مستحکم کرنسی بھی پیش کرتے ہیں اگر وہ امریکی ڈالر سے متعلق ان کے اکونٹ کی قیمت کو برقرار رکھنے کے خواہاں ہو. مزید تفصیلی تکنیکی وضاحت سٹیم تکنیکی whitepaper میں پایا جا سکتا ہے۔«٠»١٢«٠\»
+  </p>
+  
+  <h3>
+    مہذب ایکسچینج
+  </h3>
+  
+  <p>
+    سٹیم بلاکچین بٹشار ایکسچینج کی طرح ایک مہذب ٹوکن ایکسچینج پیش کرتا ہے.«٠»١٣«٠\» ایکسچینج صارفین کو عام طور پر مہذب پیر ٹو پیر مارکیٹ کے ذریعہ اپنے STEEM اور SBD ٹوکن تجارت کرنے کی اجازت دیتا ہے. صارفین خریدنے اور احکامات فروخت اور حکم کے ملاپ کو خود کار طریقے سے بلاکچین کی طرف سے کارکردگی کا مظاہرہ کیا جاتا ہے. عام طور پر قابلرسائی آرڈر کتاب اور آرڈر کی تاریخ بھی ہے جس میں صارفین مارکیٹنگ کا تجزیہ کرنے کے لئے استعمال کرسکتے ہے۔ صارفین blockchain API کا استعمال کرکےتبادلے کے ساتھ براہ راست ہو سکتے ہے، یا GUI کا استعمال کرتے کرنےسے رابطہ کرسکتے ہیں جیسے کہ سٹیمایٹ بلاکچین پر۔«٠»١٤«٠\»
+  </p>
+  
+  <h3>
+    یسکو کے ذریعے ادائیگی
+  </h3>
+  
+  <p>
+    بلاچین ٹرانزیکشن کی ناقابل قبول فطرت ایک اہم سیکورٹی خصوصیت ہے، اگرچہ بہت سے ایسے معاملات ہیں جہاں صارفین دوسرے افراد کو اپنے ٹوکن بھیجنے میں آرام دہ اور پرسکون نہیں ہوتے ہےکیونکہ اگر کوئی دوسرے صارف کو معاہدے کے اختتام تک نہیں رکھے تو انہیں واپس لینے کا کوئی طریقہ نہیں ہے۔ سٹیم بلاچین صارفین کوایک دوسرے کو یسکو سروس کے طور پر نامزد تیسرے فریق کے ساتھ سککوں کو بھیجنے کا ایک طریقہ فراہم کرتا ہے. یسکو سروس کے طور پر کام کرنے والا صارف اس بات کا تعین کرنے میں کامیاب ہو جاتا ہے کہ معاہدے کی شرائط موصول ہوئی ہے، اور یا تو اس کوجاری کرنے کے لئے فنڈز وصول کرنے کی یا بھیجنے والے کو وپس کرنے کی اجازت دیتا ہے۔
+  </p>
+  
+  <h3>
+    حیارایرکیل نجی کنجی کی بناوٹ
+  </h3>
+  
+  <p>
+    کم سیکورٹی اور اعلی سیکیورٹی لین دین کو سہولت دینے کے لئے اپنی نوعیت کاحیارایرکیل نجی کنجی نظام کا پہلا کام کرتا ہیں۔ کم سیکورٹی ٹرانسمیشن سماجی ہوتے ہیں، جیسے اشاعت یا تبصرہ۔ ہائی سیکورٹی ٹرانزیکشنز کو منتقلی اور اہم تبدیلیاں ہوتی ہیں. یہ صارفین کو اپنی چابیاں کے لۓ سیکورٹی کے مختلف سطحوں کو لاگو کرنے کی اجازت دیتا ہے۔
+  </p>
+  
+  <p>
+    یہ نجی چابیاں پوسٹنگ، ایکٹو اور مالک کی چابیاں ہیں. پوسٽنگ کی اکاؤنٹس کو پوشٹ، تبصرہ، ترمیم، ووٹ،ریسٹم کرنے کی اجازت دیتا ہے،اور دیگر اکاؤنٹس کو پیروی/ گونگا کرنے کی۔ آکوٹ کی زیادہ حساس کاموں کے لئےاستعمال ہوتی ہے جیسے فنڈز کی منتقلی،پاور اپ/دوں ،ٹرانزیکشنز, سٹیم ڈالرز کو برنے, ووٹنگ گواہ، مارکیٹ آرڈرزرکھنا، اور پوسٹنگ کی کلید دوبارہ ترتیب دینا۔ اونر کی صرف ظرورت پڑنے پر ہی استعمال کرے۔ یہ سب سے زیادہ طاقتور کی ہے کیونکہ یہ اکؤنٹ کی کسی بھی کی کو تبدیل کر سکتا ہے، اونر کی کو بھی، اور اکاؤنٹس کی وصولی کے دوران ملکیت ثابت کرنے کے وقت. مثالی طور پر اس کو آف لائن ذخیرہ میں رکھنا ہوتا ہے، اور صرف اس وقت استعمال ہوتا ہے جب اکاؤنٹس کی کیز تبدیل کرنی ہوگی یا سمجھوتہ اکاؤنٹ کو بحال کرنے کی ضرورت ہو.
+  </p>
+  
+  <p>
+    سٹیم ماسٹر پاسوٹ کے استعمال کی سہولیات دیتا ہے جس سے پھر تمام تین چابیاں خفیہ رہتی ہے. ویب سائٹس ایک ماسٹر پاسورڈ کا استعمال کرسکتے ہے جوضروری نجی کی کے ساتھ ردعمل اور ضابطہ اخلاق کرتے ہے۔ ماسٹر پاسواڑز صارفین کو بعض خدمات پر کسی بھی خدمت میں منتقل کرنے سے غیر مناسب چابیاں رکھنے کے لئے پر اعتماد کرنے کی اجازت دیتا ہے،اس طرح صارف کے تجربے کو برقرار رکھنے کےلیے ایک محفوظ کلائنٹ سلائڈ سائنگ ماحول کے پیدا کرتا ہے .
+  </p>
+  
+  <h3>
+    ملٹی سین حکامات
+  </h3>
+  
+  <p>
+    سٹیم بلاچین کو ایک سے زیادہ اداروں میں تقسیم کرنے کی اجازت دیتا ہے،تاکہ بہت سے صارفین کو اسی اختیار حاصل ہو یا ایک سے زیادہ اداروں کو یہ لازمی طور پر ایک ٹرانزیکشن کو اختیار کرنے کی ضرورت ہوتی ہے اس کو درست کنفرم کرنے کے لیے۔ یہ بیڑسیرز کے طریقے پر کیا جاتا ہے«٠»١٦«٠/»جہاں ہر عوامی / نجی کی جوڑی ایک وزن تفویض کی جاتی ہے، اور ایک حد اقتدار اختیار کی جاتی ہے۔ ایک ٹرانزیکشن کے لئے درست ہونے کے لۓ، کافی اداروں کو لازمی طور پر ساین این کرنا ضروری ہے تاکہ ان کی وزن کی مقدار حد سے زیادہ ہو یا اس سے زیادہ ہو۔
+  </p>
+  
+  <h3>
+    ایک سے زیادہ انعام حاصل کرنے والے حقدار۔
+  </h3>
+  
+  <p>
+    کسی بھی پوسٹ کے لئے وہاں مختلف فراد ہوسکتے ہے جو انعام میں مالیاتی دلچسپی رکھتے ہے اس میں مصنف، ممکنہ مصنفین، حوالہ جات، میزبان فراہم کرنے والے، بلاگز شامل ہے جن میں بلاکس کے تبصرے، اور ڈیولپرڑ کے لیے آوزوار شامل ہے۔ کسی بھی پوسٹ یا تبصرہ کی تعمیر کے لئے جو بھی ویب سائٹ یا آوازر کا استعمال کیا جاتا ہے اسے اس بات کا تعین کرنے کی صلاحیت ہوگی کہ اس سے مختلف جماعتوں میں کیسے تقسیم کیا جاسکتا ہے. یہ مختلف تعاون کے لئے اجازت دیتا ہے، اور اس کے ساتھ ساتھ پلیٹ فارموں کا ایک طریقہ ہے جو سٹیم بلاچین کے سب سے اوپر اپنے صارفین سے انعامات کا ایک حصہ جمع کرنے کے لئے بنایا گیا ہے.
+  </p>
+  
+  <h3>
+    سمیٹ میڈیا ٹوکنز (ایس ایم ٹی)
+  </h3>
+  
+  <p>
+    سمیٹ میڈیا ٹوکنیں اصل ٹکنز ہے جو سٹیم بلاکچین پر تعمیر کی جا سکتی ہے۔ سٹیم سب سے پہلا ایس ایم ٹی موجود ہے، اور سمیٹ میڈیا ٹوکن پروٹوکال کا مقصد مواد کی ویب سائٹوں اور ایپکلشنز کوویب پر منیٹائز کرنا ہےلوگوں کو ٹوکن پیدا کرنے کی اجازت دیتا ہے جو STEEM سے ملنے والی خصوصیات رکھتے ہو،لیکن کسی بھی ویب سائٹ یا ایپلیکیشنز کے ذریعہ کسی بھی آن لائن کمیونٹی کے نقطۂ نظر کو پورا کرنے کے لئے حسب ضرورت ، بنیادی طور پر STEEM کے حصوصات نقل کی ہو۔ مزید تفصیلی تکنیکی وضاحت سمیٹ میڈا whitepaper میں پایے جا سکتے ہے۔«٠»١٢«٠\»
+  </p>
+  
+  <h3>
+    چوری کیے ہوے اکاؤنٹ کی وصولی
+  </h3>
+  
+  <p>
+    اگر صارف کا اکاؤنٹ کےساتھ سمجھوتہ ہوا ہے تو، وہ اپنی ذاتی چابی کو استعمال کرکے اپنی چابیاں تبدیل کرسکتا ہے۔ اس واقعے میں حملہ آور نجی اونر کی کو اور اکاؤنٹ پر پاسویڈ تبدیل کرنے میں کامیاب ہوتا ہے تو صارف کے پاس 30 دن ہے کہ وہ سٹیم کی صنعت کے ذریعہ پہلے پرانی نجی کی جمع کروائیں اور چوری والے اکاؤنٹ کی وصولی کے عمل کے ذریعے، اپنے اکاؤنٹ پر کنٹرول حاصل کریں۔ یہ سٹیم کو رجسٹریشن خدمات فراہم کرتا ہے جو کسی شخص یا کمپنی کی طرف سے کی پیشکش کی جا سکتا ہے۔ یہ رجسٹرار کے لیے ظروری نہیں ہے کہ وہ صارفین کے لیے سروس فراہم کریے، لیکن یہ ایک رجسٹرار کے صارفین کے تجربے کی قدر میں اضافہ کرتا ہے۔
+  </p>
+  
+  <h3>
+    وقتی تالے کے ذریعہ سیکورٹی
+  </h3>
+  
+  <p>
+    اگر کسی صارف کے ایکٹو یا اونر کے ساتھ سمجھوتا ہوا ہو تو، حملہ آور اس اکاؤنٹ میں تمام فنڈز کی مکمل رسائی حاصل کرے گا۔ کیونکہ بلاچین ٹرانزیکشن نابدانے والی ہے، صارفین کو ان کے فنڈز کو چوری کرنے کے بعد واپس لینے کا کوئی طریقہ نہیں ہے.
+  </p>
+  
+  <p>
+    سٹیم بلاچین صارفین کو بچت اکاؤنٹ میں سے اپنے STEEM اور SBD ٹوکن کو ذخیرہ کرنے کی اجازت بھی دیتا ہے، اسی واجہ سے فنڈز کو تین دن کے انتظار کی مدت کے بعد ہی واپس لیا جا سکے. اس کے علاوہ،،سٹیم جو 13 ہفتوں کی بنیان شیڈول میں منعقد ہوتا ہے وہ صرف ہر ہفتے کے ابتدائی انتظار کے بعد، ہر ہفتے 1/13 کی شرح میں لیا جا سکتا ہے. یہ وقتی تالے ایک حملہ آور کو صارف کے فینڈو کے مکمل حصے تک رسائی حاصل کرنے سے روکتا ہے، تاکہ حقدار مالک کو اپنے اکاؤنٹ پہ کنڈول حاصل کرنے کا وقت ملے اس سے پہلے کہ ان کے تمام فنڈز حملہ آور لے جایے۔
+  </p>
+  
+  <h3>
+    مفت آپریشنز کے لئے بینڈوڈتھ کی شرح محدود
+  </h3>
+  
+  <p>
+    کیونکہ گواہوں کو مکمل طور پر نیے زمانے کےٹوکن کے ذریعے ادا کیا جاتا ہے، بلاکسین کو طاقت دینے کے لئے صارف کو چارج کرنے کی کوئی ضرورت نہیں ہے۔ فیس چارج کرنے کا صرف یہی وجہ ہے کہ صارفین کو ٹرانزیکشن کی غیر مناسب رقم،جو ممکنہ طور پر بلاچین کی کارکردگی پر اثر انداز ہوسکتے ہے.
+  </p>
+  
+  <p>
+    نظام کے استعمال پر مناسب حدود رکھنے کے لئے، ہر صارف کو ایک محدود بینڈوڈتھ دیا جاتا ہے جب بھی صارفین بلاک چین آپریشنز جیسے ٹوکن ٹرانسفرز،مواد کی پوسٹنگ اور ووٹنگ کرتے ہے تو یہ ان کے بینڈوڈتھ کا ایک حصہ استعمال کرتا ہے. اگر صارفین ان کے بینڈوڈتھ کامقررہ بونس ختم کرتے ہے، تو ان کو بینڈوڈتھ ریچارج تک اضافی اقدامات انجام دینے کا انتظار کرنا ہوگا.
+  </p>
+  
+  <p>
+    بینڈوڈتھ حدود نیٹورک کے استعمال پر مبنی کرتا ہے، لہذا جب نیٹورک کا استعمال کم ہو اس وقت صارفین کو اعلی بینڈ وڈتھ فراہم ہوتی ہے. بینڈوڈتھ کی رقم اکاؤنٹ کو صارف کے سٹیم پاور کی مقدار سے براہ راست تناسب ہوتی ہے,لہذا صارف ہمیشہ اضافی سٹیم پاور حاصل کرکے اپنی بینڈوڈتھ کے بونس میں اضافہ کرسکتے ہیں.
+  </p>
+  
+  <h2>
+    نتیجہ
+  </h2>
+  
+  <p>
+    سٹیم بلاچین اور ٹوکن کی طرف سے پیش کردہ انعامات اور حوصلہ افزائی کا پروگرام سٹیم کو ریمپ پر پر چلنے والی کریپٹوکرانسی کی دینا میں مرکزی دھارے کے صارفین کے لئے ڈیزائن کیا گیا ہے. بلاکچین کی کارکردیگی کو بڑے پیمانےپر کرنسی اور پلیٹ فارم کو ذہن میں رکھ کے ڈیزن کیا گیا ہے۔ جب بجلی کی تیز رفتار پروسیسنگ اور فیس کے بنا ٹرانزیکشنز کے ساتھ مل کر، سٹیم دنیا بھر میں لوگوں کی طرف سے استعمال ہونے والی ایک اہم blockchain ٹیکنالوجی کی حیثیت رکھتا ہے.
+  </p>
+  
+  <footnotes>
+    <fn name="1">
+      <p>
+        Delegated Proof of Stake Position Paper. Grigg, 2017. https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem
+      </p>
+    </fn>
+    
+    <fn name="2">
+      <p>
+        To differentiate it from the term for its blockchain, the correct spelling of Steem’s native digital token is STEEM.
+      </p>
+    </fn>
+    
+    <fn name="3">
+      <p>
+        Transaction Volumes: Transactions Per Second Report. Steem Witness and user “@roadscape”. https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening
+      </p>
+    </fn>
+    
+    <fn name="4">
+      <p>
+        Proof-of-Work. Wikipedia. https://en.wikipedia.org/wiki/Proof-of-work\_system
+      </p>
+    </fn>
+    
+    <fn name="5">
+      <p>
+        Stolen Account Recovery initiation for Steemit.com users: 07-13-2017 https://steemit.com/recover\_account\_step\_1
+      </p>
+    </fn>
+    
+    <fn name="6">
+      <p>
+        Bitcoin Scalability Problem https://en.wikipedia.org/wiki/Bitcoin\_scalability\_problem
+      </p>
+    </fn>
+    
+    <fn name="7">
+      <p>
+        DPoS Whitepaper https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper
+      </p>
+    </fn>
+    
+    <fn name="8">
+      <p>
+        https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity
+      </p>
+    </fn>
+    
+    <fn name="9">
+      <p>
+        ChainBase Release https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release
+      </p>
+    </fn>
+    
+    <fn name="10">
+      <p>
+        Graphene Documentation http://docs.bitshares.org/
+      </p>
+    </fn>
+    
+    <fn name="11">
+      <p>
+        The component of the Steem blockchain framework responsible for processing transactions and the distribution of rewards.
+      </p>
+    </fn>
+    
+    <fn name="12">
+      <p>
+        Steem Whitepaper https://steem.io/SteemWhitePaper.pdf
+      </p>
+    </fn>
+    
+    <fn name="13">
+      <p>
+        Bitshares Decentralized Exchange http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      </p>
+    </fn>
+    
+    <fn name="14">
+      <p>
+        Steemit.com Currency Market https://steemit.com/market
+      </p>
+    </fn>
+    
+    <fn name="15">
+      <p>
+        “Resteem” is the term used in the Steem blockchain for when a user shares the content with their followers.
+      </p>
+    </fn>
+    
+    <fn name="16">
+      <p>
+        Bitshares Flexible Identity Management http://docs.bitshares.org/\_downloads/bitshares-general.pdf
+      </p>
+    </fn>
+    
+    <fn name="17">
+      <p>
+        Smart Media Tokens Whitepaper https://smt.steem.io/smt-whitepaper.pdf
+      </p>
+    </fn>
+  </footnotes>

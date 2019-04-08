@@ -114,7 +114,7 @@ Steem blockchain omogućuje korisnicima da svoje STEEM i SBD tokene čuvaju u vi
 
 ### Ograničavanje propusne moći mreže, za operacije bez nadoknade
 
-Budući da su potvrdioci transakcija u potpunosti plaćeni stvaranjem novih tokena, ne postoji potreba da korisnici plaćaju obradu transakcija i na naj način pokrivaju troškove rada blockchain-a. Jedini razlog za naplatu troškova obrade bi moglo biti odvraćanje korisnika od toga da izdaju zahteve za nerezonski velik broj transakcija, čime bi mogli da ugroze performanse blockchain-a.
+Budući da su potvrdioci transakcija u potpunosti plaćeni stvaranjem novih tokena, ne postoji potreba da korisnici plaćaju obradu transakcija i na taj način pokrivaju troškove rada blockchain-a. Jedini razlog za naplatu troškova obrade bi moglo biti odvraćanje korisnika od toga da izdaju zahteve za nerezonski velik broj transakcija, čime bi mogli da ugroze performanse blockchain-a.
 
 Kako bi se definisala razumna ograničenja za upotrebu sistema, svaki korisnik je limitiran propusnim opsegom mreže (eng. bandwidth). Svaki put kada korisnici izvode operacije na blockchain-u, u koje spadaju transferi tokena, objavljivanje sadržaja i glasanje, oni koriste deo propusne moći mreže koji im pripada. Ako korisnik ipak prekorači dopušteno ograničenje, mora da sačeka da se dodeljena propusna moć obnovi pre nego što nastavi sa svojim aktivnostima.
 
